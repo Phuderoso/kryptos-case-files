@@ -1,0 +1,19 @@
+Cycle 24 audit of cycle 13's periodic_perm.c (frame check, prompted by kryptosbot's Aug 2026 'wrong frame' correction)
+Alphabets: AZ, KA (alpha2.bin); transpositions: cycle-19 family on 97 letters (165,064 incl. identity).
+-- planted control: KA Quagmire III key CLOCK, key indexed by carved index (transpose then substitute), true t=67897
+carved: HLOJSIUCOSSSEKHYYCWNJVGHDDSEVWQMFXLHYVDTYLJUWEBNNESUJGIQSFQHDOXJHGHJQEMWJNAQMSKTJFQJEQVBDSGWWRCJR
+HIT t=67897 a=1 pair=QIII vig idx=carved p=5 key=JRFJA
+HIT t=67897 a=1 pair=QIII vig idx=carved p=10 key=JRFJAJRFJA
+HIT t=67897 a=1 pair=QIII vig idx=carved p=15 key=JRFJA??FJAJR???
+HIST 1:0 2:0 3:0 4:0 5:24 6:0 7:0 8:0 9:0 10:24 11:0 12:0 13:0 14:0 15:60 16:0
+-- planted control: KA Quagmire III key CLOCK, key indexed by plaintext index (substitute then transpose), true t=67897
+carved: HCCFWIUTVSHXEBNYQGNNJDLVRMXIGSESFQLVQLDGYCQLHEBHDEHGJUQQXJJHDNYXOUSQEQCEJIAYDRKGJTXFYQVPRSUIWCHJN
+HIT t=67897 a=1 pair=QIII vig idx=pt p=5 key=JRFJA
+HIT t=67897 a=1 pair=QIII vig idx=pt p=10 key=JRFJAJRFJA
+HIT t=67897 a=1 pair=QIII vig idx=pt p=15 key=JRFJAJRFJAJRFJA
+HIST 1:0 2:0 3:0 4:0 5:24 6:0 7:0 8:0 9:0 10:24 11:0 12:0 13:0 14:0 15:24 16:0
+-- K4, cycle-13 tool (periodic_perm.c, M=2, PMAX=26):
+HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:11 23:190 24:739 25:3664 26:54758
+-- K4, cycle-24 independent tool (anomaly_periodic.c, model none):
+HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:11 23:190 24:739 25:3664 26:54758
+VERDICT: identical histograms; both frames recover the planted key at the true transposition. Cycle 13's periodic test is in the right frame (PASS).
