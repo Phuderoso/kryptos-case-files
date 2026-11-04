@@ -1,0 +1,8 @@
+K4 ct AZ vig 7
+K4 ct AZ beau 7
+K4 ct KA vig 7
+K4 ct KA beau 7
+K4 ct AZ vig 8
+K4 ct AZ beau 8
+K4 ct KA vig 8
+K4 ct KA beau 8
