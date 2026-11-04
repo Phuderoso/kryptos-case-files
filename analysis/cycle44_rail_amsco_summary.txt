@@ -1,0 +1,41 @@
+== family A ==
+rA_ctl61.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-4.331 | L<=13 consistent=2 byL={5: 1, 10: 1} best_qg=-4.331 | PARTIAL_BY_L 14:0 15:1 16:0 17:0 18:0 19:0 20:6 21:32 22:192 23:207 24:5579 25:7343 26:1683867
+   control truth L=5 s=11 perm=259253: recovered=True rank1_is_truth=True
+rA_ctl62.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-4.328 | L<=13 consistent=1 byL={8: 1} best_qg=-4.328 | PARTIAL_BY_L 14:0 15:0 16:1 17:0 18:0 19:0 20:2 21:21 22:202 23:190 24:5667 25:8060 26:1685472
+   control truth L=8 s=10 perm=301603: recovered=True rank1_is_truth=True
+rA_ctl63.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-4.019 | L<=13 consistent=24 byL={8: 24} best_qg=-4.019 | PARTIAL_BY_L 14:0 15:0 16:24 17:0 18:0 19:0 20:0 21:23 22:199 23:247 24:5983 25:7448 26:1704641
+   control truth L=8 s=22 perm=233381: recovered=True rank1_is_truth=False
+rA_ctl64.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-4.101 | L<=13 consistent=3 byL={4: 1, 8: 1, 12: 1} best_qg=-4.101 | PARTIAL_BY_L 14:0 15:0 16:1 17:0 18:0 19:0 20:2 21:8 22:230 23:199 24:5538 25:7021 26:1656564
+   control truth L=4 s=9 perm=249644: recovered=True rank1_is_truth=True
+rA_ctl65.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-4.121 | L<=13 consistent=24 byL={8: 24} best_qg=-4.121 | PARTIAL_BY_L 14:0 15:0 16:24 17:0 18:0 19:0 20:0 21:4 22:329 23:146 24:5891 25:7614 26:1648411
+   control truth L=8 s=15 perm=217445: recovered=True rank1_is_truth=False
+rA_ctl66.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-4.295 | L<=13 consistent=1 byL={13: 1} best_qg=-4.295 | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:9 22:195 23:282 24:5628 25:7892 26:1685012
+   control truth L=13 s=15 perm=37124: recovered=True rank1_is_truth=True
+rA_k4.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:10 22:308 23:126 24:5633 25:7636 26:1655906
+rA_null1.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:4 21:20 22:210 23:217 24:5624 25:7548 26:1657509
+rA_null10.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:4 22:200 23:207 24:5628 25:7502 26:1677551
+rA_null2.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:224 23:165 24:5669 25:8191 26:1650552
+rA_null3.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:4 21:4 22:146 23:212 24:5760 25:6985 26:1662295
+rA_null4.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:3 22:302 23:211 24:5671 25:7314 26:1700398
+rA_null5.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:8 22:172 23:188 24:5628 25:6786 26:1635700
+rA_null6.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:3 22:248 23:190 24:5581 25:7190 26:1639699
+rA_null7.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:15 22:203 23:219 24:5647 25:7398 26:1631022
+rA_null8.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:4 21:55 22:205 23:206 24:5665 25:9034 26:1669449
+rA_null9.txt: SUMMARY perms=422433 tests=2284517664 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:3 22:200 23:249 24:5574 25:7337 26:1739985
+== family B ==
+rB_ctl71.txt: SUMMARY perms=4000 tests=21632000 best_qg=-4.145 | L<=13 consistent=4 byL={13: 4} best_qg=-4.145 | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:495 25:24 26:15257
+   control truth L=13 s=7 perm=678959: recovered=True rank1_is_truth=True
+rB_ctl72.txt: SUMMARY perms=4000 tests=21632000 best_qg=-4.295 | L<=13 consistent=2 byL={5: 1, 10: 1} best_qg=-4.295 | PARTIAL_BY_L 14:0 15:1 16:0 17:0 18:0 19:0 20:1 21:0 22:0 23:0 24:58 25:21 26:15474
+   control truth L=5 s=24 perm=153986: recovered=True rank1_is_truth=True
+rB_ctl73.txt: SUMMARY perms=4000 tests=21632000 best_qg=-4.236 | L<=13 consistent=6 byL={8: 2, 12: 4} best_qg=-4.236 | PARTIAL_BY_L 14:0 15:0 16:2 17:0 18:0 19:0 20:8 21:0 22:0 23:0 24:643 25:6 26:14892
+   control truth L=8 s=10 perm=586815: recovered=True rank1_is_truth=True
+rB_k4.txt: SUMMARY perms=1451521 tests=7849825568 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:256 22:28 23:185 24:221845 25:9313 26:5550411
+rB_null1.txt: SUMMARY perms=1451521 tests=7849825568 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:287 22:14 23:90 24:224133 25:6377 26:5563851
+rB_null2.txt: SUMMARY perms=1451521 tests=7849825568 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:312 22:68 23:180 24:218995 25:11810 26:5547226
+rB_null3.txt: SUMMARY perms=1451521 tests=7849825568 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:12 20:1 21:144 22:36 23:118 24:223290 25:10538 26:5875619
+rB_null4.txt: SUMMARY perms=1451521 tests=7849825568 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:192 22:22 23:80 24:223437 25:11419 26:5599401
+rB_null5.txt: SUMMARY perms=1451521 tests=7849825568 best_qg=-99.000 | L<=13 consistent=0 byL={} best_qg=None | PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:32 22:74 23:85 24:218409 25:10703 26:5644580
+
+s=0 periodic planted controls (KA Vigenere, key ABSCISSA, model A), perms 0-5999:
+rail r=6 o=4/dec (perm 50): single consistent config = truth, key ABSCISSA, qg -4.145
+rail r=40 o=17/dec (perm 3000): single consistent config = truth, key ABSCISSA, qg -4.343
