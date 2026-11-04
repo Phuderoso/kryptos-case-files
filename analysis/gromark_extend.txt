@@ -1,0 +1,22 @@
+base  5 primer 4:      625 primers; feasible any-alphabets 0; with plain A-Z 0; e.g. []
+base  5 primer 5:    3,125 primers; feasible any-alphabets 0; with plain A-Z 0; e.g. []
+base  5 primer 6:   15,625 primers; feasible any-alphabets 0; with plain A-Z 0; e.g. []
+base  6 primer 4:    1,296 primers; feasible any-alphabets 0; with plain A-Z 0; e.g. []
+base  6 primer 5:    7,776 primers; feasible any-alphabets 0; with plain A-Z 0; e.g. []
+base  6 primer 6:   46,656 primers; feasible any-alphabets 6; with plain A-Z 0; e.g. ['035513', '121013', '155133']
+base  7 primer 4:    2,401 primers; feasible any-alphabets 0; with plain A-Z 0; e.g. []
+base  7 primer 5:   16,807 primers; feasible any-alphabets 1; with plain A-Z 0; e.g. ['34120']
+base  7 primer 6:  117,649 primers; feasible any-alphabets 33; with plain A-Z 0; e.g. ['010652', '014412', '020534']
+base  8 primer 4:    4,096 primers; feasible any-alphabets 4; with plain A-Z 0; e.g. ['3327', '3727', '5161']
+base  8 primer 5:   32,768 primers; feasible any-alphabets 4; with plain A-Z 0; e.g. ['00351', '00537', '40311']
+base  8 primer 6:  262,144 primers; feasible any-alphabets 71; with plain A-Z 0; e.g. ['003201', '007205', '031335']
+base  9 primer 4:    6,561 primers; feasible any-alphabets 2; with plain A-Z 0; e.g. ['2787', '4575']
+base  9 primer 5:   59,049 primers; feasible any-alphabets 23; with plain A-Z 0; e.g. ['00018', '00027', '00054']
+base  9 primer 6:  531,441 primers; feasible any-alphabets 219; with plain A-Z 0; e.g. ['001045', '002081', '003207']
+base 10 primer 4:   10,000 primers; feasible any-alphabets 3; with plain A-Z 0; e.g. ['3301', '6740', '9903']
+base 10 primer 5:  100,000 primers; feasible any-alphabets 39; with plain A-Z 0; e.g. ['10319', '12042', '16795']
+base 10 primer 6: 1,000,000 primers; feasible any-alphabets 412; with plain A-Z 0; e.g. ['011527', '014538', '015935']
+
+real	0m22.496s
+user	0m22.771s
+sys	0m0.272s

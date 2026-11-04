@@ -1,0 +1,5 @@
+alphabets 66,081 (each used as plain and as cipher) x primers 39: pairs checked 170,301,243,879; hits 0
+
+real	0m5.714s
+user	0m6.298s
+sys	0m0.104s
