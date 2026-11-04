@@ -1,0 +1,1 @@
+[B] rotation perms 4512; tests 216576; survivors with >=6 constraints: 0
