@@ -1,0 +1,11 @@
+control seed=1 model=B tab=KA mode=beau L=3 perm=35222: RECOVERED; hits=24; consistent-by-checks: 0:68217534 1:553631 2:17511 3:679 4:29 5:6 21:24
+control seed=2 model=A tab=KA mode=vig L=12 perm=14824: RECOVERED; hits=1; consistent-by-checks: 0:68217534 1:536506 2:14201 3:363 4:12 12:1
+control seed=3 model=B tab=KA mode=beau L=30 perm=62380: RECOVERED; hits=474; consistent-by-checks: 0:68217534 1:533636 2:14754 3:526 4:12 5:4 9:414 10:60
+control seed=4 model=A tab=AZ mode=vig L=45 perm=61878: RECOVERED; hits=1; consistent-by-checks: 0:68217534 1:540232 2:14984 3:428 4:67 5:1 8:1
+control seed=5 model=B tab=AZ mode=var L=20 perm=163289: RECOVERED; hits=1; consistent-by-checks: 0:68217534 1:554396 2:22232 3:360 4:11 5:1 9:1
+control seed=6 model=A tab=KA mode=beau L=52 perm=150423: MISSED; hits=0; consistent-by-checks: 0:68217534 1:545262 2:17590 3:556 4:24 5:2
+null shuffle seed=1: tests=190154880 hits(checks>=6)=0 | consistent-by-checks: 0:68217534 1:549539 2:12623 3:440 4:8
+null shuffle seed=2: tests=190154880 hits(checks>=6)=0 | consistent-by-checks: 0:68217534 1:587654 2:20753 3:477 4:11
+null shuffle seed=3: tests=190154880 hits(checks>=6)=0 | consistent-by-checks: 0:68217534 1:588287 2:17939 3:522 4:12
+null shuffle seed=4: tests=190154880 hits(checks>=6)=0 | consistent-by-checks: 0:68217534 1:609224 2:19329 3:518 4:11
+null shuffle seed=5: tests=190154880 hits(checks>=6)=0 | consistent-by-checks: 0:68217534 1:599692 2:16993 3:592 4:23 5:1
