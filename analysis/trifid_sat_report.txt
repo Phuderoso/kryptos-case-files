@@ -1,0 +1,12 @@
+census: K4 distinct letters = 26 -> every cipher whose output alphabet is a 25-cell 5x5 square (Playfair, Bifid, two-/four-square, Polybius letters) is impossible as K4's last layer
+self-encryptions under cribs: [(32, 'S'), (73, 'K')] -> Playfair (never self-encrypts) also impossible on these alignments
+K4: consistent periods enc-orient 0/97 []; dec-orient 0/97 []
+shuffled-K4 null 0: consistent periods enc-orient 0/97 []; dec-orient 0/97 []
+shuffled-K4 null 1: consistent periods enc-orient 0/97 []; dec-orient 0/97 []
+shuffled-K4 null 2: consistent periods enc-orient 0/97 []; dec-orient 0/97 []
+shuffled-K4 null 3: consistent periods enc-orient 0/97 []; dec-orient 0/97 []
+shuffled-K4 null 4: consistent periods enc-orient 0/97 []; dec-orient 0/97 []
+planted control period 4 (true period consistent: True): consistent periods enc-orient 1/97 [4]; dec-orient 0/97 []
+planted control period 7 (true period consistent: True): consistent periods enc-orient 1/97 [7]; dec-orient 0/97 []
+planted control period 11 (true period consistent: True): consistent periods enc-orient 1/97 [11]; dec-orient 0/97 []
+planted control period 23 (true period consistent: True): consistent periods enc-orient 1/97 [23]; dec-orient 0/97 []
