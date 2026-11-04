@@ -1,0 +1,44 @@
+# Cycle 45: running keys behind rail fence / Redefence / AMSCO (1,873,954 permutations incl. identity)
+# texts: c34_K1pt(63) c34_K1pt_rev(63) c34_K2pt_carved(369) c34_K2pt_carved_rev(369) c34_K2pt_fixed(370) c34_K2pt_fixed_rev(370) c34_K3pt(336) c34_K3pt_rev(336) c34_K123pt(769) c34_K123pt_rev(769) c34_K1ct(63) c34_K1ct_rev(63) c34_K2ct(369) c34_K2ct_rev(369) c34_K3ct(336) c34_K3ct_rev(336) c34_K123ct(768) c34_K123ct_rev(768) c34_K0morse(81) c34_K0morse_rev(81) c34_KAtableau_rows(676) c34_KAtableau_rows_rev(676) c34_K123pt_K0(850) c34_K123pt_K0_rev(850) carter1(284914) carter1_rev(284914) kjv_john(75525) kjv_john_rev(75525) 
+
+## K4 (all 8 chunks)
+k4_c0.out:SUMMARY perms=234245 best=8 full=0 hist: 0:80792600 1:131962511 2:78957050 3:19070543 4:4311131 5:419292 6:19712 7:878 8:19
+k4_c1.out:SUMMARY perms=234245 best=8 full=0 hist: 0:83487085 1:131967797 2:77350722 3:18499357 4:3930450 5:373778 6:18169 7:896 8:10
+k4_c2.out:SUMMARY perms=234245 best=8 full=0 hist: 0:85465028 1:127506167 2:79026928 3:19036908 4:4119784 5:381977 6:19199 7:1054 8:15
+k4_c3.out:SUMMARY perms=234245 best=8 full=0 hist: 0:84743739 1:128532848 2:78758680 3:19081457 4:4161234 5:386493 6:20081 7:307 8:13
+k4_c4.out:SUMMARY perms=234245 best=8 full=0 hist: 0:85094441 1:130174691 2:77293041 3:18135719 4:4271336 5:398677 6:22730 7:339 8:18
+k4_c5.out:SUMMARY perms=234245 best=7 full=0 hist: 0:85143867 1:131990525 2:75694467 3:18644948 4:4045056 5:323815 6:15788 7:1134
+k4_c6.out:SUMMARY perms=234245 best=9 full=0 hist: 0:84754299 1:133670887 2:75491461 3:17755311 4:3962603 5:344359 6:16188 7:1326 8:26 9:4
+k4_c7.out:SUMMARY perms=234239 best=9 full=0 hist: 0:85266815 1:133789526 2:74587988 3:18022108 4:4011728 5:293918 6:14251 7:1836 8:4 9:2
+
+## K4 depth>=9 candidates
+CAND depth=9 perm=168306 model=A mode=22 text=kjv_john_rev
+CAND depth=9 perm=168354 model=A mode=22 text=kjv_john_rev
+CAND depth=9 perm=188466 model=A mode=22 text=kjv_john_rev
+CAND depth=9 perm=188514 model=A mode=22 text=kjv_john_rev
+CAND depth=9 perm=126501 model=A mode=12 text=kjv_john_rev
+CAND depth=9 perm=129369 model=A mode=12 text=kjv_john_rev
+
+## shuffled nulls (chunk 0 = rail/Redefence/AMSCO w2-4 head of family A; chunk 5 = AMSCO w9)
+null_1_c0.out:SUMMARY perms=234245 best=9 full=0 hist: 0:82374965 1:131530807 2:77940682 3:18986819 4:4354050 5:373428 6:18447 7:497 8:15 9:2
+null_1_c5.out:SUMMARY perms=234245 best=8 full=0 hist: 0:85081584 1:134624455 2:73678969 3:17977173 4:3949377 5:328885 6:27453 7:578 8:26
+null_2_c0.out:SUMMARY perms=234245 best=8 full=0 hist: 0:82011297 1:130273706 2:78739414 3:19468373 4:4503483 5:430913 6:19058 7:563 8:17
+null_2_c5.out:SUMMARY perms=234245 best=8 full=0 hist: 0:83615425 1:138014040 2:72436191 3:17440778 4:3685994 5:303599 6:10441 7:1668 8:8
+null_3_c0.out:SUMMARY perms=234245 best=8 full=0 hist: 0:85632533 1:129298649 2:77453975 3:18350211 4:4435900 5:425473 6:19586 7:549 8:20
+null_3_c5.out:SUMMARY perms=234245 best=10 full=0 hist: 0:81630346 1:132257178 2:76745534 3:19330715 4:4647767 5:394518 6:19310 7:426 8:21 10:1
+
+## planted controls (20,000-permutation slices, planted perm at slice index 10000)
+ctl_1: text=carter1 mode=7 model=B perm=35636 (redef r=7 o=2 ord=1623045/dec) slice_start=25636 expect_slice_perm=10000 offset=42928 pt=ECEPTIONSAIDTHEDMONALEASTNORTHEASTETCHEDHOWTHENMUSTIBEHATEDWHOABERLINCLOCKEYONDALLLIVINGTHINGSYET
+ctl_2: text=c34_K3pt mode=16 model=A perm=1298394 (amsco w=9 start=2 conv=0 ord=178260534/enc) slice_start=1288394 expect_slice_perm=10000 offset=86 pt=LEXIONSBUTHOWWASITERREASTNORTHEASTWEDMYSELFINATRANSPARENTPOOLATBERLINCLOCKEDBACKUNABLETOBELIEVETH
+ctl_3: text=kjv_john_rev mode=4 model=B perm=1445902 (amsco w=9 start=2 conv=0 ord=364721058/enc) slice_start=1435902 expect_slice_perm=10000 offset=9480 pt=WBUTISHALLKILLNOALBATEASTNORTHEASTDONOTBEALARMEDFORMYSAFETYORIFBERLINCLOCKBACKTOYOUASWORNANDWOEFU
+ctl_1.out:FULL perm=10000 model=B mode=7 text=carter1 offset=42928
+ctl_1.out:SUMMARY perms=20000 best=24 full=1 hist: 0:7035010 1:10852506 2:6873780 3:1694070 4:437825 5:43130 6:2429 7:69 8:6 9:2 24:1
+ctl_2.out:FULL perm=10000 model=A mode=16 text=c34_K3pt offset=86
+ctl_2.out:FULL perm=10000 model=A mode=16 text=c34_K123pt offset=519
+ctl_2.out:FULL perm=10000 model=A mode=16 text=c34_K123pt_K0 offset=600
+ctl_2.out:SUMMARY perms=20000 best=24 full=3 hist: 0:7087404 1:11463931 2:6455340 3:1578380 4:423401 5:34681 6:1826 7:37 9:16 11:8 13:4 17:1 24:3
+ctl_3.out:FULL perm=10000 model=B mode=4 text=kjv_john_rev offset=9480
+ctl_3.out:FULL perm=10002 model=B mode=4 text=kjv_john_rev offset=9480
+ctl_3.out:FULL perm=10096 model=B mode=4 text=kjv_john_rev offset=9480
+ctl_3.out:FULL perm=10098 model=B mode=4 text=kjv_john_rev offset=9480
+ctl_3.out:SUMMARY perms=20000 best=24 full=4 hist: 0:7250091 1:11498301 2:6281481 3:1571152 4:340977 5:33372 6:3768 7:42 11:480 12:120 13:90 14:26 24:4
