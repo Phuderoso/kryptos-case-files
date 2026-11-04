@@ -1,0 +1,86 @@
+# Cycle 39 — periodic affine substitution, direct and behind 165,065 transpositions
+
+```
+text | hits>-5.0 | consistent L1-13 | best qg L1-13 | best qg L14-26
+k4 | 2 | 35 | -6.552 | -4.905
+null1 | 6 | 43 | -6.463 | -4.954
+null2 | 4 | 36 | -6.674 | -4.915
+null3 | 10 | 39 | -6.621 | -4.868
+null4 | 6 | 167 | -6.617 | -4.875
+null5 | 5 | 67 | -6.626 | -4.925
+null6 | 13 | 41 | -6.735 | -4.895
+null7 | 4 | 84 | -6.438 | -4.905
+null8 | 8 | 40 | -6.576 | -4.799
+null9 | 10 | 34 | -6.563 | -4.806
+null10 | 14 | 72 | -6.595 | -4.847
+ctl 31 {'perm': 3218, 'num': 'K', 'model': 'A', 'L': 13} hits 5 planted found True top is planted True
+ctl 32 {'perm': 20295, 'num': 'A', 'model': 'A', 'L': 5} hits 17 planted found True top is planted True
+ctl 33 {'perm': 149508, 'num': 'A', 'model': 'A', 'L': 5} hits 12 planted found True top is planted True
+ctl 34 {'perm': 138657, 'num': 'K', 'model': 'A', 'L': 4} hits 7 planted found True top is planted True
+ctl 35 {'perm': 143836, 'num': 'K', 'model': 'A', 'L': 12} hits 9 planted found True top is planted True
+ctl 36 {'perm': 86166, 'num': 'A', 'model': 'A', 'L': 13} hits 20 planted found True top is planted True
+ctl 37 {'perm': 159319, 'num': 'A', 'model': 'B', 'L': 10} hits 4 planted found True top is planted True
+ctl 38 {'perm': 110395, 'num': 'K', 'model': 'B', 'L': 13} hits 12 planted found True top is planted True
+ctl 39 {'perm': 55011, 'num': 'K', 'model': 'B', 'L': 7} hits 5 planted found True top is planted True
+
+--- K4 per-period rows ---
+SUMMARY perms=165065
+L=1 consistent=0 determined=0 best_qg=-99.000
+L=2 consistent=0 determined=0 best_qg=-99.000
+L=3 consistent=0 determined=0 best_qg=-99.000
+L=4 consistent=0 determined=0 best_qg=-99.000
+L=5 consistent=0 determined=0 best_qg=-99.000
+L=6 consistent=0 determined=0 best_qg=-99.000
+L=7 consistent=0 determined=0 best_qg=-99.000
+L=8 consistent=0 determined=0 best_qg=-99.000
+L=9 consistent=0 determined=0 best_qg=-99.000
+L=10 consistent=0 determined=0 best_qg=-99.000
+L=11 consistent=0 determined=0 best_qg=-99.000
+L=12 consistent=0 determined=0 best_qg=-99.000
+L=13 consistent=35 determined=0 best_qg=-6.552
+L=14 consistent=192 determined=0 best_qg=-6.309
+L=15 consistent=17 determined=0 best_qg=-6.167
+L=16 consistent=669 determined=0 best_qg=-5.846
+L=17 consistent=200 determined=0 best_qg=-5.562
+L=18 consistent=1065 determined=0 best_qg=-5.855
+L=19 consistent=548 determined=0 best_qg=-5.443
+L=20 consistent=412 determined=0 best_qg=-5.288
+L=21 consistent=1607 determined=0 best_qg=-5.295
+L=22 consistent=2636 determined=0 best_qg=-5.172
+L=23 consistent=4604 determined=0 best_qg=-5.028
+L=24 consistent=9538 determined=0 best_qg=-4.905
+L=25 consistent=41668 determined=0 best_qg=-99.000
+L=26 consistent=164502 determined=0 best_qg=-99.000
+
+--- K4 lines above the -5.0 quadgram threshold (all at L=24, overfit, inside null range) ---
+HIT perm=118591 num=K model=B L=24 score=-4.952 pt=LACEOHIDMYWASNONCESHLEASTNORTHEASTSKIDSLITIMONANDUCHFARNHYWOULEBERLINCLOCKACTFINGETHSINGVILSSSWJO
+HIT perm=121627 num=A model=B L=24 score=-4.905 pt=AUXTPOLDENOLITDILYOUMEASTNORTHEASTORORWEEDNOTFEBRWHESTWARSAGEDOBERLINCLOCKRUNTHEFRUSAVENFLORNQZMV
+
+--- null 1 per-period rows (for comparison) ---
+L=1 consistent=0 determined=0 best_qg=-99.000
+L=2 consistent=0 determined=0 best_qg=-99.000
+L=3 consistent=0 determined=0 best_qg=-99.000
+L=4 consistent=0 determined=0 best_qg=-99.000
+L=5 consistent=0 determined=0 best_qg=-99.000
+L=6 consistent=0 determined=0 best_qg=-99.000
+L=7 consistent=0 determined=0 best_qg=-99.000
+L=8 consistent=0 determined=0 best_qg=-99.000
+L=9 consistent=0 determined=0 best_qg=-99.000
+L=10 consistent=0 determined=0 best_qg=-99.000
+L=11 consistent=0 determined=0 best_qg=-99.000
+L=12 consistent=0 determined=0 best_qg=-99.000
+L=13 consistent=43 determined=0 best_qg=-6.463
+L=14 consistent=102 determined=0 best_qg=-6.560
+L=15 consistent=14 determined=0 best_qg=-6.344
+L=16 consistent=483 determined=0 best_qg=-5.982
+L=17 consistent=126 determined=0 best_qg=-5.766
+L=18 consistent=600 determined=0 best_qg=-5.874
+L=19 consistent=484 determined=0 best_qg=-5.469
+L=20 consistent=385 determined=0 best_qg=-5.186
+L=21 consistent=1211 determined=0 best_qg=-5.238
+L=22 consistent=2774 determined=0 best_qg=-4.996
+L=23 consistent=6318 determined=0 best_qg=-4.954
+L=24 consistent=9287 determined=0 best_qg=-4.957
+L=25 consistent=39305 determined=0 best_qg=-99.000
+L=26 consistent=168010 determined=0 best_qg=-99.000
+```
