@@ -60,6 +60,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | [`case-file/39-progressive-affine.md`](case-file/39-progressive-affine.md) | Cycle 40: progressive (Trithemius-style) affine substitution, multiplier and shift stepping per letter, linear and second-order, direct and behind 165,065 transpositions |
 | [`case-file/40-progressive-keyword.md`](case-file/40-progressive-keyword.md) | Cycle 41: progressive keyword key (the keyword shifts by s more each lap), Vigenère/Beaufort, A–Z/KRYPTOS tableau, direct and behind 165,065 transpositions |
 | [`case-file/41-stehle-lag4-run.md`](case-file/41-stehle-lag4-run.md) | Cycle 42: preregistered look-elsewhere and mechanism test of the Stehle lag-4 run (carved 55–63) |
+| [`case-file/42-bifid-6x6.md`](case-file/42-bifid-6x6.md) | Cycle 43: Bifid on an arbitrary 6×6 square (exact SAT, periods 1–97, both orientations), alone and followed by a substitution |
 | [`tools/`](tools/) | Python: ciphertext, K1–K3 solvers, K4 analysis |
 | [`analysis/`](analysis/) | Saved outputs of the tools |
 | [`journal/`](journal/) | Case journal, one entry per cycle |
@@ -111,6 +112,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 - **Cycle 40 (2026-11-04)** — **progressive affine substitution** (new family: c = a0·rⁱ·x + b0 + d·i [+ q·i(i−1)/2], encryption and decryption forms, A–Z/KRYPTOS numbering) × 165,065 transpositions × both layer orders, exact: **K4 0** consistent configs in 4.9 × 10⁹ linear and 1.3 × 10¹¹ second-order tests; 11 shuffled nulls 0; 8/8 planted controls recovered and ranked first. **Negative.** → [case-file/39](case-file/39-progressive-affine.md), [journal](journal/2026-11-04-cycle40.md)
 - **Cycle 41 (2026-11-04)** — **progressive keyword key** (new step rule: key(i) = k[i mod L] + s·⌊i/L⌋, the Kasiski-era "progressive key"), Vigenère/Beaufort × A–Z/KRYPTOS tableau × L 1–26 × s 0–25 × 165,065 transpositions × both layer orders, exact: **K4 0 consistent for L ≤ 20**; 20 shuffled nulls 0 at L ≤ 13; 10/10 planted controls recovered and ranked first; L 21–26 K4 inside null range. The s = 0 slice independently reproduces cycle 13 (periodic, now p ≤ 20). **Negative.** → [case-file/40](case-file/40-progressive-keyword.md), [journal](journal/2026-11-04-cycle41.md)
 - **Cycle 42 (2026-11-04)** — **the Stehle lag-4 run, preregistered** (carved 55–63, c[i+4] − c[i] = 5 in A–Z numbering): corrected for 48 looks (lags 1–24 × A–Z/KRYPTOS) against 200,000 shuffles, **p ≈ 0.008**, the same order as K1 (0.005) and K2 (0.03); narrow p ≈ 0.0002 only without the correction. Every simple mechanism that would produce it (period 1/2/4, progressive period 4, arithmetic keys, either layer order) is already excluded by cycles 13, 24, 39–41 or needs a `B???B???B` plaintext; the crib-derived key shows no such regularity (p ≈ 0.99). **Negative / downgraded.** → [case-file/41](case-file/41-stehle-lag4-run.md), [journal](journal/2026-11-04-cycle42.md)
+- **Cycle 43 (2026-11-04)** — **Bifid on a 6×6 square** (26 letters + 10 signs, arbitrary placement), exact SAT, periods 1–97, both orientations: **0 of 194 consistent for K4** and for 5 shuffled nulls; planted controls (p 5, 9, 17) recovered at exactly the true period. Plain Bifid is now closed for every square that holds 26 letters. With a substitution after it (two independent squares) the cribs cannot judge it: K4 14 consistent pairs vs nulls 9–33, controls pass at many false periods. **Negative (one square) / open (two squares).** → [case-file/42](case-file/42-bifid-6x6.md), [journal](journal/2026-11-04-cycle43.md)
 
 ## Coverage table (started cycle 39; update every cycle)
 | Family | Layers tested | Excluded | Still open |
@@ -126,7 +128,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | Gromark / digit keys | direct | textbook and plain-sight alphabets, primers ≤ 6 | keyed alphabets on both sides (SAT) |
 | Hill | direct n ≤ 4, any numbering for 2×2; behind 165k transpositions n 2–4 | as tested (cycles 27, 29) | n ≥ 5 |
 | Chaocipher | direct; with transpositions | themed starting alphabets | arbitrary starting alphabets |
-| Fractionation (Playfair, Bifid, Trifid) | direct | 5×5 squares as last layer; Trifid partly | Trifid with other periods/alphabets |
+| Fractionation (Playfair, Bifid, Trifid) | direct; Trifid behind transpositions | 5×5 squares as last layer; Trifid any cube (all periods direct, ≤ 20 behind 165k transpositions); **Bifid any 6×6 square, all periods (cycle 43)** | Bifid 6×6 + substitution (crib-underdetermined); Bifid 6×6 behind transpositions; Trifid periods 21–97 behind transpositions |
 | Porta, Vernam XOR, M-94/themed cylinders | direct; behind transpositions | as tested | — |
 | Hex inside hex (digit regrouping) | literal; mod-26; with themed keyword | as tested (cycles 36–38) | unknown periodic key over the regroup |
 | Pure transposition | — | impossible (E count) | — |
