@@ -1,0 +1,6 @@
+Antipodes letters (incl. ?): 1590
+replace Antipodes 'E' Kryptos 'R' at K2+116
+replace Antipodes 'E' Kryptos 'R' at K2+116
+insert Antipodes '' Kryptos 'Z?FKZBSFDQVGOGIPUFXHHDRKFFHQNTGPUAECNUVP' at K2+225
+K4 copy 1 found verbatim at offset 337
+K4 copy 2 found verbatim at offset 1206
