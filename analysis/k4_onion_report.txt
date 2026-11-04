@@ -1,0 +1,5 @@
+onion layers 54; transpositions 86; tests 248,956,416; full-crib survivors 0
+best partial:
+   (10, 'caesarKA3', 'AZ', 'identity', 'beau', 'sub_last', 'LAYERTWO+SOSRQ', 27)
+   (10, 'caesarKA3', 'AZ', 'identity', 'beau', 'sub_first', 'LAYERTWO+SOSRQ', 27)
+   (10, 'caesarKA11', 'KA', ('K3', 8, 24), 'varbeau', 'sub_first', 'RQ+LODESTONE', 0)
