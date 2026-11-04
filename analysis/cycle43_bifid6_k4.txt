@@ -1,0 +1,2 @@
+[one] K4: enc-orient 0/97 []; dec-orient 0/97 []
+[two] K4: enc-orient 3/97 [28, 30, 66]; dec-orient 11/97 [31, 67, 76, 77, 78, 82, 83, 86, 87, 88, 89]
