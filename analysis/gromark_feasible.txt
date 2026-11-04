@@ -1,0 +1,2 @@
+primers (base 10, length 5) feasible with ANY plain+cipher alphabets: 39
+primers feasible with plain = A-Z (ACA standard), any cipher alphabet: 0

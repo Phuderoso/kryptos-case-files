@@ -1,0 +1,19 @@
+1. K4 text
+   len 97: PASS; starts OBKR / ends KCAR: PASS
+   = tail of Elonka panel transcript: PASS; appears twice verbatim in Antipodes text: PASS
+2. crib indexing (code uses 0-based dict KN)
+   KN == 0-based 21..33 EASTNORTHEAST + 63..73 BERLINCLOCK (1-based 22-34, 64-74): PASS
+   CT under cribs = Sanborn's published pairs FLRVQQPRNGKSS / NYPVTTMZFPK: PASS
+3. alphabets
+   KA == keyed('KRYPTOS') == KRYPTOSABCDEFGHIJLMNQUVWXZ: PASS; AZ permutation: PASS
+4. K1-K3 reproduce (validates alphabet + Vigenere direction + K3 rotation)
+   K1 starts BETWEENSUBTLESHADING: PASS; K2 starts ITWASTOTALLYINVISIBLE: PASS; K3 starts SLOWLYDESPARATLY: PASS
+5. cipher-mode conventions (all tools): vig c=p+k ; beau c=k-p ; varbeau c=p-k (= vig with key -k)
+   varbeau is redundant only where the key is free (periodic/unknown keys); it matters for fixed keys (words, running keys).
+   FINDING: cycle 9 H9 (running keys) tested vig/beau only -> rerun below with varbeau.
+6. pure-transposition impossibility
+   crib letters needed > available in K4: {'E': (3, 2)} -> PASS (E needs 3, K4 has 2: proof holds)
+7. W positions / segment arithmetic (cycle 9)
+   W 1-based [21, 37, 49, 59, 75]; segments [20, 15, 11, 9, 15, 22] sum+5W = 97: PASS
+8. rerun of cycle-9 H9 running keys including variant Beaufort
+   varbeau running-key tests 243,700; survivors 0

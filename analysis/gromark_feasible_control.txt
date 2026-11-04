@@ -1,0 +1,4 @@
+CONTROL planted primer 27182 CA=aca_columnar(SHADOW)= AELTDFMUHCKRZOGNVSBJQYWIPX
+primers (base 10, length 5) feasible with ANY plain+cipher alphabets: 9
+primers feasible with plain = A-Z (ACA standard), any cipher alphabet: 1
+  primer 27182: partial CA = .E...FM..CK..OGNVS.JQYW...
