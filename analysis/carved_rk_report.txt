@@ -1,0 +1,52 @@
+Cycle 34: running keys the artist already carved (carved_rk.c). 165,065 transpositions (cycle-22 family incl. identity) x models A/B x 11 modes (AZ/KA Vigenere, Beaufort, variant; 5 XOR codes) x 24 texts (12 carved texts, forward and reversed) x every cyclic offset.
+A configuration survives only with 24/24 crib letters.
+
+k4: best=11 full=0 hist: 1:330819105 2:306502533 3:135872587 4:38392751 5:7749839 6:1194662 7:137770 8:12204 9:1042 10:149 11:10
+ctl_1: best=24 full=3 hist: 1:303428939 2:279668375 3:123030941 4:34376176 5:6824522 6:1036820 7:120299 8:11715 9:839 10:59 24:3
+ctl_2: best=24 full=2 hist: 1:315419980 2:291633223 3:128691354 4:35960128 5:7196542 6:1074559 7:123693 8:11497 9:1045 10:141 11:38 12:30 13:32 14:16 15:8 16:10 17:12 18:4 19:2 24:2
+ctl_3: best=24 full=12 hist: 1:313039393 2:291283434 3:129926367 4:37017013 5:7543512 6:1172441 7:141588 8:13448 9:958 10:63 11:354 12:505 13:228 14:228 15:72 16:12 23:12 24:12
+ctl_4: best=24 full=1 hist: 1:327724883 2:301397277 3:132129012 4:36881380 5:7304658 6:1096783 7:132652 8:12168 9:888 10:57 11:6 12:2 13:1 24:1
+ctl_5: best=24 full=4 hist: 1:321984329 2:294019012 3:128692732 4:35919179 5:7168617 6:1101260 7:135283 8:12292 9:872 10:37 11:7 12:4 14:4 16:4 17:2 18:4 19:2 20:4 22:8 24:4
+null_1: best=11 full=0 hist: 1:326080061 2:300692250 3:132693601 4:37303826 5:7484005 6:1137255 7:138434 8:14872 9:875 10:48 11:5
+null_2: best=11 full=0 hist: 1:324529342 2:300987063 3:134073811 4:38195405 5:7889742 6:1228649 7:153200 8:15667 9:1315 10:92 11:2
+null_3: best=11 full=0 hist: 1:320135895 2:299455567 3:134638415 4:38574604 5:7885317 6:1216307 7:144998 8:13941 9:819 10:44 11:1
+null_4: best=11 full=0 hist: 1:306364592 2:283177349 3:125533809 4:35564175 5:7207189 6:1094181 7:129940 8:13727 9:1196 10:99 11:3
+null_5: best=10 full=0 hist: 1:323990259 2:298544324 3:131599469 4:36960588 5:7430176 6:1130715 7:134107 8:12046 9:1248 10:56
+null_6: best=11 full=0 hist: 1:333341485 2:313766501 3:141322267 4:40307367 5:8205790 6:1266192 7:152317 8:14685 9:1463 10:74 11:3
+null_7: best=11 full=0 hist: 1:323998297 2:304415238 3:136745126 4:39025758 5:7925847 6:1231528 7:152588 8:15121 9:1266 10:103 11:12
+null_8: best=11 full=0 hist: 1:324973171 2:300832685 3:132986335 4:37482210 5:7592864 6:1185245 7:140140 8:13418 9:1178 10:54 11:4
+null_9: best=11 full=0 hist: 1:325281977 2:300332674 3:133141517 4:37692036 5:7690407 6:1201931 7:153145 8:15300 9:1320 10:63 11:2
+null_10: best=10 full=0 hist: 1:322529287 2:300081977 3:133972171 4:38232974 5:7825282 6:1216666 7:145042 8:13954 9:996 10:47
+
+Planted controls:
+ctl_1: text=K3pt mode=0 model=A perm=153551 offset=182 pt=EDLYTAKEPLACEINWHICHIEASTNORTHEASTIOUSISHOULDBEATPEACEANDHISPOWBERLINCLOCKTANENDIFHEWEREVANQUISHE
+ctl_2: text=K123ct_rev mode=4 model=B perm=7841 offset=234 pt=ATTHEDISTANCEOFHALFAMEASTNORTHEASTHHADTHESHAPEOFAMANBUTAPPARENTBERLINCLOCKCSTATURESATINTHESLEDGEA
+ctl_3: text=K0morse mode=2 model=A perm=16927 offset=46 pt=ACEDHISHANDSBEFOREHISEASTNORTHEASTDASHRILLSCREAMIDREWHISHANDFORBERLINCLOCKSFACEANDSAIDCHILDWHATIS
+ctl_4: text=K2pt_fixed mode=9 model=B perm=128816 offset=316 pt=AMBLESTHATMYFATHERCALEASTNORTHEASTUSADDRESSEDMEIAMHAPPYTOREMARKBERLINCLOCKATYOUHAVERESUMEDYOURFOR
+ctl_5: text=KAtableau_rows mode=5 model=B perm=108283 offset=538 pt=DINTHEMEANTIMEBEENPENEASTNORTHEASTPPEARANCEOFHISCOMPANIONSHEASSBERLINCLOCKEERFULAIRANDTHEYSATDOWN
+
+Control recoveries (24/24 lines):
+CAND matches=24 perm=153551 model=A mode=0 text=K3pt offset=182
+CAND matches=24 perm=153551 model=A mode=0 text=K123pt offset=615
+CAND matches=24 perm=153551 model=A mode=0 text=K123pt_K0 offset=696
+CAND matches=24 perm=7841 model=B mode=4 text=K3ct_rev offset=234
+CAND matches=24 perm=7841 model=B mode=4 text=K123ct_rev offset=234
+CAND matches=24 perm=16925 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16927 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16939 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16951 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16973 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16975 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16987 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=16999 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=17023 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=17035 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=17071 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=17083 model=A mode=2 text=K0morse offset=46
+CAND matches=24 perm=128816 model=B mode=9 text=K2pt_fixed offset=316
+CAND matches=24 perm=108283 model=B mode=3 text=KAtableau_rows_rev offset=461
+CAND matches=24 perm=108283 model=B mode=3 text=KAtableau_rows_rev offset=486
+CAND matches=24 perm=108283 model=B mode=5 text=KAtableau_rows offset=513
+CAND matches=24 perm=108283 model=B mode=5 text=KAtableau_rows offset=538
+
+K4 candidates printed at >=12/24: none (best 11/24, 10 configurations; nulls best 10-11).
