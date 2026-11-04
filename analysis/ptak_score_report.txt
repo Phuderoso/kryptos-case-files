@@ -1,0 +1,70 @@
+[control] seed=1 model=B tab=KA mode=2 L=28 perm=152345 [strict] tests=144596940 scored(windows>=6)=22276566; true config rank=>20 (MISSED)
+    best: -4.007 perm=129302 tab=KA model=A mode=2 L=69 windows=6 checks=0 THESP................EASTNORTHEAST.............................BERLINCLOCK................GHERGIN
+[control] seed=1 model=B tab=KA mode=2 L=28 perm=152345 [loose] tests=144596940 scored(windows>=8)=20915379; true config rank=>20 (MISSED)
+    best: -4.261 perm=2210 tab=KA model=A mode=1 L=67 windows=10 checks=0 HYESSOT..............EASTNORTHEAST.............................BERLINCLOCK..............TMEWHESTR
+[control] seed=2 model=A tab=AZ mode=0 L=52 perm=38842 [strict] tests=144596940 scored(windows>=6)=22264110; true config rank=6
+    best: -3.818 perm=81548 tab=AZ model=A mode=0 L=69 windows=6 checks=0 ENTMA................EASTNORTHEAST.............................BERLINCLOCK................ACHERES
+[control] seed=2 model=A tab=AZ mode=0 L=52 perm=38842 [loose] tests=144596940 scored(windows>=8)=20902630; true config rank=2
+    best: -4.139 perm=147321 tab=AZ model=B mode=0 L=60 windows=8 checks=0 Q...............OFFEREASTNORTHEAST..E..................YMJ.....BERLINCLOCKESM...............SKI.A
+[control] seed=3 model=B tab=KA mode=2 L=67 perm=119615 [strict] tests=144596940 scored(windows>=6)=22289130; true config rank=>20 (MISSED)
+    best: -4.142 perm=156392 tab=KA model=A mode=1 L=69 windows=6 checks=0 ALLRI................EASTNORTHEAST.............................BERLINCLOCK................KETHEWG
+[control] seed=3 model=B tab=KA mode=2 L=67 perm=119615 [loose] tests=144596940 scored(windows>=8)=20928082; true config rank=>20 (MISSED)
+    best: -4.167 perm=92066 tab=AZ model=A mode=1 L=68 windows=8 checks=0 EPOSET...............EASTNORTHEAST.............................BERLINCLOCK...............GIONINDM
+[control] seed=4 model=A tab=KA mode=2 L=88 perm=5120 [strict] tests=144596940 scored(windows>=6)=22274381; true config rank=>20 (MISSED)
+    best: -3.870 perm=99384 tab=KA model=B mode=1 L=60 windows=6 checks=0 Y.ZL.................EASTNORTHEAST.........V.REASITINC.........BERLINCLOCK..........S.......P.C.M
+[control] seed=4 model=A tab=KA mode=2 L=88 perm=5120 [loose] tests=144596940 scored(windows>=8)=20912436; true config rank=>20 (MISSED)
+    best: -4.368 perm=12138 tab=AZ model=B mode=0 L=58 windows=8 checks=0 ORKER........HX......EASTNORTHEAST............LPQ..............BERLINCLOCK......ECONDHATY...S....
+[control] seed=5 model=B tab=AZ mode=2 L=33 perm=155012 [strict] tests=144596940 scored(windows>=6)=22275654; true config rank=>20 (MISSED)
+    best: -4.107 perm=134330 tab=KA model=A mode=1 L=69 windows=6 checks=0 NKERO................EASTNORTHEAST.............................BERLINCLOCK................WEATHEV
+[control] seed=5 model=B tab=AZ mode=2 L=33 perm=155012 [loose] tests=144596940 scored(windows>=8)=20913207; true config rank=15
+    best: -4.248 perm=146833 tab=AZ model=B mode=0 L=66 windows=8 checks=0 .......D.............EASTNORTHEASTTHE......K..............ORTALBERLINCLOCK.........CU...........O
+[control] seed=6 model=A tab=KA mode=2 L=75 perm=125629 [strict] tests=144596940 scored(windows>=6)=22259121; true config rank=>20 (MISSED)
+    best: -3.639 perm=69926 tab=KA model=A mode=2 L=69 windows=6 checks=0 ESITW................EASTNORTHEAST.............................BERLINCLOCK................LATIONB
+[control] seed=6 model=A tab=KA mode=2 L=75 perm=125629 [loose] tests=144596940 scored(windows>=8)=20896906; true config rank=>20 (MISSED)
+    best: -4.039 perm=113565 tab=AZ model=B mode=1 L=46 windows=9 checks=0 PS.SH.O.Y............EASTNORTHEASTHEHOLEV.CV....X..IM......E..RBERLINCLOCKA...........L..D.FE.OP.
+[null] shuffle seed=1 [strict] tests=144596940 scored(windows>=6)=22283408;
+    best: -3.554 perm=120945 tab=KA model=B mode=1 L=44 windows=6 checks=0 F.X..F...H..T..QZ....EASTNORTHEAST..N.U.WNSTE......REATHES.L...BERLINCLOCK...YC.F..TN....V..X...E
+[null] shuffle seed=1 [loose] tests=144596940 scored(windows>=8)=20920018;
+    best: -4.158 perm=99714 tab=KA model=B mode=1 L=42 windows=8 checks=0 ....E..M..J...SGHOMTHEASTNORTHEAST.C...DKK.G.YI...F..KV.P.F.T.NBERLINCLOCK.N...L...O.MA.S...ZK...
+[null] shuffle seed=2 [strict] tests=144596940 scored(windows>=6)=22285269;
+    best: -3.759 perm=96390 tab=AZ model=A mode=0 L=69 windows=6 checks=0 LINDY................EASTNORTHEAST.............................BERLINCLOCK................RTHEMAY
+[null] shuffle seed=2 [loose] tests=144596940 scored(windows>=8)=20924282;
+    best: -4.366 perm=1754 tab=KA model=A mode=2 L=68 windows=8 checks=0 AMEHOV...............EASTNORTHEAST.............................BERLINCLOCK...............YTHEYSEC
+[null] shuffle seed=3 [strict] tests=144596940 scored(windows>=6)=22291675;
+    best: -3.902 perm=37921 tab=AZ model=B mode=2 L=51 windows=6 checks=0 .....EV.Q.Q..J..R....EASTNORTHEAST.....U.V.NDHAVEATO.I..L......BERLINCLOCK.......W..H..X.C.R.....
+[null] shuffle seed=3 [loose] tests=144596940 scored(windows>=8)=20928281;
+    best: -4.469 perm=96257 tab=AZ model=B mode=1 L=55 windows=8 checks=0 .....L..S.TREMPT.PND.EASTNORTHEAST.............................BERLINCLOCKENU.IQS.ENAMA..O...O...
+[null] shuffle seed=4 [strict] tests=144596940 scored(windows>=6)=22284271;
+    best: -4.107 perm=7481 tab=KA model=B mode=0 L=45 windows=6 checks=0 K.WW.SL..Q..G....U...EASTNORTHEAST....A..X.RIVENTOOV.WQ...J....BERLINCLOCKI......J...P..N..W.BJT.
+[null] shuffle seed=4 [loose] tests=144596940 scored(windows>=8)=20920868;
+    best: -4.367 perm=63890 tab=AZ model=A mode=0 L=68 windows=8 checks=0 SOUNGC...............EASTNORTHEAST.............................BERLINCLOCK...............OTOWASTQ
+[null] shuffle seed=5 [strict] tests=144596940 scored(windows>=6)=22292996;
+    best: -3.932 perm=160310 tab=AZ model=A mode=1 L=69 windows=6 checks=0 HEYWE................EASTNORTHEAST.............................BERLINCLOCK................REDTHAE
+[null] shuffle seed=5 [loose] tests=144596940 scored(windows>=8)=20930731;
+    best: -4.282 perm=206 tab=AZ model=A mode=1 L=68 windows=8 checks=0 OLERED...............EASTNORTHEAST.............................BERLINCLOCK...............RHADTOHW
+[null] shuffle seed=6 [strict] tests=144596940 scored(windows>=6)=22296252;
+    best: -3.897 perm=156278 tab=AZ model=A mode=2 L=68 windows=8 checks=0 RLATIC...............EASTNORTHEAST.............................BERLINCLOCK...............OODTHESH
+[null] shuffle seed=6 [loose] tests=144596940 scored(windows>=8)=20936033;
+    best: -3.897 perm=156278 tab=AZ model=A mode=2 L=68 windows=8 checks=0 RLATIC...............EASTNORTHEAST.............................BERLINCLOCK...............OODTHESH
+[K4] carved K4 [strict] tests=144596940 scored(windows>=6)=22294019;
+    best: -4.222 perm=143545 tab=AZ model=B mode=1 L=87 windows=7 checks=0 .....................EASTNORTHEAST.BTLENHERMI..................BERLINCLOCK.......................
+    -4.259 perm=140926 tab=AZ model=B mode=1 L=50 windows=7 checks=0 .Q..S..........Z.ZK.JEASTNORTHEASTERYREME.........V......RCHANWBERLINCLOCK.....H..............E..
+    -4.274 perm=128297 tab=KA model=A mode=2 L=69 windows=6 checks=0 TOFIR................EASTNORTHEAST.............................BERLINCLOCK................ATIENDU
+    -4.274 perm=93128 tab=KA model=B mode=1 L=56 windows=6 checks=0 T..S..X..B...........EASTNORTHEAST......................R.K.H.GBERLINCLOCK.......FMRATERTO.......
+    -4.277 perm=105951 tab=AZ model=A mode=0 L=67 windows=10 checks=0 RPADERU..............EASTNORTHEAST.............................BERLINCLOCK..............NTHESETHN
+    -4.322 perm=131245 tab=AZ model=A mode=0 L=69 windows=6 checks=0 RPRIS................EASTNORTHEAST.............................BERLINCLOCK................OWERORB
+    -4.342 perm=81524 tab=KA model=A mode=2 L=69 windows=6 checks=0 NTBYR................EASTNORTHEAST.............................BERLINCLOCK................ISANDSQ
+    -4.343 perm=81716 tab=KA model=A mode=2 L=69 windows=6 checks=0 NTBYK................EASTNORTHEAST.............................BERLINCLOCK................HEANDSQ
+    -4.358 perm=81764 tab=KA model=A mode=2 L=69 windows=6 checks=0 NTBYR................EASTNORTHEAST.............................BERLINCLOCK................DEANDSQ
+    -4.375 perm=117469 tab=AZ model=A mode=0 L=69 windows=6 checks=0 SHIMB................EASTNORTHEAST.............................BERLINCLOCK................LTARECT
+[K4] carved K4 [loose] tests=144596940 scored(windows>=8)=20933809;
+    best: -4.277 perm=105951 tab=AZ model=A mode=0 L=67 windows=10 checks=0 RPADERU..............EASTNORTHEAST.............................BERLINCLOCK..............NTHESETHN
+    -4.320 perm=137185 tab=KA model=B mode=0 L=67 windows=9 checks=0 .............KDARATTHEASTNORTHEAST.............................BERLINCLOCKD....F.................
+    -4.393 perm=104493 tab=AZ model=A mode=2 L=68 windows=8 checks=0 EONELH...............EASTNORTHEAST.............................BERLINCLOCK...............KSTOFORO
+    -4.432 perm=91426 tab=AZ model=A mode=0 L=68 windows=8 checks=0 RILSHI...............EASTNORTHEAST.............................BERLINCLOCK...............PINGEDUP
+    -4.451 perm=803 tab=AZ model=B mode=2 L=52 windows=9 checks=0 Z.QH..V.IQ...........EASTNORTHEAST........LLWEWILLYASO.T.......BERLINCLOCK...........B..AI.T...V.
+    -4.466 perm=160725 tab=KA model=B mode=1 L=52 windows=8 checks=0 X.QKM...UGK..........EASTNORTHEAST........EARESTITLUL..........BERLINCLOCK.............BAS...CE.H
+    -4.488 perm=154895 tab=AZ model=B mode=1 L=51 windows=8 checks=0 .Z...........FNFOREANEASTNORTHEAST....XIH.AS.U........U.NAD....BERLINCLOCK..T..........T.........
+    -4.547 perm=137613 tab=KA model=B mode=0 L=59 windows=9 checks=0 .......QM......Y.IGHTEASTNORTHEAST.....................I.....T.BERLINCLOCKISSWU............U.....
+    -4.553 perm=146341 tab=AZ model=B mode=2 L=48 windows=8 checks=0 .....YE.GHSO.S.O.....EASTNORTHEAST.........QZ..GANRE...........BERLINCLOCK......X.URERECEI......G
+    -4.578 perm=100173 tab=AZ model=B mode=1 L=63 windows=8 checks=0 GORDESTMASB.K........EASTNORTHEAST.....K.F....D...........A....BERLINCLOCK...........Y.G.SY.M.J.E
