@@ -1,0 +1,2 @@
+Hill control: ['n=2 alpha=AZ offset=0: fully-known blocks=11, invertible keys consistent with cribs=1', 'n=2 alpha=AZ offset=0: fully-known blocks=11, invertible keys consistent with cribs=1']
+Transposition control: ['  SURVIVOR cols w=7 down: alpha=KA vig B2 P=6 constraints=18', '  SURVIVOR cols w=7 down: alpha=KA vig B2 P=12 constraints=12', '  SURVIVOR cols w=7 down: alpha=KA vig B2 P=18 constraints=8']

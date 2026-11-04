@@ -1,0 +1,51 @@
+======================================================================
+TEST A - Hill cipher (n=2,3), numbering AZ (A=0) and KA, all block alignments
+n=2 alpha=AZ offset=0: fully-known blocks=11, invertible keys consistent with cribs=0
+n=2 alpha=AZ offset=1: fully-known blocks=11, invertible keys consistent with cribs=0
+n=2 alpha=KA offset=0: fully-known blocks=11, invertible keys consistent with cribs=0
+n=2 alpha=KA offset=1: fully-known blocks=11, invertible keys consistent with cribs=0
+n=3 alpha=AZ offset=0: fully-known blocks=7, invertible keys consistent with cribs=0
+n=3 alpha=AZ offset=1: fully-known blocks=7, invertible keys consistent with cribs=0
+n=3 alpha=AZ offset=2: fully-known blocks=6, invertible keys consistent with cribs=0
+n=3 alpha=KA offset=0: fully-known blocks=7, invertible keys consistent with cribs=0
+n=3 alpha=KA offset=1: fully-known blocks=7, invertible keys consistent with cribs=0
+n=3 alpha=KA offset=2: fully-known blocks=6, invertible keys consistent with cribs=0
+Result: a count of 0 FALSIFIES that Hill configuration (no invertible matrix maps the crib blocks).
+======================================================================
+TEST B - transposition T combined with periodic substitution (vig/beau/varbeau; AZ, KA), P=1..26
+Models: (B1) CT = T(Sub(PT)) key indexed by PT position; (B2) CT = Sub(T(PT)) key indexed by CT position.
+T families: rows-of-w read by columns (top-down & bottom-up = K3-style rotation), inverses, keyed columnar
+(keywords below). K3-exact double rotation needs a full grid; 97 is prime, so only incomplete-row routes are used.
+Permutations tested: 224 x 2 alphabets x 3 modes x 2 models x 26 periods = 69888 configurations
+Survivor threshold: >= 6 independent crib constraints (chance pass ~ 26^-6 = 3.2e-09 each).
+Baseline: 2000 random permutations produced 0 survivors at the same threshold.
+======================================================================
+TEST C - non-periodic keys: ciphertext-autokey, plaintext-autokey, running keys
+CT-autokey AZ-vig: lags consistent with all 24 cribs: NONE
+PT-autokey AZ-vig: (lag, #tests) consistent: NONE
+CT-autokey AZ-beau: lags consistent with all 24 cribs: NONE
+PT-autokey AZ-beau: (lag, #tests) consistent: NONE
+CT-autokey AZ-varbeau: lags consistent with all 24 cribs: NONE
+PT-autokey AZ-varbeau: (lag, #tests) consistent: NONE
+CT-autokey KA-vig: lags consistent with all 24 cribs: NONE
+PT-autokey KA-vig: (lag, #tests) consistent: NONE
+CT-autokey KA-beau: lags consistent with all 24 cribs: NONE
+PT-autokey KA-beau: (lag, #tests) consistent: NONE
+CT-autokey KA-varbeau: lags consistent with all 24 cribs: NONE
+PT-autokey KA-varbeau: (lag, #tests) consistent: NONE
+Running key 'K1 plaintext': best crib matches 4/24 (AZ-varbeau offset -10); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K1 plaintext' reversed: best crib matches 3/24 (AZ-vig offset -60); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K2 plaintext': best crib matches 5/24 (AZ-vig offset 13); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K2 plaintext' reversed: best crib matches 5/24 (KA-vig offset 281); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K3 plaintext': best crib matches 5/24 (KA-vig offset 38); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K3 plaintext' reversed: best crib matches 6/24 (KA-vig offset 91); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K1-K3 plaintext concatenated': best crib matches 5/24 (AZ-vig offset 76); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K1-K3 plaintext concatenated' reversed: best crib matches 6/24 (KA-vig offset 91); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'Kryptos tableau rows (KA shifted)': best crib matches 7/24 (KA-beau offset 27); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'Kryptos tableau rows (KA shifted)' reversed: best crib matches 5/24 (KA-varbeau offset 21); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K0 Morse (VIRTUALLYINVISIBLE...)': best crib matches 4/24 (AZ-varbeau offset -18); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+Running key 'K0 Morse (VIRTUALLYINVISIBLE...)' reversed: best crib matches 4/24 (AZ-vig offset 7); per-offset chance ~0.9; maxima <=8 are noise; a true key needs 24/24
+======================================================================
+TEST D - Quagmire-III-style tableaux built on candidate keyword alphabets, periodic key P=1..26
+Keywords tested: 34 (misspelling-derived: 20, World Clock/Berlin/Egypt: 14); survivors: 0
+Note: any periodic key of length <=26 in AZ/KA (incl. QUA, YAR, WELTZEITUHR... used directly as Vigenere keys) was already falsified in cycle 1.
