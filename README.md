@@ -56,6 +56,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | [`case-file/35-plain-sight-running-keys-and-hex.md`](case-file/35-plain-sight-running-keys-and-hex.md) | Cycle 36: running keys from John 8:32's Gospel, the New Testament, the National Security Act, Reagan's Berlin speech and the carved texts (29 tableaux); literal hex-inside-hex regrouping |
 | [`case-file/36-lifted-digit-regrouping.md`](case-file/36-lifted-digit-regrouping.md) | Cycle 37: hex inside hex, mod-26 version: letters to digit pairs, digit-level transpositions, pairs folded mod 26, solved exactly with z3 |
 | [`case-file/37-lifted-regroup-with-keyword.md`](case-file/37-lifted-regroup-with-keyword.md) | Cycle 38: cycle 37's digit regrouping with a K1–K3-style keyword layer (22 themed keys, Vigenère/Beaufort/variant, both orders), exact prefilter + z3 |
+| [`case-file/38-periodic-affine.md`](case-file/38-periodic-affine.md) | Cycle 39: periodic affine substitution (any multiplier and shift per class, A–Z/KRYPTOS numbering) direct and behind 165,065 transpositions |
 | [`tools/`](tools/) | Python: ciphertext, K1–K3 solvers, K4 analysis |
 | [`analysis/`](analysis/) | Saved outputs of the tools |
 | [`journal/`](journal/) | Case journal, one entry per cycle |
@@ -103,3 +104,21 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 - **Cycle 36 (2026-11-04)** — **Running keys in plain sight at Langley** (KJV Gospel of John — the lobby motto's source — and New Testament, National Security Act of 1947 as amended, Reagan's 1987 Brandenburg Gate speech, plus cycle 34's carved texts now under all 29 substitutions), forward and reversed × 165,065 transpositions × both layer orders, exact: **0 full fits**; K4 best 9 = shuffled nulls (9–10); 4/4 planted controls recovered. Literal **hex inside hex** (letters → digit pairs → regrouped → letters) is structurally impossible for a 26-letter text. **Negative.** → [case-file/35](case-file/35-plain-sight-running-keys-and-hex.md), [journal](journal/2026-11-04-cycle36.md)
 - **Cycle 37 (2026-11-04)** — **hex inside hex, mod-26 version** (valid for any plaintext, unlike cycle 36's literal regrouping): letters → base-10/16 digit pairs (A–Z/KRYPTOS, 0/1-based) → 363 digit-level transpositions (rotations, reversal, odd/even, columnar w 2–40, 22 themed keyword columnars, inverses) → pairs mod 26; 2,904 configurations solved exactly with z3 against the 24 cribs: **K4 0 satisfiable**, shuffled nulls 0/0/0, 3/3 planted controls recovered. **Negative.** → [case-file/36](case-file/36-lifted-digit-regrouping.md), [journal](journal/2026-11-04-cycle37.md)
 - **Cycle 38 (2026-11-04)** — **hex inside hex with a keyword on top**: cycle 37's lifted digit regrouping plus a periodic keyword substitution (Vigenère/Beaufort/variant, A–Z or KRYPTOS alphabet, 22 themed keys, before or after the regroup); 383,328 configurations per text, exact prefilter + z3: **K4 0**, shuffled nulls 0/0/0, 9/9 planted controls recovered. **Negative.** → [case-file/37](case-file/37-lifted-regroup-with-keyword.md), [journal](journal/2026-11-04-cycle38.md)
+- **Cycle 39 (2026-11-04)** — **periodic affine substitution** (new family: each class index mod L gets its own c = a·x + b, 312 maps, A–Z or KRYPTOS numbering) × 165,065 transpositions × both layer orders × L 1–26, exact crib check + quadgram scoring: **L 1–13 negative** (K4 −6.55 vs 10 shuffled nulls −6.44 to −6.74; 9/9 planted controls ranked first); L 14–26 untestable (overfit, K4 inside null range). → [case-file/38](case-file/38-periodic-affine.md), [journal](journal/2026-11-04-cycle39.md)
+
+## Coverage table (started cycle 39; update every cycle)
+| Family | Layers tested | Excluded | Still open |
+|---|---|---|---|
+| Periodic Vigenère/Beaufort/variant (AZ/KA tableau) | direct; behind 165k transpositions; with 1–2 carving anomalies | periods 1–26 direct; behind transpositions per cycles 13, 22, 24 | long periods behind wider transposition families |
+| Periodic, both alphabets arbitrary (SAT) | direct | P 1–7, 9–12, 14, 15, 17, 18, 21, 22, 25 (cycle 11b) | P = 8, 13, 16, 19, 20, 23, 24, 26 |
+| Quagmire I–IV | direct; behind 165k transpositions | themed alphabet pairs, p ≤ 16 | non-themed alphabets |
+| Periodic affine | direct; behind 165k transpositions | L 1–13 (cycle 39) | L ≥ 14; progressive multipliers |
+| Autokey (CT/PT-fed) | direct; behind transpositions | CT-fed lags 1–21 (cycle 19); PT-fed exact where not blind (cycle 22), English-scored lags 24–~70 direct (cycle 23) | PT-fed lags ≳ 75; blind lags behind transpositions |
+| Running key (books, carved texts, Langley texts) | direct; behind 165k transpositions | named sources; English-agnostic test | unnamed books behind wider transpositions |
+| Gromark / digit keys | direct | textbook and plain-sight alphabets, primers ≤ 6 | keyed alphabets on both sides (SAT) |
+| Hill | direct n ≤ 4, any numbering for 2×2; behind 165k transpositions n 2–4 | as tested (cycles 27, 29) | n ≥ 5 |
+| Chaocipher | direct; with transpositions | themed starting alphabets | arbitrary starting alphabets |
+| Fractionation (Playfair, Bifid, Trifid) | direct | 5×5 squares as last layer; Trifid partly | Trifid with other periods/alphabets |
+| Porta, Vernam XOR, M-94/themed cylinders | direct; behind transpositions | as tested | — |
+| Hex inside hex (digit regrouping) | literal; mod-26; with themed keyword | as tested (cycles 36–38) | unknown periodic key over the regroup |
+| Pure transposition | — | impossible (E count) | — |
