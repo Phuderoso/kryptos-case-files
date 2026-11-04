@@ -1,0 +1,4 @@
+n=97: 165064 transpositions
+n=98: 162966 transpositions
+best partial matches: {"('A', 97, 'CT')": 9, "('B', 97, 'CT')": 9, "('A', 97, 'PT')": 8, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 6}
+full-consistency hits: 0

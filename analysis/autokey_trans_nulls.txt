@@ -1,0 +1,16 @@
+# Shuffled-K4 nulls
+## null:1
+n=97: 165064 transpositions
+n=98: 162966 transpositions
+best partial matches: {"('A', 97, 'CT')": 9, "('B', 97, 'CT')": 8, "('A', 97, 'PT')": 7, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 7}
+full-consistency hits: 0
+## null:2
+n=97: 165064 transpositions
+n=98: 162966 transpositions
+best partial matches: {"('A', 97, 'CT')": 8, "('B', 97, 'CT')": 8, "('A', 97, 'PT')": 8, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 7}
+full-consistency hits: 0
+## null:3
+n=97: 165064 transpositions
+n=98: 162966 transpositions
+best partial matches: {"('A', 97, 'CT')": 9, "('B', 97, 'CT')": 9, "('A', 97, 'PT')": 7, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 7}
+full-consistency hits: 0

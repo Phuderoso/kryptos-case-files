@@ -1,0 +1,26 @@
+# Planted controls: python3 k4_autokey_trans.py control:SEED (1-3 ciphertext-fed, 101-102 plaintext-fed)
+## ctl_ct1.txt
+planted: ('B', 'CT', 'col823154760', 'KA', 'beau', 4)
+best partial matches: {"('A', 97, 'CT')": 10, "('B', 97, 'CT')": 23, "('A', 97, 'PT')": 7, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 6}
+full-consistency hits: 1
+  HIT ('B', 97, 'KA', 'beau', 'CT', 4, 'col823154760', 23)
+## ctl_ct2.txt
+planted: ('A', 'CT', 'col803156247', 'KA', 'vig', 12)
+best partial matches: {"('A', 97, 'CT')": 24, "('B', 97, 'CT')": 9, "('A', 97, 'PT')": 8, "('A', 98, 'CT')": 13, "('A', 98, 'PT')": 7}
+full-consistency hits: 1
+  HIT ('A', 97, 'KA', 'vig', 'CT', 12, 'col803156247^-1', 24)
+## ctl_ct3.txt
+planted: ('B', 'CT', 'col850163247', 'KA', 'beau', 20)
+best partial matches: {"('A', 97, 'CT')": 9, "('B', 97, 'CT')": 19, "('A', 97, 'PT')": 7, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 7}
+full-consistency hits: 2
+  HIT ('B', 97, 'KA', 'beau', 'CT', 20, 'col805163247', 18)
+  HIT ('B', 97, 'KA', 'beau', 'CT', 20, 'col850163247', 19)
+## ctl_pt.txt
+planted: ('A', 'PT', 'rot(41, 1, 0)+(10, 0, 0)^-1', 'KA', 'var', 8)
+best partial matches: {"('A', 97, 'CT')": 9, "('B', 97, 'CT')": 9, "('A', 97, 'PT')": 8, "('A', 98, 'CT')": 8, "('A', 98, 'PT')": 8}
+full-consistency hits: 1
+  HIT ('A', 97, 'KA', 'var', 'PT', 8, 'rot(41, 1, 0)+(10, 0, 0)', 8)
+## ctl_pt2.txt
+planted: ('A', 'PT', 'col825637140', 'AZ', 'vig', 12)
+best partial matches: {"('A', 97, 'CT')": 9, "('B', 97, 'CT')": 8, "('A', 97, 'PT')": 8, "('A', 98, 'CT')": 9, "('A', 98, 'PT')": 6}
+full-consistency hits: 0
