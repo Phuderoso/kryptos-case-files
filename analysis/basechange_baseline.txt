@@ -1,0 +1,61 @@
+b= 2 grom4  tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 2 grom5  tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 2 grom6  tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 2 rep    tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 3 grom4  tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 3 grom5  tests=  72667 random-rate=0.0000 expected=    0.0 observed=0
+b= 3 grom6  tests=  72648 random-rate=0.0000 expected=    0.0 observed=0
+b= 3 rep    tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 4 grom4  tests=  72668 random-rate=0.0000 expected=    0.0 observed=0
+b= 4 grom5  tests=  72646 random-rate=0.0000 expected=    0.0 observed=0
+b= 4 grom6  tests=  72550 random-rate=0.0000 expected=    0.0 observed=0
+b= 4 rep    tests=  72669 random-rate=0.0000 expected=    0.0 observed=0
+b= 5 grom4  tests=  72665 random-rate=0.0000 expected=    0.0 observed=0
+b= 5 grom5  tests=  72602 random-rate=0.0000 expected=    0.0 observed=0
+b= 5 grom6  tests=  72298 random-rate=0.0000 expected=    0.0 observed=0
+b= 5 rep    tests=  72669 random-rate=0.0000 expected=    0.0 observed=2
+b= 6 grom4  tests=  72653 random-rate=0.0000 expected=    0.0 observed=0
+b= 6 grom5  tests=  72504 random-rate=0.0000 expected=    0.0 observed=0
+b= 6 grom6  tests=  71877 random-rate=0.0003 expected=   24.0 observed=9
+b= 6 rep    tests=  72669 random-rate=0.0000 expected=    0.0 observed=6
+b= 7 grom4  tests=  72634 random-rate=0.0000 expected=    0.0 observed=0
+b= 7 grom5  tests=  72367 random-rate=0.0003 expected=   24.1 observed=6
+b= 7 grom6  tests=  71179 random-rate=0.0003 expected=   23.7 observed=36
+b= 7 rep    tests=  72669 random-rate=0.0000 expected=    0.0 observed=9
+b= 8 grom4  tests=  72608 random-rate=0.0013 expected=   96.8 observed=50
+b= 8 grom5  tests=  72232 random-rate=0.0000 expected=    0.0 observed=9
+b= 8 grom6  tests=  70766 random-rate=0.0003 expected=   23.6 observed=15
+b= 8 rep    tests=  72668 random-rate=0.0003 expected=   24.2 observed=7
+b= 9 grom4  tests=  72590 random-rate=0.0000 expected=    0.0 observed=42
+b= 9 grom5  tests=  71979 random-rate=0.0003 expected=   24.0 observed=35
+b= 9 grom6  tests=  70466 random-rate=0.0000 expected=    0.0 observed=32
+b= 9 rep    tests=  72667 random-rate=0.0003 expected=   24.2 observed=11
+b=10 grom4  tests=  72550 random-rate=0.0003 expected=   24.2 observed=3
+b=10 grom5  tests=  71689 random-rate=0.0007 expected=   47.8 observed=33
+b=10 grom6  tests=  70002 random-rate=0.0007 expected=   46.7 observed=36
+b=10 rep    tests=  72665 random-rate=0.0000 expected=    0.0 observed=10
+b=11 grom4  tests=  72499 random-rate=0.0000 expected=    0.0 observed=0
+b=11 grom5  tests=  71297 random-rate=0.0010 expected=   71.3 observed=38
+b=11 grom6  tests=  69231 random-rate=0.0003 expected=   23.1 observed=36
+b=11 rep    tests=  72665 random-rate=0.0000 expected=    0.0 observed=15
+b=12 grom4  tests=  72464 random-rate=0.0003 expected=   24.2 observed=16
+b=12 grom5  tests=  71039 random-rate=0.0000 expected=    0.0 observed=16
+b=12 grom6  tests=  68174 random-rate=0.0000 expected=    0.0 observed=29
+b=12 rep    tests=  72663 random-rate=0.0003 expected=   24.2 observed=9
+b=13 grom4  tests=  72398 random-rate=0.0000 expected=    0.0 observed=0
+b=13 grom5  tests=  70836 random-rate=0.0003 expected=   23.6 observed=32
+b=13 grom6  tests=  67152 random-rate=0.0000 expected=    0.0 observed=29
+b=13 rep    tests=  72660 random-rate=0.0003 expected=   24.2 observed=12
+b=14 grom4  tests=  72340 random-rate=0.0000 expected=    0.0 observed=18
+b=14 grom5  tests=  70733 random-rate=0.0003 expected=   23.6 observed=15
+b=14 grom6  tests=  66688 random-rate=0.0007 expected=   44.5 observed=35
+b=14 rep    tests=  72655 random-rate=0.0000 expected=    0.0 observed=10
+b=15 grom4  tests=  72278 random-rate=0.0010 expected=   72.3 observed=17
+b=15 grom5  tests=  70608 random-rate=0.0010 expected=   70.6 observed=33
+b=15 grom6  tests=  66376 random-rate=0.0003 expected=   22.1 observed=28
+b=15 rep    tests=  72649 random-rate=0.0000 expected=    0.0 observed=13
+b=16 grom4  tests=  72232 random-rate=0.0007 expected=   48.2 observed=56
+b=16 grom5  tests=  70361 random-rate=0.0000 expected=    0.0 observed=32
+b=16 grom6  tests=  66119 random-rate=0.0007 expected=   44.1 observed=33
+b=16 rep    tests=  72646 random-rate=0.0003 expected=   24.2 observed=6
+TOTAL expected under null ~923 ; observed 879
