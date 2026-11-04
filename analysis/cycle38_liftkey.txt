@@ -1,0 +1,50 @@
+Cycle 38 — lifted digit regrouping + themed keyword layer (python3 liftkey.py; run_cycle38.sh)
+K4: configs 383328, pass prefilter 0, SAT 0
+null1: configs 383328, pass prefilter 0, SAT 0
+null2: configs 383328, pass prefilter 0, SAT 0
+null3: configs 383328, pass prefilter 0, SAT 0
+control21: planted ('AZ', 1, 10, 'HEX', 'var', 'pre', 'kw2_BERLINCLOCK')
+control21_scan: configs 383328, pass prefilter 1, SAT 1
+  ('AZ', 1, 10, 'HEX', 'var', 'pre', 'kw2_BERLINCLOCK')
+  planted config among hits: True
+control22: planted ('AZ', 1, 10, 'MEMORY', 'vig', 'pre', 'rot93')
+control22_scan: configs 383328, pass prefilter 1, SAT 1
+  ('AZ', 1, 10, 'MEMORY', 'vig', 'pre', 'rot93')
+  planted config among hits: True
+control23: planted ('KA', 0, 10, 'ABSCISSA', 'vig', 'pre', 'col11_inv')
+control23_scan: configs 383328, pass prefilter 1, SAT 1
+  ('KA', 0, 10, 'ABSCISSA', 'vig', 'pre', 'col11_inv')
+  planted config among hits: True
+control24: planted ('KA', 1, 10, 'UNDERGRUUND', 'vig', 'post', 'rot84')
+control24_scan: configs 383328, pass prefilter 4, SAT 4
+  ('KA', 0, 10, 'UNDERGRUUND', 'vig', 'post', 'rot84')
+  ('KA', 0, 16, 'UNDERGRUUND', 'vig', 'post', 'rot84')
+  ('KA', 1, 10, 'UNDERGRUUND', 'vig', 'post', 'rot84')
+  ('KA', 1, 16, 'UNDERGRUUND', 'vig', 'post', 'rot84')
+  planted config among hits: True
+control25: planted ('KA', 1, 10, 'KRYPTOS', 'vig', 'pre', 'kw2_BERLINCLOCK')
+control25_scan: configs 383328, pass prefilter 1, SAT 1
+  ('KA', 1, 10, 'KRYPTOS', 'vig', 'pre', 'kw2_BERLINCLOCK')
+  planted config among hits: True
+control26: planted ('AZ', 1, 16, 'CARTER', 'vig', 'pre', 'kw_SANBORN')
+control26_scan: configs 383328, pass prefilter 1, SAT 1
+  ('AZ', 1, 16, 'CARTER', 'vig', 'pre', 'kw_SANBORN')
+  planted config among hits: True
+control27: planted ('KA', 1, 16, 'SANBORN', 'beau', 'post', 'rot36')
+control27_scan: configs 383328, pass prefilter 4, SAT 4
+  ('KA', 0, 10, 'SANBORN', 'beau', 'post', 'rot36')
+  ('KA', 0, 16, 'SANBORN', 'beau', 'post', 'rot36')
+  ('KA', 1, 10, 'SANBORN', 'beau', 'post', 'rot36')
+  ('KA', 1, 16, 'SANBORN', 'beau', 'post', 'rot36')
+  planted config among hits: True
+control28: planted ('AZ', 0, 16, 'CLOCK', 'var', 'post', 'rot114')
+control28_scan: configs 383328, pass prefilter 4, SAT 4
+  ('AZ', 0, 10, 'CLOCK', 'var', 'post', 'rot114')
+  ('AZ', 0, 16, 'CLOCK', 'var', 'post', 'rot114')
+  ('AZ', 1, 10, 'CLOCK', 'var', 'post', 'rot114')
+  ('AZ', 1, 16, 'CLOCK', 'var', 'post', 'rot114')
+  planted config among hits: True
+control29: planted ('AZ', 0, 16, 'EASTNORTHEAST', 'var', 'pre', 'rot43')
+control29_scan: configs 383328, pass prefilter 1, SAT 1
+  ('AZ', 0, 16, 'EASTNORTHEAST', 'var', 'pre', 'rot43')
+  planted config among hits: True
