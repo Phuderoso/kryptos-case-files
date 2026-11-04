@@ -1,0 +1,6 @@
+family size 28852
+planted 0: case A perm ('rot2', 32, 1, 12) period 4: recovered True; total hits 6 (periods [4, 8, 12])
+planted 1: case B1 perm ('rot2', 35, 0, 43) period 7: recovered True; total hits 1 (periods [7])
+planted 2: case A perm ('rot2', 35, 0, 13) period 6: recovered True; total hits 4 (periods [6, 12])
+planted 3: case B1 perm ('inv', 'col7', 2, 6) period 5: recovered True; total hits 2 (periods [5, 10])
+done-c

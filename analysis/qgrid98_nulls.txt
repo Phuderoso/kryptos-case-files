@@ -1,0 +1,7 @@
+null seed 0 (?+shuffled K4): 0 consistent (case, perm, tableau, mode, period) combos
+  by (case, period): 
+null seed 1 (?+shuffled K4): 0 consistent (case, perm, tableau, mode, period) combos
+  by (case, period): 
+null seed 2 (?+shuffled K4): 0 consistent (case, perm, tableau, mode, period) combos
+  by (case, period): 
+done-n
