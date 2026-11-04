@@ -1,0 +1,93 @@
+# Cycle 31 cylinder report (generated 2026-11-04 10:31 MST)
+## Direct (no transposition), n=4..D, every phase s
+RESULT disks=themed.txt text=k4.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_1.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_2.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_3.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_4.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_5.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_6.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_7.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_8.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_9.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_10.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_11.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_12.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_13.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_14.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_15.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_16.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_17.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_18.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_19.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=null_20.txt perms=1 hitperms=0 cells=459 hitcells=0 configs=0
+RESULT disks=themed.txt text=ctl_themed_1.txt perms=1 hitperms=1 cells=459 hitcells=1 configs=1
+RESULT disks=themed.txt text=ctl_themed_2.txt perms=1 hitperms=1 cells=459 hitcells=97 configs=349
+RESULT disks=themed.txt text=ctl_themed_3.txt perms=1 hitperms=1 cells=459 hitcells=162 configs=578
+RESULT disks=m94.txt text=k4.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_1.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_2.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_3.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_4.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_5.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_6.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_7.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_8.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_9.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_10.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_11.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_12.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_13.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_14.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_15.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_16.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_17.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_18.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_19.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_20.txt perms=1 hitperms=0 cells=319 hitcells=0 configs=0
+RESULT disks=m94.txt text=ctl_m94_1.txt perms=1 hitperms=1 cells=319 hitcells=1 configs=1
+RESULT disks=m94.txt text=ctl_m94_2.txt perms=1 hitperms=1 cells=319 hitcells=1 configs=1
+RESULT disks=m94.txt text=ctl_m94_3.txt perms=1 hitperms=1 cells=319 hitcells=1 configs=1
+## Behind 165,065 transpositions (K4 = T(cylinder(P)))
+RESULT disks=m94.txt text=k4.txt perms=165065 hitperms=1 cells=52655735 hitcells=1 configs=1
+RESULT disks=m94.txt text=null_1.txt perms=165065 hitperms=2 cells=52655735 hitcells=2 configs=2
+RESULT disks=m94.txt text=null_10.txt perms=165065 hitperms=4 cells=52655735 hitcells=6 configs=8
+RESULT disks=m94.txt text=null_2.txt perms=165065 hitperms=1 cells=52655735 hitcells=1 configs=1
+RESULT disks=m94.txt text=null_3.txt perms=165065 hitperms=37 cells=52655735 hitcells=38 configs=38
+RESULT disks=m94.txt text=null_4.txt perms=165065 hitperms=1 cells=52655735 hitcells=1 configs=1
+RESULT disks=m94.txt text=null_5.txt perms=165065 hitperms=4 cells=52655735 hitcells=4 configs=4
+RESULT disks=m94.txt text=null_6.txt perms=165065 hitperms=0 cells=52655735 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_7.txt perms=165065 hitperms=0 cells=52655735 hitcells=0 configs=0
+RESULT disks=m94.txt text=null_8.txt perms=165065 hitperms=3 cells=52655735 hitcells=3 configs=4
+RESULT disks=m94.txt text=null_9.txt perms=165065 hitperms=1 cells=52655735 hitcells=1 configs=1
+RESULT disks=m94.txt text=tctl_m94_1.txt perms=165065 hitperms=4 cells=52655735 hitcells=4 configs=4
+RESULT disks=m94.txt text=tctl_m94_2.txt perms=165065 hitperms=14 cells=52655735 hitcells=14 configs=14
+RESULT disks=themed.txt text=k4.txt perms=165065 hitperms=45 cells=75764835 hitcells=425 configs=986
+RESULT disks=themed.txt text=null_1.txt perms=165065 hitperms=29 cells=75764835 hitcells=147 configs=235
+RESULT disks=themed.txt text=null_10.txt perms=165065 hitperms=36 cells=75764835 hitcells=298 configs=635
+RESULT disks=themed.txt text=null_2.txt perms=165065 hitperms=26 cells=75764835 hitcells=128 configs=179
+RESULT disks=themed.txt text=null_3.txt perms=165065 hitperms=97 cells=75764835 hitcells=441 configs=669
+RESULT disks=themed.txt text=null_4.txt perms=165065 hitperms=45 cells=75764835 hitcells=287 configs=435
+RESULT disks=themed.txt text=null_5.txt perms=165065 hitperms=51 cells=75764835 hitcells=362 configs=595
+RESULT disks=themed.txt text=null_6.txt perms=165065 hitperms=48 cells=75764835 hitcells=348 configs=662
+RESULT disks=themed.txt text=null_7.txt perms=165065 hitperms=31 cells=75764835 hitcells=230 configs=369
+RESULT disks=themed.txt text=null_8.txt perms=165065 hitperms=26 cells=75764835 hitcells=146 configs=253
+RESULT disks=themed.txt text=null_9.txt perms=165065 hitperms=20 cells=75764835 hitcells=162 configs=285
+RESULT disks=themed.txt text=tctl_themed_1.txt perms=165065 hitperms=85 cells=75764835 hitcells=411 configs=495
+RESULT disks=themed.txt text=tctl_themed_2.txt perms=165065 hitperms=49 cells=75764835 hitcells=373 configs=738
+## Planted controls
+ctl_themed_1.txt {'n': 7, 's': 4}
+ctl_themed_2.txt {'n': 13, 's': 2}
+ctl_themed_3.txt {'n': 22, 's': 2}
+ctl_m94_1.txt {'n': 7, 's': 4}
+ctl_m94_2.txt {'n': 13, 's': 8}
+ctl_m94_3.txt {'n': 22, 's': 21}
+tctl_themed_1.txt {'n': 9, 's': 6, 'perm': 121006}
+tctl_themed_2.txt {'n': 17, 's': 3, 'perm': 74135}
+tctl_m94_1.txt {'n': 9, 's': 4, 'perm': 121006}
+tctl_m94_2.txt {'n': 17, 's': 3, 'perm': 74135}
+Planted cells recovered: see case file (single-perm reruns for themed transposition controls)
+HIT perm=0 n=9 s=6 configs=1
+HIT perm=0 n=17 s=3 configs=1
+HIT perm=121006 n=9 s=4 configs=1
+HIT perm=74135 n=17 s=3 configs=1
