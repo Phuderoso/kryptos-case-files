@@ -1,0 +1,87 @@
+CONTROL {'model': 'del', 't': 67897, 'd': 28, 'PA': 'KA', 'CA': 'AZ', 'mode': 'var', 'key': 'BERLIN', 'idx': 'pt', 'p': 6} 
+  carved XPWZYYTWLFXEVGNIKNASGERETMYPGWKSWDQWCIPASMTEJJVCAKWDWEDEGGDQDSWNNSKKKSFUVWUKKCNSCWSWWMOIYANZZBOCP 
+  hits(p<=14)=300 at true (t,d)=3
+    HIT t=36097 d=22 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPMJLHSPZJLH
+    HIT t=36097 d=23 PA=KA CA=AZ mode=vig idx=pt p=6 key=SPZJLH
+    HIT t=36097 d=23 PA=KA CA=AZ mode=vig idx=pt p=12 key=SP?JLHSPZJLH
+    HIT t=36097 d=23 PA=KA CA=AZ mode=vig idx=pt p=14 key=LHSPZJ?JLHSPZJ
+    HIT t=36097 d=24 PA=KA CA=AZ mode=vig idx=pt p=6 key=SPZJLH
+    HIT t=36097 d=24 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPZJLHSPZJLH
+   HIST 1:0 2:0 3:0 4:0 5:0 6:96 7:0 8:0 9:0 10:0 11:0 12:108 13:0 14:96 15:0 16:0 17:0 18:1728 19:0 20:9 21:645 22:5659 23:40661 24:61415 25:582061 26:7457874
+CONTROL {'model': 'del', 't': 75999, 'd': 48, 'PA': 'AZ', 'CA': 'AZ', 'mode': 'var', 'key': 'ABSCISSA', 'idx': 'ct', 'p': 8} 
+  carved KRIILBAVWRQQFPTEHZVRGJWDIFAPJMEALDWGLZTNEVNIZTGDDBCWQBIEQPYSVPHWDMRKKMEAQMBLTZAIDISHWMRTLAQSKUDEN 
+  hits(p<=14)=1024 at true (t,d)=3
+    HIT t=35387 d=45 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SI?XSIQYSI?S
+    HIT t=35387 d=46 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SI?XSIQYSI?S
+    HIT t=35387 d=47 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SI?XSIQYSI?S
+    HIT t=35387 d=48 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SI?XSIQYSI?S
+    HIT t=35387 d=49 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SI?XSIQYSI?S
+    HIT t=35387 d=50 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SI?XSIQYSI?S
+   HIST 1:0 2:0 3:0 4:128 5:0 6:0 7:0 8:384 9:0 10:0 11:0 12:512 13:0 14:0 15:0 16:384 17:0 18:0 19:1 20:774 21:317 22:2153 23:34162 24:64359 25:580756 26:7908733
+CONTROL {'model': 'del', 't': 149508, 'd': 83, 'PA': 'AZ', 'CA': 'AZ', 'mode': 'beau', 'key': 'NORTHEAST', 'idx': 'pt', 'p': 9} 
+  carved OIUZHRNYPHHFMLHEFZFSNWNXVXZKHMPWMHHKMOAHVADXDSXGWKGGHKLPPHWABKQPFWWTQKZOFRTFIUMELDXBVXWIRTNKDIIJW 
+  hits(p<=14)=63 at true (t,d)=1
+    HIT t=149508 d=39 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=40 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=41 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=42 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=43 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=44 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+   HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:63 10:0 11:0 12:0 13:0 14:0 15:2 16:0 17:0 18:75 19:0 20:13 21:237 22:2236 23:28712 24:60472 25:611075 26:7900579
+CONTROL {'model': 'ins', 't': 67897, 'd': 28, 'PA': 'KA', 'CA': 'AZ', 'mode': 'var', 'key': 'BERLIN', 'idx': 'pt', 'p': 6} 
+  carved XBYZYYCWLPPEVGTIKFWSGENETNXPUWGRKSMAQWCWPAWYTEJIVCSDWDWJDEAMDQDEWNGKKKKSFUNGUKKSNSVSSWWCOICWNZZMO 
+  hits(p<=14)=696 at true (t,d)=3
+    HIT t=15985 d=16 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPOJLHSPZJLH
+    HIT t=15985 d=17 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPOJLHSPZJLH
+    HIT t=15985 d=18 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPOJLHSPZJLH
+    HIT t=15985 d=19 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPOJLHSPZJLH
+    HIT t=15985 d=20 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPOJLHSPZJLH
+    HIT t=15985 d=21 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPOJLHSPZJLH
+   HIST 1:0 2:0 3:0 4:0 5:0 6:168 7:0 8:0 9:0 10:0 11:0 12:360 13:0 14:168 15:0 16:0 17:0 18:44764 19:0 20:0 21:191 22:1395 23:13953 24:57049 25:414434 26:4992888
+CONTROL {'model': 'ins', 't': 75999, 'd': 48, 'PA': 'AZ', 'CA': 'AZ', 'mode': 'var', 'key': 'ABSCISSA', 'idx': 'ct', 'p': 8} 
+  carved SRIALLAOKRQIFBTVWZVQGPWEHFARJJEDIDWPLMTALVNGZZGNQEDBIWTBDWQPCSQPIEDMYKVMHWQMRLKZEADIBHTMAILASSWUR 
+  hits(p<=14)=1680 at true (t,d)=3
+    HIT t=13747 d=46 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=13747 d=47 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=13747 d=48 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=13747 d=49 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=13747 d=50 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=13747 d=51 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+   HIST 1:0 2:0 3:0 4:168 5:0 6:0 7:0 8:168 9:0 10:0 11:0 12:1344 13:0 14:0 15:0 16:840 17:0 18:0 19:0 20:1680 21:18 22:522 23:15521 24:61421 25:405367 26:5202299
+CONTROL {'model': 'ins', 't': 149508, 'd': 83, 'PA': 'AZ', 'CA': 'AZ', 'mode': 'beau', 'key': 'NORTHEAST', 'idx': 'pt', 'p': 9} 
+  carved XTUAYMPXWNHKFPOZWGDHJILQZHIMHKAKWRDPFHURKHDSXOEZZGMBWHWMHIFLXWNKBTQLRKXKSFPDVMVHNETTPWVIXWFANGFIT 
+  hits(p<=14)=10 at true (t,d)=1
+    HIT t=149508 d=80 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=81 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=82 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=83 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=84 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+    HIT t=149508 d=85 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+   HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:10 10:0 11:0 12:0 13:0 14:0 15:0 16:0 17:0 18:12 19:0 20:110 21:56 22:1015 23:14436 24:59827 25:421826 26:5363239
+CONTROL {'model': 'chg', 't': 67897, 'd': 7, 'PA': 'KA', 'CA': 'AZ', 'mode': 'var', 'key': 'BERLIN', 'idx': 'pt', 'p': 6} 
+  carved XPPZYYTWLFWEVGNIKNXSGERETMAPWGWKSWYQWCIVASDTEJJVCAMWDWEDEGKDQDSWNNGKKKSFUVSUKKCNSCWSWWMOIYWNZZBOC 
+  hits(p<=14)=120 at true (t,d)=3
+    HIT t=26017 d=7 PA=KA CA=AZ mode=vig idx=pt p=6 key=SPZJLH
+    HIT t=26017 d=7 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPZJLHSPZJLH
+    HIT t=26017 d=7 PA=KA CA=AZ mode=vig idx=pt p=14 key=LHSPZJ?JLHSPZJ
+    HIT t=26017 d=14 PA=KA CA=AZ mode=vig idx=pt p=12 key=SPZJRHSPZJLH
+    HIT t=26017 d=20 PA=KA CA=AZ mode=vig idx=pt p=14 key=RHSPZJ?JLHSPZJ
+    HIT t=26089 d=7 PA=KA CA=AZ mode=vig idx=pt p=6 key=SPZJLH
+   HIST 1:0 2:0 3:0 4:0 5:0 6:24 7:0 8:0 9:0 10:0 11:0 12:48 13:0 14:48 15:0 16:0 17:0 18:482 19:4 20:2 21:170 22:1035 23:20007 24:30905 25:134089 26:3921860
+CONTROL {'model': 'chg', 't': 75999, 'd': 12, 'PA': 'AZ', 'CA': 'AZ', 'mode': 'var', 'key': 'ABSCISSA', 'idx': 'ct', 'p': 8} 
+  carved SRIALLAOKRQIFBTVWZVQGPWEHFARJJEDIDWPLMTALVNGZZGNEDBIWTBDWQPCSQPIEDMYKVMHWQMRRKZEADIBHTMAILASSWURT 
+  hits(p<=14)=60 at true (t,d)=3
+    HIT t=23903 d=12 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=23987 d=12 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIILSIIMSII?
+    HIT t=24015 d=12 PA=AZ CA=AZ mode=vig idx=ct p=4 key=SIIY
+    HIT t=24015 d=12 PA=AZ CA=AZ mode=vig idx=ct p=8 key=??IYSI??
+    HIT t=24015 d=12 PA=AZ CA=AZ mode=vig idx=ct p=12 key=SIIYSII?SIIY
+    HIT t=24063 d=12 PA=AZ CA=AZ mode=vig idx=ct p=4 key=SIIY
+   HIST 1:0 2:0 3:0 4:6 5:0 6:0 7:0 8:6 9:0 10:0 11:0 12:48 13:0 14:0 15:0 16:48 17:0 18:0 19:0 20:122 21:238 22:1077 23:16912 24:30125 25:137538 26:4047421
+CONTROL {'model': 'chg', 't': 149508, 'd': 20, 'PA': 'AZ', 'CA': 'AZ', 'mode': 'beau', 'key': 'NORTHEAST', 'idx': 'pt', 'p': 9} 
+  carved POFTPGMFTINDKHVWKGKUQUXIXVHTUHPVWFKXILQGRMMIANRWBJHLEFDBSZZEOXTSWXWIPWHNWXPMYADFNKRFKAZLKHWZHHDMH 
+  hits(p<=14)=2 at true (t,d)=1
+    HIT t=149508 d=4 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAFT
+    HIT t=149508 d=20 PA=AZ CA=AZ mode=beau idx=pt p=9 key=NORTHEAST
+   HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:2 10:0 11:0 12:0 13:0 14:0 15:0 16:0 17:0 18:24 19:0 20:8 21:106 22:1066 23:15531 24:29200 25:133936 26:4035346
+SWAP CONTROL t=66251 d=14 key SHADOW KA QIII idx=pt: hits=32794 at true (t,d)=4 -> recovered: HIT t=66251 d=14 PA=KA CA=KA mode=vig idx=pt p=6 key=GOHKFX (SHADOW in KA indices)
