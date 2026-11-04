@@ -1,0 +1,11 @@
+# Cycle 13: transposition undone + generic PERIODIC key (any letters), tools/c/periodic_perm.c
+# alphabets: first 264 of data/tw_alpha.txt (AZ, KA, reverses, single plain-sight words), pairings QIII (a,a), QII (AZ,a), QI (a,AZ)
+# modes vig (also variant Beaufort) and beau; key indexed by PT position or by carved position; periods 1-16
+# Commands: python3 tools/strip_gen.py; python3 tools/transwin_gen.py (cycle-12 set copied to data/c12_perm.bin)
+#           ./periodic_perm data/tw_alpha.bin data/st_perm.bin K4 264 16 ; same with data/c12_perm.bin
+## K4 on 147,709 strip transpositions (widths 9-48, both directions, every short-strip slot)
+TRANSPOSITIONS 147709 ALPHABETS_USED 264 PMAX 16
+HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:0 16:0
+## K4 on the 96,630 cycle-12 transpositions (columnar <=8 all orders, keyword columnar, routes, K3 double rotations, omitted letter)
+TRANSPOSITIONS 96630 ALPHABETS_USED 264 PMAX 16
+HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:0 16:0

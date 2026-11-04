@@ -1,0 +1,16 @@
+# Cycle 13 digit-window control: second line of tools/strip_control.py (keyed SHADOW, K2 digits, strips of 13)
+# expected: alphabet index 11 (k:SHADOW), width 6, strip13 transposition
+HIT D t=132242 a=11 vig w=6 s=14 n=24
+HIT D t=132242 a=12 vig w=6 s=7 n=24
+HIT D t=132242 a=5466 vig w=8 s=13 n=24
+HIT D t=132242 a=5467 vig w=8 s=6 n=24
+HIT D t=132242 a=20701 vig w=6 s=14 n=24
+HIT D t=132242 a=20702 vig w=6 s=7 n=24
+HIT F t=132242 pa=11 ca=12 beau w=6 s=6 n=24
+HIT F t=132242 pa=12 ca=11 beau w=6 s=13 n=24
+TRANSPOSITIONS 147709 ALPHABETS 20946 M 264
+HIST D vig 1:0 2:0 3:0 4:0 5:0 6:4 7:0 8:2 9:2 10:10
+HIST D beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:6
+HIST F vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:2 10:24
+HIST F beau 1:0 2:0 3:0 4:0 5:0 6:2 7:0 8:0 9:0 10:19
+t=132242 is strip13enc:k0:1>4,2>6,4>7,5>3
