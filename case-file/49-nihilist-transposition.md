@@ -41,3 +41,27 @@ scores −4.09 per quadgram; data in [`data/cycle50/`](../data/cycle50/).
 ## Not covered
 Rectangular Nihilist variants (different row and column keys), 98-cell or 11 × 9 grids, running keys on top, and
 substitution with mixed (non-tableau) alphabets.
+
+## Cycle 51 update — checkpoint closed (all 10! orders)
+σ[0] = 8 and 9 were run with the same tool ([`tools/run_cycle51.sh`](../tools/run_cycle51.sh)), so all
+3,628,800 orders are now covered (1.33 × 10¹¹ exact tests in total). Raw output: [`data/cycle51/results.txt`](../data/cycle51/results.txt).
+
+| Text | Sigmas | Consistent, L ≤ 19 | L = 20 | L = 21 | L = 22 |
+|---|---|---|---|---|---|
+| K4 | σ[0] = 8 (362,880) | 0 | 144 | 9 | 139 |
+| K4 | σ[0] = 9 (362,880) | 0 | 160 | 9 | 120 |
+| K4 | first 60,001 at σ[0] = 8 | 0 | 20 | 0 | 16 |
+| Shuffled K4, nulls 0/1/2 | first 60,001 at σ[0] = 8 | 0 | 6 / 14 / 15 | 1 / 2 / 4 | 19 / 13 / 11 |
+
+**The L = 19 configuration from cycle 50** (σ = 7312065849, empty cells first, row reading, KRYPTOS Beaufort,
+progressive key PUXOGXZCQQSUGZJMPPH, s = 9) decrypts to
+`ARMVPTJYOPVLYVKNYBVIEEASTNORTHEASTLUWHUXMXTXNGRBGZDWALMYZKRRSGNBERLINCLOCKLMJSKRANDZRPGINCHDGYIAG`,
+−7.14 per quadgram (English controls −4.09). Noise: with 19 key unknowns the cribs nearly fit by construction.
+
+**L = 20 on the matched slice:** K4's 20 sits just above the three nulls (6–15). All 20 hits come from 20 different
+σ's, and every one decrypts to non-English (best −6.83 per quadgram). With 20 unknowns against 24 crib letters the
+count is a weak test and three nulls are a small sample, so this is recorded as **no signal**, not as a lead.
+
+**Verdict (complete family):** Nihilist transposition 10 × 10 with one shared σ, any of the 10! orders, × periodic or
+progressive keyword key L ≤ 19 (Vigenère/Beaufort, A–Z/KRYPTOS, before/after): **impossible for K4.** L 20–22
+partial fits are unreadable. Not a solution; no claim.

@@ -1,0 +1,85 @@
+# Cycle 51: Nihilist transposition sigma[0]=8,9 (completes all 10! orders), L=19 print, matched null slice sigma[0]=8
+== k4_s8.out
+SUMMARY sigma0=8 sigmas=362880 tests=13284311040 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=5 consistent_s>0=34
+num=A model=B mode=B consistent_s0=0 consistent_s>0=32
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=1 consistent_s>0=45
+num=K model=B mode=B consistent_s0=1 consistent_s>0=174
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:144 21:9 22:139 23:0 24:0 25:0 26:0
+== k4_s9.out
+SUMMARY sigma0=9 sigmas=362880 tests=13284311040 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=1 consistent_s>0=35
+num=A model=B mode=B consistent_s0=1 consistent_s>0=42
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=31
+num=K model=B mode=B consistent_s0=8 consistent_s>0=171
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:160 21:9 22:120 23:0 24:0 25:0 26:0
+== k4_s8_matched.out
+SUMMARY sigma0=8 sigmas=60001 tests=2196480000 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=2 consistent_s>0=4
+num=A model=B mode=B consistent_s0=0 consistent_s>0=2
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=16
+num=K model=B mode=B consistent_s0=0 consistent_s>0=12
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:20 21:0 22:16 23:0 24:0 25:0 26:0
+== NULL0_s8.out
+SUMMARY sigma0=8 sigmas=60001 tests=2196480000 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=5
+num=A model=B mode=B consistent_s0=0 consistent_s>0=9
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=6
+num=K model=B mode=B consistent_s0=1 consistent_s>0=5
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:6 21:1 22:19 23:0 24:0 25:0 26:0
+== NULL1_s8.out
+SUMMARY sigma0=8 sigmas=60001 tests=2196480000 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=17
+num=A model=B mode=B consistent_s0=0 consistent_s>0=6
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=4
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:14 21:2 22:13 23:0 24:0 25:0 26:0
+== NULL2_s8.out
+SUMMARY sigma0=8 sigmas=60001 tests=2196480000 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=6
+num=A model=B mode=B consistent_s0=0 consistent_s>0=3
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=6
+num=K model=B mode=B consistent_s0=0 consistent_s>0=15
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:15 21:4 22:11 23:0 24:0 25:0 26:0
+== k4_L19.out (PRINTL=19 LMAX=19, sigma[0]=7)
+HIT sigma=7312065849 lay=1 read=0 inv=0 num=K model=B mode=B L=19 s=9 free=0 key=PUXOGXZCQQSUGZJMPPH score=-7.138 pt=ARMVPTJYOPVLYVKNYBVIEEASTNORTHEASTLUWHUXMXTXNGRBGZDWALMYZKRRSGNBERLINCLOCKLMJSKRANDZRPGINCHDGYIAG
+SUMMARY sigma0=7 sigmas=362880 tests=11472814080 best_qg=-7.138
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:1 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+== k4_s8_L20.out (PRINTL=20, matched slice) top 5 by score
+HIT sigma=8094726153 lay=0 read=0 inv=1 num=K model=B mode=B L=20 s=5 free=0 key=IFOUSIINOEXAWFVNEJSH score=-6.825 pt=JTYSSXVLPIJHCJHURDTBMEASTNORTHEASTESSSMDCVVNJQEFUWVEJCOVOJOONNFBERLINCLOCKCZZYLGTHDWQMLEDOWINKOKZ
+HIT sigma=8056214739 lay=0 read=0 inv=0 num=K model=B mode=V L=20 s=1 free=0 key=CLNEMQIBJVLUQEHRATOZ score=-6.907 pt=QLIAFUNCUUWVECALPWJMJEASTNORTHEASTFMANONDGZTWQPQIVPTJBHVLBUCOOTBERLINCLOCKSHSNFVHUYIETJZQSFYJGVLE
+HIT sigma=8059726143 lay=0 read=0 inv=1 num=K model=B mode=B L=20 s=5 free=0 key=GFOUSZINOJBAWFVTEJSS score=-6.932 pt=JTGXXIVLGSJHCJSGRDTXMEASTNORTHEASTLISSMUVEJCSWOJOPOUDYCNKIUZNNFBERLINCLOCKCOZYLATHQYMOLEBQKVVNOFE
+HIT sigma=8056214793 lay=0 read=0 inv=0 num=K model=B mode=V L=20 s=1 free=0 key=CLNUMQIBJFLUQRHRATOC score=-6.959 pt=QLIAFUNCOEWVECALPWYSJEASTNORTHEASTFMANPUDGZTWQPQSOPTJBHVLBZOOOTBERLINCLOCKSHSNFVFYJGVLUHUYIETJZVT
+HIT sigma=8019726543 lay=0 read=0 inv=1 num=K model=B mode=B L=20 s=5 free=0 key=GFOUHZINOBBAWFTTEJSS score=-7.000 pt=JIGXXTVZGSONDQCUKWUZMEASTNORTHEASTLISSMUVWJCSNOJOPJOCJSVRDTXNRFBERLINCLOCKCGZYLATOQQMHLNBQKFVNOTE
