@@ -1,0 +1,23 @@
+K4: configs 2904, SAT 0
+null1: configs 2904, SAT 0
+null2: configs 2904, SAT 0
+null3: configs 2904, SAT 0
+control11: planted (KA,1,16,kw2_ABSCISSA_inv) recovered=True
+control11_scan: configs 2904, SAT 1
+  ('KA', 1, 16, 'kw2_ABSCISSA_inv')
+  planted config among hits: True
+control12: planted (KA,1,16,rot136) recovered=True
+control12_scan: configs 2904, SAT 8
+  ('AZ', 0, 10, 'rot136')
+  ('AZ', 0, 16, 'rot136')
+  ('AZ', 1, 10, 'rot136')
+  ('AZ', 1, 16, 'rot136')
+  ('KA', 0, 10, 'rot136')
+  ('KA', 0, 16, 'rot136')
+  ('KA', 1, 10, 'rot136')
+  ('KA', 1, 16, 'rot136')
+  planted config among hits: True
+control13: planted (KA,0,10,rot147) recovered=True
+control13_scan: configs 2904, SAT 1
+  ('KA', 0, 10, 'rot147')
+  planted config among hits: True
