@@ -1,0 +1,131 @@
+{
+ "control_p5_one": {
+  "ct": "PG8BSQKLF4LA4O50K4UOT2TITAUHR50SLZGATO21QKZKFZD6RWZKJ5INN0ZVMOGM4MFCIRAVEREUKW5HAZB2RAJP2HVPYYB6V",
+  "true_ok": true,
+  "res": {
+   "0": [
+    5
+   ],
+   "1": []
+  }
+ },
+ "control_p9_one": {
+  "ct": "36HLYE9LMLI36B6TE3GQN3PYVKQMHN3ABVKM66HODX9YSS173YDRKE5G7GDDRSSB7IBOV6VLJF3DF42EL69LBZO79LJ1FFJEM",
+  "true_ok": true,
+  "res": {
+   "0": [
+    9
+   ],
+   "1": []
+  }
+ },
+ "control_p17_one": {
+  "ct": "EE06TVNEPNQBKBZLEQE5KYJEAXLCSC7LW0DJE0KJK8AHKQNHLQMEWG8T3N0GNAAZJBX7PVV5EWUWJHNE2NBY7U9GKEJBHNWNZ",
+  "true_ok": true,
+  "res": {
+   "0": [
+    17
+   ],
+   "1": []
+  }
+ },
+ "control_p7_two": {
+  "ct": "A595AOS0YM6D4XYLB65RZD89ATXMAD8HATP4015EYR965I3FO6A312A2SASTR3FBAMVD4JYUORWBHYYZO3L3AQYULUWHYABA9",
+  "true_ok": true,
+  "res": {
+   "0": [
+    6,
+    7,
+    14,
+    20,
+    21,
+    28,
+    37,
+    38,
+    39,
+    44,
+    46,
+    48,
+    49,
+    51,
+    53,
+    55,
+    61,
+    65,
+    75,
+    76,
+    77,
+    81,
+    82,
+    89,
+    91,
+    95,
+    96
+   ],
+   "1": [
+    10,
+    14,
+    15,
+    23,
+    24,
+    25,
+    26,
+    28,
+    32,
+    46,
+    53,
+    54,
+    68,
+    70,
+    96,
+    97
+   ]
+  }
+ },
+ "control_p13_two": {
+  "ct": "6H707HEJ19J9060JQ7WEJ8VYWGU67W0HHZJWR8NL77WL733JDKXDO4L7KCHQYXF8C7KO67AP81T4PSA757CAFK02835HO7KJY",
+  "true_ok": true,
+  "res": {
+   "0": [
+    4,
+    6,
+    13,
+    16,
+    24,
+    39,
+    40,
+    43,
+    44,
+    46,
+    49,
+    50,
+    51,
+    52,
+    60,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    83,
+    84,
+    85,
+    87,
+    88,
+    96
+   ],
+   "1": [
+    6,
+    24,
+    28,
+    29,
+    31,
+    46,
+    70,
+    80
+   ]
+  }
+ }
+}
