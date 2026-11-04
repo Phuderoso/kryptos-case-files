@@ -1,0 +1,105 @@
+### k4_d1_7.out
+SUMMARY tested=10761678 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### k4_d8_0.out
+SUMMARY tested=14348908 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### k4_d8_1.out
+SUMMARY tested=14348908 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### k4_d8_2.out
+SUMMARY tested=14348908 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### k4_d8_3.out
+SUMMARY tested=14348906 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### k4_d8_4.out
+SUMMARY tested=14348906 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### k4_d8_5.out
+SUMMARY tested=14348906 mono=0
+SUMMARY AZ vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY AZ beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA vig after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau before: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY KA beau after: 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### controls_and_nulls (7 digits; hit counts per text)
+== ctl_mono_3752
+MONO rev=0 key=3752
+MONO rev=0 key=3791752
+MONO rev=0 key=3782752
+MONO rev=0 key=3773752
+MONO rev=0 key=3764752
+10
+== ctl_mono_rev_61834
+MONO rev=1 key=61834
+MONO rev=1 key=618214
+MONO rev=1 key=618124
+MONO rev=1 key=6181114
+MONO rev=1 key=9946187
+5
+== ctl_KAvig_after_SHADOW_2864
+PER tab=KA mode=vig ord=after L=6 rev=0 key=2864 kfrag=SHADOW
+PER tab=KA mode=vig ord=after L=12 rev=0 key=2864 kfrag=SHADOWSHADOW
+PER tab=KA mode=vig ord=after L=6 rev=0 key=28631 kfrag=SHADOW
+PER tab=KA mode=vig ord=after L=12 rev=0 key=28631 kfrag=SHADOWSHADOW
+PER tab=KA mode=vig ord=after L=6 rev=0 key=28622 kfrag=SHADOW
+321
+== ctl_AZbeau_before_PALIMPSEST_957
+PER tab=AZ mode=beau ord=before L=10 rev=0 key=957 kfrag=PALIMPSEST
+PER tab=AZ mode=beau ord=before L=10 rev=0 key=9561 kfrag=PALIMPSEST
+PER tab=AZ mode=beau ord=before L=10 rev=0 key=9552 kfrag=PALIMPSEST
+PER tab=AZ mode=beau ord=before L=10 rev=0 key=9543 kfrag=PALIMPSEST
+PER tab=AZ mode=beau ord=before L=10 rev=0 key=9534 kfrag=PALIMPSEST
+733
+== ctl_KAvig_before_ABSCISSA_rev_4931726
+PER tab=KA mode=vig ord=before L=8 rev=1 key=494726 kfrag=ABSCISSA
+PER tab=KA mode=vig ord=before L=8 rev=1 key=4931726 kfrag=ABSCISSA
+PER tab=KA mode=vig ord=before L=8 rev=1 key=4922726 kfrag=ABSCISSA
+PER tab=KA mode=vig ord=before L=8 rev=1 key=4913726 kfrag=ABSCISSA
+4
