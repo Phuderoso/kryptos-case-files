@@ -1,0 +1,40 @@
+## null seed 1: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 0@('inv', 'rot2', 23, 0, 27, 0), 0@('inv', 'rot2', 8, 1, 58, 1), 0@('inv', 'rot2', 14, 1, 45, 0), 0@('rot2', 45, 0, 18, 1), 0@('rot2', 4, 1, 11, 1), 0@('rot2', 45, 1, 18, 0), 0@('rot2', 4, 0, 11, 0), 0@('inv', 'rot2', 24, 0, 27, 0)
+longest crib piece anywhere (pure transposition): 6 @ ('inv', 'rot2', 23, 0, 27, 0)
+best quadgram (pure transposition): -6.360 @ ('inv', 'rot2', 24, 0, 27, 0): DEGLYLLIARADINQOWBDTAREKILOOFGEEJGEKTHMSTUIRUCURANUDTKTHOERZBEJFTDEDTRWWIMXREKIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 11, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 2: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 0@('inv', 'rot2', 2, 0, 26, 1), 0@('inv', 'rot2', 23, 1, 53, 0), 0@('inv', 'rot2', 16, 0, 34, 1), 0@('inv', 'rot2', 15, 0, 13, 0), 0@('inv', 'rot2', 24, 0, 27, 0), 0@('rot2', 49, 1, 21, 0), 0@('rot2', 49, 0, 21, 1), 0@('rot2', 23, 0, 11, 0)
+longest crib piece anywhere (pure transposition): 6 @ ('inv', 'rot2', 2, 0, 26, 1)
+best quadgram (pure transposition): -6.508 @ ('rot2', 24, 0, 8, 0): SCEHWLLEGETITARLEPLTNSLORTWYWTHERCAPAVLESONDYAJERAGEFSEUHEISOTUAORENCCANBKNGEDRO...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 3, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 3: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 2@('inv', 'rot2', 14, 1, 56, 1), 1@('rot2', 43, 0, 37, 1), 1@('rot2', 43, 1, 37, 0), 0@('rot2', 51, 1, 41, 0), 0@('rot2', 51, 0, 41, 1), 0@('inv', 'rot2', 4, 1, 34, 0), 0@('rot2', 49, 1, 56, 1), 0@('inv', 'rot2', 27, 1, 59, 1)
+longest crib piece anywhere (pure transposition): 6 @ ('rot2', 51, 1, 41, 0)
+best quadgram (pure transposition): -6.356 @ ('inv', 'rot2', 54, 0, 12, 0): TEMLYZLINRAWINUOWADTZREVDLCOFXEEBGEHTHASTUIROCURINRDTZTHUERABEQFTJEDRRWRAMKREKIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 4, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 4: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 1@('inv', 'rot2', 61, 0, 48, 1), 1@('inv', 'rot2', 61, 0, 47, 1), 1@('inv', 'rot2', 62, 0, 47, 1), 0@('rot2', 45, 0, 14, 1), 0@('rot2', 45, 1, 14, 0), 0@('inv', 'rot2', 19, 0, 48, 1), 0@('rot2', 9, 0, 23, 1), 0@('rot2', 9, 1, 23, 0)
+longest crib piece anywhere (pure transposition): 7 @ ('rot2', 45, 0, 14, 1)
+best quadgram (pure transposition): -6.456 @ ('inv', 'rot2', 24, 0, 27, 0): DESLYTLIBRAGINJOWTDTRRETILLOFSEERGEOTHFSTIIRUCUAANLDTUTHFERKBELFTOEDWRWDIMBREWIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 8, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 5: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 0@('rot2', 45, 0, 14, 1), 0@('rot2', 45, 1, 14, 0), 0@('inv', 'rot2', 33, 0, 17, 1), 0@('inv', 'rot2', 32, 0, 17, 1), 0@('inv', 'rot2', 6, 0, 10, 0), 0@('inv', 'rot2', 24, 0, 27, 0), 0@('rot2', 49, 0, 21, 1), 0@('rot2', 49, 1, 21, 0)
+longest crib piece anywhere (pure transposition): 7 @ ('rot2', 45, 0, 14, 1)
+best quadgram (pure transposition): -6.394 @ ('rot2', 16, 0, 18, 0): HEKLYDLIRRAKINXOWODTNRUYDLSOFTEEPGETTHASTHIRICWAINDDTKTHEERFBEBFTBEDSRNTAMEREVIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 13, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 6: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 0@('rot2', 45, 0, 14, 1), 0@('rot2', 45, 1, 14, 0), 0@('inv', 'rot2', 24, 0, 10, 0), 0@('inv', 'rot2', 21, 1, 34, 1), 0@('inv', 'rot2', 24, 0, 27, 0), 0@('rot2', 47, 1, 32, 0), 0@('rot2', 47, 0, 32, 1), 0@('inv', 'rot2', 39, 1, 19, 1)
+longest crib piece anywhere (pure transposition): 7 @ ('rot2', 45, 0, 14, 1)
+best quadgram (pure transposition): -6.492 @ ('inv', 'rot2', 24, 0, 27, 0): DEBLYULIBRAGINZOWKDTCREKILBOFPEEKGEUTHHSTTIRICUJANGDTATHUERYBEQFTKEDVRWLIMAREFIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 8, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 7: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 1@('inv', 'rot2', 37, 0, 27, 0), 1@('inv', 'rot2', 38, 0, 27, 0), 1@('inv', 'rot2', 39, 0, 27, 0), 0@('inv', 'rot2', 33, 0, 17, 1), 0@('rot2', 24, 1, 29, 1), 0@('rot2', 24, 0, 29, 0), 0@('inv', 'rot2', 32, 0, 17, 1), 0@('inv', 'rot2', 15, 0, 18, 0)
+longest crib piece anywhere (pure transposition): 6 @ ('inv', 'rot2', 33, 0, 17, 1)
+best quadgram (pure transposition): -6.367 @ ('inv', 'rot2', 54, 0, 12, 0): TETLYXLITRAZINOOWPDTLRELDLGOFZEEKGELTHUSTEIROCUTINUDTDTHTERSBEAFTIEDURWNAMKREJIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 6, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0
+## null seed 8: K3+?+shuffled K4: n=434, 31000 permutations
+best K3-8gram recovery: 0@('inv', 'rot2', 30, 0, 8, 0), 0@('inv', 'rot2', 60, 0, 4, 0), 0@('inv', 'rot2', 61, 0, 4, 0), 0@('inv', 'rot2', 31, 0, 8, 0), 0@('inv', 'rot2', 62, 0, 4, 0), 0@('inv', 'rot2', 33, 1, 59, 0), 0@('rot2', 9, 0, 10, 0), 0@('rot2', 45, 0, 2, 0)
+longest crib piece anywhere (pure transposition): 7 @ ('inv', 'rot2', 30, 0, 8, 0)
+best quadgram (pure transposition): -6.377 @ ('inv', 'rot2', 24, 0, 27, 0): DEWLYVLIORAFINYOWJDTRREBILNOFEEELGERTHOSTKIRCCUSANTDTGTHLERPBEDFTLEDURWQIMSREHIC...
+keyword layer: 31000 perms x 90 keys x 3 modes; BERLIN hits 11, NORTHEAST/BERLINCLOCK/EASTNORTHEAST hits 0

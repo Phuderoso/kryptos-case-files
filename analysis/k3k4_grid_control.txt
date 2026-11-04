@@ -1,0 +1,8 @@
+K3 alone (336): exact K3 plaintext reproduced by the family: True
+planted trial 0: perm ('inv', 'rot2', 8, 0, 53, 1), key PALIMPSEST: direct recovery True; blind scan hits 1, correct among them: True
+planted trial 1: perm ('inv', 'rot2', 45, 1, 30, 1), key LAYERS: direct recovery True
+planted trial 2: perm ('rot2', 49, 1, 54, 0), key LAYER: direct recovery True
+
+real	0m13.616s
+user	1m7.976s
+sys	0m0.934s
