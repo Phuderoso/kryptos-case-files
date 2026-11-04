@@ -1,0 +1,66 @@
+(1) base-change keys: 24223 words x 3 numberings x bases 2..16 x uses -> 4302293 key tests, 879 feasible (arbitrary PA/CA)
+   feasible: ACCOMMODATION az 8 grom4 332711517022
+   feasible: ACCOMPANIMENT az 8 grom4 332711743200
+   feasible: ACCOMPLISHING az 8 grom4 332711774121
+   feasible: ACORNS ka 10 rep 87371472
+   feasible: ACTIONABLE ka 16 grom5 244154039812813
+   feasible: ADEPT a1 11 grom6 901695
+   feasible: ADROOP az 10 grom5 1679563
+   feasible: ADVANTAGEOUSLY az 16 grom5 50113188861406
+   feasible: ADVERSE a1 15 rep 8413411315
+   feasible: AHAB ka 8 grom5 403116
+   feasible: ALARM ka 12 grom6 120101028
+   feasible: ALAS a1 8 grom4 332767
+   feasible: ALIKE a1 11 grom5 701359
+   feasible: ALLAYING a1 13 grom5 10751011112331
+   feasible: ALLURINGS az 10 grom6 91993531154
+   feasible: ALMOST a1 13 grom6 1099138049
+   feasible: ALPHONSE ka 16 grom4 1452109715911
+   feasible: AMMUNITION ka 15 grom5 4121053103963711
+   feasible: AMONGST az 14 rep 15115131139
+   feasible: ANTICIPATING az 14 grom5 263013803881011
+   feasible: ANTICIPATINGLY ka 12 grom4 871008753101165
+   feasible: ANTICIPATION az 14 grom5 263013803881011
+   feasible: ANTICIPATIVE az 14 grom5 263013803881012
+   feasible: APOSTROPHISING az 10 rep 148546700826
+   feasible: APPALLED az 16 grom4 11141331141215
+   feasible: APPARENT az 16 grom4 1114135315313
+   feasible: APPEAL ka 13 grom5 146111624
+   feasible: APPEAR ka 13 grom5 146111611
+   feasible: APPEND ka 13 grom5 14611171210
+   feasible: APPOINTMENTS az 12 grom5 18611661121385
+   feasible: APRON az 13 grom5 98530
+   feasible: ARBITRARY ka 16 grom4 1561363511560
+   feasible: ARCHITECTURE az 10 grom6 241223159558
+   feasible: ARCTIC ka 16 grom4 415148077
+   feasible: ARKITE ka 11 grom5 43235682
+   feasible: ARRAH az 12 grom6 1211697
+   feasible: ARRANGEMENTS a1 15 grom4 210739613891050
+   feasible: ARRESTING a1 9 grom4 457545868513
+   feasible: ARSACIDES ka 11 grom5 518197500989
+   feasible: ARVE az 10 grom5 12042
+   feasible: ASCEND ka 9 grom6 188865251
+   feasible: ASCENT ka 9 grom6 188865244
+   feasible: ASCRIBE az 11 grom6 100455005
+   feasible: ASIATIC a1 14 grom4 11121351057
+   feasible: ASIATIC ka 11 grom5 10410894710
+   feasible: ASPECT az 8 grom5 40311717
+   feasible: ATOP az 16 grom4 33107
+   feasible: ATTACHMENTS a1 13 grom6 308120112151216
+   feasible: ATTIC ka 10 grom6 3272239
+   feasible: AUGURY a1 5 rep 444310123430
+   feasible: AUSTRALIANS ka 8 grom4 372715273542
+   feasible: BACKBONE a1 15 grom6 841014241115
+   feasible: BANISHED a1 16 grom4 7140151131014
+   feasible: BANTERINGLY az 8 grom5 405777702062
+   feasible: BATTLED a1 12 grom4 41120743910
+   feasible: BAXTER az 15 grom5 112140514
+   feasible: BEFORE az 9 grom4 27873658
+   feasible: BELATED a1 16 grom6 141593116
+   feasible: BELFAST az 15 rep 211111212313
+   feasible: BELUBED ka 11 grom6 11110408443
+   (1b) survivors x keyword/phrase alphabet pairs (96935^2 each, 8.26e+12 pair tests): 0 hits
+   SAT re-check of base-change survivors: 879/879 exactly satisfiable
+(2) phrase alphabets: 31418 phrase alphabets x 96935 partner alphabets x 2 sides; Quagmire-IV P in [1]..[26] + Gromark 39 primers -> 3.959e+11 alphabet-pair tests (exact hash join)
+   Gromark hits: 0; Quagmire-IV hits total: 236594340
+   Quagmire-IV hit counts by period (P>=13 are underdetermined by the cribs, see k4_sat.txt): {24: 733, 26: 236593607}

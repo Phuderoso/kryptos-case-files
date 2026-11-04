@@ -1,0 +1,14 @@
+CONTROL 1 planted: PALIMPSEST a1 base7 rep, random alphabets
+(1) base-change keys: 5 words x 3 numberings x bases 2..16 x uses -> 900 key tests, 1 feasible (arbitrary PA/CA)
+   feasible: PALIMPSEST a1 7 rep 126156353626
+CONTROL 2 planted Quag-IV P=8 PA=keyed(THEYUSEDTHEEARTHSMAGNETICFIELD) CA=keyed(ABSCISSA)
+(2) phrase alphabets: 31418 phrase alphabets x 96935 partner alphabets x 2 sides; Quagmire-IV P in [8]..[8] + Gromark 0 primers -> 6.091e+09 alphabet-pair tests (exact hash join)
+   Gromark hits: 0; Quagmire-IV hits: 2
+   Quagmire-IV hits by period: {8: 2}
+   Q PA=phrase 8 THEYUSDARMGNICFLBJKOPQVWXZ ABSCIDEFGHJKLMNOPQRTUVWXYZ
+   Q PA=phrase 8 ZXWVQPOKJBLFCINGMRADSUYEHT ZYXWVUTRQPONMLKJHGFEDICSBA
+CONTROL 3 planted Gromark 27182 PA=keyed(SANBORN) CA=keyed_KA(DOESLANGLEYKNOWABOUTTHIS)
+(2) phrase alphabets: 31418 phrase alphabets x 96935 partner alphabets x 2 sides; Quagmire-IV P in [8]..[8] + Gromark 1 primers -> 1.218e+10 alphabet-pair tests (exact hash join)
+   Gromark hits: 1; Quagmire-IV hits: 0
+   G CA=phrase 27182 DOESLANGYKWBUTHIRPCFJMQVXZ SANBORCDEFGHIJKLMPQTUVWXYZ
+   Quagmire-IV hits by period: {}
