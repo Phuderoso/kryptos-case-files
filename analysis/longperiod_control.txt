@@ -1,0 +1,11 @@
+planted PT: THEYWEREBURIEDAWAYINTEASTNORTHEASTWALLGOEASTNORTHEASTUNTILYOUREBERLINCLOCKATIONNEARTHEBERLINCLOCK
+planted CT: DHRZXJBECQVNAUHKLJETFWILEZJKHUQGSQQBVXGSDYDKTFTHYAMHJPTEUYRIYDLBRXMQKCMTTTPIVBPAAMCJVVILFJZKMWOZW (KA vig, P=31 random key)
+[control] families tested: 420; consistent: 284
+P=62 KA vig     collisions=0 unknown=49 quadgram/4gram(non-crib)=-4.2 n=18  .HEYWEREBURI.........EASTNORTHEAST.............................BERLINCLOCK.........THEBERLINCLOC.
+P=62 KA varbeau collisions=0 unknown=49 quadgram/4gram(non-crib)=-4.2 n=18  .HEYWEREBURI.........EASTNORTHEAST.............................BERLINCLOCK.........THEBERLINCLOC.
+P=31 KA vig     collisions=2 unknown=27 quadgram/4gram(non-crib)=-4.38 n=34  THEYWEREBURI.........EASTNORTHEASTWALLGOEAS.........TUNTILYOUREBERLINCLOCK.........THEBERLINCLOCK
+P=31 KA varbeau collisions=2 unknown=27 quadgram/4gram(non-crib)=-4.38 n=34  THEYWEREBURI.........EASTNORTHEASTWALLGOEAS.........TUNTILYOUREBERLINCLOCK.........THEBERLINCLOCK
+P=71 AZ vig     collisions=0 unknown=65 quadgram/4gram(non-crib)=-6.82 n=2  YQI..................EASTNORTHEAST.............................BERLINCLOCK..................UOVOK
+[null shuffle 0] families tested: 420; consistent: 282
+[null shuffle 1] families tested: 420; consistent: 283
+[null shuffle 2] families tested: 420; consistent: 282
