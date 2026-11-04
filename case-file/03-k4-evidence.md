@@ -84,6 +84,19 @@ Code: [`tools/k4_cycle3.py`](../tools/k4_cycle3.py) → [`analysis/k4_cycle3_rep
 Caveat: annealing is not exhaustive. With 25% per-restart recovery in the control, 4 restarts give roughly 68% detection for a config of that size; for larger widths it is lower. These are strong negatives, not proofs.
 Pre-1997 Weltzeituhr list: not reconstructible from public sources. Confirmed 1997 changes only: additions Oslo, Jerusalem, Kapstadt, Tel Aviv, Managua; renames Leningrad→St. Petersburg, Alma Ata→Almaty, Mexico City→Mexiko-Stadt, Bratislava→Pressburg ([Berliner Zeitung 1997](https://www.berliner-zeitung.de/article/20-staedtenamen-wurden-bei-der-restaurierung-ergaenzt-frisch-poliert-die-weltzeituhr-dreht-sich-bald-7079), [taz 2015](https://taz.de/Weltzeituhr-auf-dem-Alex/!5213004/), [de.wikipedia](https://de.wikipedia.org/wiki/Weltzeituhr_(Alexanderplatz))). 15 of the 20 additions remain unidentified.
 
+## 8c. Cycle 5 results (2026-11-04)
+
+| Test | Scope | Result |
+|---|---|---|
+| (A) Annealing, double columnar with first width 10–14 (second 5–14) × Vigenère P∈{5,7}, AZ/KA, B1/B2 | 3,200 runs × 20k steps | min **3** conflicts, 0 runs at 0; quadgram ≈ −7.1/char (random level) |
+| (B) K3-style rotations: one or two rotations, CW or CCW, every grid width 2–48 × Vigenère P 1–12, AZ/KA, B1/B2 | 4,512 perms, 216,576 exact tests | **0 survivors** (≥6 constraints) |
+| (C) Disrupted (triangular) columnar w 6–12 × Vigenère P 1–7 | 784 runs | min 9 conflicts |
+| (D) CT- and PT-autokey, lag 1–7, AZ/KA, after double columnar 5–9 | 1,400 runs | min 8 conflicts |
+| Controls: (B) planted rotation (cw,8,13) + KA P6 recovered exactly (1 extra false survivor in 216k); (C) planted order recovered 6/16; (D) planted PT-autokey recovered 2/16 | | pass |
+
+Reading (A): conflicts fall as the key space grows (8 at w≤9, 3 at w 10–14), and the plaintext stays random-like. That is over-fitting, not a signal: with more than about 10^20 keys and only 24 known letters, some key will eventually satisfy the cribs by chance. Brute force of this kind is approaching its identifiability limit.
+World Clock photo hunt: dated 1970s photos exist (Bundesarchiv Bild 183-E1003-0001-001; imago series of May 1970, 1972, 1976 and 1979 via [n-tv gallery](https://www.n-tv.de/mediathek/bilderserien/panorama/Die-Weltzeituhr-Berliner-Treffpunkt-seit-1969-article21253682.html)), as does a 1987 coin. None publicly shows the whole rotunda at a resolution where the names can be read, so the 80-name list remains unreconstructed.
+
 ## 9. Open hypotheses (to test)
 - `H2` transposition + Quagmire III (K3 layer then K1/K2 layer, or reverse) — "change in methodology".
 - `H3` key derived from the Weltzeituhr (24 time zones / city ring) — Sanborn's World Clock confirmation.
