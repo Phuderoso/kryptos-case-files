@@ -1,0 +1,30 @@
+======================================================================
+E1 - Pure transposition: CT letters would keep plaintext (English) frequencies
+chi^2 vs English (25 dof) = 576.5  (p<0.001 critical value 52.6)
+Crib letters missing from K4 multiset: {'E': 1}  -> IMPOSSIBLE as pure transposition
+K4 has E=2 vs ~12 expected for English; IoC test from cycle 1 (0.036) also rejects.
+======================================================================
+E2 - Unrestricted transposition T then periodic shift (CT=Sub(T(PT))): is ANY T compatible?
+Feasibility = bipartite matching of 24 crib letters to CT positions with key fixed per residue class.
+AZ Vigenere P=1: keys admitting a full crib matching = 4/26
+AZ Vigenere P=2: keys admitting a full crib matching = 166/676
+AZ Vigenere P=3: keys admitting a full crib matching = 5456/17576
+KA Vigenere P=1: keys admitting a full crib matching = 6/26
+KA Vigenere P=2: keys admitting a full crib matching = 150/676
+KA Vigenere P=3: keys admitting a full crib matching = 5540/17576
+Interpretation: once P>=1 keys admit a matching, unrestricted transposition cannot be falsified by 24 cribs; structure (a rule-generated T) is required for any test to have power.
+======================================================================
+E3 - Keyed columnar (all w! orders, w=2..8, read down) x {vig,beau}x{AZ,KA}x{B1,B2}, P=1..26; survivor needs >=6 constraints
+Column orders tested: 46232; survivors: 0
+======================================================================
+E4 - Numeric keys
+Digit-shift keys (1986, 1989, 19861989, 11091989, 26111922, K2 coordinate digits): 0 survivors (and a fortiori from cycle-1 periodicity proof).
+Gromark-style lagged-Fibonacci digit keys, ALL primers of length 2..5 (111,100 primers) x AZ/KA x vig/beau:
+Gromark survivors: 0
+World Clock offsets as a 24-step shift cycle (0..23 from each zone, both directions): survivors 0
+======================================================================
+E5 - Two keyword alphabets (Quagmire IV: PT alphabet A1, CT alphabet A2), periodic P=1..26
+Alphabet pairs: 576; survivors: 0
+======================================================================
+E6 - Quagmire IV (576 alphabet pairs) combined with the 224 cycle-2 route/keyed-columnar permutations, P=1..26
+Configurations: 3354624; survivors: 0

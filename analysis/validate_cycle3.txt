@@ -1,0 +1,3 @@
+C1 columnar+Vig: ["  SURVIVOR w=6 order=(2, 0, 5, 1, 4, 3) (('KA', 'vig'), 'B2', 5, 19)", "  SURVIVOR w=6 order=(2, 0, 5, 1, 4, 3) (('KA', 'vig'), 'B2', 10, 14)"]
+C2 Gromark: ['  SURVIVOR gromark primer=(3, 8, 5, 7) AZ vig']
+C3 Quagmire IV: ['  SURVIVOR EGYPT/URANIA P=6 cons=18', '  SURVIVOR EGYPT/URANIA P=12 cons=12']
