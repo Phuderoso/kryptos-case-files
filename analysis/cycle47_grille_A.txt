@@ -1,0 +1,78 @@
+# Cycle 47 turning grille, convention A, exact (grille_exact.py). 60 s cap per job; TIMEOUT = not decided.
+# Planted controls (convention A):
+ctl_0 (pt KA vig L=5 key PALIM): block1=9 block2=345 joins=4 grilles=4, key PALIM recovered, 214 s
+ctl_1 (ct AZ beau L=2 key QX): block1=14 block2=7 joins=30 grilles=1, key QX recovered, 1.4 s
+# z3 direct model (grille_sat.py): all 4 controls timed out at 150 s -> abandoned as too slow
+
+/workspace/k4c47/null_0.txt A ct AZ beau L=3 block1=0 block2=0 joins=0 grilles=0 1.4s
+/workspace/k4c47/null_0.txt A ct AZ vig L=3 block1=0 block2=0 joins=0 grilles=0 1.5s
+/workspace/k4c47/null_0.txt A ct KA beau L=3 block1=0 block2=0 joins=0 grilles=0 1.4s
+/workspace/k4c47/null_0.txt A ct KA vig L=3 block1=0 block2=0 joins=0 grilles=0 1.6s
+/workspace/k4c47/null_0.txt A pt AZ beau L=3 block1=0 block2=2 joins=0 grilles=0 3.6s
+/workspace/k4c47/null_0.txt A pt AZ vig L=3 block1=0 block2=0 joins=0 grilles=0 3.8s
+/workspace/k4c47/null_0.txt A pt KA beau L=3 block1=0 block2=0 joins=0 grilles=0 3.9s
+/workspace/k4c47/null_0.txt A pt KA vig L=3 block1=0 block2=0 joins=0 grilles=0 3.7s
+/workspace/k4c47/null_1.txt A ct AZ beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+/workspace/k4c47/null_1.txt A ct AZ vig L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+/workspace/k4c47/null_1.txt A ct KA beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+/workspace/k4c47/null_1.txt A ct KA vig L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+/workspace/k4c47/null_1.txt A pt AZ beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+/workspace/k4c47/null_1.txt A pt AZ vig L=2 block1=0 block2=0 joins=0 grilles=0 0.3s
+/workspace/k4c47/null_1.txt A pt KA beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+/workspace/k4c47/null_1.txt A pt KA vig L=2 block1=0 block2=0 joins=0 grilles=0 0.3s
+/workspace/k4c47/null_2.txt A ct AZ beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A ct AZ vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A ct KA beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A ct KA vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A pt AZ beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A pt AZ vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A pt KA beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+/workspace/k4c47/null_2.txt A pt KA vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A ct AZ beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A ct AZ beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A ct AZ beau L=3 block1=0 block2=0 joins=0 grilles=0 1.3s
+K4 A ct AZ beau L=4 block1=0 block2=25 joins=0 grilles=0 6.7s
+K4 A ct AZ beau L=5 block1=12 block2=341 joins=0 grilles=0 27.2s
+K4 A ct AZ beau L=6 TIMEOUT
+K4 A ct AZ vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A ct AZ vig L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A ct AZ vig L=3 block1=0 block2=0 joins=0 grilles=0 1.4s
+K4 A ct AZ vig L=4 block1=2 block2=15 joins=0 grilles=0 7.1s
+K4 A ct AZ vig L=5 block1=5 block2=280 joins=0 grilles=0 29.2s
+K4 A ct AZ vig L=6 TIMEOUT
+K4 A ct KA beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A ct KA beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A ct KA beau L=3 block1=0 block2=0 joins=0 grilles=0 1.3s
+K4 A ct KA beau L=4 block1=0 block2=29 joins=0 grilles=0 6.8s
+K4 A ct KA beau L=5 block1=18 block2=352 joins=0 grilles=0 26.5s
+K4 A ct KA beau L=6 TIMEOUT
+K4 A ct KA vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A ct KA vig L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A ct KA vig L=3 block1=0 block2=0 joins=0 grilles=0 1.4s
+K4 A ct KA vig L=4 block1=0 block2=14 joins=0 grilles=0 7.2s
+K4 A ct KA vig L=5 block1=1 block2=320 joins=0 grilles=0 28.5s
+K4 A ct KA vig L=6 TIMEOUT
+K4 A pt AZ beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A pt AZ beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A pt AZ beau L=3 block1=0 block2=0 joins=0 grilles=0 3.5s
+K4 A pt AZ beau L=4 block1=0 block2=11 joins=0 grilles=0 33.1s
+K4 A pt AZ beau L=5 TIMEOUT
+K4 A pt AZ beau L=6 TIMEOUT
+K4 A pt AZ vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A pt AZ vig L=2 block1=0 block2=0 joins=0 grilles=0 0.3s
+K4 A pt AZ vig L=3 block1=0 block2=0 joins=0 grilles=0 3.5s
+K4 A pt AZ vig L=4 block1=0 block2=6 joins=0 grilles=0 34.1s
+K4 A pt AZ vig L=5 TIMEOUT
+K4 A pt AZ vig L=6 TIMEOUT
+K4 A pt KA beau L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A pt KA beau L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A pt KA beau L=3 block1=0 block2=1 joins=0 grilles=0 3.2s
+K4 A pt KA beau L=4 block1=0 block2=12 joins=0 grilles=0 32.5s
+K4 A pt KA beau L=5 TIMEOUT
+K4 A pt KA beau L=6 TIMEOUT
+K4 A pt KA vig L=1 block1=0 block2=0 joins=0 grilles=0 0.0s
+K4 A pt KA vig L=2 block1=0 block2=0 joins=0 grilles=0 0.2s
+K4 A pt KA vig L=3 block1=0 block2=3 joins=0 grilles=0 3.8s
+K4 A pt KA vig L=4 block1=0 block2=14 joins=0 grilles=0 34.1s
+K4 A pt KA vig L=5 TIMEOUT
+K4 A pt KA vig L=6 TIMEOUT
