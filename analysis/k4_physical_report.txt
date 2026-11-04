@@ -1,0 +1,5 @@
+K4 physical coords (row, col) first/last: (24, 27) (27, 30) rows: [24, 25, 26, 27]
+tableau labels beside K4 rows: ['X', 'Y', 'Z', '(plain-alphabet footer)']
+P1 column/row readings x periodic P1-26: tests 832; survivors []
+P2-P4 tableau-position keys: tests 222; survivors []
+best crib matches: {'P2': 3, 'P3': 4, 'P4': 4}

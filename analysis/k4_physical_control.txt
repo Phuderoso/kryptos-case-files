@@ -1,0 +1,6 @@
+CONTROL (planted P3 dr=-1 dc=0 KA vig):
+  P1 column/row readings x periodic P1-26: tests 832, survivors []
+  P2-P4 tableau-position keys: tests 222, survivors [('P3', 'KA', 'vig', -1, 0)]
+CONTROL (planted P1 cols c1 r1 + KA vig CLOCK):
+  P1 column/row readings x periodic P1-26: tests 832, survivors [('cols c1 r1', 'KA', 'vig', 5, 19), ('cols c1 r1', 'KA', 'vig', 10, 14), ('cols c1 r1', 'KA', 'vig', 15, 12), ('cols c1 r1', 'KA', 'vig', 20, 9), ('rows c1 r1', 'KA', 'vig', 16, 8), ('cols c-1 r-1', 'KA', 'vig', 5, 19), ('cols c-1 r-1', 'KA', 'vig', 10, 14), ('cols c-1 r-1', 'KA', 'vig', 15, 12), ('cols c-1 r-1', 'KA', 'vig', 20, 9), ('rows c-1 r-1', 'KA', 'vig', 16, 8)]
+  P2-P4 tableau-position keys: tests 222, survivors []
