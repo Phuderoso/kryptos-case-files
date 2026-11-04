@@ -1,0 +1,10 @@
+# Cycle 13 planted control (tools/strip_control.py, first line): Quagmire III on KA, key CLOCK, strips of 11 reordered
+# expected: key CLOCK = KA indices 9,17,5,9,0 printed as letters A+index = JRFJA at period 5 (and its doubling at 10)
+CT WQMJDERVRQDDLXDHKOMLCFXNIVLFAIYBQYCKVHCNNSIBDSLEUNQRQGTYVSGHQXEGWJDQXCXNEZJFITYVSGHQXESSCWTDYWLED
+HIT t=62832 a=1 pair=QIII vig idx=pt p=5 key=JRFJA
+HIT t=62832 a=1 pair=QIII vig idx=pt p=10 key=JRFJAJRFJA
+HIT t=62832 a=3 pair=QIII vig idx=pt p=5 key=RJVRA
+HIT t=62832 a=3 pair=QIII vig idx=pt p=10 key=RJVRARJVRA
+TRANSPOSITIONS 147709 ALPHABETS_USED 264 PMAX 13
+HIST 1:0 2:0 3:0 4:0 5:2 6:0 7:0 8:0 9:0 10:2 11:0 12:0 13:0
+strip name of t=62832: strip11enc:k0:1>2,2>7,3>5,5>8,6>3 (duplicate-collapsed equivalent of the planted order)
