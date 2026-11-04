@@ -43,7 +43,7 @@ Every survivor must reproduce all 24 crib letters. Alphabets: AZ, KA, and the ke
 | 6 | H6 each W-segment has its own Caesar shift | 50 | **0** |
 | 7 | H7 progressive / stepped "clock-hand" key a+s·⌊i/m⌋ | 30,000 | **0** |
 | 8 | H8 Mengenlehreuhr lamp count, from any start minute (step 1/5/15/60 min) | 1,152,000 | **0** |
-| 9 | H9 running key from K1/K2/K3 plaintexts, ciphertexts, tableau (± reversed) | 487,400 | **0** |
+| 9 | H9 running key from K1/K2/K3 plaintexts, ciphertexts, tableau (± reversed) | 487,400 (+243,700 variant-Beaufort, added in cycle 10 audit) | **0** |
 | 10 | H10 ciphertext feedback / lagged self-key d=1..30 | 3,120 | **0** |
 | 11 | H11 '?'+K4 = 98 = 7×14, K3-style rotations then periodic sub | 16,640 | **0** |
 | 12 | Mengenlehreuhr row digits of a fixed time as the key | – | *reduces to period 4 → excluded in cycle 1* |

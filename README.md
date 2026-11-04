@@ -29,6 +29,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | [`case-file/05-layers-in-plain-sight.md`](case-file/05-layers-in-plain-sight.md) | Cycle 7: simple layered compositions from plain-sight material |
 | [`case-file/06-physical-and-copies.md`](case-file/06-physical-and-copies.md) | Cycle 8: text-only panel-row readings, Antipodes/Cyrillic diff, block shuffles |
 | [`case-file/07-creative-synthesis.md`](case-file/07-creative-synthesis.md) | Cycle 9: field review 2023–2026, K3-style insight, ranked creative hypotheses |
+| [`case-file/08-audit-and-gromark.md`](case-file/08-audit-and-gromark.md) | Cycle 10: audit of cycles 1–9; Bean's Gromark reproduced and pushed to alphabet recovery |
 | [`tools/`](tools/) | Python: ciphertext, K1–K3 solvers, K4 analysis |
 | [`analysis/`](analysis/) | Saved outputs of the tools |
 | [`journal/`](journal/) | Case journal, one entry per cycle |
@@ -46,3 +47,4 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 
 - **Cycle 8 (2026-11-04)** — text-only physical-row readings, Antipodes diff (K4 identical in both copies; only K2 UNDERGRUUND fixed), block-shuffle + periodic sub: 0 survivors, controls recovered → [case-file/06](case-file/06-physical-and-copies.md), [journal](journal/2026-11-04-cycle8.md)
 - **Cycle 9 (2026-11-04)** — field review (plaintext found in the Smithsonian in 2025 and sealed; the archive is owned by Paradigm; Bean 2021 points to one-to-one/Gromark). 11 ranked hypotheses (Gromark bases 2–10, W-separator/null, Berlin-clock lamps, running keys, 98-grid): 595.8M exact tests, **0 survivors**, 6 controls recovered. The W brackets around the cribs are not significant (p≈0.20 after look-elsewhere). → [case-file/07](case-file/07-creative-synthesis.md), [journal](journal/2026-11-04-cycle9.md)
+- **Cycle 10 (2026-11-04)** — audit: indexing, alphabets, modes and the E-count proof all PASS; one gap fixed (variant Beaufort for running keys; rerun gives 0). Bean's 39 Gromark primers reproduced (his code plus an independent solver). Standard-plain (A–Z) Gromark is **impossible** for bases 5–10 with primers of length 4–6; 1.7×10¹¹ keyword-alphabet pairs give 0 hits; controls recovered. → [case-file/08](case-file/08-audit-and-gromark.md), [journal](journal/2026-11-04-cycle10.md)
