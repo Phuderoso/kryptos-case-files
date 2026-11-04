@@ -1,0 +1,76 @@
+# Cycle 35 raw results (bookrk.c). depth = crib constraints satisfied together by one offset; 24 = full fit.
+== k4
+SUMMARY perms=165065 best=8 full=0 hist: 1:2836475 2:13426091 3:11819101 4:3371326 5:297542 6:15403 7:435 8:19
+== null_1
+SUMMARY perms=165065 best=9 full=0 hist: 1:2882103 2:13281598 3:11867355 4:3429683 5:282379 6:12635 7:517 8:9 9:1
+== null_2
+SUMMARY perms=165065 best=9 full=0 hist: 1:2708573 2:13174414 3:11975912 4:3599682 5:300291 6:13573 7:411 8:23 9:1
+== null_3
+SUMMARY perms=165065 best=8 full=0 hist: 1:2860728 2:13265754 3:11757548 4:3525077 5:330435 6:17802 7:512 8:16
+== null_4
+SUMMARY perms=165065 best=9 full=0 hist: 1:2879349 2:12996715 3:12004514 4:3570205 5:321791 6:12856 7:485 8:10 9:3
+== null_5
+SUMMARY perms=165065 best=8 full=0 hist: 1:2614269 2:13267107 3:12022653 4:3516210 5:324293 6:15148 7:404 8:28
+== null_6
+SUMMARY perms=165065 best=8 full=0 hist: 1:2919092 2:13351602 3:11777947 4:3419198 5:296230 6:12372 7:440 8:15
+== ctl_1
+FULL perm=34400 model=B mode=7 text=carter1 offset=175830
+FULL perm=34412 model=B mode=7 text=carter1 offset=175830
+FULL perm=34484 model=B mode=7 text=carter1 offset=175830
+FULL perm=34532 model=B mode=7 text=carter1 offset=175830
+FULL perm=54548 model=B mode=7 text=carter1 offset=175830
+FULL perm=54576 model=B mode=7 text=carter1 offset=175830
+FULL perm=54596 model=B mode=7 text=carter1 offset=175830
+FULL perm=54696 model=B mode=7 text=carter1 offset=175830
+FULL perm=64628 model=B mode=7 text=carter1 offset=175830
+FULL perm=64656 model=B mode=7 text=carter1 offset=175830
+FULL perm=64676 model=B mode=7 text=carter1 offset=175830
+FULL perm=64776 model=B mode=7 text=carter1 offset=175830
+SUMMARY perms=165065 best=24 full=12 hist: 1:2539861 2:13091769 3:12078032 4:3708804 5:330467 6:15848 7:686 8:25 9:4 13:552 23:36 24:12
+== ctl_2
+FULL perm=34653 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=34665 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=34773 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=34821 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=64869 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=64911 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=64917 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=65067 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=74949 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=74991 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=74997 model=A mode=16 text=carter1_rev offset=80765
+FULL perm=75147 model=A mode=16 text=carter1_rev offset=80765
+SUMMARY perms=165065 best=24 full=12 hist: 1:2601918 2:13753770 3:11733647 4:3361814 5:296865 6:12678 7:413 8:15 13:552 23:36 24:12
+== ctl_3
+FULL perm=148568 model=B mode=4 text=smith offset=33049
+SUMMARY perms=165065 best=24 full=1 hist: 1:2622621 2:13068751 3:12280417 4:3487006 5:300694 6:13920 7:510 8:15 9:1 24:1
+== ctl_4
+FULL perm=71857 model=B mode=21 text=carter1 offset=275646
+SUMMARY perms=165065 best=24 full=1 hist: 1:2828963 2:13339925 3:11701143 4:3526044 5:311218 6:15440 7:352 8:18 24:1
+
+== planted controls
+ctl_1: text=carter1 mode=7 model=B perm=34532 offset=175830 pt=BETHHADRETIREDASIHEAREASTNORTHEASTUTHRUSHEDINTOMYMINDMYARMSDROPBERLINCLOCKNOFEVERYMUSCLEANDFIBREW
+ctl_2: text=carter1_rev mode=16 model=A perm=74949 offset=80765 pt=HECAREOFACONFIDENTIALEASTNORTHEASTOWATHERLEISUREWITHTHEGREATERPBERLINCLOCKPERTYWHICHHADNOTYETARRI
+ctl_3: text=smith mode=4 model=B perm=148568 offset=33049 pt=SUFFICIENTTOSATISFYHIEASTNORTHEASTSCENERYOFEXTERNALNATUREWHICHOBERLINCLOCKONLYWITHADMIRATIONHELOV
+ctl_4: text=carter1 mode=21 model=B perm=71857 offset=275646 pt=GEREDINTHEDUNGEONSOFAEASTNORTHEASTNOWNHISPROPERTYWASCONFISCATEDBERLINCLOCKAMEANORPHANANDABEGGARSH
+
+== K4 depth-8 configs
+CAND depth=8 perm=30442 model=A mode=19 text=carter1
+CAND depth=8 perm=62633 model=B mode=23 text=carter1
+CAND depth=8 perm=65067 model=B mode=8 text=carter1
+CAND depth=8 perm=70968 model=A mode=27 text=carter1
+CAND depth=8 perm=73971 model=B mode=10 text=carter1
+CAND depth=8 perm=74575 model=B mode=16 text=carter1
+CAND depth=8 perm=103657 model=A mode=6 text=carter1
+CAND depth=8 perm=112209 model=A mode=9 text=carter1
+CAND depth=8 perm=123269 model=B mode=14 text=carter1
+CAND depth=8 perm=125159 model=B mode=17 text=carter1
+CAND depth=8 perm=137384 model=A mode=22 text=carter1
+CAND depth=8 perm=5562 model=A mode=23 text=carter1_rev
+CAND depth=8 perm=11066 model=A mode=11 text=carter1_rev
+CAND depth=8 perm=117460 model=A mode=20 text=carter1_rev
+CAND depth=8 perm=133124 model=A mode=17 text=carter1_rev
+CAND depth=8 perm=137983 model=B mode=0 text=carter1_rev
+CAND depth=8 perm=163095 model=B mode=21 text=smith
+CAND depth=8 perm=103327 model=B mode=15 text=smith_rev
+CAND depth=8 perm=122856 model=A mode=21 text=smith_rev
