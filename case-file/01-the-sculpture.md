@@ -39,10 +39,10 @@ ECDMRIPFEIMEHNLSSTTRTVDOHW?
 ## Known anomalies (evidence, not noise — until proven otherwise)
 | Anomaly | What is known | Source |
 |---|---|---|
-| **K2 missing `S`** | Sanborn (Apr 2006) admitted omitting a letter; restoring it changes the K2 ending from `WESTIDBYROWS` to `WESTXLAYERTWO`. Reproduced in our code. | Wired, 20 Apr 2006 (Wikipedia ref. 6) |
+| **K2 missing `S`** | Sanborn (Apr 2006) admitted omitting a letter; restoring it changes the K2 ending from `WESTIDBYROWS` to `WESTXLAYERTWO`. Reproduced in our code. | [Wired, 20 Apr 2006](https://www.wired.com/2006/04/typo-confounds-kryptos-sleuths/) |
 | **IQLUSION** (K1) | Misspelling; Sanborn's 2010-published coding chart shows key typo `PALIMPCEST` producing it | NYT, Original Decoding Charts, 2010 (Wikipedia ref. 29); [Wikipedia](https://en.wikipedia.org/wiki/Kryptos) |
 | **UNDERGRUUND** (K2) | Chart has `E` under the O; sculpture has `R` → decrypts to U | same |
-| **DESPARATLY** (K3) | Misspelling of DESPERATELY; Sanborn called misspellings intentional | Wired, 20 Apr 2006 (Wikipedia ref. 6) |
+| **DESPARATLY** (K3) | Misspelling of DESPERATELY; Sanborn called misspellings intentional | [Wired, 20 Apr 2006](https://www.wired.com/2006/04/typo-confounds-kryptos-sleuths/) |
 | Superscript **YAR** | Only superscript letters on the sculpture (start of lower left half, within K3) | [Wikipedia](https://en.wikipedia.org/wiki/Kryptos) |
 | Extra **L** in tableau | Spells `HILL` down the right column; *conjecture* of Hill cipher in K4 | [Bauer et al. 2016](https://doi.org/10.1080/01611194.2016.1141556) |
 | Sanborn quote | "most of my things are rife with mistakes on purpose" (2005) | Wired, 20 Jan 2005 (Wikipedia ref. 10/31) |

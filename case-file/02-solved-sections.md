@@ -11,7 +11,7 @@ All results below were **re-derived on 2026-11-04** by [`tools/solve_k1_k2_k3.py
 ## K2 — keyed Vigenère (Quagmire III)
 - Same alphabet; key `ABSCISSA`. `?` characters pass through and do not advance the key.
 - As carved, ending reads `...FORTY FOUR SECONDS WEST ID BY ROWS`.
-- With the omitted `S` restored immediately before the last 8 ciphertext letters (i.e. `...GE`**S**`WJLLAETG`), ending reads `...SECONDS WEST X LAYER TWO` ✅ — matching Sanborn's 2006 correction (Wired, 20 Apr 2006; Wikipedia ref. 6).
+- With the omitted `S` restored immediately before the last 8 ciphertext letters (i.e. `...GE`**S**`WJLLAETG`), ending reads `...SECONDS WEST X LAYER TWO` ✅ — matching Sanborn's 2006 correction (Wired, 20 Apr 2006: https://www.wired.com/2006/04/typo-confounds-kryptos-sleuths/).
 - Full plaintext: `IT WAS TOTALLY INVISIBLE HOWS THAT POSSIBLE? THEY USED THE EARTHS MAGNETIC FIELD X THE INFORMATION WAS GATHERED AND TRANSMITTED UNDERGRUUND TO AN UNKNOWN LOCATION X DOES LANGLEY KNOW ABOUT THIS? THEY SHOULD ITS BURIED OUT THERE SOMEWHERE X WHO KNOWS THE EXACT LOCATION? ONLY WW THIS WAS HIS LAST MESSAGE X THIRTY EIGHT DEGREES FIFTY SEVEN MINUTES SIX POINT FIVE SECONDS NORTH SEVENTY SEVEN DEGREES EIGHT MINUTES FORTY FOUR SECONDS WEST X LAYER TWO`
 - Coordinates 38°57′6.5″N 77°8′44″W: reported ~53 m SE of the sculpture under a modern datum ([Wikipedia](https://en.wikipedia.org/wiki/Kryptos), citing Burstein & de Keijzer 2009).
 

@@ -27,5 +27,6 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 
 ## Status
 - **Cycle 1 (2026-11-04):** K1–K3 independently reproduced in code. K4: periodic Vigenère/Beaufort/Variant-Beaufort with periods 1–26 (standard and KRYPTOS alphabets) **falsified** by the official cribs. K4 remains **unsolved** publicly. See [journal](journal/2026-11-04.md).
+- **Cycle 2 (2026-11-04):** Hill 2×2/3×3, 69,888 transposition+substitution configurations, autokey, running keys (K0–K3), and 34 misspelling/World-Clock keyword tableaux — **all falsified**, with positive controls proving the tests work. Primary sources added; Sanborn's Nov 2025 statement that the found text was "scrambled plain text" points to a transposition layer. See [journal](journal/2026-11-04-cycle2.md).
 
 *Primary secondary-source index: [Wikipedia: Kryptos](https://en.wikipedia.org/wiki/Kryptos) — every item cited from it is to be cross-checked against its references.*
