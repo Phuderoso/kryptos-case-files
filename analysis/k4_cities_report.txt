@@ -1,0 +1,6 @@
+cities current: 147; original-approx: 142
+(1) keyword-alphabet tests: 39260; consistent: 64 (all at P with <6 redundant constraints: [26], ncons=[1]); with >=6 constraints: 0
+(2) running key current/forward: length 1138, best crib matches 6/24
+(2) running key current/reverse: length 1138, best crib matches 6/24
+(2) running key original-approx/forward: length 1101, best crib matches 6/24
+(2) running key original-approx/reverse: length 1101, best crib matches 6/24
