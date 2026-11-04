@@ -1,0 +1,64 @@
+== CTL1.out
+BOTH a=1 dir=-1 d=25 segs=9/5 mask1=8 mask2=20
+BOTH a=1 dir=1 d=1 segs=9/5 mask1=8 mask2=20
+BOTH a=33191 dir=-1 d=1 segs=9/5 mask1=8 mask2=20
+BOTH a=33191 dir=1 d=25 segs=9/5 mask1=8 mask2=20
+alphabets=86731 crib1_fit=4 crib2_fit=4 both=4
+== CTL2.out
+BOTH a=5000 dir=-1 d=1 segs=9/5 mask1=8 mask2=20
+BOTH a=5000 dir=1 d=25 segs=9/5 mask1=8 mask2=20
+alphabets=86731 crib1_fit=2 crib2_fit=2 both=2
+== CTL3.out
+BOTH a=20000 dir=-1 d=23 segs=9/5 mask1=8 mask2=20
+BOTH a=20000 dir=1 d=3 segs=9/5 mask1=8 mask2=20
+alphabets=86731 crib1_fit=2 crib2_fit=2 both=2
+== CTL4.out
+BOTH a=0 dir=-1 d=25 segs=13/11 mask1=0 mask2=0
+BOTH a=0 dir=1 d=1 segs=13/11 mask1=0 mask2=0
+BOTH a=2 dir=-1 d=1 segs=13/11 mask1=0 mask2=0
+BOTH a=2 dir=1 d=25 segs=13/11 mask1=0 mask2=0
+alphabets=86731 crib1_fit=4 crib2_fit=4 both=4
+== K4_direct.out
+alphabets=86731 crib1_fit=0 crib2_fit=0 both=0
+== K4_perm_0.out
+perms=0..25000 alphabets=12465 crib1_fit=0 both=0
+== K4_perm_25000.out
+perms=25000..50000 alphabets=12465 crib1_fit=0 both=0
+== K4_perm_50000.out
+perms=50000..75000 alphabets=12465 crib1_fit=0 both=0
+== K4_perm_75000.out
+perms=75000..93334 alphabets=12465 crib1_fit=0 both=0
+== NULL0.out
+alphabets=86731 crib1_fit=0 crib2_fit=0 both=0
+== NULL1.out
+alphabets=86731 crib1_fit=0 crib2_fit=0 both=0
+== NULL2.out
+alphabets=86731 crib1_fit=0 crib2_fit=0 both=0
+== NULL3.out
+alphabets=86731 crib1_fit=0 crib2_fit=0 both=0
+== NULL4.out
+alphabets=86731 crib1_fit=0 crib2_fit=0 both=0
+== PCTL1.out
+BOTH perm=5000 alpha=1 dir=-1
+BOTH perm=5000 alpha=33191 dir=1
+perms=0..93334 alphabets=12465 crib1_fit=2 both=2
+== PCTL2.out
+BOTH perm=57377 alpha=0 dir=-1
+BOTH perm=57377 alpha=2 dir=1
+BOTH perm=57425 alpha=0 dir=-1
+BOTH perm=57425 alpha=2 dir=1
+BOTH perm=77777 alpha=0 dir=-1
+BOTH perm=77777 alpha=2 dir=1
+BOTH perm=77825 alpha=0 dir=-1
+BOTH perm=77825 alpha=2 dir=1
+BOTH perm=87857 alpha=0 dir=-1
+BOTH perm=87857 alpha=2 dir=1
+BOTH perm=87905 alpha=0 dir=-1
+BOTH perm=87905 alpha=2 dir=1
+perms=0..93334 alphabets=12465 crib1_fit=1200 both=12
+== PNULL0.out
+perms=0..93334 alphabets=12465 crib1_fit=0 both=0
+== PNULL1.out
+perms=0..93334 alphabets=12465 crib1_fit=0 both=0
+== PNULL2.out
+perms=0..93334 alphabets=12465 crib1_fit=0 both=0
