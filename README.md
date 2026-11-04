@@ -62,6 +62,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | [`case-file/41-stehle-lag4-run.md`](case-file/41-stehle-lag4-run.md) | Cycle 42: preregistered look-elsewhere and mechanism test of the Stehle lag-4 run (carved 55–63) |
 | [`case-file/42-bifid-6x6.md`](case-file/42-bifid-6x6.md) | Cycle 43: Bifid on an arbitrary 6×6 square (exact SAT, periods 1–97, both orientations), alone and followed by a substitution |
 | [`case-file/43-rail-fence-redefence-amsco.md`](case-file/43-rail-fence-redefence-amsco.md) | Cycle 44: rail fence, Redefence and AMSCO transpositions with a periodic or progressive keyword |
+| [`case-file/44-running-keys-behind-rail-amsco.md`](case-file/44-running-keys-behind-rail-amsco.md) | Cycle 45: running keys (carved texts, Carter vol. I, Gospel of John) behind rail fence, Redefence and AMSCO |
 | [`tools/`](tools/) | Python: ciphertext, K1–K3 solvers, K4 analysis |
 | [`analysis/`](analysis/) | Saved outputs of the tools |
 | [`journal/`](journal/) | Case journal, one entry per cycle |
@@ -115,6 +116,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 - **Cycle 42 (2026-11-04)** — **the Stehle lag-4 run, preregistered** (carved 55–63, c[i+4] − c[i] = 5 in A–Z numbering): corrected for 48 looks (lags 1–24 × A–Z/KRYPTOS) against 200,000 shuffles, **p ≈ 0.008**, the same order as K1 (0.005) and K2 (0.03); narrow p ≈ 0.0002 only without the correction. Every simple mechanism that would produce it (period 1/2/4, progressive period 4, arithmetic keys, either layer order) is already excluded by cycles 13, 24, 39–41 or needs a `B???B???B` plaintext; the crib-derived key shows no such regularity (p ≈ 0.99). **Negative / downgraded.** → [case-file/41](case-file/41-stehle-lag4-run.md), [journal](journal/2026-11-04-cycle42.md)
 - **Cycle 43 (2026-11-04)** — **Bifid on a 6×6 square** (26 letters + 10 signs, arbitrary placement), exact SAT, periods 1–97, both orientations: **0 of 194 consistent for K4** and for 5 shuffled nulls; planted controls (p 5, 9, 17) recovered at exactly the true period. Plain Bifid is now closed for every square that holds 26 letters. With a substitution after it (two independent squares) the cribs cannot judge it: K4 14 consistent pairs vs nulls 9–33, controls pass at many false periods. **Negative (one square) / open (two squares).** → [case-file/42](case-file/42-bifid-6x6.md), [journal](journal/2026-11-04-cycle43.md)
 - **Cycle 44 (2026-11-04)** — **rail fence, Redefence and AMSCO** (new transposition families: rails 2–48, Redefence 3–7 rails in any order, AMSCO widths 2–9 in any column order; 1.87M permutations) × periodic or progressive keyword (L 1–26, s 0–25), Vigenère/Beaufort, A–Z/KRYPTOS tableau, both layer orders, exact: **K4 0 consistent at L ≤ 20**; 15 shuffled nulls 0 at L ≤ 18; 11/11 planted controls recovered. **Negative.** → [case-file/43](case-file/43-rail-fence-redefence-amsco.md), [journal](journal/2026-11-04-cycle44.md)
+- **Cycle 45 (2026-11-04)** — **running keys behind rail fence, Redefence and AMSCO**: carved texts, Carter vol. I and KJV John (forward and reversed) × 29 substitutions × cycle 44's 1,873,954 permutations × both layer orders, exact bitset test (≈ 7.9 × 10¹³ key placements): **K4 0 full fits**, best 9/24; 3 shuffled nulls 8–10; 3/3 planted controls recovered. **Negative.** → [case-file/44](case-file/44-running-keys-behind-rail-amsco.md), [journal](journal/2026-11-04-cycle45.md)
 
 ## Coverage table (started cycle 39; update every cycle)
 | Family | Layers tested | Excluded | Still open |
@@ -126,7 +128,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | Progressive affine (stepping multiplier and shift) | direct; behind 165k transpositions | a0·rⁱ, linear and second-order shift, both forms (cycle 40) | step driven by a second themed word |
 | Progressive keyword key (keyword shifts s each lap) | direct; behind 165k transpositions | L ≤ 20, any s, Vigenère/Beaufort, AZ/KA tableau (cycle 41) | L 21–26; mixed (non-tableau) alphabets |
 | Autokey (CT/PT-fed) | direct; behind transpositions | CT-fed lags 1–21 (cycle 19); PT-fed exact where not blind (cycle 22), English-scored lags 24–~70 direct (cycle 23) | PT-fed lags ≳ 75; blind lags behind transpositions |
-| Running key (books, carved texts, Langley texts) | direct; behind 165k transpositions | named sources; English-agnostic test | unnamed books behind wider transpositions |
+| Running key (books, carved texts, Langley texts) | direct; behind 165k transpositions; behind 1.87M rail/Redefence/AMSCO (cycle 45: carved texts, Carter vol. I, John) | named sources; English-agnostic test | unnamed books behind wider transpositions; NT, NSA 1947, Reagan, Smith behind rail/AMSCO |
 | Gromark / digit keys | direct | textbook and plain-sight alphabets, primers ≤ 6 | keyed alphabets on both sides (SAT) |
 | Hill | direct n ≤ 4, any numbering for 2×2; behind 165k transpositions n 2–4 | as tested (cycles 27, 29) | n ≥ 5 |
 | Chaocipher | direct; with transpositions | themed starting alphabets | arbitrary starting alphabets |
@@ -134,5 +136,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | Porta, Vernam XOR, M-94/themed cylinders | direct; behind transpositions | as tested | — |
 | Hex inside hex (digit regrouping) | literal; mod-26; with themed keyword | as tested (cycles 36–38) | unknown periodic key over the regroup |
 | Pure transposition | — | impossible (E count) | — |
-| Rail fence, Redefence, AMSCO | behind/in front of periodic and progressive keyword | rails 2–48, Redefence ≤ 7 rails, AMSCO w 2–9, L ≤ 20 (cycle 44) | Redefence 8+ rails; AMSCO w ≥ 10; running keys behind them |
+| Rail fence, Redefence, AMSCO | behind/in front of periodic and progressive keyword; running keys (cycle 45) | rails 2–48, Redefence ≤ 7 rails, AMSCO w 2–9, L ≤ 20 (cycle 44); carved/Carter/John running keys (cycle 45) | Redefence 8+ rails; AMSCO w ≥ 10 |
+| Myszkowski transposition | annealing only (cycle 4, heuristic) | nothing exactly | exact test with periodic/progressive key |
+| Turning grille, disrupted columnar | — | — | everything |
 | Statistical anomalies (Stehle lag-4 run) | look-elsewhere test; mechanism check against cribs | Stehle run: p ≈ 0.008 corrected, no surviving simple mechanism (cycle 42) | a local key change at 55–63 (untestable from cribs) |
