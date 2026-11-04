@@ -1,0 +1,32 @@
+planted: ('KA', 'beau', 'col817245360^-1', 'NKIDROWSEMYSE', 'HOUGHIHAVED')
+  -4.773 KA beau col817245360^-1        NKIDROWSEMYSE / HOUGHIHAVED
+  -4.869 KA beau col817425360^-1        NKIDRAWTEMYSE / HOUGHIHAVED
+planted key fragments found at rank: 1
+planted: ('KA', 'beau', 'col831540627', 'OSETHISHESAID', 'SURETHEIRRE')
+  -3.535 KA beau col871540623           OSETHISHESAID / SURETHEIRRE
+  -3.535 KA beau col871530624           OSETHISHESAID / SURETHEIRRE
+planted key fragments found at rank: 1
+planted: ('KA', 'beau', 'rot(45, 0, 1)+(43, 0, 1)', 'SAGOWEALLWENT', 'SSOFSOMEOFU')
+  -4.370 KA beau rot(45, 0, 1)+(43, 0, 1) SAGOWEALLWENT / SSOFSOMEOFU
+  -5.396 AZ vig rot(31, 0, 0)+(49, 1, 1)^-1 ITWONDBERNTCT / LBETHWMESTV
+planted key fragments found at rank: 1
+planted: ('KA', 'var', 'rot(9, 0, 1)+(40, 0, 0)', 'DLOOKINGATTHE', 'ANDEXAMININ')
+  -3.861 KA var rot(9, 0, 1)+(40, 0, 0) DLOOKINGATTHE / ANDEXAMININ
+  -5.506 AZ beau col803572461^-1        EJMFDBERITDEU / LEDHISTEITB
+planted key fragments found at rank: 1
+planted: ('AZ', 'var', 'rot(32, 1, 0)+(44, 1, 1)', 'NLIGHTHIMSELF', 'MEFROMFIRST')
+  -3.927 AZ var rot(32, 1, 0)+(44, 1, 1) NLIGHTHIMSELF / MEFROMFIRST
+  -5.415 AZ var rot(35, 0, 0)+(32, 1, 0) HSPSAHELIPALN / SGHTHESTUMA
+planted key fragments found at rank: 1
+planted: ('AZ', 'beau', 'col75264013', 'ONORHELLHAVET', 'STYANDPLUCK')
+  -4.344 AZ beau col75264013            ONORHELLHAVET / STYANDPLUCK
+  -4.344 AZ beau col75263014            ONORHELLHAVET / STYANDPLUCK
+planted key fragments found at rank: 1
+planted: ('AZ', 'var', 'col801543627^-1', 'HOLDBEGGARANY', 'ESEVENWHENH')
+  -4.236 AZ var col801543627^-1        HOLDBEGGARANY / ESEVENWHENH
+  -4.735 AZ var col801546327^-1        HALDBEEGATANY / ESEVENWHENH
+planted key fragments found at rank: 1
+planted: ('AZ', 'vig', 'col836741205', 'EMTOMEGOODTHA', 'APSLESSENTH')
+  -4.243 AZ vig col856731204           EMTOMEGOODTHA / APSLESSENTH
+  -4.243 AZ vig col856714203           EMTOMEGOODTHA / APSLESSENTH
+planted key fragments found at rank: 1

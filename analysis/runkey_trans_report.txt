@@ -1,0 +1,9 @@
+K4: 165064 transpositions x 6 tableaux; top 8 fragment scores (mean log10/quadgram):
+  -5.030 KA var col75416023^-1         HAPTATRIBEFXC / SAYSHONHEEK
+  -5.147 KA var rot(14, 0, 1)+(8, 1, 0) APERHOREISUNU / NDSAVIOUHZE
+  -5.269 KA var col75620314^-1         KTNANTITHEMEC / TFTITOBRAOW
+  -5.401 KA var col75160324^-1         KUPANTRTSEMEC / TDYITOORCEW
+  -5.428 KA var rot(5, 0, 0)+(42, 0, 1) ELYOKETAWEDFX / GANYIFEROFV
+  -5.491 KA var col74160325^-1         KUPAMORTSEMEC / TDYIRBORCEW
+  -5.500 KA var col75621304^-1         BVNANTITHEMEC / CATITOBNIOW
+  -5.516 KA var col75610324^-1         KQPANTITHEMEC / THYITOBRREW
