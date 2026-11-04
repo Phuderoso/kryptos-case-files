@@ -1,0 +1,20 @@
+k4: chunks=8 tests=5972676320 consistent(L<=20)=0 byL={} partial_by_L(21-26 shown)={21: 104, 22: 225, 23: 4641, 24: 4087, 25: 128914, 26: 4461736}
+null1: chunks=8 tests=5972676320 consistent(L<=20)=0 byL={} partial_by_L(21-26 shown)={21: 15, 22: 193, 23: 4103, 24: 4219, 25: 128012, 26: 4507144}
+null2: chunks=8 tests=5972676320 consistent(L<=20)=0 byL={} partial_by_L(21-26 shown)={21: 3, 22: 180, 23: 4762, 24: 4163, 25: 130189, 26: 4414797}
+null3: chunks=8 tests=5972676320 consistent(L<=20)=0 byL={} partial_by_L(21-26 shown)={21: 28, 22: 199, 23: 5417, 24: 4230, 25: 131632, 26: 4405048}
+control 81 truth perm=1061033 (mysz w=8 ranks=56254013/enc) L=8 s=1 num=K model=B mode=B: hits=6 recovered=True rank1_truth=True
+control 82 truth perm=303500 (mysz w=8 ranks=10465234/dec) L=13 s=6 num=K model=B mode=V: hits=1 recovered=True rank1_truth=True
+control 83 truth perm=1040514 (mysz w=8 ranks=54203051/dec) L=7 s=2 num=K model=A mode=V: hits=1 recovered=True rank1_truth=True
+control 84 truth perm=594727 (mysz w=8 ranks=24315220/enc) L=9 s=22 num=A model=B mode=V: hits=4 recovered=True rank1_truth=True
+
+== L=21 partial fits, clustered ==
+K4: 104 fits on 89 distinct permutations, all width 8; 54 share one setting (A-Z, model B, Beaufort, s=19) on near-identical rank patterns. Null 3: 28 fits on 28 permutations (w 7-8).
+
+k4 n= 104 best -6.721 median -7.065
+  -6.721 free=1 CMGGVEZXNGOIDVQIHWEATEASTNORTHEASTHIMOJOXWUNGECDERHREKXQCABYSHBBERLINCLOCKHGSRZQLGSDXPMGBDBILWMEB | P21 perm=928236 num=K model=B mode=V s=19
+  -6.859 free=1 LGREMWSEHUWASIJJEFLIJEASTNORTHEASTGZVPARHPSLYJZORKEXSCLOOAMGSKEBERLINCLOCKUDCVWXGCXPYOANTOEMNSRWW | P21 perm=317312 num=K model=B mode=B s=22
+  -6.882 free=0 ZYRQPOIDTHQGHYKFSBSEIEASTNORTHEASTNEOIGUGZKKVQEDERLOETXCEDBYPPRBERLINCLOCKWATQXROUBUOJTOYQZZFGDZG | P21 perm=1094701 num=K model=B mode=V s=15
+n3 n= 28 best -6.826 median -7.025
+  -6.826 free=0 AELTESULABUEFYZLSWHFFEASTNORTHEASTRIOWSGIAURGVUVIWNEUKTKXJQWHMJBERLINCLOCKEGTHUSQFOTRKOGSGXILYCAB | P21 perm=51589 num=A model=B mode=V s=18
+  -6.840 free=0 FEKTDSZLBBIEMYVLKWBFCEASTNORTHEASTNITWIGYASRGVAVYWOEMKHKTJQDHMOBERLINCLOCKIGTTUSCFOURKHGSJXIUYCSB | P21 perm=44401 num=A model=B mode=V s=18
+  -6.840 free=0 JLLZXBBHSDDMKQQWQUCPDEASTNORTHEASTNKRKYIZEBPPDDECFTOBEAMEGACZMMBERLINCLOCKLMRJUHRHYYZRALIHECEOYYC | P21 perm=1070795 num=K model=B mode=V s=4
