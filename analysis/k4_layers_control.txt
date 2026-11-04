@@ -1,0 +1,2 @@
+CONTROL tests 32272128; survivors 1
+   {"alpha": "KA", "T": "('K3', 7, 14)", "mode": "vig", "model": "sub_last", "key": "SHADOW", "phase": 2, "quad_per_char": -4.013, "pt": "WEMETATTHECORNERWHEREEASTNORTHEASTASTNORTHEASTANDTHEOLDSTATIONSBERLINCLOCKFORTHEBERLINCLOCKTOSTRI"}

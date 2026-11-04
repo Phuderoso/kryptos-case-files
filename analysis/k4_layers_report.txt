@@ -1,0 +1,5 @@
+K4: transpositions 4514; alphabets 14; tests 597,639,168; full-crib survivors 0
+best partial crib matches (m/24):
+   (10, 'KEYED_PALIMPSEST', ('K3ccw', 31, 43), 'beau', 'sub_last', 'IDBYROWS_rev', 5)
+   (10, 'KEYED_CLOCK', ('K3', 44, 40), 'beau', 'sub_first', 'SCRAMBLED', 6)
+   (10, 'KEYED_BERLIN', ('K3ccw', 35, 39), 'vig', 'sub_first', 'CANDLE_rev', 1)
