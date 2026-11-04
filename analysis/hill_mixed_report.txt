@@ -1,0 +1,20 @@
+Cycle 29 — Hill 2x2 with arbitrary letter numbering, exact SAT (tools/hill_mixed_sat.py)
+Planted controls: see analysis/hill_controls_planted.txt
+K4 offset=0 pairs=11 involved_letters=20 solutions=0 invertibleM=0 classes(/12)=0.0 time=231.3s
+K4 offset=1 pairs=11 involved_letters=21 solutions=0 invertibleM=0 classes(/12)=0.0 time=14.1s
+hctl_1.txt offset=0 pairs=11 involved_letters=18 solutions=24 invertibleM=24 classes(/12)=2.0 time=507.8s
+   M= [7, 24, 14, 15] sigma(part)= A25 C21 E16 H17 I15 J13 K3 L23 M14 N0 O11 R4 S24 T22 U5 V1 Y6 Z10 
+   M= [7, 24, 14, 15] sigma(part)= A12 C8 E3 H4 I2 J0 K16 L10 M1 N13 O24 R17 S11 T9 U18 V14 Y19 Z23 
+   M= [7, 24, 14, 15] sigma(part)= A4 C20 E1 H10 I18 J0 K14 L12 M9 N13 O8 R23 S21 T3 U6 V22 Y15 Z25 
+hctl_1.txt offset=1 pairs=11 involved_letters=19 solutions=0 invertibleM=0 classes(/12)=0.0 time=183.4s
+hctl_2.txt offset=0 pairs=11 involved_letters=21 solutions=0 invertibleM=0 classes(/12)=0.0 time=46.1s
+hctl_2.txt offset=1 pairs=11 involved_letters=20 solutions=12 invertibleM=12 classes(/12)=1.0 time=1227.5s
+   M= [11, 16, 21, 17] sigma(part)= A3 B20 C17 E0 F23 G4 H7 I14 J16 K19 L22 N18 O10 R25 S6 T8 U9 V5 Y2 Z1 
+   M= [11, 16, 21, 17] sigma(part)= A5 B16 C11 E0 F21 G24 H3 I6 J18 K23 L2 N4 O8 R7 S10 T22 U15 V17 Y12 Z19 
+   M= [11, 16, 21, 17] sigma(part)= A15 B22 C7 E0 F11 G20 H9 I18 J2 K17 L6 N12 O24 R21 S4 T14 U19 V25 Y10 Z5 
+hnull_1.txt offset=0 pairs=11 involved_letters=20 solutions=0 invertibleM=0 classes(/12)=0.0 time=494.9s
+hnull_1.txt offset=1 pairs=11 involved_letters=20 solutions=0 invertibleM=0 classes(/12)=0.0 time=0.0s
+hnull_3.txt offset=0 pairs=11 involved_letters=19 solutions=0 invertibleM=0 classes(/12)=0.0 time=52.9s
+hnull_3.txt offset=1 pairs=11 involved_letters=21 solutions=0 invertibleM=0 classes(/12)=0.0 time=51.6s
+hnull_2.txt: alignment 0 still unresolved after ~30 min wall time on a shared core; stopped, no result recorded (neither SAT nor UNSAT).
+Check: control 1's first class equals the planted sigma times u = 9 (e.g. A 23*9=207=25 mod 26, C 11*9=21), i.e. the planted key up to unit scaling. Control 2's first class is the planted sigma exactly.
