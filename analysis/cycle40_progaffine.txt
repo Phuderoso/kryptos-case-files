@@ -1,0 +1,23 @@
+# Cycle 40 — progressive affine, output of tools/run_cycle40.sh (wall time 2m13s on 8 cores)
+text | mode | exact tests | consistent configs | best quadgram
+k4 | linear | 4944026880 | 0 | -
+null1 | linear | 4944026880 | 0 | -
+null2 | linear | 4944026880 | 0 | -
+null3 | linear | 4944026880 | 0 | -
+null4 | linear | 4944026880 | 0 | -
+null5 | linear | 4944026880 | 0 | -
+null6 | linear | 4944026880 | 0 | -
+null7 | linear | 4944026880 | 0 | -
+null8 | linear | 4944026880 | 0 | -
+null9 | linear | 4944026880 | 0 | -
+null10 | linear | 4944026880 | 0 | -
+k4 | second-order | 128544698880 | 0 | -
+null101 | second-order | 128544698880 | 0 | -
+ctl 41 {'perm': 99882, 'num': 'K', 'model': 'A', 'form': 'E', 'a0': 15, 'r': 21, 'd': 9, 'q': 0} consistent 1 planted found True top is planted True
+ctl 42 {'perm': 29184, 'num': 'A', 'model': 'B', 'form': 'E', 'a0': 7, 'r': 5, 'd': 3, 'q': 0} consistent 24 planted found True top is planted True
+ctl 43 {'perm': 10106, 'num': 'K', 'model': 'A', 'form': 'D', 'a0': 11, 'r': 23, 'd': 25, 'q': 0} consistent 1 planted found True top is planted True
+ctl 44 {'perm': 107095, 'num': 'A', 'model': 'A', 'form': 'D', 'a0': 7, 'r': 9, 'd': 7, 'q': 0} consistent 1 planted found True top is planted True
+ctl 45 {'perm': 71270, 'num': 'K', 'model': 'B', 'form': 'D', 'a0': 3, 'r': 9, 'd': 0, 'q': 0} consistent 24 planted found True top is planted True
+ctl 46 {'perm': 20023, 'num': 'K', 'model': 'A', 'form': 'E', 'a0': 23, 'r': 19, 'd': 18, 'q': 0} consistent 6 planted found True top is planted True
+ctl 47 {'perm': 92234, 'num': 'A', 'model': 'B', 'form': 'D', 'a0': 21, 'r': 11, 'd': 16, 'q': 13} consistent 4 planted found True top is planted True
+ctl 48 {'perm': 143696, 'num': 'K', 'model': 'A', 'form': 'D', 'a0': 19, 'r': 7, 'd': 24, 'q': 14} consistent 1 planted found True top is planted True
