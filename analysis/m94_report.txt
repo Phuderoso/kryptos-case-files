@@ -1,0 +1,54 @@
+Cycle 30 — M-94 cylinder (25 published disks) results
+== Direct (no transposition) ==
+RESULT text=k4.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=ctl_1.txt perms=1 hitperms=1 hitconfigs=1 fixed_offset_hits=0
+RESULT text=null_1.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_2.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_3.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_4.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_5.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_6.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_7.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_8.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_9.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_10.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_11.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_12.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_13.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_14.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_15.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_16.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_17.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_18.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_19.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_20.txt perms=1 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+== Order A: undo transposition, then M-94 (165,065 transpositions) ==
+RESULT text=k4.txt perms=165065 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+HIT perm=110703 g=(11,8,21) disks: c0=9 c1=19 c2=17 c3=3 c4=11 c5=1 c6=20 c7=14 c8=5 c13=13 c14=23 c15=16 c16=10 c17=8 c18=25 c19=4 c20=2 c21=15 c22=12 c23=18 c24=7
+RESULT text=ctl_2.txt perms=165065 hitperms=1 hitconfigs=1 fixed_offset_hits=0
+HIT perm=159728 g=(3,2,23) disks: c0=5 c1=21 c2=8 c3=2 c4=7 c5=4 c6=19 c7=3 c8=25 c13=15 c14=17 c15=14 c16=10 c17=13 c18=16 c19=24 c20=18 c21=6 c22=12 c23=20 c24=22
+RESULT text=ctl_3.txt perms=165065 hitperms=1 hitconfigs=1 fixed_offset_hits=0
+RESULT text=null_1.txt perms=165065 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_2.txt perms=165065 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+RESULT text=null_3.txt perms=165065 hitperms=0 hitconfigs=0 fixed_offset_hits=0
+== Order B: transposition of plaintext first, then M-94 ==
+RESULT text=k4.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=ctl2_1.txt perms=165065 hitperms=72 hitconfigs=72
+RESULT text=ctl2_2.txt perms=165065 hitperms=1 hitconfigs=1
+HIT perm=53332 g: L0=15 L1=14 L2=8 L3=22
+RESULT text=null_1.txt perms=165065 hitperms=1 hitconfigs=1
+RESULT text=null_2.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_3.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_4.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_5.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_6.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_7.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_8.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_9.txt perms=165065 hitperms=0 hitconfigs=0
+RESULT text=null_10.txt perms=165065 hitperms=0 hitconfigs=0
+== Planted ==
+ctl_1 {'order': [7, 20, 24, 22, 9, 2, 16, 10, 23, 19, 11, 1, 5, 8, 21, 3, 18, 4, 17, 14, 12, 13, 6, 25, 15], 'g': [12, 21, 14, 7]}
+ctl_2 {'order': [9, 19, 22, 3, 11, 1, 20, 14, 5, 21, 24, 6, 4, 13, 23, 16, 10, 8, 25, 17, 2, 15, 12, 18, 7], 'g': [11, 8, 21, 13], 'perm': 110703}
+ctl_3 {'order': [5, 21, 8, 2, 7, 4, 19, 3, 16, 11, 9, 23, 1, 15, 17, 14, 10, 13, 25, 24, 18, 6, 12, 20, 22], 'g': [3, 2, 23, 6], 'perm': 159728}
+ctl2_1 {'order': [21, 16, 12, 3, 10, 7, 17, 14, 2, 11, 4, 13, 18, 22, 8, 19, 6, 15, 25, 9, 20, 5, 1, 23, 24], 'g': [15, 14, 8, 22], 'perm': 53332}
+ctl2_2 {'order': [5, 13, 6, 2, 7, 18, 12, 22, 25, 4, 19, 24, 8, 23, 3, 17, 21, 15, 9, 20, 16, 11, 10, 1, 14], 'g': [6, 21, 25, 16], 'perm': 85353}
