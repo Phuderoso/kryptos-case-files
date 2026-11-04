@@ -1,0 +1,25 @@
+== K4 ciphertext (97 chars) ==
+OBKRUOXOGHULBSOLIFBBWFLRVQQPRNGKSSOTWTQSJQSSEKZZWATJKLUDIAWINFBNYPVTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR
+
+== Crib alignment check ==
+pos 22-25 CT=FLRV  PT=EAST
+pos 26-34 CT=QQPRNGKSS  PT=NORTHEAST
+pos 64-69 CT=NYPVTT  PT=BERLIN
+pos 70-74 CT=MZFPK  PT=CLOCK
+
+== Frequencies ==
+A:4 B:5 C:2 D:3 E:2 F:4 G:4 H:2 I:4 J:3 K:8 L:4 M:1 N:3 O:5 P:3 Q:4 R:4 S:6 T:6 U:6 V:2 W:5 X:2 Y:1 Z:4
+
+IoC(K4) = 0.0361  (random 26-letter ~0.0385; English ~0.0667)
+Self-encryptions in cribs: [33, 74]
+
+== Periodic-key consistency (Vigenere / Beaufort / Variant-Beaufort; AZ and KRYPTOS alphabets) ==
+A period P is CONSISTENT if every crib position sharing (pos mod P) implies the same key letter.
+AZ-vig      implied key at cribs: BLZCDCYYGCKAZMUYKLGKORNA  consistent periods<50: [27, 28, 29]  constraining pairs: {27: 0, 28: 0, 29: 0}
+AZ-beau     implied key at cribs: JLJODEGKUKKKLOCGGBGOKTRU  consistent periods<50: [27, 28, 29]  constraining pairs: {27: 0, 28: 0, 29: 0}
+AZ-varbeau  implied key at cribs: ZPBYXYCCUYQABOGCQPUQMJNA  consistent periods<50: [27, 28, 29]  constraining pairs: {27: 0, 28: 0, 29: 0}
+KA-vig      implied key at cribs: RDUMRIYWOYNKYELYOIECBAQK  consistent periods<50: [27, 28, 29]  constraining pairs: {27: 0, 28: 0, 29: 0}
+KA-beau     implied key at cribs: WXAKGZTOAXAFDRGTGNWRJLFK  consistent periods<50: [27, 28, 29]  constraining pairs: {27: 0, 28: 0, 29: 0}
+KA-varbeau  implied key at cribs: ZJOBZEXPUXAKXICXUEILMNSK  consistent periods<50: [27, 28, 29]  constraining pairs: {27: 0, 28: 0, 29: 0}
+
+Interpretation: if no small period is consistent, simple periodic polyalphabetic substitution directly on K4 (the K1/K2 method) is falsified for those alphabets; a transposition and/or non-periodic key layer is required.
