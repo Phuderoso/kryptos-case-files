@@ -1,0 +1,568 @@
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:4 23:0 24:0 25:0 26:0
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=2
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=3
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=3
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:6 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=3
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=3
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=1 consistent_s>0=2
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:6 23:0 24:0 25:0 26:0
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=1
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=3
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:7 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=4
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:7 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:0 23:0 24:0 25:0 26:0
+HIT d=KRYPTOS_T1 c=- inv=0 num=A model=A mode=V L=5 s=0 free=0 key=LAYER score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT d=KRYPTOS_T1 c=- inv=0 num=A model=A mode=V L=10 s=0 free=0 key=LAYERLAYER score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-4.086
+num=A model=A mode=V consistent_s0=4 consistent_s>0=1
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:1 16:0 17:0 18:0 19:0 20:2 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=3
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:4 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=3
+num=K model=B mode=B consistent_s0=0 consistent_s>0=3
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:6 23:0 24:0 25:0 26:0
+HIT d=P415032_T2 c=- inv=1 num=K model=B mode=B L=8 s=2 free=3 key=ABSCISSA score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT d=P415032_T2 c=- inv=1 num=K model=B mode=B L=8 s=15 free=3 key=QUNVISSA score=-6.355 pt=DXDQTGXWLMDQHWLHXRILLEASTNORTHEASTANDSAWTHEMTWLMDXHDYLRLRXKREATBERLINCLOCKABOVEUSQTTYSLRXVMTWQYHE
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-4.086
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=3
+PARTIAL_BY_L 14:0 15:0 16:1 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=1
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=2
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:4 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=3
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=3
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:5 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=1
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=1 consistent_s>0=1
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+HIT d=PALIMPSEST_T1 then c=BERLIN inv=0 num=K model=B mode=V L=5 s=0 free=0 key=CLOCK score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT d=PALIMPSEST_T1 then c=BERLIN inv=0 num=K model=B mode=V L=10 s=0 free=1 key=CLOCKCLOCK score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-4.086
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=4 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:1 16:0 17:0 18:0 19:0 20:1 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=1 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:0 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=2
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=0 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=2
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+HIT c=THOUGHT then d=SHADOW_T2 inv=0 num=A model=A mode=B L=5 s=0 free=0 key=EGYPT score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT c=THOUGHT then d=SHADOW_T2 inv=0 num=A model=A mode=B L=10 s=0 free=0 key=EGYPTEGYPT score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=1 perms=86199 tests=788893248 best_qg=-4.086
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=4 consistent_s>0=1
+num=A model=B mode=V consistent_s0=0 consistent_s>0=1
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:1 16:0 17:0 18:0 19:0 20:2 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=2 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:1 23:0 24:0 25:0 26:0
+SUMMARY part=3 perms=86199 tests=788893248 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=3
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=2
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:9 23:0 24:0 25:0 26:0
+SUMMARY part=4 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=1
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=1
+num=K model=B mode=B consistent_s0=0 consistent_s>0=1
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:1 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=5 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=2
+num=A model=B mode=B consistent_s0=0 consistent_s>0=1
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:3 23:0 24:0 25:0 26:0
+SUMMARY part=6 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=2
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=0
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
+SUMMARY part=7 perms=86198 tests=788884096 best_qg=-99.000
+num=A model=A mode=V consistent_s0=0 consistent_s>0=0
+num=A model=A mode=B consistent_s0=0 consistent_s>0=0
+num=A model=B mode=V consistent_s0=0 consistent_s>0=0
+num=A model=B mode=B consistent_s0=0 consistent_s>0=0
+num=K model=A mode=V consistent_s0=0 consistent_s>0=0
+num=K model=A mode=B consistent_s0=0 consistent_s>0=0
+num=K model=B mode=V consistent_s0=0 consistent_s>0=2
+num=K model=B mode=B consistent_s0=0 consistent_s>0=0
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:2 23:0 24:0 25:0 26:0
