@@ -1,0 +1,16 @@
+# Cycle 12 planted control: tools/transwin_gen.py control (PA=CA=keyed(SHADOW), Vigenère, K2-coordinate digits 38576577844 repeating, s=11, then keyword columnar BERLIN width 6 = col6:014352/enc)
+# transposition index 336 = col6:014352/enc ; alphabet 11 = k:SHADOW (12 = r:SHADOW, 13 = c:SHADOW, 5466/5467 = k2/r2:SOSSHADOW, 20701/20702 = k2/r2:XSHADOW, all equivalent)
+control CT LJUFGHVMGQFAZUEHBCRHUEPGFYRSOWRPEWXTNJKSFMRXWSGCVXEPXFERHVGZZQRXOLDHRRBUSXIETDDCZTHEMUMGRCOCBFSUY
+HIT D t=336 a=11 vig w=6 s=14 n=24
+HIT D t=336 a=12 vig w=6 s=7 n=24
+HIT D t=336 a=5466 vig w=8 s=13 n=24
+HIT D t=336 a=5467 vig w=8 s=6 n=24
+HIT D t=336 a=20701 vig w=6 s=14 n=24
+HIT D t=336 a=20702 vig w=6 s=7 n=24
+HIT F t=336 pa=11 ca=12 beau w=6 s=6 n=24
+HIT F t=336 pa=12 ca=11 beau w=6 s=13 n=24
+TRANSPOSITIONS 96630 ALPHABETS 20946 M 264
+HIST D vig 1:0 2:0 3:0 4:0 5:0 6:4 7:0 8:2 9:2 10:5
+HIST D beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0
+HIST F vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:2
+HIST F beau 1:0 2:0 3:0 4:0 5:0 6:2 7:0 8:0 9:0 10:2

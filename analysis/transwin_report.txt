@@ -1,0 +1,71 @@
+# Cycle 12: K4 with a transposition undone, then the small-digit window test (tools/c/transwin.c)
+# 96,630 transpositions x 20,946 themed alphabets (tier D: PA=CA) + 264x263 single-word pairs (tier F), 2 modes
+# Command: python3 tools/transwin_gen.py && ./transwin data/tw_alpha.bin data/tw_perm.bin $(cat data/tw_ct.txt) 264 10 10
+TRANSPOSITIONS 96630 ALPHABETS 20946 M 264
+HIST D vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0
+HIST D beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0
+HIST F vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:2 10:19
+HIST F beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:2 10:18
+
+## All hits (w<=10), decoded names
+col5:12304/dec                   PA=k:ABSCISSA       CA=c:KRYPTOSABCDEF  vig w=10 s=0 n=24
+col5:12403/dec                   PA=k:ABSCISSA       CA=c:KRYPTOSABCDEF  vig w=10 s=0 n=24
+col8:14307625/enc                PA=c:INVISIBLE      CA=c:ALEXANDERPLATZ vig w=10 s=0 n=24
+col8:67524013/enc                PA=r:DIGETALINTERPRETATU CA=r:COMPASS        beau w=10 s=1 n=24
+col8:67521034/enc                PA=r:DIGETALINTERPRETATU CA=r:COMPASS        beau w=10 s=1 n=24
+col8:71465032/enc                PA=r:MAGNETIC       CA=r:KGB            beau w=10 s=1 n=24
+col8:73450162/enc                PA=r:LOE            CA=r:SOSRQ          beau w=10 s=10 n=24
+col8:74350162/enc                PA=r:LOE            CA=r:SOSRQ          beau w=10 s=10 n=24
+col8:63407152/enc                PA=k:SCRAMBLED      CA=k:SHADOWFORCES   beau w=10 s=11 n=24
+col8:73450162/enc                PA=k:LOE            CA=r:SOSRQ          vig w=10 s=11 n=24
+col8:74350162/enc                PA=k:LOE            CA=r:SOSRQ          vig w=10 s=11 n=24
+col8:63407152/enc                PA=r:SCRAMBLED      CA=k:SHADOWFORCES   vig w=10 s=12 n=24
+col8:75043612/enc                PA=c:EARTHSMAGNETIC CA=k:LOE            vig w=10 s=13 n=24
+col8:67524013/enc                PA=k:DIGETALINTERPRETATU CA=k:COMPASS        beau w=10 s=14 n=24
+col8:67521034/enc                PA=k:DIGETALINTERPRETATU CA=k:COMPASS        beau w=10 s=14 n=24
+col8:71465032/enc                PA=k:MAGNETIC       CA=k:KGB            beau w=10 s=14 n=24
+col8:37610452/enc                PA=c:LUXOR          CA=c:CANYOUSEEANYTHING beau w=10 s=15 n=24
+col8:67524013/enc                PA=r:DIGETALINTERPRETATU CA=k:COMPASS        vig w=10 s=15 n=24
+col8:67521034/enc                PA=r:DIGETALINTERPRETATU CA=k:COMPASS        vig w=10 s=15 n=24
+col8:71465032/enc                PA=r:MAGNETIC       CA=k:KGB            vig w=10 s=15 n=24
+col8:75043612/enc                PA=c:EARTHSMAGNETIC CA=k:SLOWLY         vig w=10 s=17 n=24
+col8:75043621/enc                PA=c:EARTHSMAGNETIC CA=k:SLOWLY         vig w=10 s=17 n=24
+col8:67524013/enc                PA=k:DIGETALINTERPRETATU CA=r:COMPASS        vig w=10 s=2 n=24
+col8:67521034/enc                PA=k:DIGETALINTERPRETATU CA=r:COMPASS        vig w=10 s=2 n=24
+col8:71465032/enc                PA=k:MAGNETIC       CA=r:KGB            vig w=10 s=2 n=24
+col5:12304/dec                   PA=r:ABSCISSA       CA=c:KRYPTOSABCDEF  beau w=10 s=25 n=24
+col5:12403/dec                   PA=r:ABSCISSA       CA=c:KRYPTOSABCDEF  beau w=10 s=25 n=24
+col8:75043612/enc                PA=c:EARTHSMAGNETIC CA=r:SLOWLY         beau w=10 s=25 n=24
+col8:75043621/enc                PA=c:EARTHSMAGNETIC CA=r:SLOWLY         beau w=10 s=25 n=24
+col8:75043612/enc                PA=c:EARTHSMAGNETIC CA=r:LOE            beau w=10 s=3 n=24
+col8:25417306/enc                PA=c:TUTANKHAMUN    CA=c:MASKING        vig w=10 s=4 n=24
+col8:63407152/enc                PA=r:SCRAMBLED      CA=r:SHADOWFORCES   beau w=10 s=4 n=24
+col8:63407152/enc                PA=k:SCRAMBLED      CA=r:SHADOWFORCES   vig w=10 s=5 n=24
+col8:73450162/enc                PA=k:LOE            CA=k:SOSRQ          beau w=10 s=5 n=24
+col8:74350162/enc                PA=k:LOE            CA=k:SOSRQ          beau w=10 s=5 n=24
+col8:73450162/enc                PA=r:LOE            CA=k:SOSRQ          vig w=10 s=6 n=24
+col8:74350162/enc                PA=r:LOE            CA=k:SOSRQ          vig w=10 s=6 n=24
+col8:05423167/enc                PA=k:LUXOR          CA=k:INVISIBLE      beau w=9 s=12 n=24
+col8:05423167/enc                PA=r:LUXOR          CA=k:INVISIBLE      vig w=9 s=13 n=24
+col8:05423167/enc                PA=r:LUXOR          CA=r:INVISIBLE      beau w=9 s=4 n=24
+col8:05423167/enc                PA=k:LUXOR          CA=r:INVISIBLE      vig w=9 s=5 n=24
+
+## Null runs: same search on K4 shuffled with Python random seeds 1-3 (letter counts preserved)
+null seed 1 FGUJUSIHXKIKCZVYLFWREOPWWRZECQTQTISBGSVKFOTKLXQWKTBDIJSZLOTKUUTRZUPUBMAKHJSGNOAOKDARBBQWDNANLSGPF
+TRANSPOSITIONS 96630 ALPHABETS 20946 M 264
+HIST D vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0
+HIST D beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:1
+HIST F vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:4 10:27
+HIST F beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:4 10:26
+null seed 2 OINPBKKXIBSVABKHGWOQRKUKLBJAOSVEQTWFKLTNQCTFXTCSZQRZTSDRAUGFDABNGLEUWJIKRUOYIMZPTJDWWUHPKSSGFZULO
+TRANSPOSITIONS 96630 ALPHABETS 20946 M 264
+HIST D vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:4
+HIST D beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0
+HIST F vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:1 10:10
+HIST F beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:3 10:11
+null seed 3 ITHLTKQEBLDOSZUDKYLBFUFTBSEJOKSFOFNLASQPUKSKWKXRTRWJDQPAKUIWZPRORQOWUGAVHJBTXCCIVNZSABUGWTNKZIMGG
+TRANSPOSITIONS 96630 ALPHABETS 20946 M 264
+HIST D vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0
+HIST D beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:3
+HIST F vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:4
+HIST F beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:2
