@@ -1,0 +1,6 @@
+H1 planted primer 31415 AZ->KA vig slide 3: tests 130000000, survivors 1: [('Gromark', 10, 5, 'AZ', 'KA', 'vig', 3, '31415')]
+H2 planted base5 primer idx1234 KA->KA beau: tests 232308544, survivors 1: [('Gromark-b', 5, 5, 'KA', 'KA', 'beau', 0, '14414')]
+H4 planted W-restart KA vig SHADOWFORCES (12): tests 2600, survivors 13: [('W-restart', 'KA', 'KA', 'vig', 12), ('W-restart', 'KA', 'KA', 'vig', 15), ('W-restart', 'KA', 'KA', 'vig', 16), ('W-restart', 'KA', 'KA', 'vig', 17)]
+H8 planted lamps t0=600 step5 mult7 a4 AZ vig: tests 1152000, survivors 60: [('Berlin lamps', 'AZ', 'AZ', 'vig', 5, 7, 0, 18), ('Berlin lamps', 'AZ', 'AZ', 'vig', 5, 7, 1, 11), ('Berlin lamps', 'AZ', 'AZ', 'vig', 5, 7, 2, 4), ('Berlin lamps', 'AZ', 'AZ', 'vig', 5, 7, 3, 23)]
+H9 planted running key P3@200 KA: tests 487400, survivors 2: [('running', 'AZ', 'KA', 'beau', 'KA', 'P3', 200), ('running', 'AZ', 'KA', 'beau', 'KA', 'P123', 632)]
+H11 planted '?'front rot(7,14) + KA vig ABSCISSA sub_first: tests 16640, survivors 48: [('98-grid', 'front', 2, 49, 'KA', 'KA', 'vig', 'sub_first', 8), ('98-grid', 'front', 2, 49, 'KA', 'KA', 'vig', 'sub_first', 16), ('98-grid', 'front', 2, 49, 'KA', 'KA', 'vig', 'sub_first', 20), ('98-grid', 'front', 2, 49, 'KA', 'KA', 'vig', 'sub_last', 8)]

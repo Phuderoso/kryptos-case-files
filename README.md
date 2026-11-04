@@ -28,6 +28,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | [`case-file/04-final-report.md`](case-file/04-final-report.md) | Final report: impossible / disfavoured / open, reproduction, reopen conditions |
 | [`case-file/05-layers-in-plain-sight.md`](case-file/05-layers-in-plain-sight.md) | Cycle 7: simple layered compositions from plain-sight material |
 | [`case-file/06-physical-and-copies.md`](case-file/06-physical-and-copies.md) | Cycle 8: text-only panel-row readings, Antipodes/Cyrillic diff, block shuffles |
+| [`case-file/07-creative-synthesis.md`](case-file/07-creative-synthesis.md) | Cycle 9: field review 2023–2026, K3-style insight, ranked creative hypotheses |
 | [`tools/`](tools/) | Python: ciphertext, K1–K3 solvers, K4 analysis |
 | [`analysis/`](analysis/) | Saved outputs of the tools |
 | [`journal/`](journal/) | Case journal, one entry per cycle |
@@ -44,3 +45,4 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 *Sources: all citations are primary or archived links (Wikipedia-routed citations were replaced in cycle 4).*
 
 - **Cycle 8 (2026-11-04)** — text-only physical-row readings, Antipodes diff (K4 identical in both copies; only K2 UNDERGRUUND fixed), block-shuffle + periodic sub: 0 survivors, controls recovered → [case-file/06](case-file/06-physical-and-copies.md), [journal](journal/2026-11-04-cycle8.md)
+- **Cycle 9 (2026-11-04)** — field review (plaintext found in the Smithsonian in 2025 and sealed; the archive is owned by Paradigm; Bean 2021 points to one-to-one/Gromark). 11 ranked hypotheses (Gromark bases 2–10, W-separator/null, Berlin-clock lamps, running keys, 98-grid): 595.8M exact tests, **0 survivors**, 6 controls recovered. The W brackets around the cribs are not significant (p≈0.20 after look-elsewhere). → [case-file/07](case-file/07-creative-synthesis.md), [journal](journal/2026-11-04-cycle9.md)

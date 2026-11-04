@@ -1,0 +1,17 @@
+W positions (1-indexed): [21, 37, 49, 59, 75]; segment lengths [20, 15, 11, 9, 15, 22]
+H1 Gromark base 10, primer 5 (Hall/ACA; Bean 2021), 5 alphabets x 5 x 26 slides: tests 130,000,000; survivors 0
+H2 Gromark base 5 (Berlin-clock base) and bases 2-9, primers 2-6: tests 232,308,544; survivors 0
+H3 Gromark base 10, primers 2-4 and 6 (lag variants): tests 210,308,800; survivors 0
+H4 W = separator, keyword restarts at each W (any length) / progressive per segment: tests 2,600; survivors 0
+H5 W = nulls removed, then periodic P1-26 or Gromark b5/b10: tests 21,451,300; survivors 0
+H6 W-delimited segments each a single shift: tests 50; survivors 0
+H7 progressive / stepped ('clock hand') key a + s*floor(i/m): tests 30,000; survivors 0
+H8 Mengenlehreuhr lamp-count key from any start minute: tests 1,152,000; survivors 0
+H9 running key from K1/K2/K3 plaintexts, ciphertexts, tableau (+reversed): tests 487,400; survivors 0
+H10 ciphertext-feedback (lagged self-key) d=1..30: tests 3,120; survivors 0
+H11 '?'+K4 = 98 = 7x14: K3-style rotations then periodic sub: tests 16,640; survivors 0
+TOTAL tests 595,760,454
+
+real	0m4.031s
+user	0m4.403s
+sys	0m0.348s
