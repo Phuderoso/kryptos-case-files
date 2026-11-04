@@ -1,0 +1,21 @@
+K4: narrow (lag 4, A-Z) longest run = 5; shuffles >= : p = 0.00021
+K4: wide (lags 1-24, A-Z+KA) longest run = 5; shuffles >= : p = 0.00780  (null run distribution: 2:745, 3:161557, 4:36138, 5:1514, 6:46)
+K4 A-Z lag-4 diffs 52-62: [24, 15, 2, 5, 5, 5, 5, 5, 11, 10, 20]
+T4 K1: narrow (lag 4, A-Z) longest run = 1; shuffles >= : p = 1.00000
+T4 K1: wide (lags 1-24, A-Z+KA) longest run = 5; shuffles >= : p = 0.00485  (null run distribution: 2:733, 3:16827, 4:2344, 5:95, 6:1)
+T4 K2: narrow (lag 4, A-Z) longest run = 3; shuffles >= : p = 0.40818
+T4 K2: wide (lags 1-24, A-Z+KA) longest run = 5; shuffles >= : p = 0.03285  (null run distribution: 3:8119, 4:11225, 5:628, 6:27, 7:1)
+T4 K3: narrow (lag 4, A-Z) longest run = 2; shuffles >= : p = 1.00000
+T4 K3: wide (lags 1-24, A-Z+KA) longest run = 4; shuffles >= : p = 0.59702  (null run distribution: 3:8060, 4:11149, 5:749, 6:36, 7:6)
+T2 English, 2,868,071 letters, 200,000 random 97-letter windows, lag 4 A-Z:
+  P(run >= 3): English 0.17943   shuffled English 0.13351
+  P(run >= 4): English 0.01565   shuffled English 0.00575
+  P(run >= 5): English 0.00165   shuffled English 0.00030
+  P(run >= 6): English 0.00046   shuffled English 0.00001
+  P(run >= 7): English 0.00023   shuffled English 0.00000
+  constants of English runs >= 5 (diff: count): {0: 264, 5: 7, 6: 11, 8: 8, 10: 11, 13: 29}
+T3 crib-anchored key regularity (longest run of equal consecutive lag-d key differences, lags 1-12):
+  V AZ: K4 2; nulls >= : p = 0.9936; null dist 1:129, 2:17405, 3:2371, 4:92, 5:3
+  V KA: K4 2; nulls >= : p = 0.9932; null dist 1:136, 2:17370, 3:2411, 4:81, 5:2
+  B AZ: K4 2; nulls >= : p = 0.9931; null dist 1:139, 2:17458, 3:2328, 4:73, 5:2
+  B KA: K4 2; nulls >= : p = 0.9932; null dist 1:136, 2:17482, 3:2309, 4:69, 5:4
