@@ -1,0 +1,21 @@
+# Cycle 11 controls
+## C1 pi digits, vig, PA=keyed(LANTERN) CA=keyed(SHADOW+BERLIN) s=7
+HIT 33480 66801 vig w=10 s=7 d=264338327950223078164062
+width 10: expected by chance per mode 19.76
+HIST vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:2 9:94 10:881
+HIST beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:2 9:94 10:884
+hits 1957 | lagged-Fibonacci-consistent: 0
+## C2 pi digits, beau
+HIT 33480 66801 beau w=10 s=7 d=264338327950223078164062
+width 10: expected by chance per mode 19.76
+HIST vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:7 10:60
+HIST beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:6 10:61
+hits 134 | lagged-Fibonacci-consistent: 0
+## C3 Gromark primer 27182 base 10 L=5, vig
+HIT 33480 66801 vig w=10 s=7 d=691265038153109588943673
+width 10: expected by chance per mode 19.76
+HIST vig 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:48
+HIST beau 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:1 10:48
+hits 97 | lagged-Fibonacci-consistent: 2
+  FIB ('k:LANTERN', 'k2:SHADOW+BERLIN', 'vig', 10, 0, 5)
+  FIB ('r:LANTERN', 'k2:SHADOW+BERLIN', 'beau', 10, 0, 5)
