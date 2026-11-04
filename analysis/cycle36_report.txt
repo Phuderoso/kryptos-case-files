@@ -1,0 +1,270 @@
+Cycle 36 report (bookrk, 165,065 transpositions x 2 layer orders x 29 substitutions, exact bitset crib test)
+Key texts (forward and reversed): cycle-34 carved texts; KJV John; KJV New Testament; Reagan Brandenburg Gate 1987; National Security Act 1947 (as amended, govinfo COMPS-1493)
+
+CAND depth=8 perm=117460 model=A mode=20 text=kjv_john_rev
+CAND depth=8 perm=2879 model=B mode=7 text=kjv_nt
+CAND depth=8 perm=5523 model=B mode=23 text=kjv_nt
+CAND depth=8 perm=8789 model=B mode=8 text=kjv_nt
+CAND depth=8 perm=11044 model=A mode=7 text=kjv_nt
+CAND depth=8 perm=12227 model=B mode=10 text=kjv_nt
+CAND depth=8 perm=27181 model=B mode=14 text=kjv_nt
+CAND depth=8 perm=32418 model=A mode=11 text=kjv_nt
+CAND depth=8 perm=42498 model=A mode=11 text=kjv_nt
+CAND depth=8 perm=99149 model=A mode=2 text=kjv_nt
+CAND depth=8 perm=101685 model=A mode=3 text=kjv_nt
+CAND depth=8 perm=111650 model=B mode=20 text=kjv_nt
+CAND depth=8 perm=132099 model=A mode=19 text=kjv_nt
+CAND depth=8 perm=145091 model=B mode=12 text=kjv_nt
+CAND depth=8 perm=146398 model=A mode=6 text=kjv_nt
+CAND depth=8 perm=12205 model=B mode=7 text=kjv_nt_rev
+CAND depth=8 perm=18717 model=B mode=4 text=kjv_nt_rev
+CAND depth=8 perm=95835 model=B mode=0 text=kjv_nt_rev
+CAND depth=8 perm=102423 model=B mode=12 text=kjv_nt_rev
+CAND depth=9 perm=105201 model=A mode=18 text=kjv_nt_rev
+CAND depth=8 perm=112858 model=B mode=20 text=kjv_nt_rev
+CAND depth=8 perm=117460 model=A mode=20 text=kjv_nt_rev
+CAND depth=8 perm=121553 model=A mode=22 text=kjv_nt_rev
+CAND depth=8 perm=124386 model=B mode=23 text=kjv_nt_rev
+CAND depth=8 perm=128361 model=A mode=13 text=kjv_nt_rev
+CAND depth=8 perm=76653 model=B mode=23 text=natsec_act_1947_amended
+CAND depth=8 perm=162507 model=B mode=22 text=natsec_act_1947_amended
+CAND depth=8 perm=164693 model=B mode=22 text=natsec_act_1947_amended
+CAND depth=8 perm=8539 model=B mode=7 text=natsec_act_1947_amended_rev
+CAND depth=8 perm=81947 model=B mode=22 text=natsec_act_1947_amended_rev
+CAND depth=8 perm=103363 model=B mode=23 text=natsec_act_1947_amended_rev
+CAND depth=8 perm=103527 model=B mode=2 text=natsec_act_1947_amended_rev
+CAND depth=8 perm=103835 model=A mode=21 text=natsec_act_1947_amended_rev
+CAND depth=8 perm=124259 model=B mode=15 text=natsec_act_1947_amended_rev
+CAND depth=8 perm=131925 model=B mode=20 text=natsec_act_1947_amended_rev
+SUMMARY perms=165065 best=9 full=0 hist: 0:58643247 1:99796977 2:67569388 3:21552531 4:5860560 5:675503 6:31241 7:1654 8:34 9:1
+
+--- controls ---
+ctl_1: text=kjv_john mode=7 model=B perm=5466 offset=7650 pt=HISHORRORANDINDIGNATIEASTNORTHEASTOLLABLEWHENHEHEARDTHEDECISIONBERLINCLOCKEMADEATTHATMOMENTASOLEM
+ctl_2: text=natsec_act_1947_amended_rev mode=16 model=A perm=106 offset=41206 pt=COTTAGEANDTHEGIRLWASAEASTNORTHEASTTIMESINTHEHOUSEANDSOMETIMESINBERLINCLOCKAMININGMYDWELLINGIFOUND
+ctl_3: text=c34_K3pt mode=13 model=B perm=46257 offset=160 pt=ONYOURBEINGTAKENILLALEASTNORTHEASTTWEREONYOURPERSONWEREBROUGHTMBERLINCLOCKEDTHEMTHATIMIGHTDISCOVE
+ctl_4: text=reagan_berlin mode=22 model=A perm=113349 offset=4414 pt=MOUNTAINSWEREBEFOREMEEASTNORTHEASTHEGLACIEROVERHUNGMEAFEWSHATTEBERLINCLOCKESCATTEREDAROUNDANDTHES
+ctl_1: CAND depth=13 perm=2562 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2564 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2566 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2568 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2570 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2572 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2574 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2576 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2578 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2580 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2582 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2584 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2586 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2588 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2590 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2592 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2594 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2596 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2598 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2600 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2602 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2604 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2606 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2608 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4002 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4004 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4006 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4008 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4010 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4012 model=B mode=7 text=kjv_john
+CAND depth=20 perm=4014 model=B mode=7 text=kjv_john
+CAND depth=20 perm=4016 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4018 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4020 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4022 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4024 model=B mode=7 text=kjv_john
+CAND depth=20 perm=4026 model=B mode=7 text=kjv_john
+CAND depth=20 perm=4028 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4030 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4032 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4034 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4036 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4038 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4040 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4042 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4044 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4046 model=B mode=7 text=kjv_john
+CAND depth=13 perm=4048 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5442 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5444 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5446 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5448 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5450 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5452 model=B mode=7 text=kjv_john
+CAND depth=20 perm=5454 model=B mode=7 text=kjv_john
+CAND depth=20 perm=5456 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5458 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5460 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5462 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5464 model=B mode=7 text=kjv_john
+FULL perm=5466 model=B mode=7 text=kjv_john offset=7650
+CAND depth=20 perm=5468 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5470 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5472 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5474 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5476 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5478 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5480 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5482 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5484 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5486 model=B mode=7 text=kjv_john
+CAND depth=13 perm=5488 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10050 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10052 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10054 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10056 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10058 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10060 model=B mode=7 text=kjv_john
+CAND depth=20 perm=10062 model=B mode=7 text=kjv_john
+CAND depth=20 perm=10064 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10066 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10068 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10070 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10072 model=B mode=7 text=kjv_john
+FULL perm=10074 model=B mode=7 text=kjv_john offset=7650
+CAND depth=20 perm=10076 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10078 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10080 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10082 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10084 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10086 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10088 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10090 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10092 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10094 model=B mode=7 text=kjv_john
+CAND depth=13 perm=10096 model=B mode=7 text=kjv_john
+CAND depth=13 perm=2562 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2564 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2566 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2568 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2570 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2572 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2574 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2576 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2578 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2580 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2582 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2584 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2586 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2588 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2590 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2592 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2594 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2596 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2598 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2600 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2602 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2604 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2606 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=2608 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4002 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4004 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4006 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4008 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4010 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4012 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=4014 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=4016 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4018 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4020 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4022 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4024 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=4026 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=4028 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4030 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4032 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4034 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4036 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4038 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4040 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4042 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4044 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4046 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=4048 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5442 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5444 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5446 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5448 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5450 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5452 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=5454 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=5456 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5458 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5460 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5462 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5464 model=B mode=7 text=kjv_nt
+FULL perm=5466 model=B mode=7 text=kjv_nt offset=269976
+CAND depth=20 perm=5468 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5470 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5472 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5474 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5476 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5478 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5480 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5482 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5484 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5486 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=5488 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10050 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10052 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10054 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10056 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10058 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10060 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=10062 model=B mode=7 text=kjv_nt
+CAND depth=20 perm=10064 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10066 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10068 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10070 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10072 model=B mode=7 text=kjv_nt
+FULL perm=10074 model=B mode=7 text=kjv_nt offset=269976
+CAND depth=20 perm=10076 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10078 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10080 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10082 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10084 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10086 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10088 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10090 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10092 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10094 model=B mode=7 text=kjv_nt
+CAND depth=13 perm=10096 model=B mode=7 text=kjv_nt
+SUMMARY perms=165065 best=24 full=4 hist: 0:60736383 1:98552696 2:66886172 3:21176844 4:5887515 5:682604 6:36549 7:1893 8:303 9:1 13:168 20:20 24:4
+ctl_2: FULL perm=106 model=A mode=16 text=natsec_act_1947_amended_rev offset=41206
+SUMMARY perms=165065 best=24 full=1 hist: 0:57512446 1:101199603 2:67219034 3:21637282 4:5733553 5:642360 6:31207 7:934 8:25 9:3 24:1
+ctl_3: FULL perm=46257 model=B mode=13 text=c34_K3pt offset=160
+FULL perm=46257 model=B mode=13 text=c34_K123pt offset=593
+FULL perm=46257 model=B mode=13 text=c34_K123pt_K0 offset=674
+SUMMARY perms=165065 best=24 full=3 hist: 0:57939357 1:98107045 2:69383545 3:21993927 4:5892229 5:724589 6:35109 7:2518 8:77 9:1 24:3
+ctl_4: FULL perm=113349 model=A mode=22 text=reagan_berlin offset=4414
+SUMMARY perms=165065 best=24 full=1 hist: 0:62017282 1:97878904 2:66523875 3:21023616 4:5935747 5:678445 6:36342 7:1845 8:67 9:4 24:1
+
+--- nulls ---
+null_1: SUMMARY perms=165065 best=10 full=0 hist: 0:58720070 1:96975874 2:68959346 3:22393095 4:6191794 5:819760 6:42368 7:1942 8:65 9:5 10:1
+null_2: SUMMARY perms=165065 best=10 full=0 hist: 0:58936637 1:100067356 2:67740329 3:21022979 4:5777262 5:662108 6:31073 7:2010 8:52 9:1 10:1
+null_3: SUMMARY perms=165065 best=9 full=0 hist: 0:58670763 1:100444846 2:67057639 3:21290225 4:5976433 5:675806 6:37779 7:3271 8:96 9:6
+null_4: SUMMARY perms=165065 best=9 full=0 hist: 0:59099594 1:97956792 2:68192107 3:22095634 4:6248751 5:758752 6:36000 7:2646 8:57 9:3
+null_5: SUMMARY perms=165065 best=10 full=0 hist: 0:58019940 1:98871392 2:68337658 3:21995438 4:6176292 5:723250 6:37950 7:2254 8:49 10:1
+null_6: SUMMARY perms=165065 best=9 full=0 hist: 0:57449741 1:99354609 2:67953157 3:22370700 4:6171206 5:708547 6:39708 7:1173 8:54 9:1
+null_7: SUMMARY perms=165065 best=9 full=0 hist: 0:57764490 1:100057113 2:67637396 3:21930071 4:5887655 5:670447 6:38386 7:1387 8:58 9:5
+null_8: SUMMARY perms=165065 best=9 full=0 hist: 0:58828869 1:100074804 2:67064647 3:21421351 4:5811835 5:675797 6:41726 7:2536 8:34 9:1
+
+--- hex-inside-hex side test ---
+K4: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null1: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null2: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null3: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null4: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null5: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null6: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null7: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null8: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null9: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+null10: valid readings 0, direct crib >=20/24: 0, periodic p<=20 consistent: 0 []
+control tries 20000
