@@ -5,9 +5,9 @@
 ## 1. Official plaintext clues (cribs), 1-indexed positions in K4
 | Pos. | Ciphertext | Plaintext | Released | Source |
 |---|---|---|---|---|
-| 22–25 | `FLRV` | `EAST` | Aug 2020 | J. Schwartz (NYT), tweet 24 Aug 2020 (Wikipedia ref. 40) |
-| 26–34 | `QQPRNGKSS` | `NORTHEAST` | Jan 2020 | NYT, 29 Jan 2020 (Wikipedia ref. 11) |
-| 64–69 | `NYPVTT` | `BERLIN` | Nov 2010 | NYT, 20 Nov 2010; NPR, 22 Nov 2010 (Wikipedia refs. 35–36) |
+| 22–25 | `FLRV` | `EAST` | Aug 2020 | J. Schwartz (NYT) tweet, 24 Aug 2020, reported by [Klaus Schmeh, Cipherbrain](https://scienceblogs.de/klausis-krypto-kolumne/2020/08/24/jim-sanborn-publishes-another-new-kryptos-clue/) |
+| 26–34 | `QQPRNGKSS` | `NORTHEAST` | Jan 2020 | [NYT, 29 Jan 2020](https://www.nytimes.com/interactive/2020/01/29/climate/kryptos-sculpture-final-clue.html) |
+| 64–69 | `NYPVTT` | `BERLIN` | Nov 2010 | [NYT, 21 Nov 2010](https://www.nytimes.com/2010/11/21/us/21code.html); [NYT graphic](https://archive.nytimes.com/www.nytimes.com/interactive/2010/11/20/us/code.html) |
 | 70–74 | `MZFPK` | `CLOCK` | Nov 2014 | [NYT, 20 Nov 2014](https://www.nytimes.com/2014/11/21/us/another-kryptos-clue-is-offered-in-a-24-year-old-mystery-at-the-cia.html) |
 
 Alignment re-checked in code: [`analysis/k4_report.txt`](../analysis/k4_report.txt). Positions 22–34 combine into `EASTNORTHEAST`; 64–74 into `BERLINCLOCK`. Note self-encryptions at pos. 33 (S→S) and 74 (K→K): a letter can encrypt to itself, which rules out any cipher where that is impossible (e.g. Enigma-style reciprocal without fixed points).
@@ -19,7 +19,7 @@ Alignment re-checked in code: [`analysis/k4_report.txt`](../analysis/k4_report.t
 - **Key evidentiary line (same letter):** "K4 has not been solved or decrypted. The scrambled plain text was found, but without the coding method or key." The word *scrambled* is consistent with a **transposition layer** (my inference, labelled as such). (Note: SciAm's text says "79 encrypted letters"; K4 has 97 — a typo in the article.)
 - Weltzeituhr facts: 24-sided cylinder, one side per time zone, 146 place names; city names were changed and 20 added in the 1997 renovation, so the 1988 city list differs from today's — [de.wikipedia: Weltzeituhr (Alexanderplatz)](https://de.wikipedia.org/wiki/Weltzeituhr_(Alexanderplatz)). A primary 1988-era city list is still an open lead.
 - Scheidt: intentional "change in the methodology" — Wikipedia ref. 9.
-- A fifth message, **K5**, exists and follows K4 (open letter, Aug 2025) — Wikipedia ref. 48; the RR Auction lot lists "an unpublished 1988 alternate of the K4 plaintext and coding chart now known as K5" ([RR Auction](https://www.rrauction.com/auctions/lot-detail/350761607302001-the-complete-secrets-of-kryptos-jim-sanborns-private-archive/)).
+- A fifth message, **K5**, exists and follows K4 ([open letter, 14 Aug 2025, mirrored on elonka.com](https://www.elonka.com/kryptos/OpenLetterAug2025.html): "even when K4 has been solved, its riddle will persist as K5"; the RR Auction lot lists "an unpublished 1988 alternate of the K4 plaintext and coding chart now known as K5" ([RR Auction](https://www.rrauction.com/auctions/lot-detail/350761607302001-the-complete-secrets-of-kryptos-jim-sanborns-private-archive/)).
 
 ## 3. The 2025 auction
 - Announced Aug 2025 (Washington Post letter); RR Auction sale "Decoding History", 16 Oct–20 Nov 2025 (Wikipedia refs. 2, 12–13).
@@ -56,7 +56,22 @@ Code: [`tools/k4_cycle2.py`](../tools/k4_cycle2.py) → [`analysis/k4_cycle2_rep
 
 **What this eliminates:** every "one classical layer" model and the simplest two-layer models. **What it does not:** irregular/keyed route transpositions over a 97-letter grid beyond those tried, Quagmire I/II/IV with two independent alphabets, keys derived from *numbers* (World Clock zone offsets, dates 1986/1989), and a physical/mechanical procedure Sanborn alludes to ("coding method").
 
-## 8. Open hypotheses (to test)
+## 8. Cycle 3 results (2026-11-04)
+Code: [`tools/k4_cycle3.py`](../tools/k4_cycle3.py) → [`analysis/k4_cycle3_report.txt`](../analysis/k4_cycle3_report.txt); positive controls (planted keyed-columnar+Vigenère, Gromark, Quagmire IV — all detected): [`tools/validate_cycle3.py`](../tools/validate_cycle3.py) → [`analysis/validate_cycle3.txt`](../analysis/validate_cycle3.txt).
+
+| Test | Result |
+|---|---|
+| E1 Pure transposition | **Proven impossible**: the cribs need 3 E's, K4 contains only 2. (Also χ² vs English = 576.5 ≫ 52.6.) A substitution layer is mandatory. |
+| E2 *Unrestricted* transposition + periodic shift | **Not falsifiable by the cribs**: e.g. 4/26 (AZ) and 6/26 (KA) Caesar shifts, and ~30% of period-3 keys, admit a complete matching of the 24 crib letters. Any test needs a *rule-generated* transposition. This is a methodological limit, stated explicitly. |
+| E3 Keyed columnar, **all** column orders w=2..8 (46,232 orders) × Vig/Beaufort × AZ/KA × both layer orders × P=1..26 | **0 survivors** |
+| E4 Digit keys 1986, 1989, 19861989, 11091989, 26111922, K2-coordinate digits; World Clock 24-step offset cycles | **0 survivors** |
+| E4 Gromark lagged-Fibonacci digit keys, **every** primer of length 2–5 (111,100) | **0 survivors** |
+| E5 Quagmire IV, 576 keyword-alphabet pairs, P=1..26 | **0 survivors** |
+| E6 Quagmire IV × 224 cycle-2 route permutations (3,354,624 configs) | **0 survivors** |
+
+**Weltzeituhr city-list hunt (negative):** the 1969 clock carried **80** city names across 24 zones ([weltzeituhr-berlin.de](http://www.weltzeituhr-berlin.de/die-urania-weltzeituhr)); in 1997, 20 cities were added (e.g. Oslo, Jerusalem, Cape Town) and some renamed or moved zones (Leningrad→St Petersburg, Kiev's zone) ([Berliner Zeitung, 12 Dec 1997, archived](https://web.archive.org/web/20150923193736/http:/www.berliner-zeitung.de/archiv/20-staedtenamen-wurden-bei-der-restaurierung-ergaenzt-frisch-poliert--die-weltzeituhr-dreht-sich-bald,10810590,9374280.html); [taz 2015](https://taz.de/Weltzeituhr-auf-dem-Alex/!5213004/)). No complete pre-1997 list was found online. Candidate primary sources: pre-1997 photographs, the 1987 GDR commemorative coin, DDR-era postcards.
+
+## 9. Open hypotheses (to test)
 - `H2` transposition + Quagmire III (K3 layer then K1/K2 layer, or reverse) — "change in methodology".
 - `H3` key derived from the Weltzeituhr (24 time zones / city ring) — Sanborn's World Clock confirmation.
 - `H4` Hill cipher (extra L → HILL; Bauer et al. 2016) — testable with the 24 crib letters: a 2×2 or 3×3 Hill must satisfy linear constraints mod 26.
