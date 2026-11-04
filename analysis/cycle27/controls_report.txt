@@ -1,0 +1,12 @@
+control 1: planted perm=125798 order=b alph=AZ n=2 align=1 -> 3 consistent configs, planted one found: True
+control 2: planted perm=62869 order=b alph=KA n=3 align=1 -> 24 consistent configs, planted one found: True
+control 3: planted perm=36954 order=b alph=AZ n=4 align=0 -> 6 consistent configs, planted one found: True
+control 4: planted perm=3325 order=a alph=KA n=2 align=1 -> 4 consistent configs, planted one found: True
+control 5: planted perm=126617 order=a alph=AZ n=3 align=1 -> 1 consistent configs, planted one found: True
+control 6: planted perm=145677 order=a alph=KA n=4 align=0 -> 0 consistent configs, planted one found: False
+null 1: 0 | 0 | 0 | 0  (consistent counts n=2,3,4,5)
+null 2: 0 | 0 | 0 | 0  (consistent counts n=2,3,4,5)
+null 3: 0 | 0 | 0 | 0  (consistent counts n=2,3,4,5)
+null 4: 0 | 0 | 0 | 0  (consistent counts n=2,3,4,5)
+null 5: 0 | 0 | 0 | 0  (consistent counts n=2,3,4,5)
+control 7: planted perm=146827 order=a alph=KA n=4 align=3 -> 1 consistent configs, planted one found: True

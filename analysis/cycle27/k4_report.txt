@@ -1,0 +1,4 @@
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3214961

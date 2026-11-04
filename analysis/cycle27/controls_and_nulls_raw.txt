@@ -1,0 +1,99 @@
+===== ctl_1_out.txt
+HIT perm=125798 order=b alph=AZ n=2 align=1 mineq=11
+HIT perm=125798 order=b alph=AZ n=4 align=1 mineq=5
+HIT perm=125798 order=b alph=AZ n=4 align=3 mineq=5
+SUMMARY n=2 testable=1291262 consistent=1 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=2 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3238053
+===== ctl_2_out.txt
+HIT perm=32293 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=32305 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=32341 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=32353 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=32389 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=32401 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=52693 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=52705 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=52741 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=52753 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=52789 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=52801 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=62773 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=62785 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=62821 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=62833 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=62869 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=62881 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=72853 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=72865 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=72901 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=72913 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=72949 order=b alph=KA n=3 align=1 mineq=7
+HIT perm=72961 order=b alph=KA n=3 align=1 mineq=7
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=24 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3219932
+===== ctl_3_out.txt
+HIT perm=26598 order=b alph=AZ n=4 align=0 mineq=5
+HIT perm=26826 order=b alph=AZ n=4 align=0 mineq=5
+HIT perm=36726 order=b alph=AZ n=4 align=0 mineq=5
+HIT perm=36954 order=b alph=AZ n=4 align=0 mineq=5
+HIT perm=46854 order=b alph=AZ n=4 align=0 mineq=5
+HIT perm=47082 order=b alph=AZ n=4 align=0 mineq=5
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=6 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3219511
+===== ctl_4_out.txt
+HIT perm=3325 order=a alph=KA n=2 align=1 mineq=12
+HIT perm=3325 order=a alph=KA n=4 align=1 mineq=5
+HIT perm=6207 order=a alph=KA n=2 align=1 mineq=12
+HIT perm=6207 order=a alph=KA n=4 align=1 mineq=5
+SUMMARY n=2 testable=1291262 consistent=2 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=2 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037590
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3198090
+===== ctl_5_out.txt
+HIT perm=126617 order=a alph=AZ n=3 align=1 mineq=6
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=1 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3212218
+===== ctl_6_out.txt
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037591
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3225773
+===== ctl_7_out.txt
+HIT perm=146827 order=a alph=KA n=4 align=3 mineq=5
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=1 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3220547
+===== null_1_out.txt
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3195206
+===== null_2_out.txt
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3227027
+===== null_3_out.txt
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3238605
+===== null_4_out.txt
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3201331
+===== null_5_out.txt
+SUMMARY n=2 testable=1291262 consistent=0 | weak(some row < n+1 eqs)=29258 of which rejected anyway=29258
+SUMMARY n=3 testable=1851796 consistent=0 | weak(some row < n+1 eqs)=128984 of which rejected anyway=128984
+SUMMARY n=4 testable=1603448 consistent=0 | weak(some row < n+1 eqs)=1037592 of which rejected anyway=1037592
+SUMMARY n=5 testable=0 consistent=0 | weak(some row < n+1 eqs)=3301300 of which rejected anyway=3221188
