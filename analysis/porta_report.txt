@@ -1,0 +1,45 @@
+Cycle 32 — Porta / half-split reciprocal cipher behind themed transpositions (tools/c/porta.c)
+Perms: data/tw_perm.bin (96,630, both directions); alphabets: data/tw_alpha.bin (20,946 themed); 2 Porta variants x 2 key-index modes; periods 1..30
+
+== K4 ==
+SUMMARY perms=96630 alphas=20946 halfpass=14 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0 L13=0 L14=0 L15=0 L16=0 L17=0 L18=0 L19=0 L20=0 L21=0 L22=0 L23=0 L24=0 L25=0 L26=0 L27=28 L28=0 L29=0 L30=0
+Half-cross survivors (necessary for ANY Porta key, periodic or not):
+HALF a=719 p=3080
+HALF a=720 p=3080
+HALF a=2699 p=56882
+HALF a=7456 p=92751
+HALF a=14086 p=2310
+HALF a=19579 p=3080
+HALF a=19580 p=3080
+HALF a=19786 p=3080
+HALF a=19787 p=3080
+HALF a=20695 p=3080
+HALF a=20696 p=3080
+HALF a=20700 p=92547
+HALF a=20932 p=3080
+HALF a=20933 p=3080
+Only L=27 'hits' appear: at L>=27 the two crib blocks share no key residue, so consistency is automatic (uninformative). L<=26: 0.
+
+== Shuffled-K4 nulls (periods 1..12) ==
+null_1: SUMMARY perms=96630 alphas=20946 halfpass=17 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_2: SUMMARY perms=96630 alphas=20946 halfpass=553 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_3: SUMMARY perms=96630 alphas=20946 halfpass=19 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_4: SUMMARY perms=96630 alphas=20946 halfpass=12 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_5: SUMMARY perms=96630 alphas=20946 halfpass=233 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_6: SUMMARY perms=96630 alphas=20946 halfpass=25 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_7: SUMMARY perms=96630 alphas=20946 halfpass=22 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_8: SUMMARY perms=96630 alphas=20946 halfpass=23 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_9: SUMMARY perms=96630 alphas=20946 halfpass=107 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+null_10: SUMMARY perms=96630 alphas=20946 halfpass=45 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+
+== Planted controls ==
+SUMMARY perms=96630 alphas=20946 halfpass=267 L1=0 L2=0 L3=0 L4=0 L5=0 L6=0 L7=0 L8=0 L9=0 L10=2 L11=0 L12=0
+HIT a=1 p=5000 var=0 mode=0 L=10 key=7,0,5,4,6,7,9,2,9,9,
+HIT a=3 p=5000 var=0 mode=0 L=10 key=7,0,5,4,6,7,9,2,9,9,
+SUMMARY perms=96630 alphas=20946 halfpass=1175 L1=0 L2=0 L3=0 L4=0 L5=2 L6=0 L7=0 L8=0 L9=0 L10=0 L11=0 L12=0
+HIT a=300 p=40000 var=1 mode=1 L=5 key=1,5,7,1,5,
+HIT a=301 p=40000 var=1 mode=1 L=5 key=10,6,4,10,6,
+ctl_1 = KA alphabet, PALIMPSEST key (var0, mode0) behind col7 perm #5000: recovered. ctl_2 = alphabet #300, CLOCK key (var1, mode1) behind col8 perm #40000: recovered.
+
+== Running-key Porta on survivors (tools/porta_runkey.py; 6 corpora: Gutenberg 84, 98, 1342, 1661, 2701, Dracula) best crib matches of 24 ==
+K4: 12/24 (336 tests). Nulls 1,3,4: 13, 12, 13. Planted running-key control (g84 offset 5000, KA, perm #5000): 24/24 at the exact offset.
