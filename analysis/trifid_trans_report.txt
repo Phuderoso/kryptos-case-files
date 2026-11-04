@@ -1,0 +1,7 @@
+K4: 165064 transpositions x 20 periods x 2 orientations x 2 layer orders; prefilter survivors 2; SAT-consistent 0 []
+shuffled-K4 null 0: 165064 transpositions x 20 periods x 2 orientations x 2 layer orders; prefilter survivors 0; SAT-consistent 0 []
+shuffled-K4 null 1: 165064 transpositions x 20 periods x 2 orientations x 2 layer orders; prefilter survivors 4; SAT-consistent 0 []
+shuffled-K4 null 2: 165064 transpositions x 20 periods x 2 orientations x 2 layer orders; prefilter survivors 3; SAT-consistent 0 []
+planted control order A period 7 transposition col814526370: recovered=True; consistent combos at the true transposition [('col814526370', 'A', 7, 0)]
+planted control order B period 5 transposition col803172645^-1: recovered=True; consistent combos at the true transposition [('col803172645^-1', 'B', 5, 0)]
+planted control order A period 13 transposition rot(24, 0, 1)+(42, 1, 1): recovered=True; consistent combos at the true transposition [('rot(24, 0, 1)+(42, 1, 1)', 'A', 13, 0)]

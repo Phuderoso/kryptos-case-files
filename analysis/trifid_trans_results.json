@@ -1,0 +1,48 @@
+{
+ "K4": [],
+ "null0": [],
+ "null1": [],
+ "null2": [],
+ "control0": {
+  "order": "A",
+  "p": 7,
+  "tag": "col814526370",
+  "hits": [
+   [
+    "col814526370",
+    "A",
+    7,
+    0
+   ]
+  ],
+  "recovered": true
+ },
+ "control1": {
+  "order": "B",
+  "p": 5,
+  "tag": "col803172645^-1",
+  "hits": [
+   [
+    "col803172645^-1",
+    "B",
+    5,
+    0
+   ]
+  ],
+  "recovered": true
+ },
+ "control2": {
+  "order": "A",
+  "p": 13,
+  "tag": "rot(24, 0, 1)+(42, 1, 1)",
+  "hits": [
+   [
+    "rot(24, 0, 1)+(42, 1, 1)",
+    "A",
+    13,
+    0
+   ]
+  ],
+  "recovered": true
+ }
+}
