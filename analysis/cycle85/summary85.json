@@ -1,0 +1,114 @@
+{
+ "k4": {
+  "alphabet_range": "0..86731",
+  "halfpass_split0": 1104,
+  "halfpass_split1": 774,
+  "periodic_hits_by_L": {
+   "25": 11,
+   "26": 266
+  },
+  "hits_L_le_24": []
+ },
+ "null1": {
+  "alphabet_range": "0..86731",
+  "halfpass_split0": 567,
+  "halfpass_split1": 726,
+  "periodic_hits_by_L": {
+   "25": 8,
+   "26": 209
+  },
+  "hits_L_le_24": []
+ },
+ "null2": {
+  "alphabet_range": "0..86731",
+  "halfpass_split0": 383,
+  "halfpass_split1": 674,
+  "periodic_hits_by_L": {
+   "25": 7,
+   "26": 154
+  },
+  "hits_L_le_24": []
+ },
+ "null3": {
+  "alphabet_range": "0..86731",
+  "halfpass_split0": 519,
+  "halfpass_split1": 982,
+  "periodic_hits_by_L": {
+   "25": 1,
+   "26": 330
+  },
+  "hits_L_le_24": []
+ },
+ "null4": {
+  "alphabet_range": "0..86731",
+  "halfpass_split0": 575,
+  "halfpass_split1": 882,
+  "periodic_hits_by_L": {
+   "25": 1,
+   "26": 286
+  },
+  "hits_L_le_24": []
+ },
+ "null5": {
+  "alphabet_range": "0..86731",
+  "halfpass_split0": 678,
+  "halfpass_split1": 587,
+  "periodic_hits_by_L": {
+   "24": 2,
+   "25": 6,
+   "26": 155
+  },
+  "hits_L_le_24": [
+   "HIT a=68206 p=110493 sp=0 var=1 mode=1 L=24 key=6,0,0,5,5,0,11,1,-1,11,3,8,0,3,5,2,9,11,7,1,12,5,5,5,",
+   "HIT a=68207 p=110493 sp=0 var=1 mode=1 L=24 key=5,11,11,6,6,11,0,10,-1,0,8,3,11,8,6,9,2,0,4,10,12,6,6,6,"
+  ]
+ },
+ "ctlA": {
+  "alphabet_range": "0..10842",
+  "halfpass_split0": 14581,
+  "halfpass_split1": 134,
+  "periodic_hits_by_L": {
+   "7": 2,
+   "26": 2795
+  },
+  "hits_L_le_24": [
+   "HIT a=0 p=1234 sp=0 var=0 mode=0 L=7 key=10,6,12,1,8,0,4,",
+   "HIT a=2 p=1234 sp=0 var=0 mode=0 L=7 key=3,7,1,12,5,0,9,"
+  ]
+ },
+ "ctlB": {
+  "alphabet_range": "32526..43368",
+  "halfpass_split0": 55,
+  "halfpass_split1": 119,
+  "periodic_hits_by_L": {
+   "11": 2,
+   "23": 1,
+   "25": 5,
+   "26": 41
+  },
+  "hits_L_le_24": [
+   "HIT a=39998 p=99001 sp=1 var=1 mode=1 L=11 key=7,7,0,9,3,5,11,1,10,8,4,",
+   "HIT a=40000 p=99001 sp=1 var=1 mode=1 L=11 key=4,4,11,2,8,6,0,10,1,3,7,",
+   "HIT a=40641 p=152986 sp=1 var=0 mode=1 L=23 key=4,9,0,0,10,12,9,7,8,6,11,9,9,8,11,10,3,11,10,6,8,2,5,"
+  ]
+ },
+ "ctlC": {
+  "alphabet_range": "0..10842",
+  "halfpass_split0": 422,
+  "halfpass_split1": 165,
+  "periodic_hits_by_L": {
+   "5": 4,
+   "15": 2,
+   "25": 1,
+   "26": 114
+  },
+  "hits_L_le_24": [
+   "HIT a=1 p=0 sp=0 var=1 mode=0 L=5 key=6,2,9,11,5,",
+   "HIT a=1 p=0 sp=0 var=1 mode=1 L=5 key=6,2,9,11,5,",
+   "HIT a=1 p=93174 sp=0 var=1 mode=0 L=5 key=6,2,9,11,5,",
+   "HIT a=1 p=93174 sp=0 var=1 mode=1 L=5 key=6,2,9,11,5,",
+   "HIT a=1 p=114791 sp=0 var=1 mode=0 L=15 key=6,2,7,11,11,6,2,9,11,5,6,2,9,11,5,",
+   "HIT a=1 p=114792 sp=0 var=1 mode=0 L=15 key=6,2,11,11,12,6,2,9,11,5,6,2,9,11,5,"
+  ]
+ }
+}
