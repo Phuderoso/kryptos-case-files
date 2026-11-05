@@ -88,3 +88,11 @@ the carved ragged rows of the copper as the grid, nulls with a coordinate key, t
 Reproduce: `cd tools/cycle77 && sh run77.sh` (needs `perms97.bin`, `a264.bin`; ~1.5 min per text on 8 cores).
 Cycle 77 ran K4 + shuffled nulls 0–12 behind transpositions (nulls 13–19 only direct), stopped at the compute
 budget; the script resumes from its per-chunk checkpoints.
+
+## Addendum (cycle 78): shuffled baseline completed
+Nulls 13–19 finished, so all 20 shuffled copies of K4 now have the full transposition run
+([`analysis/cycle77/cycle77_summary.json`](../analysis/cycle77/cycle77_summary.json)). Best exact-check count: model A
+nulls 4–6 (median 5), K4 4; model B nulls 4–5 (median 5), K4 5. Configurations at ≥ 4 checks: model A nulls 15–1,354
+(median 108), K4 16; model B nulls 77–1,428 (median 174), K4 120. K4 sits at or below the random baseline; the
+conclusion stands. The carved-row (w = 31) case this file left blind is taken up with a keyword column key in
+[case file 76](76-row-shifted-keyword.md).
