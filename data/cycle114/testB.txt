@@ -1,0 +1,11 @@
+2356 alphabet pairs x 2 senses
+B1 K4: 0 consistent (pair,sense,n) of 226176
+B1 nulls: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+B1 controls: 10/10 true setting recovered; consistent counts [26, 5, 20, 16, 5, 11, 48, 15, 18, 8]
+B2 K4: 0 consistent (pair,sense) of 4712; configs 0
+B2 nulls (pairs consistent): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+B2 controls: 10/10 true (pair,sense) found; pairs consistent [1, 2, 1, 2, 2, 2, 4, 2, 1, 1]
+   ctl ctl2_0 first-config decrypt: WEDUGTHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
+   ctl ctl2_1 first-config decrypt: WEDUGTHROUGYHGIIVBBLEEASTNORTHEASTQUVRMVNDTHEDOORUNDERTHEGAVYIBBERLINCLOCKTOWERABHGIQVNWENTDOWNXX
+   ctl ctl2_2 first-config decrypt: RMDUGTHROUGHTHERUNYUMEASTNORTHEASTANUSCYNDTHEDOORUNDERTZOCXDBRIBERLINCLOCKIZRMRASTHESUNWENTDOBGYO
+97s
