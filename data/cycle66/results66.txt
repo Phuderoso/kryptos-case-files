@@ -1,0 +1,135 @@
+== planted controls (must be found at their own perm/alphabet/offset) ==
+CTL_s0_direct ['a=159', 'off=1', 'perm=-1'] FOUND 11 HIST direct off=1: n11=2
+CTL_s0_A ['a=242', 'off=1', 'perm=7422'] FOUND 11 HIST A off=1: n11=23
+CTL_s0_B ['a=119', 'off=0', 'perm=8164'] not printed  HIST B off=0: n0=6401736 n1=2345904 n2=603814 n3=3399836 n4=870063 n5=253883 n6=7615 n7=314 n8=22
+CTL_s1_direct ['a=248', 'off=1', 'perm=-1'] FOUND 11 HIST direct off=1: n11=2
+CTL_s1_A ['a=17', 'off=0', 'perm=24258'] FOUND 11 HIST A off=0: n10=10 n11=1097
+CTL_s1_B ['a=259', 'off=0', 'perm=82149'] not printed  HIST B off=0: n0=6401736 n1=2345904 n2=609877 n3=4047112 n4=1569240 n5=378970 n6=5967 n7=3720 n8=953 n9=48 n10=8
+CTL_s2_direct ['a=86', 'off=0', 'perm=-1'] FOUND 11 HIST direct off=0: n11=1
+CTL_s2_A ['a=162', 'off=1', 'perm=18266'] FOUND 11 HIST A off=1: n10=48 n11=1257
+CTL_s2_B ['a=46', 'off=0', 'perm=51674'] not printed  HIST B off=0: n0=6401736 n1=2345904 n2=639090 n3=3127897 n4=1112174 n5=242088 n6=4755 n7=21001 n8=1697
+CTL_s3_direct ['a=194', 'off=0', 'perm=-1'] FOUND 11 HIST direct off=0: n11=1
+CTL_s3_A ['a=45', 'off=0', 'perm=77262'] FOUND 11 HIST A off=0: n10=244 n11=8303
+CTL_s3_B ['a=147', 'off=1', 'perm=85955'] not printed  HIST B off=1: n0=6294288 n1=2498496 n2=416554 n3=3424757 n4=1599790 n5=895500 n6=61570 n7=83672 n8=20316 n9=2360 n10=966 n11=11
+== K4 vs nulls: consistent configurations (direct; A = four-square then transposition, 11 crib pairs; B = transposition then four-square, n pairs) ==
+shape0 K4     direct=0 A(n=11)=13134 B max n=10 count@max=20 B n>=8=9327
+shape0 NULL0  direct=0 A(n=11)=4798 B max n=10 count@max=49 B n>=8=9301
+shape0 NULL1  direct=0 A(n=11)=6988 B max n=11 count@max=9 B n>=8=2601
+shape0 NULL2  direct=0 A(n=11)=8903 B max n=10 count@max=54 B n>=8=3559
+shape0 NULL3  direct=0 A(n=11)=2432 B max n=11 count@max=4 B n>=8=1197
+shape0 NULL4  direct=0 A(n=11)=13256 B max n=11 count@max=1 B n>=8=1148
+shape0 NULL5  direct=0 A(n=11)=5483 B max n=10 count@max=79 B n>=8=4149
+shape0 NULL6  direct=0 A(n=11)=9136 B max n=10 count@max=16 B n>=8=1580
+shape0 NULL7  direct=0 A(n=11)=13230 B max n=11 count@max=3 B n>=8=13950
+shape0 NULL8  direct=0 A(n=11)=5484 B max n=11 count@max=2 B n>=8=13169
+shape0 NULL9  direct=0 A(n=11)=5491 B max n=11 count@max=7 B n>=8=4675
+shape0 NULL10 direct=0 A(n=11)=7267 B max n=10 count@max=10 B n>=8=1532
+shape0 NULL11 direct=0 A(n=11)=3961 B max n=10 count@max=237 B n>=8=19147
+shape0 NULL12 direct=0 A(n=11)=22490 B max n=11 count@max=1 B n>=8=10585
+shape0 NULL13 direct=0 A(n=11)=2559 B max n=11 count@max=3 B n>=8=20577
+shape0 NULL14 direct=0 A(n=11)=2690 B max n=10 count@max=312 B n>=8=10384
+shape0 NULL15 direct=0 A(n=11)=25015 B max n=11 count@max=7 B n>=8=11605
+shape0 NULL16 direct=0 A(n=11)=1398 B max n=10 count@max=16 B n>=8=8213
+shape0 NULL17 direct=0 A(n=11)=7425 B max n=10 count@max=10 B n>=8=1363
+shape0 NULL18 direct=0 A(n=11)=6135 B max n=10 count@max=7 B n>=8=7110
+shape0 NULL19 direct=0 A(n=11)=3471 B max n=11 count@max=1 B n>=8=13218
+shape0 NULL20 direct=0 A(n=11)=13409 B max n=11 count@max=5 B n>=8=23040
+shape0 NULL21 direct=0 A(n=11)=8432 B max n=10 count@max=5 B n>=8=684
+shape0 NULL22 direct=0 A(n=11)=3096 B max n=11 count@max=1 B n>=8=32848
+shape0 NULL23 direct=0 A(n=11)=2276 B max n=10 count@max=4 B n>=8=407
+shape0 NULL24 direct=0 A(n=11)=7952 B max n=11 count@max=7 B n>=8=10102
+shape1 K4     direct=0 A(n=11)=3408 B max n=11 count@max=1 B n>=8=13468
+shape1 NULL0  direct=0 A(n=11)=919 B max n=11 count@max=2 B n>=8=8693
+shape1 NULL1  direct=0 A(n=11)=1691 B max n=11 count@max=6 B n>=8=4370
+shape1 NULL2  direct=0 A(n=11)=2897 B max n=10 count@max=260 B n>=8=3639
+shape1 NULL3  direct=0 A(n=11)=1182 B max n=11 count@max=1 B n>=8=1432
+shape1 NULL4  direct=0 A(n=11)=2862 B max n=11 count@max=4 B n>=8=4135
+shape1 NULL5  direct=0 A(n=11)=2166 B max n=11 count@max=1 B n>=8=2286
+shape1 NULL6  direct=0 A(n=11)=2518 B max n=10 count@max=24 B n>=8=1475
+shape1 NULL7  direct=0 A(n=11)=2452 B max n=11 count@max=2 B n>=8=13101
+shape1 NULL8  direct=0 A(n=11)=1332 B max n=11 count@max=3 B n>=8=13045
+shape1 NULL9  direct=0 A(n=11)=2898 B max n=11 count@max=8 B n>=8=4965
+shape1 NULL10 direct=0 A(n=11)=1851 B max n=10 count@max=12 B n>=8=1367
+shape1 NULL11 direct=0 A(n=11)=1435 B max n=11 count@max=1 B n>=8=25431
+shape1 NULL12 direct=0 A(n=11)=4343 B max n=10 count@max=57 B n>=8=14083
+shape1 NULL13 direct=0 A(n=11)=890 B max n=10 count@max=33 B n>=8=30174
+shape1 NULL14 direct=0 A(n=11)=815 B max n=11 count@max=1 B n>=8=11828
+shape1 NULL15 direct=0 A(n=11)=6974 B max n=10 count@max=118 B n>=8=13409
+shape1 NULL16 direct=0 A(n=11)=1106 B max n=10 count@max=6 B n>=8=9274
+shape1 NULL17 direct=0 A(n=11)=2029 B max n=10 count@max=132 B n>=8=3591
+shape1 NULL18 direct=0 A(n=11)=2146 B max n=10 count@max=21 B n>=8=9558
+shape1 NULL19 direct=0 A(n=11)=884 B max n=11 count@max=1 B n>=8=11906
+shape1 NULL20 direct=0 A(n=11)=1801 B max n=11 count@max=1 B n>=8=32333
+shape1 NULL21 direct=0 A(n=11)=1627 B max n=10 count@max=24 B n>=8=1095
+shape1 NULL22 direct=0 A(n=11)=911 B max n=11 count@max=5 B n>=8=15652
+shape1 NULL23 direct=0 A(n=11)=1049 B max n=11 count@max=2 B n>=8=773
+shape1 NULL24 direct=0 A(n=11)=2399 B max n=11 count@max=5 B n>=8=10133
+shape2 K4     direct=0 A(n=11)=3795 B max n=11 count@max=7 B n>=8=12077
+shape2 NULL0  direct=0 A(n=11)=1800 B max n=10 count@max=130 B n>=8=13242
+shape2 NULL1  direct=0 A(n=11)=3009 B max n=11 count@max=7 B n>=8=4338
+shape2 NULL2  direct=0 A(n=11)=3264 B max n=11 count@max=2 B n>=8=7914
+shape2 NULL3  direct=0 A(n=11)=920 B max n=11 count@max=2 B n>=8=2722
+shape2 NULL4  direct=0 A(n=11)=4117 B max n=11 count@max=1 B n>=8=2374
+shape2 NULL5  direct=0 A(n=11)=2434 B max n=11 count@max=1 B n>=8=3083
+shape2 NULL6  direct=0 A(n=11)=2455 B max n=11 count@max=16 B n>=8=3178
+shape2 NULL7  direct=0 A(n=11)=3565 B max n=11 count@max=1 B n>=8=11233
+shape2 NULL8  direct=0 A(n=11)=1813 B max n=11 count@max=2 B n>=8=13281
+shape2 NULL9  direct=0 A(n=11)=2093 B max n=11 count@max=10 B n>=8=8161
+shape2 NULL10 direct=0 A(n=11)=2674 B max n=10 count@max=24 B n>=8=1602
+shape2 NULL11 direct=0 A(n=11)=2511 B max n=10 count@max=3788 B n>=8=33038
+shape2 NULL12 direct=0 A(n=11)=9111 B max n=10 count@max=214 B n>=8=12232
+shape2 NULL13 direct=0 A(n=11)=717 B max n=11 count@max=5 B n>=8=24745
+shape2 NULL14 direct=0 A(n=11)=1371 B max n=10 count@max=1220 B n>=8=16938
+shape2 NULL15 direct=0 A(n=11)=9551 B max n=11 count@max=11 B n>=8=13968
+shape2 NULL16 direct=0 A(n=11)=1086 B max n=10 count@max=49 B n>=8=8056
+shape2 NULL17 direct=0 A(n=11)=2609 B max n=10 count@max=104 B n>=8=2477
+shape2 NULL18 direct=0 A(n=11)=2273 B max n=10 count@max=19 B n>=8=7802
+shape2 NULL19 direct=0 A(n=11)=1587 B max n=10 count@max=684 B n>=8=13722
+shape2 NULL20 direct=0 A(n=11)=4424 B max n=11 count@max=2 B n>=8=28533
+shape2 NULL21 direct=0 A(n=11)=2735 B max n=11 count@max=4 B n>=8=1230
+shape2 NULL22 direct=0 A(n=11)=1329 B max n=11 count@max=2 B n>=8=15765
+shape2 NULL23 direct=0 A(n=11)=1124 B max n=10 count@max=78 B n>=8=715
+shape2 NULL24 direct=0 A(n=11)=3466 B max n=11 count@max=5 B n>=8=13931
+shape3 K4     direct=0 A(n=11)=20654 B max n=11 count@max=19 B n>=8=28220
+shape3 NULL0  direct=0 A(n=11)=7874 B max n=11 count@max=1 B n>=8=13758
+shape3 NULL1  direct=0 A(n=11)=11139 B max n=11 count@max=23 B n>=8=5798
+shape3 NULL2  direct=0 A(n=11)=13153 B max n=10 count@max=277 B n>=8=6492
+shape3 NULL3  direct=0 A(n=11)=4129 B max n=11 count@max=11 B n>=8=2999
+shape3 NULL4  direct=0 A(n=11)=15575 B max n=11 count@max=5 B n>=8=2835
+shape3 NULL5  direct=0 A(n=11)=6720 B max n=11 count@max=1 B n>=8=3016
+shape3 NULL6  direct=0 A(n=11)=12883 B max n=10 count@max=136 B n>=8=4058
+shape3 NULL7  direct=0 A(n=11)=17154 B max n=10 count@max=14 B n>=8=30496
+shape3 NULL8  direct=0 A(n=11)=7223 B max n=11 count@max=10 B n>=8=24527
+shape3 NULL9  direct=0 A(n=11)=8852 B max n=11 count@max=29 B n>=8=6721
+shape3 NULL10 direct=0 A(n=11)=10548 B max n=10 count@max=50 B n>=8=1920
+shape3 NULL11 direct=0 A(n=11)=7038 B max n=11 count@max=147 B n>=8=42711
+shape3 NULL12 direct=0 A(n=11)=31578 B max n=10 count@max=136 B n>=8=29452
+shape3 NULL13 direct=0 A(n=11)=4487 B max n=11 count@max=2 B n>=8=65226
+shape3 NULL14 direct=0 A(n=11)=5752 B max n=11 count@max=1 B n>=8=17763
+shape3 NULL15 direct=0 A(n=11)=37267 B max n=11 count@max=40 B n>=8=24912
+shape3 NULL16 direct=0 A(n=11)=3629 B max n=10 count@max=11 B n>=8=18574
+shape3 NULL17 direct=0 A(n=11)=11767 B max n=11 count@max=1 B n>=8=4164
+shape3 NULL18 direct=0 A(n=11)=10250 B max n=11 count@max=1 B n>=8=19653
+shape3 NULL19 direct=0 A(n=11)=5048 B max n=10 count@max=564 B n>=8=13808
+shape3 NULL20 direct=0 A(n=11)=17260 B max n=11 count@max=11 B n>=8=66593
+shape3 NULL21 direct=0 A(n=11)=11421 B max n=11 count@max=13 B n>=8=1217
+shape3 NULL22 direct=0 A(n=11)=3938 B max n=11 count@max=13 B n>=8=32421
+shape3 NULL23 direct=0 A(n=11)=3290 B max n=11 count@max=6 B n>=8=1111
+shape3 NULL24 direct=0 A(n=11)=14043 B max n=11 count@max=22 B n>=8=15519
+== decoded-pair English check for order-A/direct survivors: non-crib pairs whose two cipher letters are already placed decode fully; best mean bigram log10 over survivors with m>=4 decoded pairs ==
+shape0 K4 -1.87  nulls min -2.21 median -2.07 max -1.85; K4 rank 2/26
+shape1 K4 -2.06  nulls min -2.28 median -2.10 max -1.88; K4 rank 11/26
+shape2 K4 -2.18  nulls min -2.45 median -2.18 max -1.87; K4 rank 15/26
+shape3 K4 -2.04  nulls min -2.49 median -2.20 max -1.96; K4 rank 6/26
+CTL_s0_direct own config: HIT direct a=159 off=1 n=11 m=14 sc=-2.08 | best survivor: HIT A perm=1038 a=0 off=0 n=11 m=5 sc=-2.06
+CTL_s0_A own config: HIT A perm=7422 a=242 off=1 n=11 m=12 sc=-1.94 | best survivor: HIT A perm=7422 a=242 off=1 n=11 m=12 sc=-1.94
+CTL_s0_B own config: - | best survivor: HIT A perm=15536 a=119 off=1 n=11 m=8 sc=-2.26
+CTL_s1_direct own config: HIT direct a=248 off=1 n=11 m=10 sc=-2.06 | best survivor: HIT A perm=26176 a=121 off=1 n=11 m=6 sc=-1.99
+CTL_s1_A own config: HIT A perm=24258 a=17 off=0 n=11 m=9 sc=-2.23 | best survivor: HIT A perm=60908 a=121 off=1 n=11 m=4 sc=-1.93
+CTL_s1_B own config: - | best survivor: HIT A perm=90744 a=226 off=1 n=11 m=5 sc=-1.93
+CTL_s2_direct own config: HIT direct a=86 off=0 n=11 m=3 sc=-2.25 | best survivor: HIT A perm=58164 a=144 off=1 n=11 m=5 sc=-2.02
+CTL_s2_A own config: HIT A perm=18266 a=162 off=1 n=11 m=9 sc=-2.10 | best survivor: HIT A perm=18266 a=162 off=1 n=11 m=9 sc=-2.10
+CTL_s2_B own config: - | best survivor: HIT A perm=6110 a=58 off=1 n=11 m=5 sc=-2.20
+CTL_s3_direct own config: HIT direct a=194 off=0 n=11 m=6 sc=-2.96 | best survivor: HIT A perm=41552 a=235 off=1 n=11 m=4 sc=-2.11
+CTL_s3_A own config: HIT A perm=77262 a=45 off=0 n=11 m=11 sc=-2.07 | best survivor: HIT A perm=77262 a=45 off=0 n=11 m=11 sc=-2.07
+CTL_s3_B own config: - | best survivor: HIT A perm=7830 a=255 off=0 n=11 m=5 sc=-2.17

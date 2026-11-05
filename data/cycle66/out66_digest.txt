@@ -1,0 +1,2897 @@
+# Cycle 66 digest of raw outputs: per run, HIST lines, all direct hits, and the 10 order-A survivors with the most decoded non-crib pairs (m) then best bigram score. Full raw outputs (14 MB) are kept on the investigation machine.
+
+## CTL_s0_A_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=63
+HIST A off=1: n11=23
+HIST B off=0: n0=6401736 n1=2345904 n2=635343 n3=3075119 n4=1457204 n5=523492 n6=17842 n7=16381 n8=302
+HIST B off=1: n0=6294288 n1=2498496 n2=495090 n3=3177831 n4=1922886 n5=974629 n6=11105 n7=22123 n8=963 n9=23 n10=4 n11=1
+perms=96630 alphabets=264 shape=0
+HIT A perm=7422 a=242 off=1 n=11 m=12 sc=-1.94
+HIT A perm=7422 a=243 off=1 n=11 m=12 sc=-1.94
+HIT A perm=93242 a=0 off=0 n=11 m=12 sc=-2.48
+HIT A perm=93242 a=2 off=0 n=11 m=12 sc=-2.48
+HIT A perm=93242 a=262 off=0 n=11 m=12 sc=-2.48
+HIT A perm=93242 a=263 off=0 n=11 m=12 sc=-2.48
+HIT A perm=93242 a=67 off=0 n=11 m=12 sc=-3.05
+HIT A perm=93242 a=64 off=0 n=11 m=12 sc=-3.33
+HIT A perm=93242 a=61 off=0 n=11 m=12 sc=-3.54
+HIT A perm=16922 a=113 off=1 n=11 m=11 sc=-2.57
+
+## CTL_s0_A_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=4 n11=118
+HIST A off=1: n10=8 n11=7
+HIST B off=0: n0=6401736 n1=2345904 n2=644513 n3=3139393 n4=1725441 n5=894834 n6=18947 n7=30631 n8=13
+HIST B off=1: n0=6294288 n1=2498496 n2=499963 n3=3122526 n4=1908465 n5=1013239 n6=13070 n7=22121 n8=315 n9=8 n10=1
+perms=96630 alphabets=264 shape=1
+HIT A perm=16251 a=245 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16251 a=246 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16253 a=245 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16253 a=246 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16263 a=245 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16263 a=246 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16265 a=245 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16265 a=246 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16275 a=245 off=0 n=11 m=14 sc=-2.89
+HIT A perm=16275 a=246 off=0 n=11 m=14 sc=-2.89
+
+## CTL_s0_A_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=2 n11=48
+HIST A off=1: n10=6 n11=72
+HIST B off=0: n0=6401736 n1=2345904 n2=621834 n3=2958578 n4=1579532 n5=798870 n6=20643 n7=47931 n8=105 n9=2
+HIST B off=1: n0=6294288 n1=2498496 n2=484278 n3=2973465 n4=1758563 n5=845903 n6=12907 n7=17696 n8=264 n9=23 n10=2
+perms=96630 alphabets=264 shape=2
+HIT A perm=77436 a=138 off=1 n=11 m=16 sc=-3.55
+HIT A perm=77424 a=138 off=1 n=11 m=15 sc=-4.44
+HIT A perm=82171 a=208 off=0 n=11 m=14 sc=-2.94
+HIT A perm=51859 a=208 off=0 n=11 m=14 sc=-2.95
+HIT A perm=82291 a=208 off=0 n=11 m=14 sc=-2.95
+HIT A perm=41781 a=208 off=0 n=11 m=14 sc=-3.07
+HIT A perm=82245 a=208 off=0 n=11 m=14 sc=-3.07
+HIT A perm=77196 a=138 off=1 n=11 m=14 sc=-3.61
+HIT A perm=35412 a=138 off=1 n=11 m=14 sc=-3.83
+HIT A perm=35440 a=138 off=1 n=11 m=14 sc=-4.34
+
+## CTL_s0_A_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=144
+HIST A off=1: n10=10 n11=177
+HIST B off=0: n0=6401736 n1=2345904 n2=637956 n3=3109510 n4=1996834 n5=1288689 n6=24572 n7=63219 n8=72 n9=4
+HIST B off=1: n0=6294288 n1=2498496 n2=498213 n3=3075382 n4=1900741 n5=962507 n6=16219 n7=16566 n8=521 n9=35 n10=7 n11=2
+perms=96630 alphabets=264 shape=3
+HIT A perm=74196 a=42 off=1 n=11 m=17 sc=-4.51
+HIT A perm=34624 a=129 off=0 n=11 m=17 sc=-4.88
+HIT A perm=74688 a=42 off=1 n=11 m=16 sc=-3.75
+HIT A perm=34596 a=129 off=0 n=11 m=16 sc=-5.18
+HIT A perm=64848 a=42 off=1 n=11 m=15 sc=-3.11
+HIT A perm=77556 a=42 off=1 n=11 m=15 sc=-3.19
+HIT A perm=77316 a=42 off=1 n=11 m=15 sc=-3.51
+HIT A perm=77344 a=42 off=1 n=11 m=15 sc=-3.62
+HIT A perm=54300 a=42 off=1 n=11 m=15 sc=-3.85
+HIT A perm=35340 a=42 off=1 n=11 m=15 sc=-4.02
+
+## CTL_s0_B_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=648
+HIST A off=1: n11=145
+HIST B off=0: n0=6401736 n1=2345904 n2=603814 n3=3399836 n4=870063 n5=253883 n6=7615 n7=314 n8=22
+HIST B off=1: n0=6294288 n1=2498496 n2=498492 n3=2987691 n4=1565943 n5=585567 n6=22582 n7=762 n8=365 n9=14 n10=2 n11=2
+perms=96630 alphabets=264 shape=0
+HIT A perm=8880 a=67 off=0 n=11 m=15 sc=-2.60
+HIT A perm=8880 a=262 off=0 n=11 m=15 sc=-2.76
+HIT A perm=8880 a=263 off=0 n=11 m=15 sc=-2.76
+HIT A perm=8880 a=0 off=0 n=11 m=15 sc=-2.88
+HIT A perm=8880 a=2 off=0 n=11 m=15 sc=-2.88
+HIT A perm=8880 a=64 off=0 n=11 m=15 sc=-3.73
+HIT A perm=8880 a=61 off=0 n=11 m=15 sc=-3.97
+HIT A perm=6460 a=241 off=1 n=11 m=14 sc=-2.98
+HIT A perm=5996 a=119 off=1 n=11 m=14 sc=-3.14
+HIT A perm=5996 a=120 off=1 n=11 m=14 sc=-3.14
+
+## CTL_s0_B_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=20 n11=101
+HIST A off=1: n11=110
+HIST B off=0: n0=6401736 n1=2345904 n2=609548 n3=3470917 n4=989778 n5=365436 n6=8558 n7=811 n8=61 n9=20 n10=6 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=502968 n3=2955912 n4=1588153 n5=629423 n6=24852 n7=2023 n8=1041 n9=92 n11=2
+perms=96630 alphabets=264 shape=1
+HIT A perm=6460 a=76 off=0 n=11 m=16 sc=-3.36
+HIT A perm=5996 a=121 off=1 n=11 m=14 sc=-2.66
+HIT A perm=3820 a=76 off=0 n=11 m=14 sc=-3.12
+HIT A perm=6488 a=121 off=1 n=11 m=13 sc=-2.63
+HIT A perm=6492 a=121 off=1 n=11 m=13 sc=-2.79
+HIT A perm=3848 a=44 off=1 n=11 m=13 sc=-2.83
+HIT A perm=3848 a=45 off=1 n=11 m=13 sc=-2.83
+HIT A perm=8928 a=121 off=1 n=11 m=13 sc=-2.83
+HIT A perm=3120 a=121 off=1 n=11 m=13 sc=-2.87
+HIT A perm=11088 a=68 off=0 n=11 m=13 sc=-2.88
+
+## CTL_s0_B_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=14 n11=154
+HIST A off=1: n11=79
+HIST B off=0: n0=6401736 n1=2345904 n2=591382 n3=3253463 n4=934815 n5=351888 n6=7250 n7=658 n8=74 n9=5 n10=8 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=487416 n3=2813357 n4=1478582 n5=537282 n6=24052 n7=1586 n8=603 n9=82 n10=4 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=5292 a=166 off=0 n=11 m=16 sc=-3.78
+HIT A perm=8880 a=231 off=0 n=11 m=15 sc=-3.81
+HIT A perm=5996 a=7 off=1 n=11 m=14 sc=-3.89
+HIT A perm=6488 a=7 off=1 n=11 m=13 sc=-2.96
+HIT A perm=3120 a=7 off=1 n=11 m=13 sc=-2.98
+HIT A perm=4936 a=176 off=1 n=11 m=13 sc=-3.18
+HIT A perm=4500 a=7 off=1 n=11 m=13 sc=-3.54
+HIT A perm=6008 a=7 off=1 n=11 m=13 sc=-3.59
+HIT A perm=8928 a=7 off=1 n=11 m=13 sc=-3.63
+HIT A perm=5052 a=166 off=0 n=11 m=13 sc=-3.69
+
+## CTL_s0_B_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=12 n11=787
+HIST A off=1: n11=521
+HIST B off=0: n0=6401736 n1=2345904 n2=605495 n3=3433815 n4=1116931 n5=488613 n6=8599 n7=757 n8=73 n9=11 n10=30 n11=3
+HIST B off=1: n0=6294288 n1=2498496 n2=501447 n3=2914256 n4=1577546 n5=595001 n6=29643 n7=2908 n8=1248 n9=127 n10=6 n11=11
+perms=96630 alphabets=264 shape=3
+HIT A perm=8880 a=255 off=0 n=11 m=15 sc=-3.17
+HIT A perm=8880 a=88 off=0 n=11 m=15 sc=-3.66
+HIT A perm=9314 a=19 off=0 n=11 m=15 sc=-4.13
+HIT A perm=8880 a=183 off=0 n=11 m=15 sc=-4.21
+HIT A perm=8880 a=7 off=0 n=11 m=15 sc=-4.30
+HIT A perm=8880 a=34 off=0 n=11 m=15 sc=-4.42
+HIT A perm=7701 a=22 off=0 n=11 m=15 sc=-4.60
+HIT A perm=4112 a=101 off=1 n=11 m=15 sc=-4.71
+HIT A perm=2248 a=208 off=0 n=11 m=14 sc=-3.57
+HIT A perm=9746 a=19 off=0 n=11 m=14 sc=-4.11
+
+## CTL_s0_direct_s0.out
+HIT direct a=158 off=1 n=11 m=14 sc=-2.08
+HIT direct a=159 off=1 n=11 m=14 sc=-2.08
+HIST direct off=0:
+HIST direct off=1: n11=2
+HIST A off=0: n10=256 n11=1731
+HIST A off=1: n10=16 n11=665
+HIST B off=0: n0=6401736 n1=2345904 n2=598594 n3=2717457 n4=858188 n5=413991 n6=6222 n7=1690 n8=96 n9=29
+HIST B off=1: n0=6294288 n1=2498496 n2=464230 n3=3163413 n4=1652522 n5=733827 n6=6854 n7=6730 n8=653 n9=20 n10=160 n11=4
+perms=96630 alphabets=264 shape=0
+HIT A perm=50653 a=0 off=0 n=11 m=16 sc=-2.78
+HIT A perm=50653 a=2 off=0 n=11 m=16 sc=-2.78
+HIT A perm=50701 a=0 off=0 n=11 m=16 sc=-2.78
+HIT A perm=50701 a=2 off=0 n=11 m=16 sc=-2.78
+HIT A perm=60733 a=0 off=0 n=11 m=16 sc=-2.78
+HIT A perm=60733 a=2 off=0 n=11 m=16 sc=-2.78
+HIT A perm=60781 a=0 off=0 n=11 m=16 sc=-2.78
+HIT A perm=60781 a=2 off=0 n=11 m=16 sc=-2.78
+HIT A perm=70813 a=0 off=0 n=11 m=16 sc=-2.78
+HIT A perm=70813 a=2 off=0 n=11 m=16 sc=-2.78
+
+## CTL_s0_direct_s1.out
+HIT direct a=116 off=1 n=11 m=14 sc=-2.43
+HIT direct a=117 off=1 n=11 m=14 sc=-2.43
+HIST direct off=0:
+HIST direct off=1: n11=2
+HIST A off=0: n10=148 n11=60
+HIST A off=1: n10=20 n11=551
+HIST B off=0: n0=6401736 n1=2345904 n2=603992 n3=2764568 n4=980230 n5=606313 n6=6217 n7=1302 n8=330 n9=26 n10=40
+HIST B off=1: n0=6294288 n1=2498496 n2=466650 n3=3129231 n4=1627635 n5=775134 n6=8011 n7=12984 n8=765 n9=26 n10=252 n11=4
+perms=96630 alphabets=264 shape=1
+HIT A perm=0 a=116 off=1 n=11 m=14 sc=-2.43
+HIT A perm=0 a=117 off=1 n=11 m=14 sc=-2.43
+HIT A perm=1 a=116 off=1 n=11 m=14 sc=-2.43
+HIT A perm=1 a=117 off=1 n=11 m=14 sc=-2.43
+HIT A perm=75644 a=178 off=0 n=11 m=14 sc=-3.25
+HIT A perm=75644 a=38 off=0 n=11 m=14 sc=-3.30
+HIT A perm=75644 a=39 off=0 n=11 m=14 sc=-3.30
+HIT A perm=16167 a=121 off=1 n=11 m=13 sc=-3.08
+HIT A perm=16179 a=121 off=1 n=11 m=13 sc=-3.08
+HIT A perm=16215 a=121 off=1 n=11 m=13 sc=-3.08
+
+## CTL_s0_direct_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=92 n11=455
+HIST A off=1: n10=16 n11=505
+HIST B off=0: n0=6401736 n1=2345904 n2=585027 n3=2590443 n4=914880 n5=564941 n6=6549 n7=2262 n8=186 n9=29 n10=16
+HIST B off=1: n0=6294288 n1=2498496 n2=453295 n3=2955479 n4=1529090 n5=660947 n6=8395 n7=22629 n8=246 n9=65 n10=636
+perms=96630 alphabets=264 shape=2
+HIT A perm=50653 a=231 off=0 n=11 m=16 sc=-3.74
+HIT A perm=50701 a=231 off=0 n=11 m=16 sc=-3.74
+HIT A perm=60733 a=231 off=0 n=11 m=16 sc=-3.74
+HIT A perm=60781 a=231 off=0 n=11 m=16 sc=-3.74
+HIT A perm=70813 a=231 off=0 n=11 m=16 sc=-3.74
+HIT A perm=70861 a=231 off=0 n=11 m=16 sc=-3.74
+HIT A perm=5773 a=37 off=0 n=11 m=14 sc=-3.74
+HIT A perm=47773 a=231 off=0 n=11 m=14 sc=-3.84
+HIT A perm=47821 a=231 off=0 n=11 m=14 sc=-3.84
+HIT A perm=69373 a=231 off=0 n=11 m=14 sc=-3.84
+
+## CTL_s0_direct_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=326 n11=1758
+HIST A off=1: n10=64 n11=2199
+HIST B off=0: n0=6401736 n1=2345904 n2=599998 n3=2732109 n4=1104945 n5=817574 n6=7151 n7=2136 n8=257 n9=90 n10=81
+HIST B off=1: n0=6294288 n1=2498496 n2=465308 n3=3084588 n4=1656871 n5=741121 n6=10280 n7=29161 n8=434 n9=96 n10=648
+perms=96630 alphabets=264 shape=3
+HIT A perm=50653 a=255 off=0 n=11 m=16 sc=-2.88
+HIT A perm=50701 a=255 off=0 n=11 m=16 sc=-2.88
+HIT A perm=60733 a=255 off=0 n=11 m=16 sc=-2.88
+HIT A perm=60781 a=255 off=0 n=11 m=16 sc=-2.88
+HIT A perm=70813 a=255 off=0 n=11 m=16 sc=-2.88
+HIT A perm=70861 a=255 off=0 n=11 m=16 sc=-2.88
+HIT A perm=50653 a=88 off=0 n=11 m=16 sc=-3.29
+HIT A perm=50701 a=88 off=0 n=11 m=16 sc=-3.29
+HIT A perm=60733 a=88 off=0 n=11 m=16 sc=-3.29
+HIT A perm=60781 a=88 off=0 n=11 m=16 sc=-3.29
+
+## CTL_s1_A_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=22 n11=8440
+HIST A off=1: n10=68 n11=3185
+HIST B off=0: n0=6401736 n1=2345904 n2=649459 n3=3484773 n4=1438992 n5=546676 n6=35259 n7=22234 n8=10967 n9=37 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=495601 n3=3797371 n4=2819061 n5=2192421 n6=26998 n7=16390 n8=5795 n9=28 n10=15
+perms=96630 alphabets=264 shape=0
+HIT A perm=12612 a=67 off=0 n=11 m=13 sc=-3.10
+HIT A perm=12612 a=0 off=0 n=11 m=13 sc=-3.25
+HIT A perm=12612 a=2 off=0 n=11 m=13 sc=-3.25
+HIT A perm=12612 a=61 off=0 n=11 m=13 sc=-3.59
+HIT A perm=12612 a=262 off=0 n=11 m=13 sc=-3.70
+HIT A perm=12612 a=263 off=0 n=11 m=13 sc=-3.70
+HIT A perm=12612 a=64 off=0 n=11 m=13 sc=-3.93
+HIT A perm=88886 a=119 off=1 n=11 m=12 sc=-2.50
+HIT A perm=88886 a=120 off=1 n=11 m=12 sc=-2.50
+HIT A perm=12168 a=262 off=0 n=11 m=12 sc=-2.57
+
+## CTL_s1_A_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=10 n11=1097
+HIST A off=1: n10=36 n11=1898
+HIST B off=0: n0=6401736 n1=2345904 n2=656964 n3=3581871 n4=1655292 n5=862299 n6=35979 n7=48854 n8=15791 n9=58 n10=7 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=500087 n3=3746718 n4=2825847 n5=2370200 n6=30144 n7=38262 n8=9050 n9=108 n10=10 n11=2
+perms=96630 alphabets=264 shape=1
+HIT A perm=88886 a=121 off=1 n=11 m=12 sc=-2.37
+HIT A perm=85526 a=121 off=1 n=11 m=12 sc=-2.38
+HIT A perm=69251 a=121 off=1 n=11 m=12 sc=-2.74
+HIT A perm=27503 a=121 off=1 n=11 m=12 sc=-2.75
+HIT A perm=69299 a=121 off=1 n=11 m=12 sc=-2.75
+HIT A perm=69329 a=121 off=1 n=11 m=12 sc=-2.77
+HIT A perm=79409 a=121 off=1 n=11 m=12 sc=-2.77
+HIT A perm=69413 a=121 off=1 n=11 m=12 sc=-2.89
+HIT A perm=23136 a=76 off=0 n=11 m=12 sc=-3.15
+HIT A perm=27517 a=121 off=1 n=11 m=11 sc=-2.67
+
+## CTL_s1_A_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=16 n11=2251
+HIST A off=1: n10=24 n11=2064
+HIST B off=0: n0=6401736 n1=2345904 n2=635433 n3=3346752 n4=1563627 n5=787430 n6=37072 n7=85709 n8=13032 n9=59
+HIST B off=1: n0=6294288 n1=2498496 n2=484846 n3=3545275 n4=2576806 n5=1936991 n6=31053 n7=65838 n8=8399 n9=92 n10=5 n11=2
+perms=96630 alphabets=264 shape=2
+HIT A perm=12612 a=231 off=0 n=11 m=13 sc=-3.89
+HIT A perm=27503 a=7 off=1 n=11 m=12 sc=-3.25
+HIT A perm=69299 a=7 off=1 n=11 m=12 sc=-3.25
+HIT A perm=69329 a=7 off=1 n=11 m=12 sc=-3.36
+HIT A perm=79409 a=7 off=1 n=11 m=12 sc=-3.36
+HIT A perm=88886 a=7 off=1 n=11 m=12 sc=-3.36
+HIT A perm=69251 a=7 off=1 n=11 m=12 sc=-3.37
+HIT A perm=69413 a=7 off=1 n=11 m=12 sc=-3.50
+HIT A perm=85526 a=7 off=1 n=11 m=12 sc=-3.92
+HIT A perm=12168 a=231 off=0 n=11 m=12 sc=-4.49
+
+## CTL_s1_A_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=22 n11=8440
+HIST A off=1: n10=78 n11=9459
+HIST B off=0: n0=6401736 n1=2345904 n2=651208 n3=3541888 n4=1933210 n5=1199355 n6=45380 n7=111583 n8=34328 n9=140 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=498609 n3=3688713 n4=2789454 n5=2218242 n6=36824 n7=84881 n8=18081 n9=116 n10=16 n11=2
+perms=96630 alphabets=264 shape=3
+HIT A perm=12612 a=183 off=0 n=11 m=13 sc=-4.14
+HIT A perm=12612 a=255 off=0 n=11 m=13 sc=-4.29
+HIT A perm=12612 a=34 off=0 n=11 m=13 sc=-4.85
+HIT A perm=12612 a=7 off=0 n=11 m=13 sc=-4.87
+HIT A perm=12612 a=88 off=0 n=11 m=13 sc=-5.38
+HIT A perm=88886 a=7 off=1 n=11 m=12 sc=-3.13
+HIT A perm=88886 a=55 off=1 n=11 m=12 sc=-3.59
+HIT A perm=88886 a=184 off=1 n=11 m=12 sc=-3.77
+HIT A perm=69413 a=55 off=1 n=11 m=12 sc=-3.87
+HIT A perm=88886 a=34 off=1 n=11 m=12 sc=-4.00
+
+## CTL_s1_B_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=1827
+HIST A off=1: n10=108 n11=379
+HIST B off=0: n0=6401736 n1=2345904 n2=604657 n3=3959407 n4=1314012 n5=228276 n6=5400 n7=4411 n8=292 n9=43
+HIST B off=1: n0=6294288 n1=2498496 n2=445149 n3=2988110 n4=1079870 n5=315938 n6=4689 n7=9957 n8=5311 n9=26
+perms=96630 alphabets=264 shape=0
+HIT A perm=84016 a=5 off=0 n=11 m=14 sc=-3.24
+HIT A perm=84016 a=6 off=0 n=11 m=14 sc=-3.24
+HIT A perm=92894 a=0 off=0 n=11 m=13 sc=-2.63
+HIT A perm=92894 a=2 off=0 n=11 m=13 sc=-2.63
+HIT A perm=92894 a=262 off=0 n=11 m=13 sc=-2.92
+HIT A perm=92894 a=263 off=0 n=11 m=13 sc=-2.92
+HIT A perm=92894 a=64 off=0 n=11 m=13 sc=-3.15
+HIT A perm=92894 a=67 off=0 n=11 m=13 sc=-3.18
+HIT A perm=92894 a=61 off=0 n=11 m=13 sc=-3.65
+HIT A perm=2075 a=119 off=1 n=11 m=12 sc=-2.69
+
+## CTL_s1_B_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=344
+HIST A off=1: n10=72 n11=284
+HIST B off=0: n0=6401736 n1=2345904 n2=609877 n3=4047112 n4=1569240 n5=378970 n6=5967 n7=3720 n8=953 n9=48 n10=8
+HIST B off=1: n0=6294288 n1=2498496 n2=448188 n3=2968296 n4=1086583 n5=342298 n6=5548 n7=23178 n8=7740 n9=20
+perms=96630 alphabets=264 shape=1
+HIT A perm=72916 a=100 off=1 n=11 m=12 sc=-2.62
+HIT A perm=2075 a=121 off=1 n=11 m=12 sc=-2.63
+HIT A perm=5147 a=121 off=1 n=11 m=12 sc=-2.64
+HIT A perm=72442 a=100 off=1 n=11 m=12 sc=-2.72
+HIT A perm=13438 a=44 off=1 n=11 m=12 sc=-2.75
+HIT A perm=13438 a=45 off=1 n=11 m=12 sc=-2.75
+HIT A perm=92795 a=44 off=1 n=11 m=12 sc=-3.01
+HIT A perm=92795 a=45 off=1 n=11 m=12 sc=-3.01
+HIT A perm=72442 a=229 off=1 n=11 m=12 sc=-3.28
+HIT A perm=72916 a=229 off=1 n=11 m=12 sc=-3.52
+
+## CTL_s1_B_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=568
+HIST A off=1: n10=94 n11=231
+HIST B off=0: n0=6401736 n1=2345904 n2=590651 n3=3769368 n4=1454291 n5=329345 n6=6218 n7=3568 n8=1924 n9=99
+HIST B off=1: n0=6294288 n1=2498496 n2=434390 n3=2807269 n4=1004921 n5=284526 n6=4748 n7=41076 n8=6282 n9=49
+perms=96630 alphabets=264 shape=2
+HIT A perm=92894 a=231 off=0 n=11 m=13 sc=-3.46
+HIT A perm=5147 a=7 off=1 n=11 m=12 sc=-3.18
+HIT A perm=40 a=216 off=0 n=11 m=12 sc=-3.45
+HIT A perm=2075 a=7 off=1 n=11 m=12 sc=-3.69
+HIT A perm=276 a=7 off=1 n=11 m=11 sc=-2.92
+HIT A perm=16209 a=182 off=0 n=11 m=11 sc=-2.93
+HIT A perm=16363 a=182 off=0 n=11 m=11 sc=-2.93
+HIT A perm=289 a=133 off=0 n=11 m=11 sc=-3.43
+HIT A perm=84006 a=178 off=0 n=11 m=11 sc=-3.51
+HIT A perm=84124 a=80 off=0 n=11 m=11 sc=-3.52
+
+## CTL_s1_B_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=1772
+HIST A off=1: n10=188 n11=1102
+HIST B off=0: n0=6401736 n1=2345904 n2=604298 n3=4005771 n4=1821112 n5=483433 n6=7626 n7=2399 n8=841 n9=143 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=445679 n3=2938036 n4=1090362 n5=328038 n6=5998 n7=52819 n8=16834 n9=60
+perms=96630 alphabets=264 shape=3
+HIT A perm=92894 a=255 off=0 n=11 m=13 sc=-3.09
+HIT A perm=13690 a=209 off=0 n=11 m=13 sc=-3.14
+HIT A perm=92894 a=88 off=0 n=11 m=13 sc=-3.41
+HIT A perm=92894 a=7 off=0 n=11 m=13 sc=-3.74
+HIT A perm=92894 a=183 off=0 n=11 m=13 sc=-4.09
+HIT A perm=92894 a=34 off=0 n=11 m=13 sc=-4.48
+HIT A perm=5147 a=184 off=1 n=11 m=12 sc=-3.59
+HIT A perm=92795 a=39 off=1 n=11 m=12 sc=-3.74
+HIT A perm=2075 a=55 off=1 n=11 m=12 sc=-3.80
+HIT A perm=40 a=58 off=0 n=11 m=12 sc=-3.90
+
+## CTL_s1_direct_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=148 n11=1241
+HIST A off=1: n10=32 n11=319
+HIST B off=0: n0=6401736 n1=2345904 n2=652345 n3=2265318 n4=743913 n5=201964 n6=11742 n7=1589 n8=27 n9=3
+HIST B off=1: n0=6294288 n1=2498496 n2=498055 n3=2969461 n4=1367952 n5=324130 n6=3254 n7=462 n8=146 n9=66
+perms=96630 alphabets=264 shape=0
+HIT A perm=47086 a=119 off=1 n=11 m=15 sc=-3.14
+HIT A perm=47086 a=120 off=1 n=11 m=15 sc=-3.14
+HIT A perm=46120 a=262 off=0 n=11 m=14 sc=-2.53
+HIT A perm=46120 a=263 off=0 n=11 m=14 sc=-2.53
+HIT A perm=45636 a=262 off=0 n=11 m=14 sc=-2.65
+HIT A perm=45636 a=263 off=0 n=11 m=14 sc=-2.65
+HIT A perm=46120 a=0 off=0 n=11 m=14 sc=-2.81
+HIT A perm=46120 a=2 off=0 n=11 m=14 sc=-2.81
+HIT A perm=46120 a=67 off=0 n=11 m=14 sc=-2.85
+HIT A perm=45636 a=67 off=0 n=11 m=14 sc=-2.87
+
+## CTL_s1_direct_s1.out
+HIT direct a=248 off=1 n=11 m=10 sc=-2.06
+HIT direct a=249 off=1 n=11 m=10 sc=-2.06
+HIST direct off=0:
+HIST direct off=1: n11=2
+HIST A off=0: n10=56 n11=171
+HIST A off=1: n10=40 n11=234
+HIST B off=0: n0=6401736 n1=2345904 n2=659738 n3=2311906 n4=869906 n5=297580 n6=10333 n7=715 n8=57
+HIST B off=1: n0=6294288 n1=2498496 n2=502461 n3=2924253 n4=1403004 n5=357078 n6=3460 n7=1080 n8=164 n9=51 n11=4
+perms=96630 alphabets=264 shape=1
+HIT A perm=47086 a=121 off=1 n=11 m=15 sc=-2.83
+HIT A perm=24046 a=121 off=1 n=11 m=14 sc=-2.69
+HIT A perm=64366 a=121 off=1 n=11 m=13 sc=-3.08
+HIT A perm=66994 a=121 off=1 n=11 m=13 sc=-3.14
+HIT A perm=45606 a=116 off=1 n=11 m=12 sc=-2.63
+HIT A perm=45606 a=117 off=1 n=11 m=12 sc=-2.63
+HIT A perm=47088 a=121 off=1 n=11 m=12 sc=-2.70
+HIT A perm=45646 a=121 off=1 n=11 m=12 sc=-2.76
+HIT A perm=64382 a=121 off=1 n=11 m=12 sc=-2.83
+HIT A perm=47578 a=121 off=1 n=11 m=12 sc=-2.87
+
+## CTL_s1_direct_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=60 n11=197
+HIST A off=1: n10=38 n11=202
+HIST B off=0: n0=6401736 n1=2345904 n2=638065 n3=2182514 n4=804250 n5=272055 n6=10954 n7=897 n8=49
+HIST B off=1: n0=6294288 n1=2498496 n2=486943 n3=2792957 n4=1288008 n5=298270 n6=3336 n7=1670 n8=172 n9=46 n10=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=47086 a=7 off=1 n=11 m=15 sc=-3.36
+HIT A perm=68584 a=216 off=0 n=11 m=15 sc=-3.65
+HIT A perm=24046 a=7 off=1 n=11 m=14 sc=-3.45
+HIT A perm=45516 a=231 off=0 n=11 m=14 sc=-3.68
+HIT A perm=10530 a=138 off=1 n=11 m=14 sc=-3.82
+HIT A perm=45636 a=231 off=0 n=11 m=14 sc=-3.94
+HIT A perm=3843 a=231 off=0 n=11 m=14 sc=-3.98
+HIT A perm=8391 a=231 off=0 n=11 m=14 sc=-3.98
+HIT A perm=46120 a=231 off=0 n=11 m=14 sc=-4.32
+HIT A perm=92593 a=168 off=0 n=11 m=14 sc=-4.65
+
+## CTL_s1_direct_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=176 n11=665
+HIST A off=1: n10=128 n11=1108
+HIST B off=0: n0=6401736 n1=2345904 n2=653836 n3=2296096 n4=965776 n5=386012 n6=12744 n7=897 n8=100 n9=2
+HIST B off=1: n0=6294288 n1=2498496 n2=500912 n3=2878931 n4=1372893 n5=337007 n6=3721 n7=1888 n8=238 n9=52 n10=1
+perms=96630 alphabets=264 shape=3
+HIT A perm=45544 a=37 off=0 n=11 m=16 sc=-4.56
+HIT A perm=47086 a=184 off=1 n=11 m=15 sc=-4.00
+HIT A perm=47086 a=55 off=1 n=11 m=15 sc=-4.10
+HIT A perm=47086 a=7 off=1 n=11 m=15 sc=-4.33
+HIT A perm=68584 a=83 off=0 n=11 m=15 sc=-4.35
+HIT A perm=68584 a=58 off=0 n=11 m=15 sc=-4.41
+HIT A perm=47086 a=235 off=1 n=11 m=15 sc=-4.67
+HIT A perm=68584 a=262 off=0 n=11 m=15 sc=-4.72
+HIT A perm=47086 a=34 off=1 n=11 m=15 sc=-4.86
+HIT A perm=47086 a=70 off=1 n=11 m=15 sc=-4.88
+
+## CTL_s2_A_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=96 n11=2705
+HIST A off=1: n10=44 n11=732
+HIST B off=0: n0=6401736 n1=2345904 n2=613414 n3=3789868 n4=1501317 n5=439355 n6=32744 n7=9092 n8=850 n9=45 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=477364 n3=3057653 n4=1895579 n5=911474 n6=8304 n7=598 n8=572 n9=65 n10=1
+perms=96630 alphabets=264 shape=0
+HIT A perm=7483 a=0 off=0 n=11 m=12 sc=-3.42
+HIT A perm=7483 a=2 off=0 n=11 m=12 sc=-3.42
+HIT A perm=7495 a=0 off=0 n=11 m=12 sc=-3.42
+HIT A perm=7495 a=2 off=0 n=11 m=12 sc=-3.42
+HIT A perm=7483 a=67 off=0 n=11 m=12 sc=-3.64
+HIT A perm=7495 a=67 off=0 n=11 m=12 sc=-3.64
+HIT A perm=7483 a=262 off=0 n=11 m=12 sc=-3.65
+HIT A perm=7483 a=263 off=0 n=11 m=12 sc=-3.65
+HIT A perm=7495 a=262 off=0 n=11 m=12 sc=-3.65
+HIT A perm=7495 a=263 off=0 n=11 m=12 sc=-3.65
+
+## CTL_s2_A_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=44 n11=178
+HIST A off=1: n10=56 n11=404
+HIST B off=0: n0=6401736 n1=2345904 n2=619445 n3=3878973 n4=1750138 n5=681960 n6=33277 n7=9596 n8=1081 n9=62 n10=19
+HIST B off=1: n0=6294288 n1=2498496 n2=480002 n3=2982745 n4=1871680 n5=987986 n6=8238 n7=1857 n8=221 n9=88 n10=16
+perms=96630 alphabets=264 shape=1
+HIT A perm=18526 a=121 off=1 n=11 m=11 sc=-2.35
+HIT A perm=19664 a=121 off=1 n=11 m=11 sc=-2.57
+HIT A perm=18766 a=121 off=1 n=11 m=11 sc=-2.65
+HIT A perm=14000 a=121 off=1 n=11 m=11 sc=-2.81
+HIT A perm=16868 a=121 off=1 n=11 m=11 sc=-2.84
+HIT A perm=16976 a=121 off=1 n=11 m=11 sc=-2.98
+HIT A perm=15406 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=81948 a=10 off=1 n=11 m=10 sc=-2.47
+HIT A perm=18022 a=121 off=1 n=11 m=10 sc=-2.53
+HIT A perm=18738 a=121 off=1 n=11 m=10 sc=-2.70
+
+## CTL_s2_A_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=44 n11=500
+HIST A off=1: n10=48 n11=1257
+HIST B off=0: n0=6401736 n1=2345904 n2=600332 n3=3621563 n4=1621936 n5=604003 n6=34028 n7=10373 n8=874 n9=72 n10=10
+HIST B off=1: n0=6294288 n1=2498496 n2=465678 n3=2866227 n4=1742447 n5=808781 n6=8293 n7=1458 n8=472 n9=153 n10=32
+perms=96630 alphabets=264 shape=2
+HIT A perm=49482 a=181 off=1 n=11 m=12 sc=-3.51
+HIT A perm=7483 a=231 off=0 n=11 m=12 sc=-3.86
+HIT A perm=7495 a=231 off=0 n=11 m=12 sc=-3.86
+HIT A perm=49492 a=181 off=1 n=11 m=12 sc=-3.99
+HIT A perm=88386 a=138 off=1 n=11 m=12 sc=-4.60
+HIT A perm=46658 a=138 off=1 n=11 m=12 sc=-4.66
+HIT A perm=61040 a=138 off=1 n=11 m=11 sc=-3.40
+HIT A perm=18766 a=7 off=1 n=11 m=11 sc=-3.52
+HIT A perm=29308 a=181 off=1 n=11 m=11 sc=-3.52
+HIT A perm=58164 a=138 off=1 n=11 m=11 sc=-3.56
+
+## CTL_s2_A_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=120 n11=2930
+HIST A off=1: n10=156 n11=2588
+HIST B off=0: n0=6401736 n1=2345904 n2=614075 n3=3836718 n4=2007957 n5=891501 n6=38600 n7=13127 n8=692 n9=91 n10=9
+HIST B off=1: n0=6294288 n1=2498496 n2=478805 n3=2953704 n4=1885857 n5=931528 n6=9694 n7=1930 n8=463 n9=202 n10=27
+perms=96630 alphabets=264 shape=3
+HIT A perm=7483 a=255 off=0 n=11 m=12 sc=-3.96
+HIT A perm=7495 a=255 off=0 n=11 m=12 sc=-3.96
+HIT A perm=3658 a=184 off=0 n=11 m=12 sc=-4.41
+HIT A perm=7483 a=88 off=0 n=11 m=12 sc=-4.68
+HIT A perm=7495 a=88 off=0 n=11 m=12 sc=-4.68
+HIT A perm=7483 a=183 off=0 n=11 m=12 sc=-4.85
+HIT A perm=7495 a=183 off=0 n=11 m=12 sc=-4.85
+HIT A perm=3658 a=124 off=0 n=11 m=12 sc=-5.10
+HIT A perm=7483 a=34 off=0 n=11 m=12 sc=-5.22
+HIT A perm=7495 a=34 off=0 n=11 m=12 sc=-5.22
+
+## CTL_s2_B_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=206 n11=895
+HIST A off=1: n10=24 n11=958
+HIST B off=0: n0=6401736 n1=2345904 n2=653249 n3=3262832 n4=1006003 n5=154986 n6=5589 n7=4890 n8=1450
+HIST B off=1: n0=6294288 n1=2498496 n2=498815 n3=2892082 n4=1444072 n5=512365 n6=7564 n7=5166 n8=491
+perms=96630 alphabets=264 shape=0
+HIT A perm=92390 a=250 off=0 n=11 m=16 sc=-3.28
+HIT A perm=26237 a=119 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26237 a=120 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26249 a=119 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26249 a=120 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26285 a=119 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26285 a=120 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26295 a=119 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26295 a=120 off=1 n=11 m=13 sc=-2.80
+HIT A perm=26297 a=119 off=1 n=11 m=13 sc=-2.80
+
+## CTL_s2_B_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=74 n11=178
+HIST A off=1: n10=16 n11=1155
+HIST B off=0: n0=6401736 n1=2345904 n2=660690 n3=3332994 n4=1207689 n5=338276 n6=4954 n7=12102 n8=4372 n9=1
+HIST B off=1: n0=6294288 n1=2498496 n2=503363 n3=2861491 n4=1425839 n5=529021 n6=8031 n7=12866 n8=250
+perms=96630 alphabets=264 shape=1
+HIT A perm=26237 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26249 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26285 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26295 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26297 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26307 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26333 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26343 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26345 a=121 off=1 n=11 m=13 sc=-2.35
+HIT A perm=26355 a=121 off=1 n=11 m=13 sc=-2.35
+
+## CTL_s2_B_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=52 n11=196
+HIST A off=1: n10=28 n11=560
+HIST B off=0: n0=6401736 n1=2345904 n2=639090 n3=3127897 n4=1112174 n5=242088 n6=4755 n7=21001 n8=1697
+HIST B off=1: n0=6294288 n1=2498496 n2=487644 n3=2728046 n4=1334396 n5=452399 n6=8232 n7=22177 n8=250
+perms=96630 alphabets=264 shape=2
+HIT A perm=70334 a=61 off=1 n=11 m=14 sc=-3.76
+HIT A perm=26237 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26249 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26285 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26295 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26297 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26307 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26333 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26343 a=7 off=1 n=11 m=13 sc=-3.38
+HIT A perm=26345 a=7 off=1 n=11 m=13 sc=-3.38
+
+## CTL_s2_B_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=168 n11=1198
+HIST A off=1: n10=88 n11=3483
+HIST B off=0: n0=6401736 n1=2345904 n2=654922 n3=3297400 n4=1355208 n5=360011 n6=6096 n7=27059 n8=2923 n9=2
+HIST B off=1: n0=6294288 n1=2498496 n2=501588 n3=2811938 n4=1430238 n5=505944 n6=10650 n7=27055 n8=729 n9=1 n10=1
+perms=96630 alphabets=264 shape=3
+HIT A perm=37611 a=102 off=1 n=11 m=16 sc=-3.60
+HIT A perm=37613 a=102 off=1 n=11 m=16 sc=-3.60
+HIT A perm=37515 a=102 off=1 n=11 m=16 sc=-3.66
+HIT A perm=37517 a=102 off=1 n=11 m=16 sc=-3.66
+HIT A perm=37527 a=102 off=1 n=11 m=16 sc=-3.66
+HIT A perm=37529 a=102 off=1 n=11 m=16 sc=-3.66
+HIT A perm=37539 a=102 off=1 n=11 m=16 sc=-3.66
+HIT A perm=37541 a=102 off=1 n=11 m=16 sc=-3.66
+HIT A perm=47595 a=102 off=1 n=11 m=16 sc=-3.85
+HIT A perm=47597 a=102 off=1 n=11 m=16 sc=-3.85
+
+## CTL_s2_direct_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=24 n11=9940
+HIST A off=1: n10=24 n11=2548
+HIST B off=0: n0=6401736 n1=2345904 n2=618007 n3=3420094 n4=1364089 n5=305558 n6=13428 n7=1551 n8=141 n9=46 n10=1
+HIST B off=1: n0=6294288 n1=2498496 n2=464113 n3=3774149 n4=2134837 n5=1083568 n6=26852 n7=1167 n8=327 n9=6
+perms=96630 alphabets=264 shape=0
+HIT A perm=86216 a=0 off=0 n=11 m=11 sc=-2.97
+HIT A perm=86216 a=2 off=0 n=11 m=11 sc=-2.97
+HIT A perm=37165 a=53 off=0 n=11 m=11 sc=-3.09
+HIT A perm=37165 a=54 off=0 n=11 m=11 sc=-3.09
+HIT A perm=37249 a=53 off=0 n=11 m=11 sc=-3.09
+HIT A perm=37249 a=54 off=0 n=11 m=11 sc=-3.09
+HIT A perm=47245 a=53 off=0 n=11 m=11 sc=-3.09
+HIT A perm=47245 a=54 off=0 n=11 m=11 sc=-3.09
+HIT A perm=47329 a=53 off=0 n=11 m=11 sc=-3.09
+HIT A perm=47329 a=54 off=0 n=11 m=11 sc=-3.09
+
+## CTL_s2_direct_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=54 n11=1272
+HIST A off=1: n10=4 n11=1612
+HIST B off=0: n0=6401736 n1=2345904 n2=624362 n3=3502811 n4=1505619 n5=467904 n6=14903 n7=2862 n8=165 n9=64 n10=1
+HIST B off=1: n0=6294288 n1=2498496 n2=466726 n3=3730862 n4=2136803 n5=1182479 n6=28743 n7=1934 n8=914 n9=30 n10=44
+perms=96630 alphabets=264 shape=1
+HIT A perm=188 a=200 off=0 n=11 m=12 sc=-2.56
+HIT A perm=188 a=201 off=0 n=11 m=12 sc=-2.56
+HIT A perm=37165 a=130 off=0 n=11 m=11 sc=-2.83
+HIT A perm=37249 a=130 off=0 n=11 m=11 sc=-2.83
+HIT A perm=47245 a=130 off=0 n=11 m=11 sc=-2.83
+HIT A perm=47329 a=130 off=0 n=11 m=11 sc=-2.83
+HIT A perm=89233 a=130 off=0 n=11 m=11 sc=-2.83
+HIT A perm=89281 a=130 off=0 n=11 m=11 sc=-2.83
+HIT A perm=93094 a=121 off=1 n=11 m=10 sc=-2.39
+HIT A perm=74854 a=121 off=1 n=11 m=10 sc=-2.42
+
+## CTL_s2_direct_s2.out
+HIT direct a=86 off=0 n=11 m=3 sc=-2.25
+HIST direct off=0: n11=1
+HIST direct off=1:
+HIST A off=0: n10=8 n11=2018
+HIST A off=1: n10=24 n11=1343
+HIST B off=0: n0=6401736 n1=2345904 n2=605203 n3=3275261 n4=1437224 n5=426315 n6=15623 n7=4193 n8=230 n9=84 n10=2 n11=3
+HIST B off=1: n0=6294288 n1=2498496 n2=454143 n3=3535122 n4=1947675 n5=968670 n6=30822 n7=1905 n8=583 n9=18 n10=8
+perms=96630 alphabets=264 shape=2
+HIT A perm=90438 a=208 off=0 n=11 m=11 sc=-3.47
+HIT A perm=86216 a=231 off=0 n=11 m=11 sc=-3.78
+HIT A perm=93094 a=7 off=1 n=11 m=10 sc=-2.95
+HIT A perm=87846 a=208 off=0 n=11 m=10 sc=-3.02
+HIT A perm=86382 a=7 off=1 n=11 m=10 sc=-3.12
+HIT A perm=86648 a=231 off=0 n=11 m=10 sc=-3.14
+HIT A perm=89910 a=208 off=0 n=11 m=10 sc=-3.21
+HIT A perm=77682 a=7 off=1 n=11 m=10 sc=-3.36
+HIT A perm=74854 a=7 off=1 n=11 m=10 sc=-3.42
+HIT A perm=35736 a=7 off=1 n=11 m=10 sc=-3.46
+
+## CTL_s2_direct_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=14 n11=8602
+HIST A off=1: n10=16 n11=7396
+HIST B off=0: n0=6401736 n1=2345904 n2=618589 n3=3454566 n4=1731641 n5=629381 n6=18775 n7=3939 n8=370 n9=161 n10=2 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=465321 n3=3675772 n4=2113586 n5=1119430 n6=35201 n7=2410 n8=482 n9=14 n10=18 n11=1
+perms=96630 alphabets=264 shape=3
+HIT A perm=188 a=102 off=1 n=11 m=12 sc=-4.33
+HIT A perm=75042 a=247 off=1 n=11 m=11 sc=-3.84
+HIT A perm=86216 a=183 off=0 n=11 m=11 sc=-3.96
+HIT A perm=86216 a=255 off=0 n=11 m=11 sc=-4.18
+HIT A perm=86216 a=88 off=0 n=11 m=11 sc=-4.31
+HIT A perm=37165 a=178 off=0 n=11 m=11 sc=-4.63
+HIT A perm=37249 a=178 off=0 n=11 m=11 sc=-4.63
+HIT A perm=47245 a=178 off=0 n=11 m=11 sc=-4.63
+HIT A perm=47329 a=178 off=0 n=11 m=11 sc=-4.63
+HIT A perm=89233 a=178 off=0 n=11 m=11 sc=-4.63
+
+## CTL_s3_A_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=164 n11=9425
+HIST A off=1: n10=12 n11=3990
+HIST B off=0: n0=6401736 n1=2345904 n2=457075 n3=4037343 n4=1430628 n5=462084 n6=22776 n7=21499 n8=10448 n9=97 n10=4 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=442618 n3=3728929 n4=2116283 n5=1051707 n6=45696 n7=37553 n8=22934 n9=1289 n10=206 n11=10
+perms=96630 alphabets=264 shape=0
+HIT A perm=31860 a=262 off=0 n=11 m=13 sc=-3.44
+HIT A perm=31860 a=263 off=0 n=11 m=13 sc=-3.44
+HIT A perm=31860 a=0 off=0 n=11 m=13 sc=-3.52
+HIT A perm=31860 a=2 off=0 n=11 m=13 sc=-3.52
+HIT A perm=31860 a=67 off=0 n=11 m=13 sc=-3.68
+HIT A perm=31384 a=67 off=0 n=11 m=13 sc=-3.77
+HIT A perm=31384 a=0 off=0 n=11 m=13 sc=-3.83
+HIT A perm=31384 a=2 off=0 n=11 m=13 sc=-3.83
+HIT A perm=31860 a=64 off=0 n=11 m=13 sc=-3.99
+HIT A perm=31384 a=262 off=0 n=11 m=13 sc=-4.08
+
+## CTL_s3_A_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=180 n11=201
+HIST A off=1: n10=104 n11=2120
+HIST B off=0: n0=6401736 n1=2345904 n2=470473 n3=4125701 n4=1625916 n5=647228 n6=25315 n7=49027 n8=12023 n9=291 n10=306 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=445725 n3=3687797 n4=2107757 n5=1123101 n6=47251 n7=63676 n8=27539 n9=1966 n10=2569 n11=40
+perms=96630 alphabets=264 shape=1
+HIT A perm=31888 a=121 off=1 n=11 m=12 sc=-2.96
+HIT A perm=30952 a=245 off=0 n=11 m=12 sc=-3.78
+HIT A perm=30952 a=246 off=0 n=11 m=12 sc=-3.78
+HIT A perm=80128 a=121 off=1 n=11 m=11 sc=-2.51
+HIT A perm=61816 a=121 off=1 n=11 m=11 sc=-2.71
+HIT A perm=51996 a=121 off=1 n=11 m=11 sc=-2.84
+HIT A perm=80556 a=121 off=1 n=11 m=11 sc=-2.91
+HIT A perm=28768 a=121 off=1 n=11 m=11 sc=-3.09
+HIT A perm=81996 a=121 off=1 n=11 m=10 sc=-2.64
+HIT A perm=81568 a=121 off=1 n=11 m=10 sc=-2.70
+
+## CTL_s3_A_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=124 n11=2227
+HIST A off=1: n10=44 n11=2641
+HIST B off=0: n0=6401736 n1=2345904 n2=454769 n3=3847036 n4=1530553 n5=589962 n6=25774 n7=87216 n8=12452 n9=403 n10=1276 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=433930 n3=3489850 n4=1960131 n5=944873 n6=48975 n7=98750 n8=30995 n9=4792 n10=11219 n11=67
+perms=96630 alphabets=264 shape=2
+HIT A perm=31384 a=231 off=0 n=11 m=13 sc=-4.28
+HIT A perm=31860 a=231 off=0 n=11 m=13 sc=-4.32
+HIT A perm=30964 a=231 off=0 n=11 m=12 sc=-3.88
+HIT A perm=31888 a=7 off=1 n=11 m=12 sc=-4.15
+HIT A perm=31980 a=231 off=0 n=11 m=12 sc=-4.25
+HIT A perm=31884 a=231 off=0 n=11 m=12 sc=-4.51
+HIT A perm=31886 a=144 off=1 n=11 m=12 sc=-4.69
+HIT A perm=31888 a=231 off=0 n=11 m=12 sc=-4.71
+HIT A perm=28766 a=144 off=1 n=11 m=12 sc=-4.83
+HIT A perm=31960 a=231 off=0 n=11 m=11 sc=-3.69
+
+## CTL_s3_A_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=244 n11=8303
+HIST A off=1: n10=134 n11=15008
+HIST B off=0: n0=6401736 n1=2345904 n2=464026 n3=4082242 n4=1880731 n5=861728 n6=29626 n7=117145 n8=22684 n9=435 n10=971 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=445956 n3=3632584 n4=2125398 n5=1076989 n6=53214 n7=126407 n8=48421 n9=5469 n10=9638 n11=222
+perms=96630 alphabets=264 shape=3
+HIT A perm=31860 a=183 off=0 n=11 m=13 sc=-3.89
+HIT A perm=31392 a=35 off=0 n=11 m=13 sc=-3.93
+HIT A perm=31392 a=38 off=0 n=11 m=13 sc=-3.93
+HIT A perm=31384 a=183 off=0 n=11 m=13 sc=-4.10
+HIT A perm=31860 a=255 off=0 n=11 m=13 sc=-4.15
+HIT A perm=31384 a=255 off=0 n=11 m=13 sc=-4.18
+HIT A perm=31860 a=7 off=0 n=11 m=13 sc=-4.58
+HIT A perm=31860 a=88 off=0 n=11 m=13 sc=-4.75
+HIT A perm=31860 a=34 off=0 n=11 m=13 sc=-4.76
+HIT A perm=31384 a=7 off=0 n=11 m=13 sc=-5.14
+
+## CTL_s3_B_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=666 n11=9020
+HIST A off=1: n10=140 n11=2285
+HIST B off=0: n0=6401736 n1=2345904 n2=568850 n3=4023513 n4=1422887 n5=455007 n6=3853 n7=5970 n8=2564 n9=177 n10=4
+HIST B off=1: n0=6294288 n1=2498496 n2=415321 n3=3511707 n4=1621150 n5=878086 n6=48984 n7=48651 n8=28861 n9=504 n10=56
+perms=96630 alphabets=264 shape=0
+HIT A perm=7642 a=0 off=0 n=11 m=12 sc=-2.63
+HIT A perm=7642 a=2 off=0 n=11 m=12 sc=-2.63
+HIT A perm=7642 a=262 off=0 n=11 m=12 sc=-2.63
+HIT A perm=7642 a=263 off=0 n=11 m=12 sc=-2.63
+HIT A perm=7642 a=64 off=0 n=11 m=12 sc=-2.84
+HIT A perm=7642 a=61 off=0 n=11 m=12 sc=-2.94
+HIT A perm=6518 a=119 off=1 n=11 m=12 sc=-3.05
+HIT A perm=6518 a=120 off=1 n=11 m=12 sc=-3.05
+HIT A perm=7642 a=67 off=0 n=11 m=12 sc=-3.08
+HIT A perm=8118 a=119 off=1 n=11 m=11 sc=-2.63
+
+## CTL_s3_B_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=230 n11=583
+HIST A off=1: n10=176 n11=1513
+HIST B off=0: n0=6401736 n1=2345904 n2=571910 n3=4110680 n4=1592199 n5=593416 n6=4782 n7=18882 n8=4543 n9=226 n10=6
+HIST B off=1: n0=6294288 n1=2498496 n2=416069 n3=3480524 n4=1611651 n5=934589 n6=51873 n7=62009 n8=12477 n9=815 n10=132 n11=2
+perms=96630 alphabets=264 shape=1
+HIT A perm=6518 a=121 off=1 n=11 m=12 sc=-2.44
+HIT A perm=8118 a=121 off=1 n=11 m=11 sc=-2.60
+HIT A perm=9394 a=121 off=1 n=11 m=11 sc=-2.64
+HIT A perm=94395 a=68 off=0 n=10 m=11 sc=-2.72
+HIT A perm=94395 a=69 off=0 n=10 m=11 sc=-2.72
+HIT A perm=95384 a=68 off=0 n=10 m=11 sc=-2.72
+HIT A perm=95384 a=69 off=0 n=10 m=11 sc=-2.72
+HIT A perm=6506 a=121 off=1 n=11 m=11 sc=-2.95
+HIT A perm=7542 a=121 off=1 n=11 m=11 sc=-2.99
+HIT A perm=11638 a=121 off=1 n=11 m=10 sc=-2.58
+
+## CTL_s3_B_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=310 n11=1742
+HIST A off=1: n10=144 n11=1700
+HIST B off=0: n0=6401736 n1=2345904 n2=556001 n3=3840071 n4=1506826 n5=569167 n6=3975 n7=21954 n8=3384 n9=455 n10=4
+HIST B off=1: n0=6294288 n1=2498496 n2=406193 n3=3298171 n4=1482726 n5=787597 n6=55238 n7=70222 n8=17675 n9=1962 n10=653
+perms=96630 alphabets=264 shape=2
+HIT A perm=6518 a=7 off=1 n=11 m=12 sc=-3.25
+HIT A perm=7642 a=231 off=0 n=11 m=12 sc=-3.73
+HIT A perm=8118 a=7 off=1 n=11 m=11 sc=-3.32
+HIT A perm=7542 a=7 off=1 n=11 m=11 sc=-3.44
+HIT A perm=6506 a=7 off=1 n=11 m=11 sc=-3.60
+HIT A perm=9394 a=7 off=1 n=11 m=11 sc=-3.81
+HIT A perm=9382 a=231 off=0 n=11 m=11 sc=-3.95
+HIT A perm=7642 a=7 off=1 n=11 m=10 sc=-2.97
+HIT A perm=8070 a=7 off=1 n=11 m=10 sc=-3.31
+HIT A perm=11758 a=7 off=1 n=11 m=10 sc=-3.38
+
+## CTL_s3_B_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=832 n11=7658
+HIST A off=1: n10=568 n11=8853
+HIST B off=0: n0=6401736 n1=2345904 n2=568360 n3=4060603 n4=1841078 n5=835481 n6=5216 n7=34227 n8=3462 n9=757 n10=14
+HIST B off=1: n0=6294288 n1=2498496 n2=416554 n3=3424757 n4=1599790 n5=895500 n6=61570 n7=83672 n8=20316 n9=2360 n10=966 n11=11
+perms=96630 alphabets=264 shape=3
+HIT A perm=7642 a=7 off=0 n=11 m=12 sc=-3.55
+HIT A perm=7642 a=183 off=0 n=11 m=12 sc=-3.76
+HIT A perm=7642 a=88 off=0 n=11 m=12 sc=-3.77
+HIT A perm=7642 a=255 off=0 n=11 m=12 sc=-3.92
+HIT A perm=7642 a=34 off=0 n=11 m=12 sc=-4.11
+HIT A perm=6518 a=184 off=1 n=11 m=12 sc=-4.29
+HIT A perm=6518 a=55 off=1 n=11 m=12 sc=-4.44
+HIT A perm=6518 a=235 off=1 n=11 m=12 sc=-4.53
+HIT A perm=6518 a=34 off=1 n=11 m=12 sc=-5.10
+HIT A perm=6518 a=130 off=1 n=11 m=12 sc=-5.20
+
+## CTL_s3_direct_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=68 n11=11685
+HIST A off=1: n10=28 n11=3766
+HIST B off=0: n0=6401736 n1=2345904 n2=651328 n3=3621804 n4=1626747 n5=524403 n6=15525 n7=67858 n8=7842 n9=40 n10=2 n11=10
+HIST B off=1: n0=6294288 n1=2498496 n2=499267 n3=3045240 n4=1373700 n5=589724 n6=19784 n7=11692 n8=1257 n9=36 n10=20
+perms=96630 alphabets=264 shape=0
+HIT A perm=27708 a=218 off=0 n=11 m=10 sc=-2.71
+HIT A perm=27708 a=219 off=0 n=11 m=10 sc=-2.71
+HIT A perm=27708 a=148 off=0 n=11 m=10 sc=-2.77
+HIT A perm=5767 a=119 off=1 n=11 m=10 sc=-2.94
+HIT A perm=5767 a=120 off=1 n=11 m=10 sc=-2.94
+HIT A perm=24872 a=148 off=0 n=11 m=9 sc=-2.45
+HIT A perm=93248 a=119 off=1 n=11 m=9 sc=-2.65
+HIT A perm=93248 a=120 off=1 n=11 m=9 sc=-2.65
+HIT A perm=4767 a=119 off=1 n=11 m=9 sc=-2.76
+HIT A perm=4767 a=120 off=1 n=11 m=9 sc=-2.76
+
+## CTL_s3_direct_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=4 n11=933
+HIST A off=1: n10=28 n11=2861
+HIST B off=0: n0=6401736 n1=2345904 n2=658834 n3=3715104 n4=1847571 n5=739347 n6=17182 n7=21936 n8=17204 n9=81 n10=19 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=503685 n3=3068014 n4=1366542 n5=633136 n6=19795 n7=27648 n8=1601 n9=87 n10=57 n11=1
+perms=96630 alphabets=264 shape=1
+HIT A perm=5767 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=27778 a=38 off=0 n=11 m=9 sc=-2.53
+HIT A perm=27778 a=39 off=0 n=11 m=9 sc=-2.53
+HIT A perm=7207 a=121 off=1 n=11 m=9 sc=-2.58
+HIT A perm=1941 a=121 off=1 n=11 m=9 sc=-2.65
+HIT A perm=1969 a=121 off=1 n=11 m=9 sc=-2.65
+HIT A perm=4767 a=121 off=1 n=11 m=9 sc=-3.11
+HIT A perm=93248 a=121 off=1 n=11 m=9 sc=-3.24
+HIT A perm=20552 a=122 off=1 n=11 m=9 sc=-3.31
+HIT A perm=20552 a=123 off=1 n=11 m=9 sc=-3.31
+
+## CTL_s3_direct_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=28 n11=2503
+HIST A off=1: n10=18 n11=2240
+HIST B off=0: n0=6401736 n1=2345904 n2=637244 n3=3452741 n4=1750863 n5=715395 n6=17351 n7=58053 n8=8349 n9=68 n10=8 n11=3
+HIST B off=1: n0=6294288 n1=2498496 n2=488164 n3=2893746 n4=1278905 n5=536515 n6=20315 n7=45530 n8=1967 n9=87 n10=49 n11=4
+perms=96630 alphabets=264 shape=2
+HIT A perm=5767 a=7 off=1 n=11 m=10 sc=-3.31
+HIT A perm=60084 a=80 off=0 n=11 m=10 sc=-3.64
+HIT A perm=1941 a=7 off=1 n=11 m=9 sc=-3.07
+HIT A perm=1969 a=7 off=1 n=11 m=9 sc=-3.07
+HIT A perm=36816 a=182 off=0 n=11 m=9 sc=-3.14
+HIT A perm=7207 a=7 off=1 n=11 m=9 sc=-3.38
+HIT A perm=4767 a=7 off=1 n=11 m=9 sc=-3.49
+HIT A perm=93248 a=7 off=1 n=11 m=9 sc=-3.53
+HIT A perm=60324 a=80 off=0 n=11 m=9 sc=-3.68
+HIT A perm=37056 a=182 off=0 n=11 m=9 sc=-3.84
+
+## CTL_s3_direct_s3.out
+HIT direct a=194 off=0 n=11 m=6 sc=-2.96
+HIST direct off=0: n11=1
+HIST direct off=1:
+HIST A off=0: n10=60 n11=9782
+HIST A off=1: n10=56 n11=12211
+HIST B off=0: n0=6401736 n1=2345904 n2=653029 n3=3669320 n4=2153694 n5=1041182 n6=21973 n7=50048 n8=12292 n9=144 n10=31 n11=22
+HIST B off=1: n0=6294288 n1=2498496 n2=502123 n3=3003353 n4=1402929 n5=609322 n6=24845 n7=61657 n8=3210 n9=157 n10=94 n11=11
+perms=96630 alphabets=264 shape=3
+HIT A perm=27708 a=93 off=0 n=11 m=10 sc=-3.46
+HIT A perm=27708 a=236 off=0 n=11 m=10 sc=-4.20
+HIT A perm=27708 a=243 off=0 n=11 m=10 sc=-4.28
+HIT A perm=5767 a=70 off=1 n=11 m=10 sc=-4.35
+HIT A perm=5767 a=34 off=1 n=11 m=10 sc=-4.39
+HIT A perm=5767 a=235 off=1 n=11 m=10 sc=-4.42
+HIT A perm=5767 a=55 off=1 n=11 m=10 sc=-4.56
+HIT A perm=5767 a=7 off=1 n=11 m=10 sc=-4.66
+HIT A perm=5767 a=184 off=1 n=11 m=10 sc=-4.94
+HIT A perm=5767 a=130 off=1 n=11 m=10 sc=-5.44
+
+## K4_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=32 n11=8997
+HIST A off=1: n10=6 n11=4099
+HIST B off=0: n0=6401736 n1=2345904 n2=642548 n3=3812093 n4=1383965 n5=382198 n6=17677 n7=2386 n8=825 n9=98 n10=18
+HIST B off=1: n0=6294288 n1=2498496 n2=374511 n3=3854662 n4=2756891 n5=1961483 n6=16080 n7=8457 n8=8325 n9=59 n10=2
+perms=96630 alphabets=264 shape=0
+HIT A perm=62196 a=119 off=1 n=11 m=13 sc=-2.78
+HIT A perm=62196 a=120 off=1 n=11 m=13 sc=-2.78
+HIT A perm=82343 a=241 off=1 n=11 m=13 sc=-2.88
+HIT A perm=82345 a=241 off=1 n=11 m=13 sc=-2.88
+HIT A perm=482 a=119 off=1 n=11 m=12 sc=-2.83
+HIT A perm=482 a=120 off=1 n=11 m=12 sc=-2.83
+HIT A perm=42052 a=119 off=1 n=11 m=12 sc=-2.90
+HIT A perm=42052 a=120 off=1 n=11 m=12 sc=-2.90
+HIT A perm=61943 a=241 off=1 n=11 m=12 sc=-2.92
+HIT A perm=61945 a=241 off=1 n=11 m=12 sc=-2.92
+
+## K4_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=24 n11=1317
+HIST A off=1: n11=2067
+HIST B off=0: n0=6401736 n1=2345904 n2=649606 n3=3893775 n4=1617193 n5=623839 n6=18987 n7=4927 n8=1252 n9=179 n10=13
+HIST B off=1: n0=6294288 n1=2498496 n2=383189 n3=3786410 n4=2730285 n5=2104271 n6=19367 n7=19760 n8=11923 n9=97 n10=3 n11=1
+perms=96630 alphabets=264 shape=1
+HIT A perm=62196 a=121 off=1 n=11 m=13 sc=-3.20
+HIT A perm=482 a=121 off=1 n=11 m=12 sc=-2.96
+HIT A perm=42052 a=121 off=1 n=11 m=12 sc=-3.20
+HIT A perm=78713 a=121 off=1 n=11 m=11 sc=-2.61
+HIT A perm=78629 a=121 off=1 n=11 m=11 sc=-2.65
+HIT A perm=46985 a=121 off=1 n=11 m=11 sc=-2.69
+HIT A perm=72000 a=121 off=1 n=11 m=11 sc=-2.70
+HIT A perm=46937 a=121 off=1 n=11 m=11 sc=-2.73
+HIT A perm=84660 a=121 off=1 n=11 m=11 sc=-2.77
+HIT A perm=42040 a=121 off=1 n=11 m=11 sc=-3.00
+
+## K4_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=24 n11=1812
+HIST A off=1: n10=4 n11=1955
+HIST B off=0: n0=6401736 n1=2345904 n2=628415 n3=3642507 n4=1493593 n5=560386 n6=17530 n7=5216 n8=1934 n9=194 n10=10 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=370134 n3=3602767 n4=2512913 n5=1722078 n6=17321 n7=33622 n8=9769 n9=157 n10=6 n11=6
+perms=96630 alphabets=264 shape=2
+HIT A perm=62196 a=7 off=1 n=11 m=13 sc=-3.30
+HIT A perm=482 a=7 off=1 n=11 m=12 sc=-3.12
+HIT A perm=42052 a=7 off=1 n=11 m=12 sc=-3.63
+HIT A perm=68789 a=144 off=1 n=11 m=11 sc=-2.85
+HIT A perm=68873 a=144 off=1 n=11 m=11 sc=-2.85
+HIT A perm=78953 a=144 off=1 n=11 m=11 sc=-3.00
+HIT A perm=78629 a=7 off=1 n=11 m=11 sc=-3.13
+HIT A perm=46937 a=7 off=1 n=11 m=11 sc=-3.14
+HIT A perm=62224 a=7 off=1 n=11 m=11 sc=-3.23
+HIT A perm=42040 a=7 off=1 n=11 m=11 sc=-3.24
+
+## K4_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=66 n11=7519
+HIST A off=1: n10=10 n11=13059
+HIST B off=0: n0=6401736 n1=2345904 n2=643956 n3=3854312 n4=1857705 n5=858157 n6=21374 n7=6072 n8=1976 n9=269 n10=10
+HIST B off=1: n0=6294288 n1=2498496 n2=379500 n3=3737270 n4=2732282 n5=1979010 n6=21879 n7=44852 n8=25724 n9=207 n10=15 n11=19
+perms=96630 alphabets=264 shape=3
+HIT A perm=62196 a=7 off=1 n=11 m=13 sc=-3.83
+HIT A perm=62196 a=184 off=1 n=11 m=13 sc=-4.25
+HIT A perm=62196 a=55 off=1 n=11 m=13 sc=-4.84
+HIT A perm=62196 a=34 off=1 n=11 m=13 sc=-4.97
+HIT A perm=62196 a=130 off=1 n=11 m=13 sc=-4.99
+HIT A perm=62196 a=70 off=1 n=11 m=13 sc=-5.25
+HIT A perm=62196 a=235 off=1 n=11 m=13 sc=-5.30
+HIT A perm=482 a=55 off=1 n=11 m=12 sc=-3.22
+HIT A perm=482 a=235 off=1 n=11 m=12 sc=-4.22
+HIT A perm=42052 a=34 off=1 n=11 m=12 sc=-4.29
+
+## NULL0_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=2828
+HIST A off=1: n10=8 n11=1962
+HIST B off=0: n0=6401736 n1=2345904 n2=653503 n3=3704832 n4=1402020 n5=461740 n6=30234 n7=7226 n8=1289 n9=112 n10=12
+HIST B off=1: n0=6294288 n1=2498496 n2=499255 n3=3349751 n4=1905369 n5=653530 n6=53177 n7=30026 n8=7205 n9=646 n10=37
+perms=96630 alphabets=264 shape=0
+HIT A perm=44367 a=67 off=0 n=11 m=12 sc=-2.94
+HIT A perm=44451 a=67 off=0 n=11 m=12 sc=-2.94
+HIT A perm=54447 a=67 off=0 n=11 m=12 sc=-2.94
+HIT A perm=54531 a=67 off=0 n=11 m=12 sc=-2.94
+HIT A perm=84915 a=67 off=0 n=11 m=12 sc=-2.94
+HIT A perm=84963 a=67 off=0 n=11 m=12 sc=-2.94
+HIT A perm=44367 a=0 off=0 n=11 m=12 sc=-3.10
+HIT A perm=44367 a=2 off=0 n=11 m=12 sc=-3.10
+HIT A perm=44451 a=0 off=0 n=11 m=12 sc=-3.10
+HIT A perm=44451 a=2 off=0 n=11 m=12 sc=-3.10
+
+## NULL0_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=2 n11=71
+HIST A off=1: n10=18 n11=828
+HIST B off=0: n0=6401736 n1=2345904 n2=660938 n3=3785066 n4=1601303 n5=662476 n6=30609 n7=9188 n8=707 n9=154 n10=38 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=503659 n3=3308328 n4=1920880 n5=708815 n6=55683 n7=46215 n8=7219 n9=505 n10=68
+perms=96630 alphabets=264 shape=1
+HIT A perm=4348 a=100 off=1 n=11 m=11 sc=-2.77
+HIT A perm=4348 a=229 off=1 n=11 m=11 sc=-3.79
+HIT A perm=4434 a=121 off=1 n=11 m=10 sc=-2.84
+HIT A perm=5836 a=130 off=0 n=11 m=10 sc=-2.92
+HIT A perm=10914 a=226 off=0 n=11 m=10 sc=-3.56
+HIT A perm=7111 a=121 off=1 n=11 m=9 sc=-2.46
+HIT A perm=4386 a=121 off=1 n=11 m=9 sc=-2.71
+HIT A perm=11570 a=121 off=1 n=11 m=9 sc=-2.76
+HIT A perm=11548 a=121 off=1 n=11 m=9 sc=-2.79
+HIT A perm=5936 a=35 off=1 n=11 m=9 sc=-2.85
+
+## NULL0_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=697
+HIST A off=1: n10=2 n11=1093
+HIST B off=0: n0=6401736 n1=2345904 n2=639331 n3=3541447 n4=1493299 n5=618278 n6=30797 n7=9210 n8=2002 n9=244 n10=30
+HIST B off=1: n0=6294288 n1=2498496 n2=488155 n3=3137154 n4=1775518 n5=601994 n6=57481 n7=66775 n8=9783 n9=1083 n10=100
+perms=96630 alphabets=264 shape=2
+HIT A perm=44367 a=231 off=0 n=11 m=12 sc=-4.37
+HIT A perm=44451 a=231 off=0 n=11 m=12 sc=-4.37
+HIT A perm=54447 a=231 off=0 n=11 m=12 sc=-4.37
+HIT A perm=54531 a=231 off=0 n=11 m=12 sc=-4.37
+HIT A perm=84915 a=231 off=0 n=11 m=12 sc=-4.37
+HIT A perm=84963 a=231 off=0 n=11 m=12 sc=-4.37
+HIT A perm=26569 a=231 off=0 n=11 m=11 sc=-3.56
+HIT A perm=68521 a=231 off=0 n=11 m=11 sc=-3.56
+HIT A perm=60501 a=231 off=0 n=11 m=11 sc=-4.23
+HIT A perm=92421 a=231 off=0 n=11 m=11 sc=-4.23
+
+## NULL0_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=2471
+HIST A off=1: n10=4 n11=5399
+HIST B off=0: n0=6401736 n1=2345904 n2=655165 n3=3748998 n4=1840115 n5=927886 n6=35060 n7=13915 n8=836 n9=384 n10=81 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=502109 n3=3257474 n4=1915876 n5=688284 n6=64690 n7=84731 n8=10738 n9=1310 n10=408
+perms=96630 alphabets=264 shape=3
+HIT A perm=7310 a=41 off=1 n=11 m=12 sc=-3.48
+HIT A perm=11060 a=154 off=1 n=11 m=12 sc=-4.29
+HIT A perm=44367 a=34 off=0 n=11 m=12 sc=-4.53
+HIT A perm=44451 a=34 off=0 n=11 m=12 sc=-4.53
+HIT A perm=54447 a=34 off=0 n=11 m=12 sc=-4.53
+HIT A perm=54531 a=34 off=0 n=11 m=12 sc=-4.53
+HIT A perm=84915 a=34 off=0 n=11 m=12 sc=-4.53
+HIT A perm=84963 a=34 off=0 n=11 m=12 sc=-4.53
+HIT A perm=44367 a=7 off=0 n=11 m=12 sc=-4.58
+HIT A perm=44451 a=7 off=0 n=11 m=12 sc=-4.58
+
+## NULL10_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=228 n11=5630
+HIST A off=1: n10=120 n11=1289
+HIST B off=0: n0=6401736 n1=2345904 n2=653503 n3=3567238 n4=1507215 n5=641295 n6=39815 n7=6644 n8=522 n9=66
+HIST B off=1: n0=6294288 n1=2498496 n2=499272 n3=3669653 n4=2195413 n5=1089519 n6=13561 n7=1621 n8=850 n9=84 n10=10
+perms=96630 alphabets=264 shape=0
+HIT A perm=51483 a=119 off=1 n=11 m=12 sc=-2.90
+HIT A perm=51483 a=120 off=1 n=11 m=12 sc=-2.90
+HIT A perm=51485 a=119 off=1 n=11 m=12 sc=-2.90
+HIT A perm=51485 a=120 off=1 n=11 m=12 sc=-2.90
+HIT A perm=74450 a=250 off=0 n=11 m=12 sc=-3.27
+HIT A perm=11261 a=67 off=0 n=11 m=12 sc=-3.32
+HIT A perm=11273 a=67 off=0 n=11 m=12 sc=-3.32
+HIT A perm=11261 a=0 off=0 n=11 m=12 sc=-3.49
+HIT A perm=11261 a=2 off=0 n=11 m=12 sc=-3.49
+HIT A perm=11261 a=262 off=0 n=11 m=12 sc=-3.49
+
+## NULL10_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=52 n11=711
+HIST A off=1: n10=96 n11=992
+HIST B off=0: n0=6401736 n1=2345904 n2=660938 n3=3648457 n4=1715243 n5=964891 n6=42377 n7=8243 n8=674 n9=72
+HIST B off=1: n0=6294288 n1=2498496 n2=503652 n3=3632715 n4=2218132 n5=1179512 n6=13474 n7=3358 n8=474 n9=135 n10=12
+perms=96630 alphabets=264 shape=1
+HIT A perm=51483 a=121 off=1 n=11 m=12 sc=-3.16
+HIT A perm=51485 a=121 off=1 n=11 m=12 sc=-3.16
+HIT A perm=92963 a=190 off=0 n=11 m=11 sc=-2.91
+HIT A perm=31371 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=31373 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=51435 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=51437 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=51447 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=51449 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=51459 a=121 off=1 n=11 m=11 sc=-3.05
+
+## NULL10_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=154 n11=1404
+HIST A off=1: n10=86 n11=1030
+HIST B off=0: n0=6401736 n1=2345904 n2=639331 n3=3407684 n4=1613764 n5=903874 n6=43733 n7=9237 n8=609 n9=93
+HIST B off=1: n0=6294288 n1=2498496 n2=488153 n3=3440246 n4=2030758 n5=975861 n6=13502 n7=4570 n8=668 n9=208 n10=24
+perms=96630 alphabets=264 shape=2
+HIT A perm=51483 a=7 off=1 n=11 m=12 sc=-3.18
+HIT A perm=51485 a=7 off=1 n=11 m=12 sc=-3.18
+HIT A perm=62162 a=36 off=1 n=11 m=12 sc=-3.35
+HIT A perm=11261 a=231 off=0 n=11 m=12 sc=-4.80
+HIT A perm=11273 a=231 off=0 n=11 m=12 sc=-4.80
+HIT A perm=88834 a=216 off=0 n=11 m=11 sc=-3.08
+HIT A perm=31371 a=7 off=1 n=11 m=11 sc=-3.09
+HIT A perm=31373 a=7 off=1 n=11 m=11 sc=-3.09
+HIT A perm=51435 a=7 off=1 n=11 m=11 sc=-3.09
+HIT A perm=51437 a=7 off=1 n=11 m=11 sc=-3.09
+
+## NULL10_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=284 n11=5085
+HIST A off=1: n10=338 n11=4841
+HIST B off=0: n0=6401736 n1=2345904 n2=655165 n3=3615613 n4=1986330 n5=1369076 n6=51312 n7=10703 n8=638 n9=134
+HIST B off=1: n0=6294288 n1=2498496 n2=502132 n3=3582052 n4=2196377 n5=1120584 n6=17241 n7=5997 n8=808 n9=290 n10=50
+perms=96630 alphabets=264 shape=3
+HIT A perm=92728 a=35 off=0 n=11 m=12 sc=-3.61
+HIT A perm=92728 a=38 off=0 n=11 m=12 sc=-3.61
+HIT A perm=96530 a=35 off=0 n=11 m=12 sc=-3.61
+HIT A perm=96530 a=38 off=0 n=11 m=12 sc=-3.61
+HIT A perm=51483 a=184 off=1 n=11 m=12 sc=-4.37
+HIT A perm=51485 a=184 off=1 n=11 m=12 sc=-4.37
+HIT A perm=11261 a=183 off=0 n=11 m=12 sc=-4.40
+HIT A perm=11273 a=183 off=0 n=11 m=12 sc=-4.40
+HIT A perm=11261 a=7 off=0 n=11 m=12 sc=-4.46
+HIT A perm=11273 a=7 off=0 n=11 m=12 sc=-4.46
+
+## NULL11_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=12 n11=2743
+HIST A off=1: n10=48 n11=1158
+HIST B off=0: n0=6401736 n1=2345904 n2=457748 n3=3755387 n4=1593840 n5=506120 n6=38125 n7=23842 n8=15006 n9=602 n10=1
+HIST B off=1: n0=6294288 n1=2498496 n2=332758 n3=3078360 n4=1522410 n5=519039 n6=23834 n7=15952 n8=3234 n9=68 n10=236
+perms=96630 alphabets=264 shape=0
+HIT A perm=86772 a=119 off=1 n=11 m=13 sc=-2.92
+HIT A perm=86772 a=120 off=1 n=11 m=13 sc=-2.92
+HIT A perm=83928 a=119 off=1 n=11 m=12 sc=-2.56
+HIT A perm=83928 a=120 off=1 n=11 m=12 sc=-2.56
+HIT A perm=87204 a=119 off=1 n=11 m=12 sc=-3.04
+HIT A perm=87204 a=120 off=1 n=11 m=12 sc=-3.04
+HIT A perm=83844 a=119 off=1 n=11 m=11 sc=-2.55
+HIT A perm=83844 a=120 off=1 n=11 m=11 sc=-2.55
+HIT A perm=85320 a=119 off=1 n=11 m=11 sc=-2.72
+HIT A perm=85320 a=120 off=1 n=11 m=11 sc=-2.72
+
+## NULL11_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=48 n11=364
+HIST A off=1: n10=52 n11=971
+HIST B off=0: n0=6401736 n1=2345904 n2=459993 n3=3854634 n4=1823017 n5=830300 n6=39977 n7=41986 n8=18857 n9=794 n10=419
+HIST B off=1: n0=6294288 n1=2498496 n2=342077 n3=3101328 n4=1560460 n5=577892 n6=26057 n7=30744 n8=4704 n9=268 n10=388 n11=1
+perms=96630 alphabets=264 shape=1
+HIT A perm=86772 a=121 off=1 n=11 m=13 sc=-2.72
+HIT A perm=87204 a=121 off=1 n=11 m=12 sc=-2.86
+HIT A perm=83928 a=121 off=1 n=11 m=12 sc=-2.97
+HIT A perm=85358 a=35 off=1 n=11 m=11 sc=-2.62
+HIT A perm=85358 a=36 off=1 n=11 m=11 sc=-2.62
+HIT A perm=88192 a=35 off=1 n=11 m=11 sc=-2.64
+HIT A perm=88192 a=36 off=1 n=11 m=11 sc=-2.64
+HIT A perm=83844 a=121 off=1 n=11 m=11 sc=-2.77
+HIT A perm=84552 a=121 off=1 n=11 m=11 sc=-2.93
+HIT A perm=87444 a=121 off=1 n=11 m=11 sc=-2.95
+
+## NULL11_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=16 n11=1539
+HIST A off=1: n10=34 n11=922
+HIST B off=0: n0=6401736 n1=2345904 n2=450021 n3=3591185 n4=1726120 n5=769103 n6=42141 n7=62409 n8=20860 n9=2025 n10=2114
+HIST B off=1: n0=6294288 n1=2498496 n2=330868 n3=2914912 n4=1440439 n5=475318 n6=26997 n7=47017 n8=6054 n9=311 n10=1674
+perms=96630 alphabets=264 shape=2
+HIT A perm=86772 a=7 off=1 n=11 m=13 sc=-3.15
+HIT A perm=83928 a=7 off=1 n=11 m=12 sc=-3.04
+HIT A perm=74346 a=64 off=1 n=11 m=12 sc=-3.60
+HIT A perm=87204 a=7 off=1 n=11 m=12 sc=-3.85
+HIT A perm=85320 a=7 off=1 n=11 m=11 sc=-3.13
+HIT A perm=88164 a=7 off=1 n=11 m=11 sc=-3.13
+HIT A perm=1758 a=182 off=0 n=11 m=11 sc=-3.54
+HIT A perm=83844 a=7 off=1 n=11 m=11 sc=-3.54
+HIT A perm=86820 a=7 off=1 n=11 m=11 sc=-3.61
+HIT A perm=84552 a=7 off=1 n=11 m=11 sc=-3.89
+
+## NULL11_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=28 n11=2788
+HIST A off=1: n10=118 n11=4104
+HIST B off=0: n0=6401736 n1=2345904 n2=457421 n3=3805986 n4=2130319 n5=1180807 n6=45645 n7=78332 n8=30997 n9=2238 n10=1552 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=336546 n3=3048390 n4=1574055 n5=564979 n6=28824 n7=59282 n8=6018 n9=282 n10=1477 n11=146
+perms=96630 alphabets=264 shape=3
+HIT A perm=86772 a=7 off=1 n=11 m=13 sc=-4.03
+HIT A perm=86772 a=55 off=1 n=11 m=13 sc=-4.30
+HIT A perm=86772 a=184 off=1 n=11 m=13 sc=-4.39
+HIT A perm=86772 a=235 off=1 n=11 m=13 sc=-4.71
+HIT A perm=86724 a=115 off=1 n=11 m=13 sc=-4.78
+HIT A perm=86772 a=34 off=1 n=11 m=13 sc=-4.93
+HIT A perm=86772 a=130 off=1 n=11 m=13 sc=-5.26
+HIT A perm=86772 a=70 off=1 n=11 m=13 sc=-5.37
+HIT A perm=83928 a=235 off=1 n=11 m=12 sc=-3.79
+HIT A perm=83880 a=115 off=1 n=11 m=12 sc=-4.08
+
+## NULL12_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=82 n11=17671
+HIST A off=1: n10=32 n11=4705
+HIST B off=0: n0=6401736 n1=2345904 n2=648623 n3=4025896 n4=1622216 n5=475045 n6=35308 n7=11395 n8=9648 n9=286 n10=196 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=374624 n3=3822016 n4=2318671 n5=1341606 n6=13753 n7=5593 n8=336 n9=118
+perms=96630 alphabets=264 shape=0
+HIT A perm=73408 a=67 off=0 n=11 m=12 sc=-2.67
+HIT A perm=74338 a=0 off=0 n=11 m=12 sc=-2.67
+HIT A perm=74338 a=2 off=0 n=11 m=12 sc=-2.67
+HIT A perm=74338 a=262 off=0 n=11 m=12 sc=-2.67
+HIT A perm=74338 a=263 off=0 n=11 m=12 sc=-2.67
+HIT A perm=84082 a=0 off=0 n=11 m=12 sc=-2.68
+HIT A perm=84082 a=2 off=0 n=11 m=12 sc=-2.68
+HIT A perm=73408 a=0 off=0 n=11 m=12 sc=-2.80
+HIT A perm=73408 a=2 off=0 n=11 m=12 sc=-2.80
+HIT A perm=74338 a=67 off=0 n=11 m=12 sc=-2.89
+
+## NULL12_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=34 n11=813
+HIST A off=1: n10=56 n11=3440
+HIST B off=0: n0=6401736 n1=2345904 n2=656208 n3=4122666 n4=1901643 n5=843057 n6=36394 n7=21778 n8=12566 n9=208 n10=55
+HIST B off=1: n0=6294288 n1=2498496 n2=386746 n3=3776643 n4=2301199 n5=1441249 n6=17128 n7=13443 n8=1104 n9=148 n10=2
+perms=96630 alphabets=264 shape=1
+HIT A perm=9105 a=100 off=1 n=11 m=12 sc=-2.75
+HIT A perm=9105 a=229 off=1 n=11 m=12 sc=-3.40
+HIT A perm=28474 a=121 off=1 n=11 m=11 sc=-2.62
+HIT A perm=36776 a=121 off=1 n=11 m=11 sc=-2.65
+HIT A perm=47002 a=121 off=1 n=11 m=11 sc=-2.70
+HIT A perm=55736 a=121 off=1 n=11 m=11 sc=-2.70
+HIT A perm=4749 a=100 off=1 n=11 m=11 sc=-2.72
+HIT A perm=87288 a=121 off=1 n=11 m=11 sc=-2.73
+HIT A perm=4893 a=121 off=1 n=11 m=11 sc=-2.78
+HIT A perm=9189 a=121 off=1 n=11 m=11 sc=-2.78
+
+## NULL12_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=26 n11=5766
+HIST A off=1: n10=36 n11=3283
+HIST B off=0: n0=6401736 n1=2345904 n2=634536 n3=3846559 n4=1772264 n5=722876 n6=37945 n7=36839 n8=10863 n9=420 n10=208
+HIST B off=1: n0=6294288 n1=2498496 n2=372847 n3=3582207 n4=2134366 n5=1190765 n6=16090 n7=22763 n8=586 n9=149 n10=6
+perms=96630 alphabets=264 shape=2
+HIT A perm=73408 a=231 off=0 n=11 m=12 sc=-3.93
+HIT A perm=83466 a=231 off=0 n=11 m=12 sc=-3.93
+HIT A perm=84082 a=231 off=0 n=11 m=12 sc=-4.08
+HIT A perm=73366 a=231 off=0 n=11 m=12 sc=-4.42
+HIT A perm=54230 a=231 off=0 n=11 m=12 sc=-4.48
+HIT A perm=74338 a=231 off=0 n=11 m=12 sc=-4.51
+HIT A perm=2656 a=173 off=0 n=11 m=11 sc=-2.80
+HIT A perm=2608 a=173 off=0 n=11 m=11 sc=-2.82
+HIT A perm=72972 a=231 off=0 n=11 m=11 sc=-2.90
+HIT A perm=2033 a=7 off=1 n=11 m=11 sc=-3.03
+
+## NULL12_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=104 n11=14920
+HIST A off=1: n10=134 n11=16420
+HIST B off=0: n0=6401736 n1=2345904 n2=650276 n3=4073110 n4=2186201 n5=1089875 n6=46387 n7=46472 n8=27068 n9=539 n10=135
+HIST B off=1: n0=6294288 n1=2498496 n2=380899 n3=3721224 n4=2310870 n5=1352035 n6=19863 n7=29267 n8=1449 n9=260 n10=1
+perms=96630 alphabets=264 shape=3
+HIT A perm=84082 a=255 off=0 n=11 m=12 sc=-3.23
+HIT A perm=74338 a=7 off=0 n=11 m=12 sc=-3.58
+HIT A perm=54230 a=7 off=0 n=11 m=12 sc=-3.71
+HIT A perm=54230 a=255 off=0 n=11 m=12 sc=-3.71
+HIT A perm=84082 a=88 off=0 n=11 m=12 sc=-3.80
+HIT A perm=83466 a=255 off=0 n=11 m=12 sc=-3.88
+HIT A perm=84082 a=7 off=0 n=11 m=12 sc=-3.95
+HIT A perm=73366 a=34 off=0 n=11 m=12 sc=-4.05
+HIT A perm=22526 a=36 off=0 n=11 m=12 sc=-4.10
+HIT A perm=73408 a=255 off=0 n=11 m=12 sc=-4.10
+
+## NULL13_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=200 n11=1922
+HIST A off=1: n10=38 n11=399
+HIST B off=0: n0=6401736 n1=2345904 n2=647606 n3=3765127 n4=917080 n5=222335 n6=16240 n7=14809 n8=8974 n9=36 n10=1 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=479925 n3=3302610 n4=1809355 n5=747714 n6=8902 n7=21133 n8=11233 n9=224 n10=106 n11=2
+perms=96630 alphabets=264 shape=0
+HIT A perm=92985 a=158 off=1 n=11 m=11 sc=-2.84
+HIT A perm=92985 a=159 off=1 n=11 m=11 sc=-2.84
+HIT A perm=25 a=262 off=0 n=11 m=10 sc=-2.59
+HIT A perm=25 a=263 off=0 n=11 m=10 sc=-2.59
+HIT A perm=25 a=0 off=0 n=11 m=10 sc=-2.62
+HIT A perm=25 a=2 off=0 n=11 m=10 sc=-2.62
+HIT A perm=92622 a=67 off=0 n=11 m=10 sc=-2.77
+HIT A perm=93009 a=0 off=0 n=11 m=10 sc=-2.83
+HIT A perm=93009 a=2 off=0 n=11 m=10 sc=-2.83
+HIT A perm=3979 a=148 off=0 n=11 m=10 sc=-2.86
+
+## NULL13_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=120 n11=521
+HIST A off=1: n10=22 n11=227
+HIST B off=0: n0=6401736 n1=2345904 n2=654565 n3=3849699 n4=1152859 n5=413220 n6=18336 n7=34660 n8=12474 n9=79 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=484926 n3=3293038 n4=1840445 n5=843952 n6=11170 n7=49962 n8=17169 n9=419 n10=31
+perms=96630 alphabets=264 shape=1
+HIT A perm=92985 a=116 off=1 n=11 m=11 sc=-2.88
+HIT A perm=92985 a=117 off=1 n=11 m=11 sc=-2.88
+HIT A perm=2823 a=182 off=0 n=11 m=10 sc=-2.81
+HIT A perm=2823 a=183 off=0 n=11 m=10 sc=-2.81
+HIT A perm=5691 a=182 off=0 n=11 m=10 sc=-2.81
+HIT A perm=5691 a=183 off=0 n=11 m=10 sc=-2.81
+HIT A perm=92935 a=121 off=1 n=11 m=10 sc=-3.07
+HIT A perm=2823 a=77 off=0 n=11 m=10 sc=-3.27
+HIT A perm=2823 a=78 off=0 n=11 m=10 sc=-3.27
+HIT A perm=5691 a=77 off=0 n=11 m=10 sc=-3.27
+
+## NULL13_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=94 n11=329
+HIST A off=1: n10=50 n11=244
+HIST B off=0: n0=6401736 n1=2345904 n2=633321 n3=3605548 n4=1027861 n5=332966 n6=18124 n7=57579 n8=10481 n9=78 n10=8 n11=5
+HIST B off=1: n0=6294288 n1=2498496 n2=468914 n3=3114245 n4=1681050 n5=678286 n6=9191 n7=86092 n8=13767 n9=366 n10=40
+perms=96630 alphabets=264 shape=2
+HIT A perm=92935 a=7 off=1 n=11 m=10 sc=-3.76
+HIT A perm=93009 a=231 off=0 n=11 m=10 sc=-4.10
+HIT A perm=5937 a=231 off=0 n=11 m=10 sc=-4.33
+HIT A perm=5949 a=231 off=0 n=11 m=10 sc=-4.33
+HIT A perm=92622 a=231 off=0 n=11 m=10 sc=-4.33
+HIT A perm=25 a=231 off=0 n=11 m=10 sc=-4.45
+HIT A perm=7697 a=117 off=1 n=11 m=9 sc=-2.90
+HIT A perm=93344 a=208 off=0 n=10 m=9 sc=-2.99
+HIT A perm=96315 a=208 off=0 n=10 m=9 sc=-2.99
+HIT A perm=93344 a=216 off=0 n=10 m=9 sc=-3.30
+
+## NULL13_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=276 n11=2777
+HIST A off=1: n10=130 n11=1304
+HIST B off=0: n0=6401736 n1=2345904 n2=648867 n3=3805499 n4=1252666 n5=483568 n6=22340 n7=74686 n8=27560 n9=158 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=482093 n3=3231825 n4=1830442 n5=796501 n6=11016 n7=109156 n8=36892 n9=558 n10=56
+perms=96630 alphabets=264 shape=3
+HIT A perm=8347 a=243 off=0 n=11 m=10 sc=-3.13
+HIT A perm=9787 a=243 off=0 n=11 m=10 sc=-3.13
+HIT A perm=3215 a=249 off=0 n=11 m=10 sc=-3.32
+HIT A perm=8999 a=249 off=0 n=11 m=10 sc=-3.32
+HIT A perm=3979 a=243 off=0 n=11 m=10 sc=-3.35
+HIT A perm=10015 a=243 off=0 n=11 m=10 sc=-3.35
+HIT A perm=92994 a=37 off=0 n=11 m=10 sc=-3.70
+HIT A perm=93009 a=7 off=0 n=11 m=10 sc=-3.75
+HIT A perm=93009 a=255 off=0 n=11 m=10 sc=-3.75
+HIT A perm=7583 a=249 off=0 n=11 m=10 sc=-3.76
+
+## NULL14_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=176 n11=1637
+HIST A off=1: n10=96 n11=781
+HIST B off=0: n0=6401736 n1=2345904 n2=635185 n3=3381355 n4=1158305 n5=306771 n6=33511 n7=16157 n8=9521 n9=513 n10=312
+HIST B off=1: n0=6294288 n1=2498496 n2=499034 n3=3662990 n4=2136602 n5=873430 n6=18288 n7=7714 n8=31 n9=7
+perms=96630 alphabets=264 shape=0
+HIT A perm=44693 a=119 off=1 n=11 m=13 sc=-2.75
+HIT A perm=44693 a=120 off=1 n=11 m=13 sc=-2.75
+HIT A perm=85157 a=119 off=1 n=11 m=13 sc=-2.87
+HIT A perm=85157 a=120 off=1 n=11 m=13 sc=-2.87
+HIT A perm=85205 a=119 off=1 n=11 m=13 sc=-2.90
+HIT A perm=85205 a=120 off=1 n=11 m=13 sc=-2.90
+HIT A perm=54773 a=119 off=1 n=11 m=13 sc=-2.91
+HIT A perm=54773 a=120 off=1 n=11 m=13 sc=-2.91
+HIT A perm=2684 a=119 off=1 n=11 m=12 sc=-2.71
+HIT A perm=2684 a=120 off=1 n=11 m=12 sc=-2.71
+
+## NULL14_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=96 n11=77
+HIST A off=1: n10=48 n11=594
+HIST B off=0: n0=6401736 n1=2345904 n2=641535 n3=3456020 n4=1232176 n5=457378 n6=35552 n7=24824 n8=10636 n9=827 n10=292
+HIST B off=1: n0=6294288 n1=2498496 n2=503432 n3=3612441 n4=2137164 n5=944042 n6=21775 n7=18344 n8=33 n9=39 n11=1
+perms=96630 alphabets=264 shape=1
+HIT A perm=85157 a=121 off=1 n=11 m=13 sc=-2.71
+HIT A perm=85205 a=121 off=1 n=11 m=13 sc=-2.72
+HIT A perm=44693 a=121 off=1 n=11 m=13 sc=-2.77
+HIT A perm=54773 a=121 off=1 n=11 m=13 sc=-2.77
+HIT A perm=34453 a=121 off=1 n=11 m=12 sc=-2.71
+HIT A perm=34501 a=121 off=1 n=11 m=12 sc=-2.72
+HIT A perm=44533 a=121 off=1 n=11 m=12 sc=-2.73
+HIT A perm=54613 a=121 off=1 n=11 m=12 sc=-2.74
+HIT A perm=2684 a=121 off=1 n=11 m=12 sc=-2.81
+HIT A perm=44609 a=121 off=1 n=11 m=12 sc=-2.82
+
+## NULL14_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=80 n11=714
+HIST A off=1: n10=32 n11=545
+HIST B off=0: n0=6401736 n1=2345904 n2=620380 n3=3234913 n4=1186286 n5=404941 n6=36889 n7=35648 n8=13668 n9=1985 n10=1220
+HIST B off=1: n0=6294288 n1=2498496 n2=487923 n3=3418721 n4=1948527 n5=783679 n6=23904 n7=27387 n8=37 n9=28
+perms=96630 alphabets=264 shape=2
+HIT A perm=85157 a=7 off=1 n=11 m=13 sc=-3.12
+HIT A perm=44693 a=7 off=1 n=11 m=13 sc=-3.14
+HIT A perm=85205 a=7 off=1 n=11 m=13 sc=-3.15
+HIT A perm=54773 a=7 off=1 n=11 m=13 sc=-3.17
+HIT A perm=34453 a=7 off=1 n=11 m=12 sc=-3.07
+HIT A perm=34501 a=7 off=1 n=11 m=12 sc=-3.11
+HIT A perm=44533 a=7 off=1 n=11 m=12 sc=-3.13
+HIT A perm=54613 a=7 off=1 n=11 m=12 sc=-3.16
+HIT A perm=490 a=7 off=1 n=11 m=12 sc=-3.17
+HIT A perm=44609 a=7 off=1 n=11 m=12 sc=-3.24
+
+## NULL14_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=250 n11=1766
+HIST A off=1: n10=190 n11=3546
+HIST B off=0: n0=6401736 n1=2345904 n2=637066 n3=3431994 n4=1412803 n5=574718 n6=41214 n7=44715 n8=14189 n9=2380 n10=1094 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=501884 n3=3561511 n4=2112351 n5=895613 n6=30749 n7=38638 n8=56 n9=43
+perms=96630 alphabets=264 shape=3
+HIT A perm=54773 a=55 off=1 n=11 m=13 sc=-3.80
+HIT A perm=85157 a=7 off=1 n=11 m=13 sc=-3.83
+HIT A perm=85157 a=55 off=1 n=11 m=13 sc=-3.87
+HIT A perm=44693 a=55 off=1 n=11 m=13 sc=-3.91
+HIT A perm=85205 a=7 off=1 n=11 m=13 sc=-3.94
+HIT A perm=85205 a=55 off=1 n=11 m=13 sc=-3.98
+HIT A perm=85157 a=34 off=1 n=11 m=13 sc=-4.02
+HIT A perm=54773 a=7 off=1 n=11 m=13 sc=-4.07
+HIT A perm=44693 a=7 off=1 n=11 m=13 sc=-4.12
+HIT A perm=85205 a=34 off=1 n=11 m=13 sc=-4.15
+
+## NULL15_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=508 n11=18693
+HIST A off=1: n10=146 n11=5668
+HIST B off=0: n0=6401736 n1=2345904 n2=647599 n3=3737792 n4=1562336 n5=572010 n6=43042 n7=12021 n8=2293 n9=121 n10=12 n11=7
+HIST B off=1: n0=6294288 n1=2498496 n2=491952 n3=3567173 n4=2048792 n5=1156757 n6=40881 n7=17033 n8=8980 n9=173 n10=19
+perms=96630 alphabets=264 shape=0
+HIT A perm=61112 a=0 off=0 n=11 m=14 sc=-2.87
+HIT A perm=61112 a=2 off=0 n=11 m=14 sc=-2.87
+HIT A perm=61112 a=262 off=0 n=11 m=14 sc=-2.91
+HIT A perm=61112 a=263 off=0 n=11 m=14 sc=-2.91
+HIT A perm=61112 a=67 off=0 n=11 m=14 sc=-2.97
+HIT A perm=40998 a=262 off=0 n=11 m=14 sc=-3.00
+HIT A perm=40998 a=263 off=0 n=11 m=14 sc=-3.00
+HIT A perm=40998 a=0 off=0 n=11 m=14 sc=-3.17
+HIT A perm=40998 a=2 off=0 n=11 m=14 sc=-3.17
+HIT A perm=40998 a=67 off=0 n=11 m=14 sc=-3.28
+
+## NULL15_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=148 n11=1616
+HIST A off=1: n10=158 n11=5052
+HIST B off=0: n0=6401736 n1=2345904 n2=654576 n3=3827334 n4=1817632 n5=945128 n6=45140 n7=22379 n8=3210 n9=281 n10=68
+HIST B off=1: n0=6294288 n1=2498496 n2=495663 n3=3538091 n4=2051430 n5=1248022 n6=42349 n7=32112 n8=9681 n9=119 n10=50
+perms=96630 alphabets=264 shape=1
+HIT A perm=60752 a=121 off=1 n=11 m=13 sc=-2.59
+HIT A perm=52456 a=121 off=1 n=11 m=13 sc=-2.68
+HIT A perm=89686 a=121 off=1 n=11 m=13 sc=-2.78
+HIT A perm=61640 a=121 off=1 n=11 m=13 sc=-2.80
+HIT A perm=41000 a=121 off=1 n=11 m=13 sc=-2.83
+HIT A perm=60534 a=121 off=1 n=11 m=13 sc=-2.88
+HIT A perm=40590 a=121 off=1 n=11 m=13 sc=-2.90
+HIT A perm=60774 a=121 off=1 n=11 m=13 sc=-2.90
+HIT A perm=40408 a=44 off=1 n=11 m=13 sc=-2.92
+HIT A perm=40408 a=45 off=1 n=11 m=13 sc=-2.92
+
+## NULL15_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=184 n11=5331
+HIST A off=1: n10=176 n11=3860
+HIST B off=0: n0=6401736 n1=2345904 n2=633345 n3=3562489 n4=1691380 n5=840872 n6=47266 n7=31807 n8=3835 n9=288 n10=82 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=480581 n3=3344310 n4=1909122 n5=1034281 n6=42990 n7=51618 n8=9540 n9=155 n10=57 n11=10
+perms=96630 alphabets=264 shape=2
+HIT A perm=51980 a=208 off=0 n=11 m=14 sc=-3.33
+HIT A perm=61112 a=231 off=0 n=11 m=14 sc=-3.92
+HIT A perm=40998 a=231 off=0 n=11 m=14 sc=-4.22
+HIT A perm=39126 a=7 off=1 n=11 m=13 sc=-2.72
+HIT A perm=59240 a=7 off=1 n=11 m=13 sc=-2.78
+HIT A perm=40590 a=7 off=1 n=11 m=13 sc=-3.10
+HIT A perm=41000 a=7 off=1 n=11 m=13 sc=-3.13
+HIT A perm=60534 a=7 off=1 n=11 m=13 sc=-3.20
+HIT A perm=52456 a=7 off=1 n=11 m=13 sc=-3.28
+HIT A perm=60752 a=7 off=1 n=11 m=13 sc=-3.28
+
+## NULL15_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=518 n11=16417
+HIST A off=1: n10=504 n11=19828
+HIST B off=0: n0=6401736 n1=2345904 n2=648880 n3=3786077 n4=2096684 n5=1291977 n6=54480 n7=40504 n8=3677 n9=417 n10=90 n11=16
+HIST B off=1: n0=6294288 n1=2498496 n2=494149 n3=3490901 n4=2068091 n5=1192045 n6=49144 n7=63641 n8=20348 n9=245 n10=95 n11=24
+perms=96630 alphabets=264 shape=3
+HIT A perm=60824 a=237 off=1 n=11 m=14 sc=-3.44
+HIT A perm=61112 a=255 off=0 n=11 m=14 sc=-3.69
+HIT A perm=61112 a=88 off=0 n=11 m=14 sc=-3.90
+HIT A perm=40998 a=255 off=0 n=11 m=14 sc=-3.92
+HIT A perm=40998 a=183 off=0 n=11 m=14 sc=-4.27
+HIT A perm=60824 a=236 off=1 n=11 m=14 sc=-4.32
+HIT A perm=61112 a=183 off=0 n=11 m=14 sc=-4.59
+HIT A perm=61112 a=7 off=0 n=11 m=14 sc=-4.66
+HIT A perm=40998 a=34 off=0 n=11 m=14 sc=-4.67
+HIT A perm=61112 a=34 off=0 n=11 m=14 sc=-4.73
+
+## NULL16_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=1004
+HIST A off=1: n10=4 n11=390
+HIST B off=0: n0=6401736 n1=2345904 n2=449738 n3=3812220 n4=1545814 n5=567705 n6=12094 n7=23803 n8=1501 n9=10
+HIST B off=1: n0=6294288 n1=2498496 n2=421138 n3=3332385 n4=1808045 n5=962249 n6=15856 n7=15103 n8=6662 n9=24 n10=16
+perms=96630 alphabets=264 shape=0
+HIT A perm=573 a=0 off=0 n=11 m=10 sc=-2.98
+HIT A perm=573 a=2 off=0 n=11 m=10 sc=-2.98
+HIT A perm=7088 a=0 off=0 n=11 m=10 sc=-3.08
+HIT A perm=7088 a=2 off=0 n=11 m=10 sc=-3.08
+HIT A perm=573 a=67 off=0 n=11 m=10 sc=-3.14
+HIT A perm=573 a=262 off=0 n=11 m=10 sc=-3.24
+HIT A perm=573 a=263 off=0 n=11 m=10 sc=-3.24
+HIT A perm=9728 a=0 off=0 n=11 m=10 sc=-3.34
+HIT A perm=9728 a=2 off=0 n=11 m=10 sc=-3.34
+HIT A perm=9728 a=262 off=0 n=11 m=10 sc=-3.40
+
+## NULL16_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=254
+HIST A off=1: n11=852
+HIST B off=0: n0=6401736 n1=2345904 n2=458055 n3=3898370 n4=1788081 n5=932156 n6=15019 n7=25501 n8=1046 n9=11
+HIST B off=1: n0=6294288 n1=2498496 n2=421988 n3=3307625 n4=1804546 n5=1049508 n6=15861 n7=28568 n8=8193 n9=18 n10=6
+perms=96630 alphabets=264 shape=1
+HIT A perm=46925 a=62 off=1 n=11 m=13 sc=-3.19
+HIT A perm=46925 a=63 off=1 n=11 m=13 sc=-3.19
+HIT A perm=46923 a=62 off=1 n=11 m=12 sc=-3.04
+HIT A perm=46923 a=63 off=1 n=11 m=12 sc=-3.04
+HIT A perm=26525 a=62 off=1 n=11 m=12 sc=-3.21
+HIT A perm=26525 a=63 off=1 n=11 m=12 sc=-3.21
+HIT A perm=26523 a=62 off=1 n=11 m=11 sc=-3.05
+HIT A perm=26523 a=63 off=1 n=11 m=11 sc=-3.05
+HIT A perm=78603 a=62 off=1 n=11 m=11 sc=-3.10
+HIT A perm=78603 a=63 off=1 n=11 m=11 sc=-3.10
+
+## NULL16_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=2 n11=833
+HIST A off=1: n10=4 n11=247
+HIST B off=0: n0=6401736 n1=2345904 n2=443316 n3=3634531 n4=1673058 n5=854548 n6=16790 n7=20227 n8=1058 n9=11
+HIST B off=1: n0=6294288 n1=2498496 n2=410964 n3=3125279 n4=1677814 n5=863072 n6=17475 n7=47546 n8=6916 n9=22 n10=49
+perms=96630 alphabets=264 shape=2
+HIT A perm=29349 a=182 off=0 n=11 m=11 sc=-3.61
+HIT A perm=29375 a=182 off=0 n=11 m=11 sc=-3.61
+HIT A perm=29377 a=182 off=0 n=11 m=11 sc=-3.61
+HIT A perm=29387 a=182 off=0 n=11 m=11 sc=-3.61
+HIT A perm=72699 a=173 off=0 n=11 m=10 sc=-2.77
+HIT A perm=72701 a=173 off=0 n=11 m=10 sc=-2.77
+HIT A perm=72711 a=173 off=0 n=11 m=10 sc=-2.77
+HIT A perm=72713 a=173 off=0 n=11 m=10 sc=-2.77
+HIT A perm=72723 a=173 off=0 n=11 m=10 sc=-2.77
+HIT A perm=72725 a=173 off=0 n=11 m=10 sc=-2.77
+
+## NULL16_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=1301
+HIST A off=1: n10=2 n11=2326
+HIST B off=0: n0=6401736 n1=2345904 n2=450772 n3=3854070 n4=2082354 n5=1327909 n6=20301 n7=20224 n8=600 n9=71
+HIST B off=1: n0=6294288 n1=2498496 n2=421096 n3=3259251 n4=1830100 n5=994417 n6=21382 n7=62272 n8=17848 n9=44 n10=11
+perms=96630 alphabets=264 shape=3
+HIT A perm=46925 a=25 off=1 n=11 m=13 sc=-4.48
+HIT A perm=46923 a=25 off=1 n=11 m=12 sc=-4.35
+HIT A perm=26525 a=25 off=1 n=11 m=12 sc=-4.52
+HIT A perm=7076 a=249 off=0 n=11 m=11 sc=-3.87
+HIT A perm=69215 a=151 off=0 n=11 m=11 sc=-4.03
+HIT A perm=69217 a=151 off=0 n=11 m=11 sc=-4.03
+HIT A perm=78603 a=25 off=1 n=11 m=11 sc=-4.11
+HIT A perm=26523 a=25 off=1 n=11 m=11 sc=-4.39
+HIT A perm=69227 a=151 off=0 n=11 m=11 sc=-4.43
+HIT A perm=47019 a=25 off=1 n=11 m=11 sc=-4.63
+
+## NULL17_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=156 n11=5366
+HIST A off=1: n10=20 n11=1883
+HIST B off=0: n0=6401736 n1=2345904 n2=582486 n3=3856614 n4=1584736 n5=431409 n6=6261 n7=307 n8=628 n9=35 n10=4
+HIST B off=1: n0=6294288 n1=2498496 n2=429302 n3=3589421 n4=2239365 n5=1318394 n6=28123 n7=5623 n8=665 n9=25 n10=6
+perms=96630 alphabets=264 shape=0
+HIT A perm=4688 a=262 off=0 n=11 m=11 sc=-2.62
+HIT A perm=4688 a=263 off=0 n=11 m=11 sc=-2.62
+HIT A perm=93233 a=67 off=0 n=11 m=11 sc=-2.79
+HIT A perm=4688 a=67 off=0 n=11 m=11 sc=-2.89
+HIT A perm=4688 a=0 off=0 n=11 m=11 sc=-2.98
+HIT A perm=4688 a=2 off=0 n=11 m=11 sc=-2.98
+HIT A perm=93233 a=0 off=0 n=11 m=11 sc=-2.98
+HIT A perm=93233 a=2 off=0 n=11 m=11 sc=-2.98
+HIT A perm=7508 a=67 off=0 n=11 m=11 sc=-3.01
+HIT A perm=5237 a=86 off=0 n=11 m=11 sc=-3.05
+
+## NULL17_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=72 n11=793
+HIST A off=1: n11=1164
+HIST B off=0: n0=6401736 n1=2345904 n2=586934 n3=3945688 n4=1776238 n5=654915 n6=6465 n7=1254 n8=2018 n9=383 n10=23
+HIST B off=1: n0=6294288 n1=2498496 n2=430046 n3=3536453 n4=2231827 n5=1417490 n6=29429 n7=9311 n8=1015 n9=43 n10=109
+perms=96630 alphabets=264 shape=1
+HIT A perm=43339 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=43351 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=43423 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=43449 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=43471 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=43497 a=121 off=1 n=11 m=10 sc=-2.59
+HIT A perm=93235 a=121 off=1 n=11 m=10 sc=-2.63
+HIT A perm=18080 a=68 off=0 n=11 m=10 sc=-2.72
+HIT A perm=18080 a=69 off=0 n=11 m=10 sc=-2.72
+HIT A perm=8727 a=62 off=1 n=11 m=10 sc=-2.75
+
+## NULL17_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=32 n11=1357
+HIST A off=1: n10=32 n11=1188
+HIST B off=0: n0=6401736 n1=2345904 n2=569961 n3=3687118 n4=1686813 n5=596599 n6=6855 n7=1587 n8=990 n9=187 n10=14
+HIST B off=1: n0=6294288 n1=2498496 n2=419631 n3=3358163 n4=2061511 n5=1173278 n6=30687 n7=9014 n8=1141 n9=55 n10=90
+perms=96630 alphabets=264 shape=2
+HIT A perm=9819 a=178 off=1 n=11 m=11 sc=-3.50
+HIT A perm=7508 a=231 off=0 n=11 m=11 sc=-4.23
+HIT A perm=93233 a=231 off=0 n=11 m=11 sc=-4.27
+HIT A perm=4688 a=231 off=0 n=11 m=11 sc=-5.14
+HIT A perm=43339 a=7 off=1 n=11 m=10 sc=-3.05
+HIT A perm=43351 a=7 off=1 n=11 m=10 sc=-3.05
+HIT A perm=43423 a=7 off=1 n=11 m=10 sc=-3.05
+HIT A perm=43449 a=7 off=1 n=11 m=10 sc=-3.05
+HIT A perm=43471 a=7 off=1 n=11 m=10 sc=-3.05
+HIT A perm=43497 a=7 off=1 n=11 m=10 sc=-3.05
+
+## NULL17_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=140 n11=5021
+HIST A off=1: n10=98 n11=6508
+HIST B off=0: n0=6401736 n1=2345904 n2=581449 n3=3903085 n4=2055170 n5=897596 n6=8614 n7=3127 n8=1598 n9=164 n10=29 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=428882 n3=3487135 n4=2243706 n5=1338742 n6=33945 n7=14235 n8=2068 n9=90 n10=214
+perms=96630 alphabets=264 shape=3
+HIT A perm=4688 a=255 off=0 n=11 m=11 sc=-3.79
+HIT A perm=57610 a=157 off=1 n=11 m=11 sc=-3.89
+HIT A perm=7508 a=88 off=0 n=11 m=11 sc=-3.98
+HIT A perm=4690 a=209 off=0 n=11 m=11 sc=-4.03
+HIT A perm=93233 a=255 off=0 n=11 m=11 sc=-4.03
+HIT A perm=7508 a=255 off=0 n=11 m=11 sc=-4.13
+HIT A perm=93233 a=7 off=0 n=11 m=11 sc=-4.13
+HIT A perm=93233 a=88 off=0 n=11 m=11 sc=-4.17
+HIT A perm=4688 a=183 off=0 n=11 m=11 sc=-4.21
+HIT A perm=4688 a=88 off=0 n=11 m=11 sc=-4.25
+
+## NULL18_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=104 n11=3994
+HIST A off=1: n10=48 n11=1989
+HIST B off=0: n0=6401736 n1=2345904 n2=597863 n3=3495405 n4=1269985 n5=429349 n6=13895 n7=14790 n8=1489 n9=27 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=464725 n3=3417224 n4=1945967 n5=725497 n6=13804 n7=16093 n8=5557 n9=30 n10=5
+perms=96630 alphabets=264 shape=0
+HIT A perm=50035 a=119 off=1 n=11 m=13 sc=-3.04
+HIT A perm=50035 a=120 off=1 n=11 m=13 sc=-3.04
+HIT A perm=50037 a=119 off=1 n=11 m=13 sc=-3.04
+HIT A perm=50037 a=120 off=1 n=11 m=13 sc=-3.04
+HIT A perm=29923 a=119 off=1 n=11 m=13 sc=-3.06
+HIT A perm=29923 a=120 off=1 n=11 m=13 sc=-3.06
+HIT A perm=29925 a=119 off=1 n=11 m=13 sc=-3.06
+HIT A perm=29925 a=120 off=1 n=11 m=13 sc=-3.06
+HIT A perm=28483 a=119 off=1 n=11 m=12 sc=-3.17
+HIT A perm=28483 a=120 off=1 n=11 m=12 sc=-3.17
+
+## NULL18_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=34 n11=539
+HIST A off=1: n10=48 n11=1525
+HIST B off=0: n0=6401736 n1=2345904 n2=604799 n3=3566900 n4=1414194 n5=540699 n6=15157 n7=30701 n8=839 n9=5 n10=1
+HIST B off=1: n0=6294288 n1=2498496 n2=467176 n3=3403530 n4=1967625 n5=790267 n6=17079 n7=37842 n8=8533 n9=160 n10=20
+perms=96630 alphabets=264 shape=1
+HIT A perm=50035 a=121 off=1 n=11 m=13 sc=-3.05
+HIT A perm=50037 a=121 off=1 n=11 m=13 sc=-3.05
+HIT A perm=29923 a=121 off=1 n=11 m=13 sc=-3.08
+HIT A perm=29925 a=121 off=1 n=11 m=13 sc=-3.08
+HIT A perm=71192 a=190 off=0 n=11 m=12 sc=-2.81
+HIT A perm=28483 a=121 off=1 n=11 m=12 sc=-2.88
+HIT A perm=28485 a=121 off=1 n=11 m=12 sc=-2.88
+HIT A perm=48595 a=121 off=1 n=11 m=12 sc=-3.07
+HIT A perm=48597 a=121 off=1 n=11 m=12 sc=-3.07
+HIT A perm=5489 a=100 off=1 n=11 m=11 sc=-2.70
+
+## NULL18_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=78 n11=1180
+HIST A off=1: n10=46 n11=969
+HIST B off=0: n0=6401736 n1=2345904 n2=584345 n3=3326204 n4=1339092 n5=527233 n6=17609 n7=53433 n8=1013 n9=20
+HIST B off=1: n0=6294288 n1=2498496 n2=453867 n3=3218079 n4=1812112 n5=645320 n6=16651 n7=66720 n8=6676 n9=74 n10=19
+perms=96630 alphabets=264 shape=2
+HIT A perm=29923 a=7 off=1 n=11 m=13 sc=-3.41
+HIT A perm=29925 a=7 off=1 n=11 m=13 sc=-3.41
+HIT A perm=50035 a=7 off=1 n=11 m=13 sc=-3.53
+HIT A perm=50037 a=7 off=1 n=11 m=13 sc=-3.53
+HIT A perm=1346 a=229 off=0 n=11 m=12 sc=-3.47
+HIT A perm=28483 a=7 off=1 n=11 m=12 sc=-3.50
+HIT A perm=28485 a=7 off=1 n=11 m=12 sc=-3.50
+HIT A perm=48595 a=7 off=1 n=11 m=12 sc=-3.59
+HIT A perm=48597 a=7 off=1 n=11 m=12 sc=-3.59
+HIT A perm=588 a=7 off=1 n=11 m=11 sc=-3.10
+
+## NULL18_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=172 n11=3370
+HIST A off=1: n10=132 n11=6576
+HIST B off=0: n0=6401736 n1=2345904 n2=598532 n3=3527247 n4=1643229 n5=769899 n6=21302 n7=69677 n8=2092 n9=51 n10=8 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=465959 n3=3344579 n4=1974450 n5=759605 n6=20520 n7=90920 n8=17346 n9=129 n10=26
+perms=96630 alphabets=264 shape=3
+HIT A perm=50035 a=184 off=1 n=11 m=13 sc=-3.79
+HIT A perm=50037 a=184 off=1 n=11 m=13 sc=-3.79
+HIT A perm=29923 a=184 off=1 n=11 m=13 sc=-3.86
+HIT A perm=29925 a=184 off=1 n=11 m=13 sc=-3.86
+HIT A perm=29923 a=7 off=1 n=11 m=13 sc=-4.21
+HIT A perm=29925 a=7 off=1 n=11 m=13 sc=-4.21
+HIT A perm=50035 a=55 off=1 n=11 m=13 sc=-4.22
+HIT A perm=50037 a=55 off=1 n=11 m=13 sc=-4.22
+HIT A perm=29923 a=55 off=1 n=11 m=13 sc=-4.29
+HIT A perm=29925 a=55 off=1 n=11 m=13 sc=-4.29
+
+## NULL19_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=124 n11=1937
+HIST A off=1: n10=24 n11=1386
+HIST B off=0: n0=6401736 n1=2345904 n2=393166 n3=3827676 n4=1694926 n5=527576 n6=32555 n7=7286 n8=7885 n9=642 n10=205
+HIST B off=1: n0=6294288 n1=2498496 n2=391751 n3=3704615 n4=2339115 n5=991014 n6=10788 n7=8698 n8=4477 n9=8 n11=1
+perms=96630 alphabets=264 shape=0
+HIT A perm=30165 a=119 off=1 n=11 m=12 sc=-2.54
+HIT A perm=30165 a=120 off=1 n=11 m=12 sc=-2.54
+HIT A perm=6032 a=119 off=1 n=11 m=12 sc=-3.10
+HIT A perm=6032 a=120 off=1 n=11 m=12 sc=-3.10
+HIT A perm=92375 a=119 off=1 n=11 m=11 sc=-2.50
+HIT A perm=92375 a=120 off=1 n=11 m=11 sc=-2.50
+HIT A perm=30163 a=119 off=1 n=11 m=11 sc=-2.56
+HIT A perm=30163 a=120 off=1 n=11 m=11 sc=-2.56
+HIT A perm=50277 a=119 off=1 n=11 m=11 sc=-2.61
+HIT A perm=50277 a=120 off=1 n=11 m=11 sc=-2.61
+
+## NULL19_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=12 n11=426
+HIST A off=1: n10=6 n11=440
+HIST B off=0: n0=6401736 n1=2345904 n2=393647 n3=3915104 n4=1952616 n5=924556 n6=33598 n7=10280 n8=7851 n9=842 n10=162 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=393383 n3=3665796 n4=2343953 n5=1065728 n6=13854 n7=20746 n8=3028 n9=22
+perms=96630 alphabets=264 shape=1
+HIT A perm=30165 a=121 off=1 n=11 m=12 sc=-2.55
+HIT A perm=6032 a=121 off=1 n=11 m=12 sc=-3.01
+HIT A perm=30163 a=121 off=1 n=11 m=11 sc=-2.41
+HIT A perm=92375 a=121 off=1 n=11 m=11 sc=-2.54
+HIT A perm=50277 a=121 off=1 n=11 m=11 sc=-2.59
+HIT A perm=26292 a=226 off=1 n=11 m=11 sc=-2.71
+HIT A perm=1169 a=121 off=1 n=11 m=11 sc=-2.84
+HIT A perm=5934 a=121 off=1 n=11 m=11 sc=-2.97
+HIT A perm=10608 a=121 off=1 n=11 m=11 sc=-3.05
+HIT A perm=11072 a=121 off=1 n=11 m=11 sc=-3.05
+
+## NULL19_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=36 n11=361
+HIST A off=1: n10=12 n11=1178
+HIST B off=0: n0=6401736 n1=2345904 n2=387972 n3=3644336 n4=1832590 n5=811770 n6=35658 n7=8738 n8=8909 n9=1075 n10=684
+HIST B off=1: n0=6294288 n1=2498496 n2=383121 n3=3465302 n4=2161911 n5=878634 n6=12097 n7=33074 n8=3037 n9=17
+perms=96630 alphabets=264 shape=2
+HIT A perm=6032 a=7 off=1 n=11 m=12 sc=-2.87
+HIT A perm=30165 a=7 off=1 n=11 m=12 sc=-3.96
+HIT A perm=5934 a=7 off=1 n=11 m=11 sc=-2.86
+HIT A perm=11072 a=7 off=1 n=11 m=11 sc=-3.61
+HIT A perm=44265 a=228 off=0 n=11 m=11 sc=-3.63
+HIT A perm=1169 a=7 off=1 n=11 m=11 sc=-3.70
+HIT A perm=30163 a=7 off=1 n=11 m=11 sc=-3.75
+HIT A perm=10608 a=7 off=1 n=11 m=11 sc=-3.85
+HIT A perm=67703 a=144 off=1 n=11 m=11 sc=-3.90
+HIT A perm=37414 a=181 off=1 n=11 m=11 sc=-3.93
+
+## NULL19_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=120 n11=1875
+HIST A off=1: n10=52 n11=3001
+HIST B off=0: n0=6401736 n1=2345904 n2=394632 n3=3871872 n4=2268246 n5=1251987 n6=39968 n7=18783 n8=9314 n9=1545 n10=564
+HIST B off=1: n0=6294288 n1=2498496 n2=392752 n3=3608177 n4=2343061 n5=1014961 n6=14959 n7=44765 n8=2362 n9=23
+perms=96630 alphabets=264 shape=3
+HIT A perm=25545 a=101 off=0 n=11 m=12 sc=-3.66
+HIT A perm=6032 a=184 off=1 n=11 m=12 sc=-3.94
+HIT A perm=6032 a=130 off=1 n=11 m=12 sc=-3.95
+HIT A perm=6032 a=7 off=1 n=11 m=12 sc=-3.96
+HIT A perm=30165 a=55 off=1 n=11 m=12 sc=-4.22
+HIT A perm=6032 a=235 off=1 n=11 m=12 sc=-4.24
+HIT A perm=6032 a=55 off=1 n=11 m=12 sc=-4.29
+HIT A perm=30165 a=70 off=1 n=11 m=12 sc=-4.60
+HIT A perm=30165 a=184 off=1 n=11 m=12 sc=-4.64
+HIT A perm=30165 a=235 off=1 n=11 m=12 sc=-4.65
+
+## NULL1_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=4 n11=5420
+HIST A off=1: n10=152 n11=1412
+HIST B off=0: n0=6401736 n1=2345904 n2=610111 n3=4053937 n4=1823503 n5=640861 n6=31254 n7=9746 n8=2070 n9=66 n10=34
+HIST B off=1: n0=6294288 n1=2498496 n2=439968 n3=3509747 n4=2150740 n5=1021688 n6=5701 n7=11539 n8=366 n9=33 n10=23 n11=9
+perms=96630 alphabets=264 shape=0
+HIT A perm=1127 a=61 off=0 n=11 m=13 sc=-3.41
+HIT A perm=1127 a=0 off=0 n=11 m=13 sc=-3.44
+HIT A perm=1127 a=2 off=0 n=11 m=13 sc=-3.44
+HIT A perm=1127 a=67 off=0 n=11 m=13 sc=-3.51
+HIT A perm=1127 a=64 off=0 n=11 m=13 sc=-3.52
+HIT A perm=1127 a=262 off=0 n=11 m=13 sc=-3.58
+HIT A perm=1127 a=263 off=0 n=11 m=13 sc=-3.58
+HIT A perm=85475 a=67 off=0 n=11 m=12 sc=-3.58
+HIT A perm=85475 a=0 off=0 n=11 m=12 sc=-3.59
+HIT A perm=85475 a=2 off=0 n=11 m=12 sc=-3.59
+
+## NULL1_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=343
+HIST A off=1: n10=178 n11=1162
+HIST B off=0: n0=6401736 n1=2345904 n2=615554 n3=4155921 n4=2138886 n5=1080388 n6=34773 n7=18945 n8=2711 n9=211 n10=128
+HIST B off=1: n0=6294288 n1=2498496 n2=439954 n3=3487532 n4=2160815 n5=1121071 n6=7151 n7=25344 n8=1210 n9=51 n10=53 n11=6
+perms=96630 alphabets=264 shape=1
+HIT A perm=811 a=100 off=1 n=11 m=12 sc=-3.41
+HIT A perm=823 a=100 off=1 n=11 m=12 sc=-3.41
+HIT A perm=811 a=229 off=1 n=11 m=12 sc=-3.51
+HIT A perm=823 a=229 off=1 n=11 m=12 sc=-3.51
+HIT A perm=1289 a=68 off=0 n=11 m=11 sc=-3.13
+HIT A perm=1289 a=69 off=0 n=11 m=11 sc=-3.13
+HIT A perm=45017 a=245 off=0 n=11 m=11 sc=-3.78
+HIT A perm=45017 a=246 off=0 n=11 m=11 sc=-3.78
+HIT A perm=44969 a=245 off=0 n=11 m=11 sc=-3.86
+HIT A perm=44969 a=246 off=0 n=11 m=11 sc=-3.86
+
+## NULL1_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=18 n11=1425
+HIST A off=1: n10=126 n11=1440
+HIST B off=0: n0=6401736 n1=2345904 n2=595939 n3=3884608 n4=1980706 n5=965320 n6=35343 n7=30011 n8=2055 n9=219 n10=83
+HIST B off=1: n0=6294288 n1=2498496 n2=428040 n3=3311893 n4=1984036 n5=915063 n6=5880 n7=43533 n8=1841 n9=41 n10=92 n11=7
+perms=96630 alphabets=264 shape=2
+HIT A perm=1127 a=231 off=0 n=11 m=13 sc=-4.65
+HIT A perm=13636 a=138 off=1 n=11 m=12 sc=-4.48
+HIT A perm=85343 a=231 off=0 n=11 m=12 sc=-5.02
+HIT A perm=85355 a=231 off=0 n=11 m=12 sc=-5.02
+HIT A perm=85475 a=231 off=0 n=11 m=12 sc=-5.05
+HIT A perm=66629 a=37 off=0 n=11 m=11 sc=-3.84
+HIT A perm=66713 a=37 off=0 n=11 m=11 sc=-4.40
+HIT A perm=65183 a=231 off=0 n=11 m=11 sc=-4.46
+HIT A perm=65195 a=231 off=0 n=11 m=11 sc=-4.46
+HIT A perm=65267 a=231 off=0 n=11 m=11 sc=-4.49
+
+## NULL1_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=44 n11=5247
+HIST A off=1: n10=414 n11=5434
+HIST B off=0: n0=6401736 n1=2345904 n2=610165 n3=4108477 n4=2470425 n5=1495822 n6=41608 n7=39925 n8=2885 n9=350 n10=198
+HIST B off=1: n0=6294288 n1=2498496 n2=439140 n3=3423816 n4=2149597 n5=1050318 n6=6901 n7=57097 n8=2140 n9=76 n10=126 n11=23
+perms=96630 alphabets=264 shape=3
+HIT A perm=1127 a=255 off=0 n=11 m=13 sc=-3.35
+HIT A perm=1127 a=7 off=0 n=11 m=13 sc=-4.04
+HIT A perm=1127 a=88 off=0 n=11 m=13 sc=-4.35
+HIT A perm=1127 a=34 off=0 n=11 m=13 sc=-4.91
+HIT A perm=1127 a=183 off=0 n=11 m=13 sc=-5.10
+HIT A perm=85343 a=255 off=0 n=11 m=12 sc=-4.04
+HIT A perm=85355 a=255 off=0 n=11 m=12 sc=-4.04
+HIT A perm=811 a=9 off=1 n=11 m=12 sc=-4.13
+HIT A perm=823 a=9 off=1 n=11 m=12 sc=-4.13
+HIT A perm=85343 a=88 off=0 n=11 m=12 sc=-4.16
+
+## NULL20_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=96 n11=11397
+HIST A off=1: n10=10 n11=1906
+HIST B off=0: n0=6401736 n1=2345904 n2=617745 n3=3453265 n4=1135549 n5=427127 n6=49461 n7=28844 n8=16778 n9=175 n10=13 n11=5
+HIST B off=1: n0=6294288 n1=2498496 n2=464491 n3=3559254 n4=2106265 n5=1022467 n6=17935 n7=17131 n8=5957 n9=111 n10=1
+perms=96630 alphabets=264 shape=0
+HIT A perm=35991 a=119 off=1 n=11 m=12 sc=-2.39
+HIT A perm=35991 a=120 off=1 n=11 m=12 sc=-2.39
+HIT A perm=25827 a=119 off=1 n=11 m=12 sc=-2.42
+HIT A perm=25827 a=120 off=1 n=11 m=12 sc=-2.42
+HIT A perm=25911 a=119 off=1 n=11 m=12 sc=-2.42
+HIT A perm=25911 a=120 off=1 n=11 m=12 sc=-2.42
+HIT A perm=35907 a=119 off=1 n=11 m=12 sc=-2.42
+HIT A perm=35907 a=120 off=1 n=11 m=12 sc=-2.42
+HIT A perm=67575 a=119 off=1 n=11 m=11 sc=-2.37
+HIT A perm=67575 a=120 off=1 n=11 m=11 sc=-2.37
+
+## NULL20_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=26 n11=401
+HIST A off=1: n10=14 n11=1360
+HIST B off=0: n0=6401736 n1=2345904 n2=623232 n3=3527901 n4=1330234 n5=525471 n6=51987 n7=52583 n8=23348 n9=119 n10=22 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=466960 n3=3480011 n4=2079639 n5=1088791 n6=20122 n7=37649 n8=8701 n9=140 n10=2
+perms=96630 alphabets=264 shape=1
+HIT A perm=2900 a=44 off=1 n=11 m=12 sc=-2.88
+HIT A perm=2900 a=45 off=1 n=11 m=12 sc=-2.88
+HIT A perm=35991 a=121 off=1 n=11 m=12 sc=-2.92
+HIT A perm=25827 a=121 off=1 n=11 m=12 sc=-2.96
+HIT A perm=25911 a=121 off=1 n=11 m=12 sc=-2.96
+HIT A perm=35907 a=121 off=1 n=11 m=12 sc=-2.96
+HIT A perm=8696 a=121 off=1 n=11 m=11 sc=-2.71
+HIT A perm=3895 a=200 off=0 n=11 m=11 sc=-2.76
+HIT A perm=3895 a=201 off=0 n=11 m=11 sc=-2.76
+HIT A perm=3883 a=200 off=0 n=11 m=11 sc=-2.77
+
+## NULL20_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=102 n11=2848
+HIST A off=1: n10=28 n11=1446
+HIST B off=0: n0=6401736 n1=2345904 n2=603829 n3=3298914 n4=1224452 n5=505192 n6=54190 n7=86958 n8=20657 n9=215 n10=75 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=453651 n3=3320405 n4=1932042 n5=911230 n6=21104 n7=64977 n8=7438 n9=141 n10=5 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=35991 a=7 off=1 n=11 m=12 sc=-3.26
+HIT A perm=25827 a=7 off=1 n=11 m=12 sc=-3.29
+HIT A perm=25911 a=7 off=1 n=11 m=12 sc=-3.29
+HIT A perm=35907 a=7 off=1 n=11 m=12 sc=-3.29
+HIT A perm=26305 a=208 off=0 n=11 m=12 sc=-3.70
+HIT A perm=26277 a=208 off=0 n=11 m=12 sc=-3.94
+HIT A perm=86363 a=7 off=1 n=11 m=11 sc=-3.03
+HIT A perm=45899 a=7 off=1 n=11 m=11 sc=-3.23
+HIT A perm=2928 a=7 off=1 n=11 m=11 sc=-3.28
+HIT A perm=67575 a=7 off=1 n=11 m=11 sc=-3.32
+
+## NULL20_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=148 n11=9743
+HIST A off=1: n10=54 n11=7315
+HIST B off=0: n0=6401736 n1=2345904 n2=617744 n3=3500473 n4=1478824 n5=685230 n6=61849 n7=109179 n8=47638 n9=341 n10=69 n11=9
+HIST B off=1: n0=6294288 n1=2498496 n2=465700 n3=3443321 n4=2101265 n5=1042835 n6=26293 n7=87554 n8=18256 n9=265 n10=13 n11=2
+perms=96630 alphabets=264 shape=3
+HIT A perm=25827 a=7 off=1 n=11 m=12 sc=-3.67
+HIT A perm=25911 a=7 off=1 n=11 m=12 sc=-3.67
+HIT A perm=35907 a=7 off=1 n=11 m=12 sc=-3.67
+HIT A perm=25827 a=184 off=1 n=11 m=12 sc=-3.71
+HIT A perm=25911 a=184 off=1 n=11 m=12 sc=-3.71
+HIT A perm=35907 a=184 off=1 n=11 m=12 sc=-3.71
+HIT A perm=7343 a=37 off=0 n=11 m=12 sc=-3.83
+HIT A perm=25827 a=55 off=1 n=11 m=12 sc=-3.86
+HIT A perm=25911 a=55 off=1 n=11 m=12 sc=-3.86
+HIT A perm=35907 a=55 off=1 n=11 m=12 sc=-3.86
+
+## NULL21_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=106 n11=5661
+HIST A off=1: n10=110 n11=2555
+HIST B off=0: n0=6401736 n1=2345904 n2=653503 n3=2924921 n4=1139958 n5=386280 n6=14800 n7=1952 n8=376 n9=16
+HIST B off=1: n0=6294288 n1=2498496 n2=499518 n3=3337515 n4=1898605 n5=1239618 n6=11272 n7=5724 n8=271 n9=16 n10=5
+perms=96630 alphabets=264 shape=0
+HIT A perm=7154 a=119 off=1 n=11 m=12 sc=-2.69
+HIT A perm=7154 a=120 off=1 n=11 m=12 sc=-2.69
+HIT A perm=7060 a=119 off=1 n=11 m=11 sc=-2.56
+HIT A perm=7060 a=120 off=1 n=11 m=11 sc=-2.56
+HIT A perm=7166 a=119 off=1 n=11 m=11 sc=-2.78
+HIT A perm=7166 a=120 off=1 n=11 m=11 sc=-2.78
+HIT A perm=7132 a=119 off=1 n=11 m=11 sc=-2.80
+HIT A perm=7132 a=120 off=1 n=11 m=11 sc=-2.80
+HIT A perm=7180 a=119 off=1 n=11 m=11 sc=-2.96
+HIT A perm=7180 a=120 off=1 n=11 m=11 sc=-2.96
+
+## NULL21_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=36 n11=534
+HIST A off=1: n10=64 n11=993
+HIST B off=0: n0=6401736 n1=2345904 n2=660938 n3=2988869 n4=1320412 n5=670552 n6=15472 n7=4509 n8=840 n9=47
+HIST B off=1: n0=6294288 n1=2498496 n2=503927 n3=3286793 n4=1883522 n5=1330957 n6=13152 n7=13856 n8=150 n9=34 n10=24
+perms=96630 alphabets=264 shape=1
+HIT A perm=7154 a=121 off=1 n=11 m=12 sc=-2.93
+HIT A perm=7060 a=121 off=1 n=11 m=11 sc=-2.45
+HIT A perm=7180 a=121 off=1 n=11 m=11 sc=-2.54
+HIT A perm=7132 a=121 off=1 n=11 m=11 sc=-2.93
+HIT A perm=7166 a=121 off=1 n=11 m=11 sc=-2.96
+HIT A perm=3639 a=44 off=1 n=11 m=11 sc=-3.39
+HIT A perm=3639 a=45 off=1 n=11 m=11 sc=-3.39
+HIT A perm=3651 a=44 off=1 n=11 m=11 sc=-3.39
+HIT A perm=3651 a=45 off=1 n=11 m=11 sc=-3.39
+HIT A perm=7072 a=121 off=1 n=11 m=10 sc=-2.39
+
+## NULL21_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=58 n11=1277
+HIST A off=1: n10=40 n11=1360
+HIST B off=0: n0=6401736 n1=2345904 n2=639331 n3=2813866 n4=1223327 n5=559507 n6=16439 n7=3426 n8=684 n9=46
+HIST B off=1: n0=6294288 n1=2498496 n2=488402 n3=3119772 n4=1732339 n5=1100991 n6=13290 n7=22213 n8=425 n9=55 n10=16 n11=4
+perms=96630 alphabets=264 shape=2
+HIT A perm=7154 a=7 off=1 n=11 m=12 sc=-2.99
+HIT A perm=7166 a=7 off=1 n=11 m=11 sc=-3.31
+HIT A perm=7132 a=7 off=1 n=11 m=11 sc=-3.50
+HIT A perm=7060 a=7 off=1 n=11 m=11 sc=-3.68
+HIT A perm=7180 a=7 off=1 n=11 m=11 sc=-3.76
+HIT A perm=945 a=231 off=0 n=11 m=11 sc=-4.24
+HIT A perm=705 a=231 off=0 n=11 m=11 sc=-4.38
+HIT A perm=19632 a=7 off=1 n=11 m=10 sc=-2.87
+HIT A perm=19056 a=7 off=1 n=11 m=10 sc=-2.88
+HIT A perm=9806 a=7 off=1 n=11 m=10 sc=-2.90
+
+## NULL21_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=120 n11=4978
+HIST A off=1: n10=180 n11=6143
+HIST B off=0: n0=6401736 n1=2345904 n2=655165 n3=2961232 n4=1497934 n5=846463 n6=19379 n7=4076 n8=770 n9=37
+HIST B off=1: n0=6294288 n1=2498496 n2=502380 n3=3253433 n4=1874557 n5=1257878 n6=17248 n7=27976 n8=290 n9=74 n10=33 n11=13
+perms=96630 alphabets=264 shape=3
+HIT A perm=7154 a=55 off=1 n=11 m=12 sc=-3.90
+HIT A perm=7154 a=70 off=1 n=11 m=12 sc=-4.19
+HIT A perm=7154 a=34 off=1 n=11 m=12 sc=-4.25
+HIT A perm=7154 a=130 off=1 n=11 m=12 sc=-4.67
+HIT A perm=7154 a=235 off=1 n=11 m=12 sc=-4.71
+HIT A perm=2636 a=101 off=0 n=11 m=12 sc=-4.82
+HIT A perm=7154 a=7 off=1 n=11 m=12 sc=-4.82
+HIT A perm=7154 a=184 off=1 n=11 m=12 sc=-4.92
+HIT A perm=3639 a=39 off=1 n=11 m=11 sc=-3.25
+HIT A perm=3651 a=39 off=1 n=11 m=11 sc=-3.25
+
+## NULL22_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=174 n11=1992
+HIST A off=1: n10=64 n11=866
+HIST B off=0: n0=6401736 n1=2345904 n2=602869 n3=3418206 n4=1054671 n5=306626 n6=32010 n7=22684 n8=23801 n9=34 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=329755 n3=3196161 n4=1536012 n5=524512 n6=18623 n7=25655 n8=8958 n9=50 n10=4
+perms=96630 alphabets=264 shape=0
+HIT A perm=16923 a=262 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16923 a=263 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16925 a=262 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16925 a=263 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16937 a=262 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16937 a=263 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16949 a=262 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16949 a=263 off=0 n=11 m=11 sc=-3.43
+HIT A perm=16875 a=262 off=0 n=11 m=11 sc=-3.55
+HIT A perm=16875 a=263 off=0 n=11 m=11 sc=-3.55
+
+## NULL22_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=40 n11=577
+HIST A off=1: n10=66 n11=228
+HIST B off=0: n0=6401736 n1=2345904 n2=607850 n3=3492568 n4=1148773 n5=486308 n6=33071 n7=42931 n8=8709 n9=146 n10=197 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=335587 n3=3151243 n4=1493521 n5=557229 n6=19566 n7=32706 n8=6496 n9=96 n10=3 n11=4
+perms=96630 alphabets=264 shape=1
+HIT A perm=48979 a=226 off=1 n=11 m=12 sc=-3.38
+HIT A perm=48981 a=226 off=1 n=11 m=12 sc=-3.38
+HIT A perm=90931 a=226 off=1 n=11 m=12 sc=-3.41
+HIT A perm=90933 a=226 off=1 n=11 m=12 sc=-3.41
+HIT A perm=59011 a=226 off=1 n=11 m=11 sc=-3.06
+HIT A perm=59013 a=226 off=1 n=11 m=11 sc=-3.06
+HIT A perm=48931 a=226 off=1 n=11 m=11 sc=-3.11
+HIT A perm=48933 a=226 off=1 n=11 m=11 sc=-3.11
+HIT A perm=27017 a=121 off=1 n=11 m=10 sc=-2.77
+HIT A perm=47225 a=121 off=1 n=11 m=10 sc=-2.77
+
+## NULL22_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=52 n11=800
+HIST A off=1: n10=66 n11=411
+HIST B off=0: n0=6401736 n1=2345904 n2=589050 n3=3272970 n4=1112131 n5=439060 n6=34096 n7=71982 n8=9636 n9=246 n10=146 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=324106 n3=2997976 n4=1401483 n5=474092 n6=19364 n7=34824 n8=5605 n9=122 n10=8
+perms=96630 alphabets=264 shape=2
+HIT A perm=1825 a=18 off=0 n=11 m=11 sc=-3.81
+HIT A perm=9289 a=18 off=0 n=11 m=11 sc=-3.81
+HIT A perm=16923 a=231 off=0 n=11 m=11 sc=-4.23
+HIT A perm=16925 a=231 off=0 n=11 m=11 sc=-4.23
+HIT A perm=16937 a=231 off=0 n=11 m=11 sc=-4.23
+HIT A perm=16949 a=231 off=0 n=11 m=11 sc=-4.23
+HIT A perm=16875 a=231 off=0 n=11 m=11 sc=-4.25
+HIT A perm=16877 a=231 off=0 n=11 m=11 sc=-4.25
+HIT A perm=16889 a=231 off=0 n=11 m=11 sc=-4.25
+HIT A perm=16901 a=231 off=0 n=11 m=11 sc=-4.25
+
+## NULL22_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=132 n11=2138
+HIST A off=1: n10=222 n11=1446
+HIST B off=0: n0=6401736 n1=2345904 n2=602488 n3=3453138 n4=1328336 n5=652604 n6=37811 n7=90837 n8=21938 n9=317 n10=201 n11=11
+HIST B off=1: n0=6294288 n1=2498496 n2=332313 n3=3105804 n4=1538194 n5=547548 n6=22077 n7=39524 n8=9714 n9=225 n10=13 n11=2
+perms=96630 alphabets=264 shape=3
+HIT A perm=158 a=35 off=0 n=11 m=11 sc=-3.83
+HIT A perm=158 a=38 off=0 n=11 m=11 sc=-3.83
+HIT A perm=16875 a=183 off=0 n=11 m=11 sc=-4.38
+HIT A perm=16877 a=183 off=0 n=11 m=11 sc=-4.38
+HIT A perm=16889 a=183 off=0 n=11 m=11 sc=-4.38
+HIT A perm=16901 a=183 off=0 n=11 m=11 sc=-4.38
+HIT A perm=65381 a=42 off=0 n=11 m=11 sc=-4.41
+HIT A perm=16923 a=88 off=0 n=11 m=11 sc=-4.50
+HIT A perm=16923 a=183 off=0 n=11 m=11 sc=-4.50
+HIT A perm=16925 a=88 off=0 n=11 m=11 sc=-4.50
+
+## NULL23_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=242 n11=1074
+HIST A off=1: n10=116 n11=844
+HIST B off=0: n0=6401736 n1=2345904 n2=653503 n3=3154964 n4=1556783 n5=619203 n6=14391 n7=1605 n8=26 n9=50
+HIST B off=1: n0=6294288 n1=2498496 n2=464442 n3=3078436 n4=1562182 n5=486167 n6=27044 n7=1844 n8=295 n9=32 n10=4
+perms=96630 alphabets=264 shape=0
+HIT A perm=11342 a=0 off=0 n=11 m=12 sc=-2.88
+HIT A perm=11342 a=2 off=0 n=11 m=12 sc=-2.88
+HIT A perm=11342 a=262 off=0 n=11 m=12 sc=-3.11
+HIT A perm=11342 a=263 off=0 n=11 m=12 sc=-3.11
+HIT A perm=10858 a=0 off=0 n=11 m=12 sc=-3.34
+HIT A perm=10858 a=2 off=0 n=11 m=12 sc=-3.34
+HIT A perm=10858 a=67 off=0 n=11 m=12 sc=-3.37
+HIT A perm=10858 a=262 off=0 n=11 m=12 sc=-3.41
+HIT A perm=10858 a=263 off=0 n=11 m=12 sc=-3.41
+HIT A perm=10858 a=61 off=0 n=11 m=12 sc=-3.47
+
+## NULL23_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=60 n11=232
+HIST A off=1: n10=128 n11=629
+HIST B off=0: n0=6401736 n1=2345904 n2=660938 n3=3225881 n4=1816811 n5=911957 n6=18095 n7=2360 n8=19 n9=58 n10=9
+HIST B off=1: n0=6294288 n1=2498496 n2=467428 n3=3079079 n4=1588824 n5=524044 n6=29834 n7=2295 n8=618 n9=61 n10=6 n11=2
+perms=96630 alphabets=264 shape=1
+HIT A perm=4833 a=121 off=1 n=11 m=11 sc=-3.06
+HIT A perm=4845 a=121 off=1 n=11 m=11 sc=-3.06
+HIT A perm=11294 a=226 off=0 n=11 m=10 sc=-3.17
+HIT A perm=5301 a=121 off=1 n=11 m=10 sc=-3.37
+HIT A perm=5329 a=121 off=1 n=11 m=10 sc=-3.37
+HIT A perm=11275 a=121 off=1 n=11 m=9 sc=-2.57
+HIT A perm=11287 a=121 off=1 n=11 m=9 sc=-2.57
+HIT A perm=93724 a=200 off=0 n=10 m=9 sc=-2.85
+HIT A perm=93724 a=201 off=0 n=10 m=9 sc=-2.85
+HIT A perm=94318 a=200 off=0 n=10 m=9 sc=-2.85
+
+## NULL23_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=116 n11=400
+HIST A off=1: n10=102 n11=506
+HIST B off=0: n0=6401736 n1=2345904 n2=639331 n3=3034789 n4=1680311 n5=860353 n6=17155 n7=2748 n8=40 n9=79 n10=4
+HIST B off=1: n0=6294288 n1=2498496 n2=454795 n3=2925190 n4=1472005 n5=438960 n6=30088 n7=3468 n8=433 n9=85 n10=74
+perms=96630 alphabets=264 shape=2
+HIT A perm=11342 a=231 off=0 n=11 m=12 sc=-4.09
+HIT A perm=10858 a=231 off=0 n=11 m=12 sc=-4.58
+HIT A perm=4833 a=7 off=1 n=11 m=11 sc=-3.96
+HIT A perm=4845 a=7 off=1 n=11 m=11 sc=-3.96
+HIT A perm=3885 a=231 off=0 n=11 m=11 sc=-4.49
+HIT A perm=93337 a=231 off=0 n=11 m=11 sc=-4.56
+HIT A perm=96306 a=231 off=0 n=11 m=11 sc=-4.56
+HIT A perm=8661 a=231 off=0 n=11 m=10 sc=-3.33
+HIT A perm=5769 a=231 off=0 n=11 m=10 sc=-3.80
+HIT A perm=2867 a=231 off=0 n=11 m=10 sc=-3.89
+
+## NULL23_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=312 n11=1027
+HIST A off=1: n10=446 n11=1505
+HIST B off=0: n0=6401736 n1=2345904 n2=655165 n3=3195277 n4=2120908 n5=1318412 n6=21133 n7=3198 n8=52 n9=127 n10=16 n11=4
+HIST B off=1: n0=6294288 n1=2498496 n2=465957 n3=3022635 n4=1598935 n5=514017 n6=36718 n7=5650 n8=632 n9=139 n10=139 n11=2
+perms=96630 alphabets=264 shape=3
+HIT A perm=11342 a=255 off=0 n=11 m=12 sc=-3.77
+HIT A perm=11342 a=183 off=0 n=11 m=12 sc=-3.94
+HIT A perm=11342 a=7 off=0 n=11 m=12 sc=-3.99
+HIT A perm=10858 a=255 off=0 n=11 m=12 sc=-4.08
+HIT A perm=10858 a=7 off=0 n=11 m=12 sc=-4.33
+HIT A perm=11342 a=34 off=0 n=11 m=12 sc=-4.43
+HIT A perm=10858 a=183 off=0 n=11 m=12 sc=-4.46
+HIT A perm=11342 a=88 off=0 n=11 m=12 sc=-4.69
+HIT A perm=10858 a=34 off=0 n=11 m=12 sc=-5.50
+HIT A perm=10858 a=88 off=0 n=11 m=12 sc=-5.50
+
+## NULL24_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=400 n11=5578
+HIST A off=1: n10=76 n11=1898
+HIST B off=0: n0=6401736 n1=2345904 n2=473563 n3=3709588 n4=1115586 n5=299736 n6=14626 n7=1821 n8=2169 n9=29 n10=2 n11=3
+HIST B off=1: n0=6294288 n1=2498496 n2=416060 n3=3806980 n4=2178744 n5=898367 n6=48505 n7=35201 n8=7534 n9=343 n10=18 n11=4
+perms=96630 alphabets=264 shape=0
+HIT A perm=92652 a=119 off=1 n=11 m=11 sc=-2.52
+HIT A perm=92652 a=120 off=1 n=11 m=11 sc=-2.52
+HIT A perm=1496 a=0 off=0 n=11 m=11 sc=-2.93
+HIT A perm=1496 a=2 off=0 n=11 m=11 sc=-2.93
+HIT A perm=1530 a=67 off=0 n=11 m=11 sc=-3.10
+HIT A perm=1496 a=61 off=0 n=11 m=11 sc=-3.25
+HIT A perm=1530 a=262 off=0 n=11 m=11 sc=-3.37
+HIT A perm=1530 a=263 off=0 n=11 m=11 sc=-3.37
+HIT A perm=1530 a=0 off=0 n=11 m=11 sc=-3.45
+HIT A perm=1530 a=2 off=0 n=11 m=11 sc=-3.45
+
+## NULL24_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=160 n11=937
+HIST A off=1: n10=60 n11=1242
+HIST B off=0: n0=6401736 n1=2345904 n2=471792 n3=3790357 n4=1344801 n5=488319 n6=16590 n7=6296 n8=850 n9=46 n10=8
+HIST B off=1: n0=6294288 n1=2498496 n2=416816 n3=3775242 n4=2161933 n5=984672 n6=50181 n7=57831 n8=8358 n9=798 n10=68 n11=5
+perms=96630 alphabets=264 shape=1
+HIT A perm=1542 a=226 off=0 n=11 m=11 sc=-2.72
+HIT A perm=92652 a=121 off=1 n=11 m=11 sc=-2.76
+HIT A perm=9011 a=35 off=1 n=11 m=11 sc=-2.95
+HIT A perm=9011 a=36 off=1 n=11 m=11 sc=-2.95
+HIT A perm=6143 a=35 off=1 n=11 m=11 sc=-2.96
+HIT A perm=6143 a=36 off=1 n=11 m=11 sc=-2.96
+HIT A perm=1372 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=1698 a=226 off=0 n=11 m=10 sc=-2.46
+HIT A perm=64392 a=121 off=1 n=11 m=10 sc=-2.62
+HIT A perm=14254 a=121 off=1 n=11 m=10 sc=-2.68
+
+## NULL24_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=166 n11=1684
+HIST A off=1: n10=70 n11=1546
+HIST B off=0: n0=6401736 n1=2345904 n2=463601 n3=3534643 n4=1219009 n5=422452 n6=15769 n7=6886 n8=1881 n9=61 n10=20
+HIST B off=1: n0=6294288 n1=2498496 n2=406969 n3=3565113 n4=1991813 n5=807012 n6=52536 n7=89682 n8=10687 n9=1238 n10=39 n11=5
+perms=96630 alphabets=264 shape=2
+HIT A perm=92652 a=7 off=1 n=11 m=11 sc=-3.91
+HIT A perm=43757 a=138 off=1 n=11 m=11 sc=-3.97
+HIT A perm=43769 a=138 off=1 n=11 m=11 sc=-3.97
+HIT A perm=74007 a=138 off=1 n=11 m=11 sc=-4.05
+HIT A perm=74019 a=138 off=1 n=11 m=11 sc=-4.05
+HIT A perm=1530 a=231 off=0 n=11 m=11 sc=-4.16
+HIT A perm=1496 a=231 off=0 n=11 m=11 sc=-4.83
+HIT A perm=64392 a=7 off=1 n=11 m=10 sc=-2.88
+HIT A perm=14254 a=7 off=1 n=11 m=10 sc=-3.10
+HIT A perm=1230 a=7 off=1 n=11 m=10 sc=-3.22
+
+## NULL24_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=476 n11=6571
+HIST A off=1: n10=256 n11=6740
+HIST B off=0: n0=6401736 n1=2345904 n2=473732 n3=3760061 n4=1517908 n5=618185 n6=19826 n7=7326 n8=2023 n9=99 n10=38 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=417298 n3=3725613 n4=2161463 n5=935187 n6=58578 n7=111534 n8=11778 n9=1448 n10=111 n11=20
+perms=96630 alphabets=264 shape=3
+HIT A perm=10752 a=29 off=0 n=11 m=12 sc=-4.19
+HIT A perm=59035 a=103 off=1 n=11 m=11 sc=-3.68
+HIT A perm=59037 a=103 off=1 n=11 m=11 sc=-3.68
+HIT A perm=48907 a=103 off=1 n=11 m=11 sc=-3.71
+HIT A perm=48909 a=103 off=1 n=11 m=11 sc=-3.71
+HIT A perm=58987 a=103 off=1 n=11 m=11 sc=-3.71
+HIT A perm=58989 a=103 off=1 n=11 m=11 sc=-3.71
+HIT A perm=1530 a=7 off=0 n=11 m=11 sc=-3.76
+HIT A perm=92652 a=34 off=1 n=11 m=11 sc=-3.98
+HIT A perm=48955 a=103 off=1 n=11 m=11 sc=-4.01
+
+## NULL2_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=6411
+HIST A off=1: n10=56 n11=2436
+HIST B off=0: n0=6401736 n1=2345904 n2=649464 n3=4067939 n4=1793065 n5=636470 n6=54411 n7=33975 n8=1244 n9=67 n10=7
+HIST B off=1: n0=6294288 n1=2498496 n2=374512 n3=3334580 n4=1895099 n5=1080623 n6=29502 n7=20316 n8=2106 n9=88 n10=47
+perms=96630 alphabets=264 shape=0
+HIT A perm=8322 a=119 off=1 n=11 m=12 sc=-3.13
+HIT A perm=8322 a=120 off=1 n=11 m=12 sc=-3.13
+HIT A perm=70272 a=119 off=1 n=11 m=11 sc=-2.95
+HIT A perm=70272 a=120 off=1 n=11 m=11 sc=-2.95
+HIT A perm=10068 a=0 off=0 n=11 m=11 sc=-3.05
+HIT A perm=10068 a=2 off=0 n=11 m=11 sc=-3.05
+HIT A perm=8478 a=119 off=1 n=11 m=11 sc=-3.07
+HIT A perm=8478 a=120 off=1 n=11 m=11 sc=-3.07
+HIT A perm=10068 a=64 off=0 n=11 m=11 sc=-3.07
+HIT A perm=10068 a=67 off=0 n=11 m=11 sc=-3.12
+
+## NULL2_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=20 n11=896
+HIST A off=1: n10=72 n11=1909
+HIST B off=0: n0=6401736 n1=2345904 n2=656971 n3=4163206 n4=2086311 n5=1063097 n6=56891 n7=56673 n8=980 n9=47 n10=2
+HIST B off=1: n0=6294288 n1=2498496 n2=383221 n3=3296352 n4=1876568 n5=1161467 n6=33118 n7=40714 n8=2185 n9=167 n10=258
+perms=96630 alphabets=264 shape=1
+HIT A perm=8322 a=121 off=1 n=11 m=12 sc=-3.28
+HIT A perm=70272 a=121 off=1 n=11 m=11 sc=-2.51
+HIT A perm=8478 a=121 off=1 n=11 m=11 sc=-2.74
+HIT A perm=81995 a=121 off=1 n=11 m=10 sc=-2.61
+HIT A perm=69828 a=121 off=1 n=11 m=10 sc=-2.67
+HIT A perm=51503 a=121 off=1 n=11 m=10 sc=-2.69
+HIT A perm=8238 a=121 off=1 n=11 m=10 sc=-2.90
+HIT A perm=92052 a=100 off=1 n=11 m=10 sc=-2.96
+HIT A perm=92052 a=229 off=1 n=11 m=10 sc=-3.14
+HIT A perm=11084 a=253 off=1 n=11 m=10 sc=-3.34
+
+## NULL2_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=10 n11=1715
+HIST A off=1: n10=52 n11=1487
+HIST B off=0: n0=6401736 n1=2345904 n2=635412 n3=3877654 n4=1939904 n5=950550 n6=58558 n7=84407 n8=4754 n9=70 n10=3 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=370134 n3=3117791 n4=1753261 n5=975604 n6=33066 n7=68439 n8=2667 n9=121 n10=297 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=8322 a=7 off=1 n=11 m=12 sc=-3.43
+HIT A perm=23700 a=182 off=0 n=11 m=11 sc=-3.30
+HIT A perm=70272 a=7 off=1 n=11 m=11 sc=-3.63
+HIT A perm=8478 a=7 off=1 n=11 m=11 sc=-3.67
+HIT A perm=10068 a=231 off=0 n=11 m=11 sc=-5.45
+HIT A perm=11072 a=216 off=0 n=11 m=10 sc=-3.23
+HIT A perm=51503 a=7 off=1 n=11 m=10 sc=-3.38
+HIT A perm=81995 a=7 off=1 n=11 m=10 sc=-3.40
+HIT A perm=28212 a=231 off=0 n=11 m=10 sc=-3.54
+HIT A perm=29656 a=37 off=0 n=11 m=10 sc=-3.55
+
+## NULL2_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=28 n11=5046
+HIST A off=1: n10=174 n11=7905
+HIST B off=0: n0=6401736 n1=2345904 n2=651205 n3=4121520 n4=2409537 n5=1462349 n6=65329 n7=105176 n8=3327 n9=95 n10=14
+HIST B off=1: n0=6294288 n1=2498496 n2=379512 n3=3255578 n4=1903224 n5=1098950 n6=38631 n7=86846 n8=2692 n9=101 n10=263
+perms=96630 alphabets=264 shape=3
+HIT A perm=8322 a=7 off=1 n=11 m=12 sc=-4.02
+HIT A perm=8322 a=55 off=1 n=11 m=12 sc=-4.18
+HIT A perm=8322 a=130 off=1 n=11 m=12 sc=-4.24
+HIT A perm=8322 a=34 off=1 n=11 m=12 sc=-4.32
+HIT A perm=8322 a=70 off=1 n=11 m=12 sc=-4.33
+HIT A perm=8322 a=184 off=1 n=11 m=12 sc=-4.42
+HIT A perm=8322 a=235 off=1 n=11 m=12 sc=-4.85
+HIT A perm=10068 a=255 off=0 n=11 m=11 sc=-4.05
+HIT A perm=10068 a=88 off=0 n=11 m=11 sc=-4.17
+HIT A perm=82335 a=145 off=1 n=11 m=11 sc=-4.17
+
+## NULL3_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=1414
+HIST A off=1: n10=166 n11=852
+HIST B off=0: n0=6401736 n1=2345904 n2=425284 n3=3385794 n4=1384546 n5=494248 n6=31930 n7=7104 n8=773 n9=85 n10=12 n11=4
+HIST B off=1: n0=6294288 n1=2498496 n2=367383 n3=3419413 n4=1910747 n5=883133 n6=18130 n7=8167 n8=291 n9=25 n10=7
+perms=96630 alphabets=264 shape=0
+HIT A perm=2505 a=119 off=1 n=11 m=14 sc=-2.48
+HIT A perm=2505 a=120 off=1 n=11 m=14 sc=-2.48
+HIT A perm=6877 a=119 off=1 n=11 m=13 sc=-2.48
+HIT A perm=6877 a=120 off=1 n=11 m=13 sc=-2.48
+HIT A perm=93116 a=119 off=1 n=11 m=13 sc=-2.60
+HIT A perm=93116 a=120 off=1 n=11 m=13 sc=-2.60
+HIT A perm=7767 a=65 off=1 n=11 m=13 sc=-3.35
+HIT A perm=7767 a=66 off=1 n=11 m=13 sc=-3.35
+HIT A perm=6327 a=65 off=1 n=11 m=13 sc=-3.41
+HIT A perm=6327 a=66 off=1 n=11 m=13 sc=-3.41
+
+## NULL3_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=4 n11=667
+HIST A off=1: n10=106 n11=405
+HIST B off=0: n0=6401736 n1=2345904 n2=421508 n3=3469157 n4=1602438 n5=844087 n6=35943 n7=10190 n8=958 n9=115 n10=5 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=366413 n3=3373941 n4=1944084 n5=983473 n6=20605 n7=16379 n8=314 n9=39
+perms=96630 alphabets=264 shape=1
+HIT A perm=2505 a=121 off=1 n=11 m=14 sc=-3.16
+HIT A perm=93116 a=121 off=1 n=11 m=13 sc=-2.71
+HIT A perm=21124 a=200 off=0 n=11 m=13 sc=-3.16
+HIT A perm=21124 a=201 off=0 n=11 m=13 sc=-3.16
+HIT A perm=21544 a=76 off=0 n=11 m=13 sc=-3.16
+HIT A perm=6877 a=121 off=1 n=11 m=13 sc=-3.24
+HIT A perm=21112 a=76 off=0 n=11 m=12 sc=-2.63
+HIT A perm=2905 a=121 off=1 n=11 m=12 sc=-2.97
+HIT A perm=2917 a=121 off=1 n=11 m=12 sc=-2.97
+HIT A perm=3999 a=121 off=1 n=11 m=12 sc=-3.09
+
+## NULL3_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=10 n11=404
+HIST A off=1: n10=86 n11=420
+HIST B off=0: n0=6401736 n1=2345904 n2=417035 n3=3249135 n4=1498549 n5=765965 n6=36353 n7=13159 n8=941 n9=207 n10=11 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=360006 n3=3203286 n4=1772626 n5=801427 n6=22360 n7=27591 n8=1482 n9=77 n10=2
+perms=96630 alphabets=264 shape=2
+HIT A perm=2505 a=7 off=1 n=11 m=14 sc=-3.97
+HIT A perm=93116 a=7 off=1 n=11 m=13 sc=-2.91
+HIT A perm=6877 a=7 off=1 n=11 m=13 sc=-3.89
+HIT A perm=3999 a=7 off=1 n=11 m=12 sc=-3.12
+HIT A perm=2905 a=7 off=1 n=11 m=12 sc=-3.20
+HIT A perm=2917 a=7 off=1 n=11 m=12 sc=-3.20
+HIT A perm=84617 a=7 off=1 n=11 m=11 sc=-3.34
+HIT A perm=84665 a=7 off=1 n=11 m=11 sc=-3.37
+HIT A perm=12521 a=231 off=0 n=11 m=11 sc=-3.88
+HIT A perm=12401 a=231 off=0 n=11 m=11 sc=-3.93
+
+## NULL3_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=52 n11=1687
+HIST A off=1: n10=320 n11=2070
+HIST B off=0: n0=6401736 n1=2345904 n2=425177 n3=3426524 n4=1858554 n5=1205187 n6=43539 n7=16152 n8=1523 n9=308 n10=9 n11=11
+HIST B off=1: n0=6294288 n1=2498496 n2=368616 n3=3334920 n4=1918457 n5=922355 n6=29088 n7=34995 n8=916 n9=117 n10=115
+perms=96630 alphabets=264 shape=3
+HIT A perm=2505 a=7 off=1 n=11 m=14 sc=-3.74
+HIT A perm=2505 a=235 off=1 n=11 m=14 sc=-4.47
+HIT A perm=2505 a=184 off=1 n=11 m=14 sc=-4.50
+HIT A perm=2505 a=55 off=1 n=11 m=14 sc=-4.69
+HIT A perm=2505 a=130 off=1 n=11 m=14 sc=-4.83
+HIT A perm=2505 a=70 off=1 n=11 m=14 sc=-5.21
+HIT A perm=2505 a=34 off=1 n=11 m=14 sc=-5.25
+HIT A perm=6877 a=7 off=1 n=11 m=13 sc=-3.26
+HIT A perm=93116 a=55 off=1 n=11 m=13 sc=-3.90
+HIT A perm=6877 a=184 off=1 n=11 m=13 sc=-3.96
+
+## NULL4_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=76 n11=9805
+HIST A off=1: n11=3375
+HIST B off=0: n0=6401736 n1=2345904 n2=473664 n3=3875291 n4=1311712 n5=350964 n6=28575 n7=7427 n8=425 n9=12 n10=1
+HIST B off=1: n0=6294288 n1=2498496 n2=426285 n3=3703254 n4=2233028 n5=1063246 n6=13677 n7=2055 n8=444 n9=96 n10=169 n11=1
+perms=96630 alphabets=264 shape=0
+HIT A perm=20120 a=119 off=1 n=11 m=13 sc=-2.92
+HIT A perm=20120 a=120 off=1 n=11 m=13 sc=-2.92
+HIT A perm=20026 a=119 off=1 n=11 m=13 sc=-2.97
+HIT A perm=20026 a=120 off=1 n=11 m=13 sc=-2.97
+HIT A perm=16616 a=119 off=1 n=11 m=12 sc=-2.50
+HIT A perm=16616 a=120 off=1 n=11 m=12 sc=-2.50
+HIT A perm=19120 a=119 off=1 n=11 m=12 sc=-2.66
+HIT A perm=19120 a=120 off=1 n=11 m=12 sc=-2.66
+HIT A perm=19212 a=119 off=1 n=11 m=12 sc=-2.77
+HIT A perm=19212 a=120 off=1 n=11 m=12 sc=-2.77
+
+## NULL4_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=32 n11=833
+HIST A off=1: n11=1997
+HIST B off=0: n0=6401736 n1=2345904 n2=483463 n3=3966738 n4=1536395 n5=605608 n6=29547 n7=16703 n8=852 n9=23 n10=4
+HIST B off=1: n0=6294288 n1=2498496 n2=429828 n3=3654713 n4=2229495 n5=1157212 n6=17003 n7=5285 n8=2938 n9=257 n10=57 n11=4
+perms=96630 alphabets=264 shape=1
+HIT A perm=20120 a=121 off=1 n=11 m=13 sc=-2.80
+HIT A perm=20026 a=121 off=1 n=11 m=13 sc=-2.82
+HIT A perm=16666 a=35 off=1 n=11 m=13 sc=-2.98
+HIT A perm=16666 a=36 off=1 n=11 m=13 sc=-2.98
+HIT A perm=13306 a=35 off=1 n=11 m=13 sc=-3.25
+HIT A perm=13306 a=36 off=1 n=11 m=13 sc=-3.25
+HIT A perm=20266 a=121 off=1 n=11 m=12 sc=-2.60
+HIT A perm=20360 a=121 off=1 n=11 m=12 sc=-2.71
+HIT A perm=16616 a=121 off=1 n=11 m=12 sc=-2.75
+HIT A perm=16758 a=35 off=1 n=11 m=12 sc=-2.84
+
+## NULL4_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=38 n11=2256
+HIST A off=1: n10=8 n11=1815
+HIST B off=0: n0=6401736 n1=2345904 n2=468048 n3=3695709 n4=1435272 n5=530245 n6=31535 n7=26513 n8=1013 n9=23 n10=9
+HIST B off=1: n0=6294288 n1=2498496 n2=417446 n3=3463015 n4=2044846 n5=946625 n6=15789 n7=6003 n8=832 n9=235 n10=261 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=20026 a=7 off=1 n=11 m=13 sc=-2.79
+HIT A perm=20120 a=7 off=1 n=11 m=13 sc=-3.16
+HIT A perm=19120 a=7 off=1 n=11 m=12 sc=-2.76
+HIT A perm=19210 a=7 off=1 n=11 m=12 sc=-2.81
+HIT A perm=20266 a=7 off=1 n=11 m=12 sc=-3.17
+HIT A perm=19686 a=7 off=1 n=11 m=12 sc=-3.20
+HIT A perm=19550 a=7 off=1 n=11 m=12 sc=-3.21
+HIT A perm=16616 a=7 off=1 n=11 m=12 sc=-3.27
+HIT A perm=19212 a=7 off=1 n=11 m=12 sc=-3.28
+HIT A perm=19688 a=7 off=1 n=11 m=12 sc=-3.30
+
+## NULL4_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=72 n11=8145
+HIST A off=1: n10=8 n11=7350
+HIST B off=0: n0=6401736 n1=2345904 n2=477313 n3=3924119 n4=1779274 n5=798038 n6=35817 n7=39168 n8=1151 n9=37 n10=20
+HIST B off=1: n0=6294288 n1=2498496 n2=428869 n3=3595456 n4=2207472 n5=1091245 n6=19020 n7=8943 n8=1069 n9=339 n10=214 n11=5
+perms=96630 alphabets=264 shape=3
+HIT A perm=20026 a=55 off=1 n=11 m=13 sc=-3.77
+HIT A perm=20026 a=235 off=1 n=11 m=13 sc=-3.93
+HIT A perm=20120 a=55 off=1 n=11 m=13 sc=-3.93
+HIT A perm=20120 a=184 off=1 n=11 m=13 sc=-4.02
+HIT A perm=20120 a=235 off=1 n=11 m=13 sc=-4.05
+HIT A perm=20120 a=130 off=1 n=11 m=13 sc=-4.27
+HIT A perm=17480 a=145 off=1 n=11 m=13 sc=-4.36
+HIT A perm=20026 a=70 off=1 n=11 m=13 sc=-4.38
+HIT A perm=20026 a=34 off=1 n=11 m=13 sc=-4.48
+HIT A perm=20026 a=184 off=1 n=11 m=13 sc=-4.49
+
+## NULL5_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=308 n11=3011
+HIST A off=1: n10=248 n11=1916
+HIST B off=0: n0=6401736 n1=2345904 n2=634960 n3=3523819 n4=1396816 n5=597520 n6=37832 n7=27229 n8=1140 n9=61
+HIST B off=1: n0=6294288 n1=2498496 n2=499758 n3=3686973 n4=2059210 n5=1435955 n6=35568 n7=13989 n8=2753 n9=116 n10=79
+perms=96630 alphabets=264 shape=0
+HIT A perm=50987 a=0 off=0 n=11 m=13 sc=-3.05
+HIT A perm=50987 a=2 off=0 n=11 m=13 sc=-3.05
+HIT A perm=50987 a=67 off=0 n=11 m=13 sc=-3.13
+HIT A perm=50987 a=262 off=0 n=11 m=13 sc=-3.29
+HIT A perm=50987 a=263 off=0 n=11 m=13 sc=-3.29
+HIT A perm=50987 a=61 off=0 n=11 m=13 sc=-3.31
+HIT A perm=50987 a=64 off=0 n=11 m=13 sc=-3.79
+HIT A perm=10757 a=67 off=0 n=11 m=12 sc=-2.74
+HIT A perm=11773 a=61 off=0 n=11 m=12 sc=-2.75
+HIT A perm=11773 a=0 off=0 n=11 m=12 sc=-2.76
+
+## NULL5_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=122 n11=391
+HIST A off=1: n10=210 n11=1443
+HIST B off=0: n0=6401736 n1=2345904 n2=641965 n3=3602841 n4=1654154 n5=995696 n6=38489 n7=25344 n8=1519 n9=66 n10=8 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=504174 n3=3647667 n4=2013464 n5=1539470 n6=37341 n7=16715 n8=555 n9=106 n10=31
+perms=96630 alphabets=264 shape=1
+HIT A perm=1679 a=121 off=1 n=11 m=11 sc=-2.86
+HIT A perm=5389 a=130 off=0 n=11 m=11 sc=-3.31
+HIT A perm=3949 a=130 off=0 n=11 m=10 sc=-2.65
+HIT A perm=71471 a=116 off=1 n=11 m=10 sc=-2.79
+HIT A perm=71471 a=117 off=1 n=11 m=10 sc=-2.79
+HIT A perm=923 a=121 off=1 n=11 m=10 sc=-2.86
+HIT A perm=659 a=121 off=1 n=11 m=10 sc=-2.97
+HIT A perm=51359 a=116 off=1 n=11 m=10 sc=-3.14
+HIT A perm=51359 a=117 off=1 n=11 m=10 sc=-3.14
+HIT A perm=89871 a=245 off=0 n=11 m=10 sc=-3.27
+
+## NULL5_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=148 n11=1164
+HIST A off=1: n10=290 n11=832
+HIST B off=0: n0=6401736 n1=2345904 n2=621236 n3=3356690 n4=1524440 n5=901714 n6=39121 n7=21996 n8=1345 n9=151 n10=11
+HIST B off=1: n0=6294288 n1=2498496 n2=488645 n3=3453482 n4=1888043 n5=1277577 n6=38592 n7=16970 n8=1295 n9=186 n10=94 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=50987 a=231 off=0 n=11 m=13 sc=-3.93
+HIT A perm=50949 a=231 off=0 n=11 m=12 sc=-3.78
+HIT A perm=50975 a=231 off=0 n=11 m=12 sc=-3.78
+HIT A perm=50977 a=231 off=0 n=11 m=12 sc=-3.78
+HIT A perm=10757 a=231 off=0 n=11 m=12 sc=-3.86
+HIT A perm=61638 a=138 off=1 n=11 m=12 sc=-3.97
+HIT A perm=71151 a=231 off=0 n=11 m=12 sc=-3.99
+HIT A perm=11773 a=231 off=0 n=11 m=12 sc=-4.18
+HIT A perm=49703 a=231 off=0 n=11 m=12 sc=-4.22
+HIT A perm=91367 a=231 off=0 n=11 m=12 sc=-4.22
+
+## NULL5_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=380 n11=2863
+HIST A off=1: n10=658 n11=2819
+HIST B off=0: n0=6401736 n1=2345904 n2=638143 n3=3562185 n4=1892523 n5=1396686 n6=44847 n7=18568 n8=829 n9=219 n10=28
+HIST B off=1: n0=6294288 n1=2498496 n2=502626 n3=3594885 n4=2046500 n5=1451272 n6=42803 n7=21045 n8=1499 n9=274 n10=166 n11=1
+perms=96630 alphabets=264 shape=3
+HIT A perm=86987 a=37 off=0 n=11 m=13 sc=-3.73
+HIT A perm=50987 a=183 off=0 n=11 m=13 sc=-4.25
+HIT A perm=50987 a=88 off=0 n=11 m=13 sc=-4.35
+HIT A perm=50987 a=7 off=0 n=11 m=13 sc=-4.36
+HIT A perm=50987 a=34 off=0 n=11 m=13 sc=-4.76
+HIT A perm=50987 a=255 off=0 n=11 m=13 sc=-4.97
+HIT A perm=11773 a=7 off=0 n=11 m=12 sc=-3.57
+HIT A perm=86949 a=37 off=0 n=11 m=12 sc=-3.74
+HIT A perm=86975 a=37 off=0 n=11 m=12 sc=-3.74
+HIT A perm=86977 a=37 off=0 n=11 m=12 sc=-3.74
+
+## NULL6_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=16 n11=7231
+HIST A off=1: n11=1889
+HIST B off=0: n0=6401736 n1=2345904 n2=649218 n3=3877859 n4=1511991 n5=524818 n6=23255 n7=5965 n8=1133 n9=4
+HIST B off=1: n0=6294288 n1=2498496 n2=495966 n3=3750722 n4=1998413 n5=1036194 n6=23790 n7=3343 n8=395 n9=32 n10=16
+perms=96630 alphabets=264 shape=0
+HIT A perm=20914 a=65 off=1 n=11 m=16 sc=-2.79
+HIT A perm=20914 a=66 off=1 n=11 m=16 sc=-2.79
+HIT A perm=19662 a=0 off=0 n=11 m=15 sc=-2.76
+HIT A perm=19662 a=2 off=0 n=11 m=15 sc=-2.76
+HIT A perm=19662 a=262 off=0 n=11 m=15 sc=-2.76
+HIT A perm=19662 a=263 off=0 n=11 m=15 sc=-2.76
+HIT A perm=19914 a=0 off=0 n=11 m=15 sc=-2.88
+HIT A perm=19914 a=2 off=0 n=11 m=15 sc=-2.88
+HIT A perm=19914 a=61 off=0 n=11 m=15 sc=-2.92
+HIT A perm=19674 a=0 off=0 n=11 m=15 sc=-2.93
+
+## NULL6_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=824
+HIST A off=1: n11=1694
+HIST B off=0: n0=6401736 n1=2345904 n2=656703 n3=3972774 n4=1699847 n5=763940 n6=23783 n7=13337 n8=861 n9=3
+HIST B off=1: n0=6294288 n1=2498496 n2=500442 n3=3732228 n4=1989297 n5=1110117 n6=27933 n7=5589 n8=538 n9=49 n10=24
+perms=96630 alphabets=264 shape=1
+HIT A perm=89227 a=121 off=1 n=11 m=14 sc=-2.73
+HIT A perm=1959 a=121 off=1 n=11 m=14 sc=-2.78
+HIT A perm=1971 a=121 off=1 n=11 m=14 sc=-2.78
+HIT A perm=37243 a=121 off=1 n=11 m=14 sc=-2.79
+HIT A perm=22354 a=200 off=0 n=11 m=14 sc=-3.02
+HIT A perm=22354 a=201 off=0 n=11 m=14 sc=-3.02
+HIT A perm=22818 a=76 off=0 n=11 m=14 sc=-3.03
+HIT A perm=20662 a=190 off=0 n=11 m=14 sc=-3.05
+HIT A perm=32432 a=245 off=0 n=11 m=14 sc=-3.21
+HIT A perm=32432 a=246 off=0 n=11 m=14 sc=-3.21
+
+## NULL6_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=1439
+HIST A off=1: n10=12 n11=996
+HIST B off=0: n0=6401736 n1=2345904 n2=635172 n3=3700275 n4=1611359 n5=716424 n6=25108 n7=24438 n8=1075 n9=12
+HIST B off=1: n0=6294288 n1=2498496 n2=484973 n3=3522100 n4=1853343 n5=925395 n6=26331 n7=5889 n8=1678 n9=53 n10=344 n11=16
+perms=96630 alphabets=264 shape=2
+HIT A perm=18186 a=231 off=0 n=11 m=15 sc=-4.34
+HIT A perm=19662 a=231 off=0 n=11 m=15 sc=-4.41
+HIT A perm=19674 a=231 off=0 n=11 m=15 sc=-4.61
+HIT A perm=19914 a=231 off=0 n=11 m=15 sc=-4.83
+HIT A perm=19722 a=231 off=0 n=11 m=14 sc=-3.48
+HIT A perm=1959 a=7 off=1 n=11 m=14 sc=-3.63
+HIT A perm=1971 a=7 off=1 n=11 m=14 sc=-3.63
+HIT A perm=89227 a=7 off=1 n=11 m=14 sc=-3.82
+HIT A perm=37243 a=7 off=1 n=11 m=14 sc=-3.92
+HIT A perm=15498 a=231 off=0 n=11 m=14 sc=-4.18
+
+## NULL6_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=6217
+HIST A off=1: n10=40 n11=6618
+HIST B off=0: n0=6401736 n1=2345904 n2=650948 n3=3926564 n4=1947696 n5=1037713 n6=30682 n7=34105 n8=2929 n9=137
+HIST B off=1: n0=6294288 n1=2498496 n2=498906 n3=3672549 n4=2021845 n5=1064070 n6=32052 n7=8837 n8=767 n9=89 n10=136
+perms=96630 alphabets=264 shape=3
+HIT A perm=19662 a=183 off=0 n=11 m=15 sc=-3.46
+HIT A perm=19662 a=34 off=0 n=11 m=15 sc=-3.95
+HIT A perm=19914 a=255 off=0 n=11 m=15 sc=-4.03
+HIT A perm=19662 a=7 off=0 n=11 m=15 sc=-4.17
+HIT A perm=19662 a=255 off=0 n=11 m=15 sc=-4.19
+HIT A perm=19914 a=7 off=0 n=11 m=15 sc=-4.25
+HIT A perm=18186 a=7 off=0 n=11 m=15 sc=-4.29
+HIT A perm=19914 a=183 off=0 n=11 m=15 sc=-4.44
+HIT A perm=19674 a=255 off=0 n=11 m=15 sc=-4.45
+HIT A perm=18186 a=34 off=0 n=11 m=15 sc=-4.48
+
+## NULL7_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=10808
+HIST A off=1: n10=40 n11=2382
+HIST B off=0: n0=6401736 n1=2345904 n2=509547 n3=3482686 n4=1519168 n5=512895 n6=12285 n7=14910 n8=9607 n9=76 n10=2 n11=3
+HIST B off=1: n0=6294288 n1=2498496 n2=495176 n3=3571558 n4=2340024 n5=1561919 n6=14869 n7=17299 n8=4215 n9=43 n10=4
+perms=96630 alphabets=264 shape=0
+HIT A perm=208 a=0 off=0 n=11 m=12 sc=-3.12
+HIT A perm=208 a=2 off=0 n=11 m=12 sc=-3.12
+HIT A perm=208 a=262 off=0 n=11 m=12 sc=-3.12
+HIT A perm=208 a=263 off=0 n=11 m=12 sc=-3.12
+HIT A perm=208 a=67 off=0 n=11 m=12 sc=-3.84
+HIT A perm=208 a=61 off=0 n=11 m=12 sc=-4.27
+HIT A perm=208 a=64 off=0 n=11 m=12 sc=-4.41
+HIT A perm=79914 a=148 off=0 n=11 m=11 sc=-2.65
+HIT A perm=54029 a=0 off=0 n=11 m=11 sc=-2.80
+HIT A perm=54029 a=2 off=0 n=11 m=11 sc=-2.80
+
+## NULL7_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=12 n11=466
+HIST A off=1: n10=36 n11=1938
+HIST B off=0: n0=6401736 n1=2345904 n2=525716 n3=3566982 n4=1804810 n5=943496 n6=14899 n7=34073 n8=12078 n9=108 n10=1 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=500007 n3=3519523 n4=2342383 n5=1703493 n6=16920 n7=41813 n8=796 n9=110 n10=6
+perms=96630 alphabets=264 shape=1
+HIT A perm=31809 a=121 off=1 n=11 m=10 sc=-2.37
+HIT A perm=63203 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=63231 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=63287 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=63329 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=63387 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=63413 a=121 off=1 n=11 m=10 sc=-2.45
+HIT A perm=41889 a=121 off=1 n=11 m=10 sc=-2.48
+HIT A perm=11457 a=116 off=1 n=11 m=10 sc=-2.70
+HIT A perm=11457 a=117 off=1 n=11 m=10 sc=-2.70
+
+## NULL7_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=12 n11=1885
+HIST A off=1: n10=26 n11=1642
+HIST B off=0: n0=6401736 n1=2345904 n2=505204 n3=3327722 n4=1676330 n5=838232 n6=14852 n7=56900 n8=10009 n9=163 n10=1
+HIST B off=1: n0=6294288 n1=2498496 n2=484427 n3=3344521 n4=2154854 n5=1397181 n6=16217 n7=68169 n8=946 n9=111 n10=2 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=208 a=231 off=0 n=11 m=12 sc=-3.77
+HIT A perm=54029 a=231 off=0 n=11 m=11 sc=-4.01
+HIT A perm=84173 a=231 off=0 n=11 m=11 sc=-4.01
+HIT A perm=106 a=231 off=0 n=11 m=11 sc=-4.21
+HIT A perm=86 a=231 off=0 n=11 m=11 sc=-5.60
+HIT A perm=41889 a=7 off=1 n=11 m=10 sc=-2.83
+HIT A perm=31809 a=7 off=1 n=11 m=10 sc=-2.91
+HIT A perm=63203 a=7 off=1 n=11 m=10 sc=-3.19
+HIT A perm=63231 a=7 off=1 n=11 m=10 sc=-3.19
+HIT A perm=63287 a=7 off=1 n=11 m=10 sc=-3.19
+
+## NULL7_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=8577
+HIST A off=1: n10=102 n11=8467
+HIST B off=0: n0=6401736 n1=2345904 n2=514441 n3=3519173 n4=2097075 n5=1329873 n6=18468 n7=73824 n8=27189 n9=281 n10=3
+HIST B off=1: n0=6294288 n1=2498496 n2=498396 n3=3469165 n4=2331596 n5=1592862 n6=20263 n7=88068 n8=2798 n9=214 n10=11
+perms=96630 alphabets=264 shape=3
+HIT A perm=208 a=255 off=0 n=11 m=12 sc=-4.02
+HIT A perm=208 a=183 off=0 n=11 m=12 sc=-4.21
+HIT A perm=208 a=7 off=0 n=11 m=12 sc=-4.45
+HIT A perm=208 a=34 off=0 n=11 m=12 sc=-4.47
+HIT A perm=208 a=88 off=0 n=11 m=12 sc=-5.57
+HIT A perm=76938 a=93 off=0 n=11 m=11 sc=-3.42
+HIT A perm=106 a=183 off=0 n=11 m=11 sc=-3.44
+HIT A perm=54029 a=255 off=0 n=11 m=11 sc=-3.48
+HIT A perm=84173 a=255 off=0 n=11 m=11 sc=-3.48
+HIT A perm=86 a=255 off=0 n=11 m=11 sc=-3.58
+
+## NULL8_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=92 n11=4465
+HIST A off=1: n10=212 n11=715
+HIST B off=0: n0=6401736 n1=2345904 n2=616403 n3=3820495 n4=1298893 n5=349484 n6=41425 n7=18860 n8=3580 n9=174 n10=119 n11=2
+HIST B off=1: n0=6294288 n1=2498496 n2=482029 n3=3955742 n4=2710372 n5=1579653 n6=40049 n7=18363 n8=9141 n9=130 n10=23
+perms=96630 alphabets=264 shape=0
+HIT A perm=45213 a=0 off=0 n=11 m=12 sc=-3.07
+HIT A perm=45213 a=2 off=0 n=11 m=12 sc=-3.07
+HIT A perm=45213 a=262 off=0 n=11 m=12 sc=-3.07
+HIT A perm=45213 a=263 off=0 n=11 m=12 sc=-3.07
+HIT A perm=45285 a=0 off=0 n=11 m=12 sc=-3.13
+HIT A perm=45285 a=2 off=0 n=11 m=12 sc=-3.13
+HIT A perm=45285 a=262 off=0 n=11 m=12 sc=-3.13
+HIT A perm=45285 a=263 off=0 n=11 m=12 sc=-3.13
+HIT A perm=65397 a=0 off=0 n=11 m=12 sc=-3.13
+HIT A perm=65397 a=2 off=0 n=11 m=12 sc=-3.13
+
+## NULL8_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=40 n11=252
+HIST A off=1: n10=244 n11=796
+HIST B off=0: n0=6401736 n1=2345904 n2=622643 n3=3907334 n4=1448632 n5=438679 n6=42299 n7=30367 n8=3519 n9=285 n10=47 n11=3
+HIST B off=1: n0=6294288 n1=2498496 n2=484630 n3=3881046 n4=2691053 n5=1668718 n6=40364 n7=34196 n8=8945 n9=160 n10=86
+perms=96630 alphabets=264 shape=1
+HIT A perm=92792 a=121 off=1 n=11 m=11 sc=-2.47
+HIT A perm=8119 a=44 off=1 n=11 m=11 sc=-2.69
+HIT A perm=8119 a=45 off=1 n=11 m=11 sc=-2.69
+HIT A perm=92897 a=121 off=1 n=11 m=10 sc=-3.24
+HIT A perm=11267 a=245 off=0 n=11 m=10 sc=-3.60
+HIT A perm=11267 a=246 off=0 n=11 m=10 sc=-3.60
+HIT A perm=11295 a=245 off=0 n=11 m=10 sc=-3.60
+HIT A perm=11295 a=246 off=0 n=11 m=10 sc=-3.60
+HIT A perm=214 a=121 off=1 n=11 m=9 sc=-2.58
+HIT A perm=8415 a=121 off=1 n=11 m=9 sc=-2.63
+
+## NULL8_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=42 n11=930
+HIST A off=1: n10=268 n11=573
+HIST B off=0: n0=6401736 n1=2345904 n2=603255 n3=3643960 n4=1381746 n5=405312 n6=45275 n7=46487 n8=4982 n9=215 n10=59 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=470016 n3=3684915 n4=2478022 n5=1387502 n6=42892 n7=54053 n8=7567 n9=134 n10=322 n11=1
+perms=96630 alphabets=264 shape=2
+HIT A perm=45285 a=231 off=0 n=11 m=12 sc=-4.55
+HIT A perm=65397 a=231 off=0 n=11 m=12 sc=-4.55
+HIT A perm=45213 a=231 off=0 n=11 m=12 sc=-4.66
+HIT A perm=45201 a=231 off=0 n=11 m=12 sc=-4.85
+HIT A perm=92792 a=7 off=1 n=11 m=11 sc=-3.18
+HIT A perm=9375 a=231 off=0 n=11 m=11 sc=-4.07
+HIT A perm=45333 a=231 off=0 n=11 m=11 sc=-4.36
+HIT A perm=75477 a=231 off=0 n=11 m=11 sc=-4.36
+HIT A perm=68481 a=231 off=0 n=11 m=11 sc=-4.40
+HIT A perm=45283 a=231 off=0 n=11 m=11 sc=-4.54
+
+## NULL8_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=124 n11=3809
+HIST A off=1: n10=716 n11=2574
+HIST B off=0: n0=6401736 n1=2345904 n2=616908 n3=3861931 n4=1670315 n5=540607 n6=49609 n7=57081 n8=4418 n9=284 n10=114 n11=10
+HIST B off=1: n0=6294288 n1=2498496 n2=483308 n3=3831663 n4=2692326 n5=1584339 n6=49470 n7=68656 n8=19271 n9=192 n10=238
+perms=96630 alphabets=264 shape=3
+HIT A perm=45285 a=34 off=0 n=11 m=12 sc=-3.78
+HIT A perm=65397 a=34 off=0 n=11 m=12 sc=-3.78
+HIT A perm=45213 a=34 off=0 n=11 m=12 sc=-3.97
+HIT A perm=45213 a=255 off=0 n=11 m=12 sc=-4.05
+HIT A perm=45201 a=34 off=0 n=11 m=12 sc=-4.06
+HIT A perm=91793 a=73 off=0 n=11 m=12 sc=-4.17
+HIT A perm=45201 a=255 off=0 n=11 m=12 sc=-4.35
+HIT A perm=45285 a=255 off=0 n=11 m=12 sc=-4.35
+HIT A perm=65397 a=255 off=0 n=11 m=12 sc=-4.35
+HIT A perm=45213 a=183 off=0 n=11 m=12 sc=-4.46
+
+## NULL9_s0.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=4082
+HIST A off=1: n10=6 n11=1395
+HIST B off=0: n0=6401736 n1=2345904 n2=644343 n3=3719545 n4=1383687 n5=473357 n6=27612 n7=12970 n8=2939 n9=225 n10=139 n11=7
+HIST B off=1: n0=6294288 n1=2498496 n2=495227 n3=3629139 n4=2302184 n5=1397956 n6=27829 n7=6647 n8=1285 n9=71 n10=9
+perms=96630 alphabets=264 shape=0
+HIT A perm=10795 a=119 off=1 n=11 m=13 sc=-2.73
+HIT A perm=10795 a=120 off=1 n=11 m=13 sc=-2.73
+HIT A perm=10807 a=119 off=1 n=11 m=13 sc=-2.73
+HIT A perm=10807 a=120 off=1 n=11 m=13 sc=-2.73
+HIT A perm=10555 a=119 off=1 n=11 m=13 sc=-2.86
+HIT A perm=10555 a=120 off=1 n=11 m=13 sc=-2.86
+HIT A perm=10567 a=119 off=1 n=11 m=13 sc=-2.86
+HIT A perm=10567 a=120 off=1 n=11 m=13 sc=-2.86
+HIT A perm=473 a=67 off=0 n=11 m=11 sc=-2.80
+HIT A perm=6187 a=0 off=0 n=11 m=11 sc=-2.90
+
+## NULL9_s1.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n11=1066
+HIST A off=1: n10=10 n11=1822
+HIST B off=0: n0=6401736 n1=2345904 n2=651942 n3=3805100 n4=1562641 n5=676225 n6=29609 n7=24153 n8=3641 n9=196 n10=70 n11=5
+HIST B off=1: n0=6294288 n1=2498496 n2=499671 n3=3591495 n4=2357957 n5=1515971 n6=30661 n7=9682 n8=929 n9=96 n10=25 n11=3
+perms=96630 alphabets=264 shape=1
+HIT A perm=10555 a=121 off=1 n=11 m=13 sc=-2.81
+HIT A perm=10567 a=121 off=1 n=11 m=13 sc=-2.81
+HIT A perm=10795 a=121 off=1 n=11 m=13 sc=-2.84
+HIT A perm=10807 a=121 off=1 n=11 m=13 sc=-2.84
+HIT A perm=69391 a=121 off=1 n=11 m=11 sc=-2.82
+HIT A perm=69393 a=121 off=1 n=11 m=11 sc=-2.82
+HIT A perm=69271 a=121 off=1 n=11 m=11 sc=-3.11
+HIT A perm=69273 a=121 off=1 n=11 m=11 sc=-3.11
+HIT A perm=3206 a=38 off=0 n=11 m=11 sc=-3.60
+HIT A perm=3206 a=39 off=0 n=11 m=11 sc=-3.60
+
+## NULL9_s2.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=6 n11=1201
+HIST A off=1: n10=12 n11=874
+HIST B off=0: n0=6401736 n1=2345904 n2=630551 n3=3564811 n4=1468762 n5=652114 n6=30401 n7=38911 n8=5170 n9=292 n10=105 n11=1
+HIST B off=1: n0=6294288 n1=2498496 n2=484222 n3=3410476 n4=2116021 n5=1244583 n6=29554 n7=12305 n8=2402 n9=145 n10=37 n11=9
+perms=96630 alphabets=264 shape=2
+HIT A perm=10555 a=7 off=1 n=11 m=13 sc=-3.32
+HIT A perm=10567 a=7 off=1 n=11 m=13 sc=-3.32
+HIT A perm=10795 a=7 off=1 n=11 m=13 sc=-3.52
+HIT A perm=10807 a=7 off=1 n=11 m=13 sc=-3.52
+HIT A perm=69391 a=7 off=1 n=11 m=11 sc=-3.32
+HIT A perm=69393 a=7 off=1 n=11 m=11 sc=-3.32
+HIT A perm=69271 a=7 off=1 n=11 m=11 sc=-3.59
+HIT A perm=69273 a=7 off=1 n=11 m=11 sc=-3.59
+HIT A perm=6427 a=231 off=0 n=11 m=11 sc=-3.63
+HIT A perm=9355 a=231 off=0 n=11 m=11 sc=-3.63
+
+## NULL9_s3.out
+HIST direct off=0:
+HIST direct off=1:
+HIST A off=0: n10=8 n11=4026
+HIST A off=1: n10=54 n11=4764
+HIST B off=0: n0=6401736 n1=2345904 n2=646231 n3=3763223 n4=1793538 n5=961236 n6=35256 n7=50480 n8=3757 n9=461 n10=104 n11=5
+HIST B off=1: n0=6294288 n1=2498496 n2=498155 n3=3533389 n4=2276909 n5=1421217 n6=33248 n7=15419 n8=2045 n9=248 n10=77 n11=24
+perms=96630 alphabets=264 shape=3
+HIT A perm=10555 a=55 off=1 n=11 m=13 sc=-3.70
+HIT A perm=10567 a=55 off=1 n=11 m=13 sc=-3.70
+HIT A perm=10795 a=7 off=1 n=11 m=13 sc=-3.82
+HIT A perm=10807 a=7 off=1 n=11 m=13 sc=-3.82
+HIT A perm=10795 a=70 off=1 n=11 m=13 sc=-3.90
+HIT A perm=10807 a=70 off=1 n=11 m=13 sc=-3.90
+HIT A perm=10795 a=184 off=1 n=11 m=13 sc=-3.93
+HIT A perm=10807 a=184 off=1 n=11 m=13 sc=-3.93
+HIT A perm=10555 a=7 off=1 n=11 m=13 sc=-3.96
+HIT A perm=10567 a=7 off=1 n=11 m=13 sc=-3.96
