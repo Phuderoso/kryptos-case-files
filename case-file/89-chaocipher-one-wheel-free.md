@@ -39,3 +39,15 @@ K4's conflict distribution matches the shuffled nulls and the random baseline: n
 | Chaocipher, then transposition, arbitrary output wheel | open (the transposition scrambles the *k*-driving input; needs the cycle 14 `ta` loop) |
 
 Limits stated plainly: "keyed alphabet" means the constructions listed; K3-style grids of alphabets, two-word keys, and Chaocipher variants with other pluck positions were not tested.
+
+## Cycle 95 addendum: other wheel-moving rules
+The lemma needs only that a wheel's move depends on the index *k*, not on the letters. So I generalized the move: rotate so index *k*+*o* is at the zenith, pluck the letter at position *p*, re-insert it at position *q*, with *o* ∈ {0, 1, 2}, *p* ∈ 1–5, *q* ∈ {12, 13, 14}. That gives 45 rules per wheel and 2,025 (input, output) pairs. Rubin's Chaocipher is the pair (0, 1, 13) / (1, 2, 13). Enumerating both rules also covers both directions, because the input wheel is simply the one the carved letters are found in. Tool: `tools/cycle95/chaogen.c`, controls in `tools/cycle95/ctl95.py` (which also re-checks Rubin's test vector).
+
+| Test | Runs | Result |
+|---|---|---|
+| Planted controls: 3 non-Rubin rule pairs, themed input wheel, random output wheel | 3 × 4.2 × 10⁷ | 3/3 recovered, each the only run that met even the 13 equalities |
+| K4, 20,946 themed input wheels × 2,025 rule pairs | 4.2 × 10⁷ | **0** (not even the 13 equalities) |
+| K4, 86,731 keyed input wheels × 2,025 rule pairs | 1.8 × 10⁸ | **0** |
+| 2 shuffled-K4 nulls, themed wheels | 2 × 4.2 × 10⁷ | 0 |
+
+**Verdict:** this generalized Chaocipher family (the rule grid above, keyed or themed input wheel, any output wheel) is **excluded**. Still open: rules outside the grid (two plucks per step, moves that depend on the letter itself, a Kryptos-tableau slide), word-keyed input wheels × the rule grid (≈ 3.6 × 10⁹ runs, about 40 minutes, checkpointable), and both wheels arbitrary.
