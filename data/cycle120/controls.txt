@@ -1,0 +1,6 @@
+# Cycle 120 planted controls (q1crib120)
+# clean QIII vig p=5 key=KRYPT alphabet=KRYPTOS, identity: TOTAL_STRICT=2 TOTAL_SOFT=2 TOTAL_SOFT_ONLY=0 PASS
+# clean QIII vig p=5 key=KRYPT alphabet=KRYPTOS, bank perm 1000: TOTAL_STRICT=1 TOTAL_SOFT=1 PASS
+# same + flip crib index 3 in CT: TOTAL_STRICT=0 TOTAL_SOFT=1 TOTAL_SOFT_ONLY=1 drop=3 key=KRYPT PASS
+# clean Beaufort p=4 key=FIRE alphabet=A-Z identity: TOTAL_STRICT=2 TOTAL_SOFT=2 PASS
+CONTROLS_PASS 4/4

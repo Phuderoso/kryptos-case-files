@@ -1,0 +1,32 @@
+=== CONTROLS ===
+clean_ident strict=2 soft=2 PASS=True 0.01s
+clean_perm strict=1 soft=1 PASS=True 0.02s
+flip_perm strict=0 soft=1 soft_only=1 PASS=True 0.02s
+  SOFT_ONLY t=0 a=1 pair=QIII vig idx=pt p=5 drop=3 key=KRYPT
+beau_ident strict=2 soft=2 PASS=True 0.01s
+=== NULLS bank M=2 ===
+null0 M2 strict=0 soft_only=0 0.87s
+null1 M2 strict=0 soft_only=0 0.85s
+null2 M2 strict=0 soft_only=0 0.84s
+null3 M2 strict=0 soft_only=0 0.82s
+null4 M2 strict=0 soft_only=0 0.83s
+=== NULLS identity M=264 ===
+null0 ident strict=0 soft_only=0 0.01s
+null1 ident strict=0 soft_only=0 0.01s
+null2 ident strict=0 soft_only=0 0.01s
+null3 ident strict=0 soft_only=0 0.01s
+null4 ident strict=0 soft_only=0 0.01s
+=== NULLS bank M=264 (main) ===
+null0 M264 strict=0 soft=0 soft_only=0 147.91s
+null1 M264 strict=0 soft=0 soft_only=0 151.45s
+null2 M264 strict=0 soft=0 soft_only=0 145.12s
+null3 M264 strict=0 soft=1 soft_only=1 153.79s
+null4 M264 strict=0 soft=0 soft_only=0 154.53s
+=== SUMMARY ===
+K4 ident M264: strict=0 soft_only=0
+K4 bank M2: strict=0 soft_only=0
+K4 bank M264: strict=0 soft=0 soft_only=0
+nulls M264 soft_only=[0, 0, 0, 1, 0]
+nulls M264 strict=[0, 0, 0, 0, 0]
+controls_pass=True 4/4
+total_wall_driver_sec=757.3
