@@ -1,0 +1,113 @@
+{
+ "by_text_period": {
+  "K4 p=4": {
+   "sat": 0,
+   "unsat": 12,
+   "unfinished": 0
+  },
+  "K4 p=5": {
+   "sat": 0,
+   "unsat": 12,
+   "unfinished": 0
+  },
+  "K4 p=6": {
+   "sat": 0,
+   "unsat": 12,
+   "unfinished": 0
+  },
+  "K4 p=7": {
+   "sat": 0,
+   "unsat": 1,
+   "unfinished": 0
+  },
+  "ctl0 p=4": {
+   "sat": 1,
+   "unsat": 0,
+   "unfinished": 0
+  },
+  "ctl1 p=5": {
+   "sat": 1,
+   "unsat": 0,
+   "unfinished": 0
+  },
+  "ctl2 p=6": {
+   "sat": 1,
+   "unsat": 0,
+   "unfinished": 0
+  },
+  "ctl3 p=6": {
+   "sat": 1,
+   "unsat": 0,
+   "unfinished": 0
+  },
+  "null0 p=6": {
+   "sat": 0,
+   "unsat": 1,
+   "unfinished": 1
+  },
+  "null1 p=6": {
+   "sat": 0,
+   "unsat": 2,
+   "unfinished": 0
+  }
+ },
+ "controls": [
+  {
+   "control": "ctl2",
+   "p": 6,
+   "tab": "KA",
+   "mode": 2,
+   "a": 1,
+   "planted_key": "NWZWBQ",
+   "witness_key": "NWZWBQ",
+   "key_recovered": true,
+   "cribs_ok": 24,
+   "letters_matching_planted": 89,
+   "witness_square": "EUBHRZSKQXALGWJFTOYPIMDNC",
+   "witness_decryption": "POSSIHSETHEYUSEDTHEEAEASTNORTHEASTIELDXTHEINFORMATIONKAGAATHEREBERLINCLOCKTTEDUNDERWRUXNDTOADUNGN"
+  },
+  {
+   "control": "ctl3",
+   "p": 6,
+   "tab": "AZ",
+   "mode": 0,
+   "a": 0,
+   "planted_key": "EIKJXW",
+   "witness_key": "EIKJXW",
+   "key_recovered": true,
+   "cribs_ok": 24,
+   "letters_matching_planted": 69,
+   "witness_square": "EDOPTUZAFNIVYHSGQBWKJRLMC",
+   "witness_decryption": "IRGZTPUTTHERESOQEFHEREASTNORTHEASTEMACTLOCATIONONLYFFTVYSFASVYSBERLINCLOCKMTVYRTYEYSHTTORPEMSWVWT"
+  },
+  {
+   "control": "ctl1",
+   "p": 5,
+   "tab": "AZ",
+   "mode": 1,
+   "a": 1,
+   "planted_key": "RXEFM",
+   "witness_key": "RXEFM",
+   "key_recovered": true,
+   "cribs_ok": 24,
+   "letters_matching_planted": 71,
+   "witness_square": "EHTMPDQJNBOXIAVWZFKUCRYSL",
+   "witness_decryption": "UNKNOWNRDCAPXONUDOESLEASTNORTHEASTZTUBFSTHEYSTOQZDITSQIPZEDOFTUBERLINCLOCKLEUWPOKNOWSTHEUZNCTRDCA"
+  },
+  {
+   "control": "ctl0",
+   "p": 4,
+   "tab": "KA",
+   "mode": 0,
+   "a": 0,
+   "planted_key": "IVWB",
+   "witness_key": "IVWB",
+   "key_recovered": true,
+   "cribs_ok": 24,
+   "letters_matching_planted": 87,
+   "witness_square": "ECSHYWJQBKURATVGPXFOMIDLN",
+   "witness_decryption": "GHEREQGHOKNOGSTHEQXACEASTNORTHEASTGXTHISGASHISLASTMUSXAWEQTHIRTBERLINCLOCKESFIFTYSEVENMINUTESXIXP"
+  }
+ ],
+ "total_solver_seconds": 960.6
+}
