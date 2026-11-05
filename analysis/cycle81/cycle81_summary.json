@@ -1,0 +1,62 @@
+{
+ "k4_behind_perms_L1_4": [
+  0,
+  11912979483
+ ],
+ "k4_L5_perms_0_19999": [
+  0,
+  36529747488
+ ],
+ "nulls_behind_perms_L4": {
+  "null0": [
+   0,
+   11484123248
+  ],
+  "null1": [
+   0,
+   11475844952
+  ],
+  "null2": [
+   0,
+   11589649552
+  ],
+  "null3": [
+   0,
+   11700431080
+  ],
+  "null4": [
+   0,
+   11662132976
+  ]
+ },
+ "controls": [
+  {
+   "ctl": 0,
+   "name": "L4_fib4_KA_Vig",
+   "hits": 1,
+   "planted_found": true,
+   "decrypt_34_96": "ECONDSNORTHSEVENTYSEVENDEGREEBERLINCLOCKESFORTYFOURSECONDSWESTI"
+  },
+  {
+   "ctl": 1,
+   "name": "L4_AZ_Beau_affine",
+   "hits": 1,
+   "planted_found": true,
+   "decrypt_34_96": "TLIESTHENUANCEOFIQLUSIONKASCABERLINCLOCKTALLYINVISIBLEHOWSTHATP"
+  },
+  {
+   "ctl": 2,
+   "name": "L4_KA_Beau",
+   "hits": 4,
+   "planted_found": true,
+   "decrypt_34_96": "ISLASTMESSAGEXTHIRTYEIGHTDEGRBERLINCLOCKENMINUTESSIXPOINTFIVESE"
+  },
+  {
+   "ctl": 3,
+   "name": "L5_direct_AZ_Vig",
+   "hits": 27,
+   "planted_found": true,
+   "decrypt_34_96": "RTEDTHECANDLEANDPEEREDINTHEHOBERLINCLOCKGFROMTHECHAMBERCAUSEDTH"
+  }
+ ]
+}

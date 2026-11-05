@@ -1,0 +1,67 @@
+[
+ {
+  "ctl": 0,
+  "name": "L4_fib4_KA_Vig",
+  "ct": "CHZHAZDVNKNWQZZSMIYZAOLSDMNEWNXDRCIOHIJGQVCHNJRQSRACIDNJKDRCVLBOYGCFFTMCBDJATIHKLFVQNAJPPLOTGCTQE",
+  "perm": 1180,
+  "tab": "KA",
+  "mode": "Vig",
+  "c": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "d": 0,
+  "L": 4
+ },
+ {
+  "ctl": 1,
+  "name": "L4_AZ_Beau_affine",
+  "ct": "ETULHSNZZUFPYPRHKKJDKNKXACUHRFUWXANEQKDHLEMUHXKTUWLHFGRBNOKTFEGWMTCNYEGPSIDAZDJRFXPUULJRVUQMPUKFL",
+  "perm": 158827,
+  "tab": "AZ",
+  "mode": "Beau",
+  "c": [
+   2,
+   9,
+   1,
+   17
+  ],
+  "d": 11,
+  "L": 4
+ },
+ {
+  "ctl": 2,
+  "name": "L4_KA_Beau",
+  "ct": "ELWAIYCIAYJXRXEJGVDETGAVBECYKZPYEIBNNWXUGYYXOSPOKSXPGQSLLLUAUXLEJJXZIZXMDEOJKGUGRBZVTSCYDBYFTOVSM",
+  "perm": 141209,
+  "tab": "KA",
+  "mode": "Beau",
+  "c": [
+   7,
+   0,
+   3,
+   5
+  ],
+  "d": 0,
+  "L": 4
+ },
+ {
+  "ctl": 3,
+  "name": "L5_direct_AZ_Vig",
+  "ct": "BIHCNOORMHYXKUPIFKMOLWFMUVJOIYUVBHGBKOUHUCMLGONUTSVYIAQIQMAYZTPSGMXYGTPQSOAAAPYZAASXHEIWIXDNWBGXO",
+  "perm": 0,
+  "tab": "AZ",
+  "mode": "Vig",
+  "c": [
+   4,
+   6,
+   1,
+   22,
+   9
+  ],
+  "d": 3,
+  "L": 5
+ }
+]
