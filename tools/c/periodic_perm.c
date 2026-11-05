@@ -1,4 +1,4 @@
-/* Cycle 13: transposition undone, then a PERIODIC key of any letters (generic, not a word list).
+/* Cycle 13 (fixed cycle 57: perm entries of -1 = omitted letter are now skipped; before, CT[-1] was read): transposition undone, then a PERIODIC key of any letters (generic, not a word list).
    For each transposition t (perm[j] = carved index paired with PT position j; only crib positions used),
    alphabet pair (PA,CA) in {(a,a) Quagmire III, (AZ,a) Quagmire II, (a,AZ) Quagmire I} over the first M alphabets,
    mode vig (k = C-P, also covers variant Beaufort) or beau (k = C+P), key index by PT position j (substitute,
@@ -26,10 +26,10 @@ int main(int argc,char**argv){
       for(long a=0;a<M;a++) for(int pr=0;pr<3;pr++){
         const unsigned char*ip=INV+(pr==1?0:a)*26, *ic=INV+(pr==2?0:a)*26;   /* alphabet 0 = AZ */
         if(pr&&a==0) continue;
-        int Pv[24],Cv[24]; for(int i=0;i<24;i++){Pv[i]=ip[PT[i]-65]; Cv[i]=ic[CT[tc[i]]-65];}
+        int Pv[24],Cv[24]; for(int i=0;i<24;i++){Pv[i]=ip[PT[i]-65]; Cv[i]= tc[i]<0? 0 : ic[CT[tc[i]]-65];}
         for(int m=0;m<2;m++){ int kv[24]; for(int i=0;i<24;i++) kv[i]=m?(Cv[i]+Pv[i])%26:(Cv[i]-Pv[i]+26)%26;
           for(int ix=0;ix<2;ix++) for(int per=1;per<=PMAX;per++){ int key[64]; memset(key,-1,sizeof key); int ok=1;
-            for(int i=0;i<24&&ok;i++){ int r=(ix?tc[i]:CI[i])%per; if(key[r]<0) key[r]=kv[i]; else if(key[r]!=kv[i]) ok=0;}
+            for(int i=0;i<24&&ok;i++){ if(tc[i]<0) continue; int r=(ix?tc[i]:CI[i])%per; if(key[r]<0) key[r]=kv[i]; else if(key[r]!=kv[i]) ok=0;}
             if(!ok) continue; h[per]++;
             #pragma omp critical
             { printf("HIT t=%ld a=%ld pair=%s %s idx=%s p=%d key=",t,a,pr==0?"QIII":pr==1?"QII(AZ,a)":"QI(a,AZ)",
