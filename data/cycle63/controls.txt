@@ -1,0 +1,5 @@
+sctl0: alpha 0 ?start null end inverse 0 case A vig p=7 key [14, 14, 9, 8, 15, 21, 2] L cols ['7352461', '4715236', '3624715', '2461573', '6147352', '5236147', '1573624']
+sctl1: alpha 1 ?end null start inverse 1 case B beau p=5 key [19, 0, 12, 14, 1] L cols ['6435712', '1352647', '5761324', '3276451', '7143265', '4527136', '2614573']
+sctl2: alpha 2 ?end null end inverse 0 case B var p=4 key [11, 6, 12, 24] L cols ['4251763', '1473625', '3165247', '6712354', '7546132', '2634571', '5327416']
+sctl3: alpha 3 ?None null None inverse 0 case A beau p=6 key [20, 5, 25, 12, 9, 25] L cols ['4671352', '3415726', '5164237', '2543671', '1726543', '6237415', '7352164']
+sctl4: alpha 4 ?start null start inverse 1 case A var p=3 key [5, 7, 21] L cols ['1465723', '3672514', '5136472', '4751236', '7214365', '2347651', '6523147']
