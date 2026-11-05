@@ -1,0 +1,1302 @@
+# Cycle 64 raw summaries (SUMMARY and per-L consistency lines; HIT lines with L<=13 in full; L=22 hits deduplicated in the case file)
+## run=single K4
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+## run=single NULL0
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+## run=single NULL1
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+## run=single CTL1
+HIT w=LANTERN inv=0 tab=W model=A mode=V L=4 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=LANTERN inv=0 tab=W model=A mode=V L=8 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=LANTERN inv=0 tab=W model=A mode=V L=12 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-4.086
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=A mode=V byL 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 1
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+## run=single CTL2
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+HIT w=UNDERGROUND inv=1 tab=W model=B mode=B L=7 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-4.086
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+## run=single CTL3
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIT w=PERIMETER inv=0 tab=W model=B mode=V L=8 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-4.086
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 4
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+## run=single CTL4
+HIT w=COCKTAIL inv=1 tab=K model=A mode=V L=7 free=0 score=-5.315 pt=ERWITHTHEGRERDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWWEWALKEDTOWAATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+HIT w=CUCUMBER inv=1 tab=K model=A mode=V L=7 free=0 score=-5.873 pt=ERWITHTHEGRERDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=LUMBROUS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.362 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-5.315
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2
+HIT w=DODONEAN inv=1 tab=K model=A mode=V L=7 free=0 score=-6.350 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=FUMEWORT inv=1 tab=K model=A mode=V L=7 free=0 score=-5.664 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCQOIFDSEEBJYZATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-5.664
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=K model=A mode=V byL 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIT w=CODOMAIN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.873 pt=ERWITHTHEGRERDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=CUMBROUS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.362 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=DODONIAN inv=1 tab=K model=A mode=V L=7 free=0 score=-6.350 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=DOLLYMAN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.535 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOERWITHTHEGREATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+HIT w=JUJUISMS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.711 pt=BCZSJSKNFSAZRDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWERWITHTHEGREATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=LUNGWORT inv=1 tab=K model=A mode=V L=7 free=0 score=-5.664 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCQOIFDSEEBJYZATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-5.362
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+tab=K model=A mode=V byL 0 0 0 0 0 0 6 0 0 0 0 0 0 6 0 0 0 0 0 0 6 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+HIT w=FULMARUS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.233 pt=BCZSJSKNFSAZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=GRIZELIN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.711 pt=BCZSJSKNFSAZRDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWERWITHTHEGREATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=GUMWOODS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.074 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-5.074
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0 0 0 0 0 0 3 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+HIT w=JUMPSUIT inv=1 tab=K model=A mode=V L=7 free=0 score=-6.281 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIDKVHPGDGDFKD
+HIT w=LUMMOXES inv=1 tab=K model=A mode=V L=7 free=0 score=-6.281 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIDKVHPGDGDFKD
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-6.281
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=A mode=V byL 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+HIT w=BUCKSAWS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.326 pt=ERWITHTHEGRERDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=FOILSMAN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.535 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOERWITHTHEGREATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+HIT w=FRIULIAN inv=1 tab=K model=A mode=V L=7 free=0 score=-6.350 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=GUIPURES inv=1 tab=K model=A mode=V L=7 free=0 score=-5.535 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOERWITHTHEGREATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+HIT w=HUMDRUMS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.839 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIDKVHPGDGDFKD
+HIT w=LUMINOUS inv=1 tab=K model=A mode=V L=7 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-4.086
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 6 0 0 0 0 0 0 6 0 0 0 0 0 0 6 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+HIT w=PURSUERS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.315 pt=ERWITHTHEGRERDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWWEWALKEDTOWAATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+HIT w=BUGGYMAN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.535 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOERWITHTHEGREATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+HIT w=CODIAEUM inv=1 tab=K model=A mode=V L=7 free=0 score=-5.513 pt=BCZSJSKNFSAZRDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCWEWALKEDTOWAATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=CUCURBIT inv=1 tab=K model=A mode=V L=7 free=0 score=-5.873 pt=ERWITHTHEGRERDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=FOILSMEN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.535 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDUCUOIOJBYPUOERWITHTHEGREATBERLINCLOCKABOVEUSALLIABXOIOSMEOSX
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-5.315
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+tab=K model=A mode=V byL 0 0 0 0 0 0 5 0 0 0 0 0 0 5 0 0 0 0 0 0 5 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 3
+HIT w=BOETHIAN inv=1 tab=K model=A mode=V L=7 free=0 score=-5.074 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLIVDVSJZLCPTVS
+HIT w=ETEOCLUS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.513 pt=BCZSJSKNFSAZRDTHEHILLEASTNORTHEASTANDCZUGYNCFCEZCWEWALKEDTOWAATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=FULCRUMS inv=1 tab=K model=A mode=V L=7 free=0 score=-5.839 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDMPGDBEJCSHKWBCZSJSKNFSAZATBERLINCLOCKABOVEUSALLIDKVHPGDGDFKD
+HIT w=GUNPOWER inv=1 tab=K model=A mode=V L=7 free=0 score=-5.334 pt=QOIFDSEEBJYZRDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWWEWALKEDTOWAATBERLINCLOCKABOVEUSALLIDKVHPGDGDFKD
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-5.074
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=A mode=V byL 0 0 0 0 0 0 4 0 0 0 0 0 0 4 0 0 0 0 0 0 4 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+## run=D_K4
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+## run=D_NULL0
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-7.061
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+## run=D_NULL1
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-6.899
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+## run=D_DCTL1
+HIT w=LANTERN inv=1 tab=W model=B mode=B L=4 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=LANTERN inv=1 tab=W model=B mode=B L=8 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=LANTERN inv=1 tab=W model=B mode=B L=12 free=1 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-4.086
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-7.228
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-7.158
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+## run=D_DCTL2
+SUMMARY part=0 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=1 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=2 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=3 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=4 words=45898 tests=28273168 best_qg=-99.000
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=5 words=45898 tests=28273168 best_qg=-7.143
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SUMMARY part=6 words=45898 tests=28273168 best_qg=-7.220
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+tab=W model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIT w=CHAMBER inv=0 tab=W model=A mode=V L=6 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+HIT w=CHAMBER inv=0 tab=W model=A mode=V L=12 free=0 score=-4.086 pt=WEWALKEDTOWARDTHEHILLEASTNORTHEASTANDSAWTHEOLDTOWERWITHTHEGREATBERLINCLOCKABOVEUSALLINTHECOLDAIRX
+SUMMARY part=7 words=45898 tests=28273168 best_qg=-4.086
+tab=A model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=A model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=K model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=A mode=V byL 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 1 0 0 1 0
+tab=W model=A mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=V byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tab=W model=B mode=B byL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
