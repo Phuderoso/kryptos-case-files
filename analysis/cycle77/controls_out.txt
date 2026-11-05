@@ -1,0 +1,94 @@
+### out_ctl_0 (coord77 on the 5,000-permutation window around the planted permutation; HIT lines = consistent configs with >= 6 checks)
+HIT perm=139239 alph=0 mode=0 model=A w=8 o=0 checks=11
+HIST model=A 2820000 27182 2265 48 64 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIST model=B 3795340 134474 4705 154 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### out_ctl_1 (coord77 on the 5,000-permutation window around the planted permutation; HIT lines = consistent configs with >= 6 checks)
+HIT perm=122367 alph=1 mode=1 model=A w=7 o=3 checks=13
+HIT perm=122367 alph=1 mode=1 model=A w=14 o=3 checks=9
+HIT perm=122367 alph=1 mode=1 model=A w=21 o=17 checks=9
+HIT perm=122367 alph=1 mode=1 model=A w=42 o=17 checks=9
+HIST model=A 2820000 25073 1717 45 65 0 0 0 0 3 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+HIST model=B 3394544 131661 5094 184 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### out_ctl_2 (coord77 on the 5,000-permutation window around the planted permutation; HIT lines = consistent configs with >= 6 checks)
+HIST model=A 2820000 23585 655 25 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIST model=B 4802412 83236 4825 47 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### out_ctl_3 (coord77 on the 5,000-permutation window around the planted permutation; HIT lines = consistent configs with >= 6 checks)
+HIT perm=110563 alph=1 mode=0 model=B w=11 o=0 checks=7
+HIT perm=110563 alph=1 mode=0 model=B w=11 o=10 checks=7
+HIST model=A 2820000 26658 1313 15 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIST model=B 3329896 126631 5457 170 7 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### out_ctl_4 (coord77 on the 5,000-permutation window around the planted permutation; HIT lines = consistent configs with >= 6 checks)
+HIT perm=146313 alph=0 mode=0 model=A w=13 o=6 checks=8
+HIT perm=146313 alph=0 mode=0 model=A w=39 o=6 checks=8
+HIST model=A 2820000 25386 1541 106 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIST model=B 4534844 128829 4102 118 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### out_ctl_5 (coord77 on the 5,000-permutation window around the planted permutation; HIT lines = consistent configs with >= 6 checks)
+HIT perm=131177 alph=1 mode=0 model=A w=4 o=1 checks=14
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=0 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=1 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=2 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=3 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=4 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=5 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=6 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=7 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=8 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=9 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=10 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=11 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=12 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=13 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=14 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=15 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=16 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=17 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=18 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=19 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=20 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=22 o=21 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=0 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=1 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=2 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=3 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=4 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=5 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=6 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=7 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=8 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=9 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=10 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=11 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=12 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=13 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=14 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=15 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=16 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=17 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=18 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=19 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=20 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=21 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=22 checks=7
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=23 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=24 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=25 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=26 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=27 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=28 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=29 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=30 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=31 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=32 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=33 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=34 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=35 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=36 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=37 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=38 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=39 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=40 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=41 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=42 checks=8
+HIT perm=131177 alph=1 mode=0 model=A w=44 o=43 checks=8
+HIST model=A 2820000 26720 1866 15 1 3 0 16 50 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+HIST model=B 2552820 140489 5880 212 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

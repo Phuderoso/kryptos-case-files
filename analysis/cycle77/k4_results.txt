@@ -1,0 +1,19 @@
+### per-chunk counts (8 chunks, behind 165,065 permutations, KA/A-Z, Vig/Beau, models A/B)
+perms=20634 tests=193954900 consistent=31053572 hits=0
+perms=41268 tests=193959600 consistent=29584032 hits=0
+perms=61902 tests=193959600 consistent=29858534 hits=0
+perms=82536 tests=193959600 consistent=29111807 hits=0
+perms=103170 tests=193959600 consistent=29032301 hits=0
+perms=123804 tests=193959600 consistent=26389604 hits=0
+perms=144438 tests=193959600 consistent=25825298 hits=0
+perms=165065 tests=193893800 consistent=30793066 hits=0
+### direct, 264 themed alphabets (HIST = consistent configs by checks 0..24)
+HIST model=A 74448 586 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+HIST model=B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+### K4 configurations with 5 checks (max) and their partial decryptions
+HIT perm=6288 alph=0 mode=1 model=B w=42 o=33 checks=5 | ..............E..P..MEASTNORTHEAST..MV.T................C..O..MBERLINCLOCKMM..FQ.X............... | determined 38 | quadgram/4gram -4.365
+HIT perm=98508 alph=1 mode=1 model=B w=8 o=3 checks=5 | VRTHTZLSTXQUN.YMHU.IYEASTNORTHEASTBDXGA.TWKJ.YNKSYTLUNI.ZTCC.POBERLINCLOCKWUCRNDD.XEEN.LZSOWWZEJY | determined 89 | quadgram/4gram -6.83
+HIT perm=137809 alph=1 mode=0 model=B w=11 o=1 checks=5 | PLZMJQWVJUKFKYFJDEHFJEASTNORTHEASTWEBNSYWCXNDXYPEIHMBYGWVZQNQDSBERLINCLOCKQRBPDRZAZCAMWCIJCDNBBYJ | determined 97 | quadgram/4gram -7.387
+### shuffled-null configurations with >= 6 checks (nulls 0-12)
+HIT perm=122908 alph=1 mode=1 model=A w=15 o=3 checks=6
+HIT perm=122908 alph=1 mode=1 model=A w=45 o=18 checks=6
