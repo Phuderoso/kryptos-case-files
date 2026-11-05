@@ -4,7 +4,8 @@
    Model A: substitute in plaintext order then transpose (key index = plaintext position).
    Model B: transpose then substitute in carved order (key index = carved position).
    Key = text[(o + keyindex) mod T], every offset o, text cyclic. Reports configs with >= THR crib matches
-   and the global max. usage: carved_rk CARVED perms.bin texts.txt THR */
+   and the global max. usage: carved_rk CARVED perms.bin texts.txt THR
+   WARNING (cycle 74 audit): key texts longer than 8191 letters are chopped by the %8191s read; use bookrk for books. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
