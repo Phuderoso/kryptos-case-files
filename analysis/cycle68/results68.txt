@@ -1,0 +1,24 @@
+Cycle 68 Doppelkasten (double two-square, same squares twice) exact SAT
+K4 configs SAT: 14 /48  000100000001001010000000100000011001001110011100 ( 48 configs run)
+Planted controls: 48/48 recovered (ctl68.out)
+Shuffled nulls completed: 20 of 24 (rest stopped at the cycle time budget)
+Null SAT counts sorted: [0, 0, 4, 4, 6, 6, 8, 8, 10, 10, 10, 12, 12, 12, 12, 16, 16, 20, 22, 24]
+Nulls with count >= K4: 5
+Per-config null SAT frequency: [0, 0, 0, 12, 4, 0, 3, 0, 0, 0, 0, 12, 3, 0, 5, 0, 12, 0, 0, 0, 0, 4, 0, 3, 12, 0, 0, 0, 0, 3, 0, 5, 13, 0, 0, 13, 9, 9, 9, 9, 15, 0, 0, 15, 11, 11, 10, 10]
+K4 SAT configs and null frequency:
+  ('2x13', 0, 1, 2, 1) 12/20 nulls SAT
+  ('2x13', 1, 1, 2, 1) 12/20 nulls SAT
+  ('2x13', 1, 2, 2, 0) 5/20 nulls SAT
+  ('13x2', 0, 2, 1, 0) 12/20 nulls SAT
+  ('13x2', 1, 2, 1, 0) 12/20 nulls SAT
+  ('13x2', 1, 2, 2, 1) 5/20 nulls SAT
+  ('6x6', 0, 2, 1, 0) 13/20 nulls SAT
+  ('6x6', 0, 1, 2, 1) 13/20 nulls SAT
+  ('6x6', 0, 2, 2, 0) 9/20 nulls SAT
+  ('6x6', 0, 2, 2, 1) 9/20 nulls SAT
+  ('6x6', 1, 2, 1, 0) 15/20 nulls SAT
+  ('6x6', 1, 1, 2, 1) 15/20 nulls SAT
+  ('6x6', 1, 1, 1, 0) 11/20 nulls SAT
+  ('6x6', 1, 1, 1, 1) 11/20 nulls SAT
+K4 UNSAT configs that some null satisfies (exclusions with power): 10
+K4 UNSAT configs no null satisfies: 24
