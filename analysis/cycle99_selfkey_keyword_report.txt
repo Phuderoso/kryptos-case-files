@@ -1,0 +1,45 @@
+# Cycle 99 results: self-keying by transposition + periodic keyword
+
+## K4
+model C (L 1-12) and model P (L 1), all 340,256 permutations:
+model C configs 48996864, best consistent checks -99, hits 0; model P configs 106159872, min fails 3, hits 0
+model P (L 1-2) by chunk (affine, dec_perm 0-3, perms97 0-3, routes):
+model C configs 0, best consistent checks -99, hits 0; model P configs 79261416, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 336353472, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 336353472, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 336353472, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 336353472, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 347624784, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 347624784, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 347624784, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 347633208, min fails 3, hits 0
+model C configs 0, best consistent checks -99, hits 0; model P configs 51133680, min fails 3, hits 0
+hit lines: 0
+note: 'min fails 3' is a floor; the solver stops a configuration after its third failed check.
+
+## Shuffled K4 nulls (3; routes + affine + a quarter of the decimations, model C L 1-12, model P L 1)
+model C configs 7978608, best consistent checks -99, hits 0; model P configs 17286984, min fails 3, hits 0
+model C configs 7978608, best consistent checks -99, hits 0; model P configs 17286984, min fails 3, hits 0
+model C configs 7978608, best consistent checks -99, hits 0; model P configs 17286984, min fails 3, hits 0
+
+## Planted controls (searched on routes, affine maps and one quarter each of the decimation and 165k files)
+control 1: P route 4321 inv0 KA Beau key=K
+model C configs 13920912, best consistent checks -99, hits 0; model P configs 814373352, min fails 0, hits 4
+control 2: P affine 700 inv1 AZ Vig key=X
+model C configs 13920912, best consistent checks -99, hits 0; model P configs 814373352, min fails 0, hits 4
+control 3: P route 100 inv1 AZ Var key=EW
+model C configs 13920912, best consistent checks -99, hits 0; model P configs 814373352, min fails 0, hits 4
+control 4: C perms97 60607 AZ Vig key=PALIMPSEST
+model C configs 13920912, best consistent checks 14, hits 24; model P configs 814373352, min fails 3, hits 0
+control 5: C dec 7777 KA Beau key=ABSCISSA
+model C configs 13920912, best consistent checks 16, hits 2; model P configs 814373352, min fails 3, hits 0
+control 6: C route 2000 KA Var key=LAYER
+model C configs 13920912, best consistent checks 19, hits 4; model P configs 814373352, min fails 3, hits 0
+
+Recovered lines:
+P route_perm.bin n=4321 inv=0 t=1 m=1 L=1 key=K fail=0 WEDUGTHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
+P affine.bin n=700 inv=1 t=0 m=0 L=1 key=X fail=0 WEDUGTHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOW?XX
+P route_perm.bin n=100 inv=1 t=0 m=2 L=2 key=EW fail=0 ?????????????HERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLD?RIBERLINCLOCK?OWERASTHESUNWENTDOWNXX
+C perms97_1.bin n=19341 inv=0 t=0 m=0 L=10 chk=14 PEDDGTHROUGQTHERUBBLEEASTNORTHEASTANDFOUNATHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
+C affine.bin n=5540 inv=1 t=1 m=1 L=8 chk=16 AEDUGTHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENSDOWNXX
+C route_perm.bin n=2000 inv=0 t=1 m=2 L=5 chk=19 ZEIULTHROUGHTHERUBCLEEASTNORTHEASTANDFOUNDTHEDOVRUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
