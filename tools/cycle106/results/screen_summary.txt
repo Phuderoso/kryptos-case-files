@@ -1,0 +1,62 @@
+behind_K4.txt: best 9 hits>=10: 0
+behind_K4.txt: hist: 0:109827028 1:97298441 2:40991478 3:10947836 4:2075250 5:289693 6:30503 7:2602 8:126 9:3
+behind_ctl_direct_QIII_KA.txt: best 19 hits>=10: 72
+behind_ctl_direct_QIII_KA.txt: hist: 0:108713823 1:97371554 2:41544328 3:11264758 4:2195903 5:328176 6:40110 7:4026 8:172 9:38 10:8 11:12 12:24 14:4 15:12 16:6 17:2 19:4
+behind_ctl_direct_QIII_KA.txt: HIT E=19 perm=0 alpha=1 mode=0 s=ZZZZZZZZZZGGGWXXXXXIIIII
+behind_ctl_direct_QIII_KA.txt: HIT E=19 perm=0 alpha=3 mode=0 s=BBBBBBBBBBUUUEDDDDDSSSSS
+behind_ctl_direct_QIII_KA.txt: HIT E=10 perm=0 alpha=4 mode=0 s=POPPOOPPOPPQQGTZTSSMMMMM
+behind_ctl_direct_QIII_KA.txt: HIT E=19 perm=93174 alpha=1 mode=0 s=ZZZZZZZZZZGGGWXXXXXIIIII
+behind_ctl_direct_QIII_KA.txt: HIT E=19 perm=93174 alpha=3 mode=0 s=BBBBBBBBBBUUUEDDDDDSSSSS
+behind_ctl_perm123456_QI_tw7.txt: best 19 hits>=10: 1
+behind_ctl_perm123456_QI_tw7.txt: hist: 0:109267674 1:97166420 2:41384949 3:11139095 4:2153798 5:312936 6:34429 7:3235 8:410 9:13 19:1
+behind_ctl_perm123456_QI_tw7.txt: HIT E=19 perm=123456 alpha=7 mode=2 s=IIIIISSSSSSSRGGGHHHHHHHH
+behind_ctl_perm4242_QII_tw55_beau.txt: best 18 hits>=10: 12
+behind_ctl_perm4242_QII_tw55_beau.txt: hist: 0:108862053 1:97371343 2:41480424 3:11238579 4:2166010 5:307492 6:34254 7:2603 8:175 9:15 10:4 11:5 12:1 14:1 18:1
+behind_ctl_perm4242_QII_tw55_beau.txt: HIT E=10 perm=2514 alpha=55 mode=4 s=RRYYTTJOOKKZZEEUUIITXXAS
+behind_ctl_perm4242_QII_tw55_beau.txt: HIT E=11 perm=3762 alpha=55 mode=5 s=WWWGTPPPPPCSPXXXSHSVVVVU
+behind_ctl_perm4242_QII_tw55_beau.txt: HIT E=10 perm=3810 alpha=55 mode=5 s=WWWGWMPPPPCXKXXXSXCVVVVU
+behind_ctl_perm4242_QII_tw55_beau.txt: HIT E=10 perm=3812 alpha=55 mode=5 s=WWWGLMUPPPCCKXXXSCCBVVVU
+behind_ctl_perm4242_QII_tw55_beau.txt: HIT E=14 perm=4002 alpha=55 mode=5 s=WWWWDPPPPPPFPXXXXCSVVVVD
+behind_ctl_perm77777_QIII_tw100_beau.txt: best 17 hits>=10: 1453
+behind_ctl_perm77777_QIII_tw100_beau.txt: hist: 0:109581448 1:97087564 2:41195520 3:11090138 4:2131140 5:322901 6:36557 7:9653 8:4535 9:2051 10:780 11:336 12:97 14:156 15:36 16:36 17:12
+behind_ctl_perm77777_QIII_tw100_beau.txt: HIT E=10 perm=20765 alpha=100 mode=1 s=LVZWWDMFNVHHHJIIIIIIIOOD
+behind_ctl_perm77777_QIII_tw100_beau.txt: HIT E=10 perm=20767 alpha=100 mode=1 s=LVZWWDMFNVHHHJIIIIIIIOOI
+behind_ctl_perm77777_QIII_tw100_beau.txt: HIT E=10 perm=20777 alpha=100 mode=1 s=LVZWWDMFNVHHHJIIIIIIIOOI
+behind_ctl_perm77777_QIII_tw100_beau.txt: HIT E=10 perm=20779 alpha=100 mode=1 s=LVZWWDMFNVHHHJIIIIIIIOOI
+behind_ctl_perm77777_QIII_tw100_beau.txt: HIT E=10 perm=20789 alpha=100 mode=1 s=LVZWWDMFNVHHHJIIIIIIIOOI
+behind_null0.txt: best 9 hits>=10: 0
+behind_null0.txt: hist: 0:109797326 1:97275470 2:41044315 3:10976583 4:2035495 5:295013 6:35557 7:2969 8:226 9:6
+behind_null1.txt: best 9 hits>=10: 0
+behind_null1.txt: hist: 0:109068298 1:97620580 2:41305253 3:11017121 4:2107916 5:305451 6:35110 7:2946 8:251 9:34
+behind_null2.txt: best 9 hits>=10: 0
+behind_null2.txt: hist: 0:109875242 1:97230104 2:41096437 3:10899687 4:2035744 5:289135 6:33481 7:2879 8:243 9:8
+behind_null3.txt: best 9 hits>=10: 0
+behind_null3.txt: hist: 0:112227059 1:96811273 2:39755919 3:10422770 4:1934155 5:276652 6:32105 7:2854 8:160 9:13
+behind_null4.txt: best 10 hits>=10: 1
+behind_null4.txt: hist: 0:111785931 1:96857016 2:40034365 3:10517221 4:1949958 5:283078 6:32076 7:3079 8:223 9:12 10:1
+behind_null4.txt: HIT E=10 perm=39324 alpha=175 mode=0 s=GIIIIANHHHKKFDDMMMYEEOMI
+direct86k_K4.txt: best 7 hits>=12: 0
+direct86k_K4.txt: hist: 0:212417 1:205333 2:80952 3:18557 4:2805 5:302 6:19 7:1
+direct86k_ctl_direct_QIII_KA.txt: best 19 hits>=12: 28
+direct86k_ctl_direct_QIII_KA.txt: hist: 0:182703 1:197021 2:99136 3:31513 4:7726 5:1625 6:364 7:111 8:45 9:42 10:30 11:42 12:12 13:10 14:2 15:2 19:2
+direct86k_ctl_direct_QIII_KA.txt: HIT E=19 perm=0 alpha=1 mode=0 s=ZZZZZZZZZZGGGWXXXXXIIIII
+direct86k_ctl_direct_QIII_KA.txt: HIT E=19 perm=0 alpha=33191 mode=0 s=BBBBBBBBBBUUUEDDDDDSSSSS
+direct86k_ctl_direct_QIII_KA.txt: HIT E=14 perm=0 alpha=66084 mode=0 s=ZZZZZZZZZZHHHWWXYDXIIJII
+direct86k_ctl_direct_QIII_KA.txt: HIT E=14 perm=0 alpha=66085 mode=0 s=BBBBBBBBBBTTTEEDCXDSSRSS
+direct86k_ctl_direct_QIII_KA.txt: HIT E=12 perm=0 alpha=66123 mode=0 s=ZZZZLZZZZZHHHVXXXXJIHJIJ
+direct86k_ctl_perm123456_QI_tw7.txt: best 8 hits>=12: 0
+direct86k_ctl_perm123456_QI_tw7.txt: hist: 0:229582 1:186663 2:76261 3:21469 4:5081 5:1136 6:154 7:38 8:2
+direct86k_ctl_perm4242_QII_tw55_beau.txt: best 7 hits>=12: 0
+direct86k_ctl_perm4242_QII_tw55_beau.txt: hist: 0:239955 1:190087 2:70714 3:16665 4:2643 5:302 6:19 7:1
+direct86k_ctl_perm77777_QIII_tw100_beau.txt: best 6 hits>=12: 0
+direct86k_ctl_perm77777_QIII_tw100_beau.txt: hist: 0:240704 1:191842 2:68606 3:16160 4:2681 5:369 6:24
+direct86k_null0.txt: best 8 hits>=12: 0
+direct86k_null0.txt: hist: 0:216271 1:194042 2:83145 3:22173 4:4083 5:604 6:56 7:11 8:1
+direct86k_null1.txt: best 6 hits>=12: 0
+direct86k_null1.txt: hist: 0:229486 1:189137 2:76964 3:20182 4:3943 5:604 6:70
+direct86k_null2.txt: best 7 hits>=12: 0
+direct86k_null2.txt: hist: 0:224362 1:190588 2:79231 3:21466 4:4101 5:567 6:64 7:7
+direct86k_null3.txt: best 8 hits>=12: 0
+direct86k_null3.txt: hist: 0:204757 1:189863 2:89761 3:28259 4:6571 5:1053 6:108 7:13 8:1
+direct86k_null4.txt: best 7 hits>=12: 0
+direct86k_null4.txt: hist: 0:215249 1:193982 2:82617 3:22936 4:4663 5:813 6:118 7:8

@@ -1,0 +1,22 @@
+satnull2 E_max=16 turns_min=6 settings=AAXFFFFPPPXXXDDDDDFFEEEE time=4.8s
+satnull1 E_max=19 turns_min=3 settings=AAAAAATTTCCCCNNNNNNNHHHH time=11.4s
+satnull3 E_max=18 turns_min=4 settings=AAAAAVVVVVSSSIIIIILLMMMM time=74.1s
+satnull7 E_max=19 turns_min=3 settings=AAAAAJJJYYYYYTTTTTTTGGGG time=74.4s
+satnull9 E_max=19 turns_min=3 settings=AAAAAAAFRRRRRFFFFFFFRRRR time=72.7s
+satnull6 E_max=16 turns_min=6 settings=AAVGGGGUUMMMMLLLSSSSOOOO time=128.1s
+satnull11 E_max=17 turns_min=5 settings=AAAAAAAYYAKKKJVVVVVVQQQQ time=60.6s
+satnull14 E_max=18 turns_min=4 settings=AAAOOOOAAAJJJHHHHHHHHHZZ time=4.3s
+satnull13 E_max=19 turns_min=3 settings=AAAAAGGGGGZZZHHHHHHHKKKK time=31.4s
+satnull5 
+satnull0 
+satnull4 
+satnull8 
+satnull18 E_max=17 turns_min=5 settings=ATTTTSSSSSSKKPGGGGGGYYYY time=7.0s
+K4 E_max=17 turns_min=5 settings=AAAAAFFKKKKKUFFFFFHHHBBB time=3.8s
+satnull19 E_max=18 turns_min=4 settings=AAAAAOOOOOOOQVVVBBBBTTTT time=19.2s
+satnull17 E_max=19 turns_min=3 settings=AAAAAAAMMDDDDRRRRRRRNNNN time=48.0s
+satnull10 
+satnull12 
+ctl_direct_QIII_KA E_max=20 turns_min=2 settings=AAAAAAAAAAIIITTTTTTVVVVV time=102.3s
+satnull15 
+satnull16 
