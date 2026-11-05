@@ -52,3 +52,29 @@ Same encoder (`tools/cycle83/sat83.py`), resumed with `tools/cycle84/run84.sh` u
 | p = 8 | 5/12 (KA Vig odd, KA Beau odd, KA variant odd, AZ Vig odd, AZ Vig even) | 5 UNSAT (267–404 s each) |
 
 p = 8 is about 20 times harder than p = 7 for the solver, so the budget went mostly to p 8. **Still pending:** p 7 KA variant ×2, AZ ×6 (8 configs); p 8 KA Vig even, KA Beau even, KA variant even, AZ Beau ×2, AZ variant ×2 (7 configs); nulls at p 7 and the unfinished p 6 null. Rerunning `run84.sh` resumes exactly there. No verdict for p 7–8 until all 12 configs of each period are done.
+
+## Cycle 86 addendum: p = 7 closed, and p = 8 stops being crib-testable
+Resumed with `tools/cycle84/run84.sh` (per-instance timeout 420 s, 470 s budget). Raw results:
+`analysis/cycle86/results_c83_c86.jsonl`, log `analysis/cycle86/run86.log`.
+
+| K4 | done | result |
+|---|---|---|
+| p = 7 | **12/12** | **all UNSAT** (12–25 s each) |
+| p = 8 | 8/12 | 7 UNSAT (250–404 s); **1 SAT: A–Z tableau, Beaufort, odd alignment** |
+
+Shuffled nulls at p 7 (null0, null1, KA Vigenère even): both UNSAT.
+
+**The p 8 SAT is not a solution.** The witness square `ERGUOMYTBHLZXVFJKSAPNWICD` with outer key `STUVPZUZ` decrypts
+(`tools/cycle83/verify83.py`) to
+
+`EKJULFZMEBJPRTORPGHGBEASTNORTHEASTUIBROMPCINFAFKCYTHLUPKZYMDIGBBERLINCLOCKMJHAFWVJKPTYSVFVRMVAKVY`
+
+which carries both cribs in place and is gibberish everywhere else. An arbitrary square (25 placements) plus an 8-letter
+key is enough freedom to fit 24 letters by chance in some configs, so from p = 8 on the cribs alone cannot judge this
+family. That matches the warning in cycle 84: rejection at short periods says the scheme is rigid, not that K4 is special.
+
+**Verdict update:** arbitrary-square Playfair + periodic outer key is **excluded for p ≤ 7** (p 1–7 all 12 configs UNSAT
+for K4; nulls UNSAT at p 6–7). **p ≥ 8 is crib-underdetermined** and needs full-text scoring (annealing with quadgrams,
+or enumerating SAT models and scoring each). Next: confirm with shuffled nulls at p 8 in the same config
+(`tools/cycle86/run86.sh`) — if nulls also come back SAT, p 8 is formally crib-blind. Pending K4 p 8: AZ Beaufort even,
+KA Vigenère even, KA Beaufort even, KA variant even.
