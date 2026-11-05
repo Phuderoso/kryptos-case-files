@@ -1,0 +1,25 @@
+# Cycle 72 audit output (tools/run_cycle72.sh)
+## Part 1: progkw (cycle 41) on 6 Sanborn-convention controls (perm window ±500 around the planted perm)
+case 0: key PALIMPSEST perm 0 model A | HIT lines 2 | exact full-plaintext recoveries 2: perm=0 num=K model=A mode=V L=10 s=0 free=0 key=PALIMPSEST
+case 1: key ABSCISSA perm 443 model A | HIT lines 1 | exact full-plaintext recoveries 1: perm=443 num=K model=A mode=V L=8 s=0 free=0 key=ABSCISSA
+case 2: key KRYPTOS perm 52981 model B | HIT lines 1 | exact full-plaintext recoveries 1: perm=52981 num=K model=B mode=V L=7 s=0 free=0 key=KRYPTOS
+case 3: key PALIMPSEST perm 20156 model B | HIT lines 18 | exact full-plaintext recoveries 1: perm=20156 num=K model=B mode=V L=10 s=0 free=1 key=PALIMPSEST
+case 4: key ABSCISSA perm 0 model B | HIT lines 2 | exact full-plaintext recoveries 2: perm=0 num=K model=A mode=V L=8 s=0 free=0 key=ABSCISSA
+case 5: key BERLIN perm 56113 model A | HIT lines 12 | exact full-plaintext recoveries 2: perm=56113 num=K model=A mode=V L=6 s=0 free=0 key=BERLIN
+## Part 2: periodic_exact59 (cycle 59) on 4 K3-law decimation controls (all 159,712 decimation perms, A-Z + KA)
+control 0 perm 40780 key ABSCISSA order 0 | perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:1 p9:0 p10:0 p11:0 p12:0 | 1 HIT line(s): HIT perm 40780 alpha 1 mode vig order 0 p 8 key ABSCISSA;
+control 1 perm 40781 key PALIMPSEST order 1 | perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:1 p11:0 p12:0 | 1 HIT line(s): HIT perm 40781 alpha 1 mode vig order 1 p 10 key ??L?MPSEST;
+control 2 perm 40780 key KRYPTOS order 1 | perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:1 p8:0 p9:0 p10:0 p11:0 p12:0 | 1 HIT line(s): HIT perm 40780 alpha 1 mode vig order 1 p 7 key KRYPTOS;
+control 3 perm 40781 key BERLIN order 0 | perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:1 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 | 1 HIT line(s): HIT perm 40781 alpha 1 mode vig order 0 p 6 key BERLIN;
+## Part 3: K4 rerun of cycle 41 (full 165,065 perms)
+SUMMARY perms=165065 tests=892671520 best_qg=-99.000
+num=A model=A mode=V consistent_s0=4202 consistent_s>0=164222
+num=A model=A mode=B consistent_s0=5110 consistent_s>0=163308
+num=A model=B mode=V consistent_s0=1387 consistent_s>0=34596
+num=A model=B mode=B consistent_s0=1338 consistent_s>0=34937
+num=K model=A mode=V consistent_s0=5931 consistent_s>0=156025
+num=K model=A mode=B consistent_s0=5338 consistent_s>0=156572
+num=K model=B mode=V consistent_s0=1309 consistent_s>0=34105
+num=K model=B mode=B consistent_s0=1318 consistent_s>0=34178
+PARTIAL_BY_L 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:6 22:89 23:2358 24:8959 25:47037 26:719494
+HIT lines: 0
