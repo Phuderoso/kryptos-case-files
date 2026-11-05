@@ -1,0 +1,36 @@
+{
+ "K4_distinct_letters": 26,
+ "usable_trigraphs_spaced": 26,
+ "usable_trigraphs_unspaced": 22,
+ "unspaced_controls_max_distinct_letters": 22,
+ "spaced_controls": [
+  {
+   "sat": true,
+   "secs": 0.1
+  },
+  {
+   "sat": true,
+   "secs": 0.4
+  }
+ ],
+ "spaced_shuffled_nulls": [
+  {
+   "sat": true,
+   "secs": 85.5
+  },
+  {
+   "sat": true,
+   "secs": 0.8
+  }
+ ],
+ "K4_spaced": true,
+ "K4_spaced_secs": 41.4,
+ "crib_symbols_needed": {
+  "EASTNORTHEAST": 39,
+  "BERLINCLOCK": 44
+ },
+ "crib_symbols_available": {
+  "EASTNORTHEAST": 39,
+  "BERLINCLOCK": 33
+ }
+}
