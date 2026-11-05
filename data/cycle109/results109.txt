@@ -60,3 +60,22 @@ null2 w21 p7 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
 K4 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
 null0 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
 null1 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## addendum (cycle 110): background jobs finished after publication
+
+## k4_13,13,1.txt (final)
+K4 w13 p13 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w13 p13 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w13 p13 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w13 p13 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,7,1.txt (final)
+K4 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,21,1.txt (final)
+K4 w21 p21 dir1: vigAZ=T/O beauAZ=T/O varAZ=T/O vigKA=T/O beauKA=T/O varKA=T/O
+null0 w21 p21 dir1: vigAZ=T/O beauAZ=T/O varAZ=T/O vigKA=T/O beauKA=T/O varKA=T/O
+null1 w21 p21 dir1: vigAZ=T/O beauAZ=T/O varAZ=T/O vigKA=T/O beauKA=T/O varKA=T/O
