@@ -1,0 +1,38 @@
+[
+ {
+  "ctl": 0,
+  "transposition": "amsco BERLIN 2 aca",
+  "text": "c34_K1pt",
+  "model": "B",
+  "offset": 17,
+  "pt": "PASSAGEDEBRISTHATENCUEASTNORTHEASTRPARTOFTHEDOORWAYWEREREMOVEDWBERLINCLOCKGHANDSIMADEATINYBREACHI",
+  "slice_pos": [
+   146,
+   147
+  ]
+ },
+ {
+  "ctl": 1,
+  "transposition": "redefence CLOCK",
+  "text": "c34_K0morse",
+  "model": "A",
+  "offset": 48,
+  "pt": "HATENCUMBEREDTHELOWEREASTNORTHEASTWAYWEREREMOVEDWITHTREMBLINGHABERLINCLOCKNYBREACHINTHEUPPERLEFTH",
+  "slice_pos": [
+   11,
+   12
+  ]
+ },
+ {
+  "ctl": 2,
+  "transposition": "rail r=3",
+  "text": "c34_K1ct_rev",
+  "model": "A",
+  "offset": 36,
+  "pt": "TOFTHEDOORWAYWEREREMOEASTNORTHEASTINGHANDSIMADEATINYBREACHINTHEBERLINCLOCKNDCORNERANDTHENWIDENING",
+  "slice_pos": [
+   0,
+   1
+  ]
+ }
+]

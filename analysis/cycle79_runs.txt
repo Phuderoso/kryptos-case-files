@@ -1,0 +1,58 @@
+# Cycle 79 run outputs
+
+## Textbook transpositions in the cycle-44 family (index into perms_A+perms_B)
+rail r=3 enc 5 dec 6
+rail r=7 enc 61 dec 62
+rail r=29 enc 1513 dec 1514
+redefence CLOCK enc 4691 dec 4692
+redefence BERLIN enc 5633 dec 5634
+redefence KRYPTOS enc 13849 dec 13850
+amsco KRYPTOS 1 cont enc 80779 dec 80780
+amsco BERLIN 2 aca enc 78303 dec 78304
+amsco BERLIN 1 cont enc 73983 dec 73984
+amsco CLOCK 2 cont enc 73745 dec 73746
+amsco SHADOW 1 aca enc 75985 dec 75986
+amsco NORTHEAST 1 cont enc 962438 dec 962439
+amsco NORTHEAST 2 cont enc 1688198 dec 1688199
+amsco LUCID 1 cont enc 73613 dec 73614
+
+## bookrk controls (slice of 3,014 perms)
+FULL perm=0 model=A mode=21 text=carter1 offset=159459
+SUMMARY perms=3014 best=24 full=1 hist: 0:54401 1:353035 2:370419 3:185188 4:46724 5:4404 6:179 7:5 24:1
+FULL perm=15 model=B mode=21 text=carter1_rev offset=216797
+SUMMARY perms=3014 best=24 full=1 hist: 0:43688 1:344337 2:363275 3:200327 4:56825 5:5172 6:251 7:11 24:1
+FULL perm=154 model=A mode=21 text=c34_K123pt offset=299
+FULL perm=154 model=A mode=21 text=c34_K2pt_carved offset=236
+SUMMARY perms=3014 best=24 full=2 hist: 0:47399 1:335063 2:372204 3:198228 4:56076 5:5092 6:219 7:10 24:2
+FULL perm=147 model=B mode=21 text=carter1 offset=284817
+SUMMARY perms=3014 best=24 full=1 hist: 0:48175 1:335706 2:374027 3:196392 4:55841 5:4952 6:208 7:5 8:1 24:1
+FULL perm=1548 model=A mode=21 text=kjv_john offset=58892
+SUMMARY perms=3014 best=24 full=1 hist: 0:49511 1:356665 2:363298 3:190975 4:49145 5:4340 6:260 7:13 8:1 24:1
+FULL perm=2695 model=B mode=21 text=c34_K3pt_rev offset=226
+SUMMARY perms=3014 best=24 full=1 hist: 0:46809 1:365434 2:357485 3:188491 4:50840 5:4665 6:203 7:8 24:1
+FULL perm=11 model=A mode=21 text=c34_K123pt offset=4
+SUMMARY perms=3014 best=24 full=1 hist: 0:53773 1:351776 2:363247 3:192030 4:48617 5:4289 6:169 7:12 10:1 24:1
+
+0 rail r=3 A carter1 planted offset 159459 -> [(0, 'A', 'carter1', 159459, True)]
+1 redefence BERLIN B carter1_rev planted offset 216797 -> [(15, 'B', 'carter1_rev', 216797, True)]
+2 amsco KRYPTOS 1 cont A c34_K2pt_carved planted offset 236 -> [(154, 'A', 'c34_K123pt', 299, True), (154, 'A', 'c34_K2pt_carved', 236, True)]
+3 amsco BERLIN 2 aca B carter1 planted offset 284817 -> [(147, 'B', 'carter1', 284817, True)]
+4 amsco NORTHEAST 1 cont A kjv_john planted offset 58892 -> [(1548, 'A', 'kjv_john', 58892, True)]
+5 amsco NORTHEAST 2 cont B c34_K3pt_rev planted offset 226 -> [(2695, 'B', 'c34_K3pt_rev', 226, True)]
+6 redefence CLOCK A c34_K123pt planted offset 4 -> [(11, 'A', 'c34_K123pt', 4, True)]
+
+## K4 and nulls on the slice (bookrk)
+k4: SUMMARY perms=3014 best=7 full=0 hist: 0:54843 1:349051 2:362039 3:194698 4:50040 5:4595 6:218 7:13
+null1: SUMMARY perms=3014 best=7 full=0 hist: 0:52312 1:350240 2:366991 3:189297 4:50429 5:4717 6:294 7:6
+null2: SUMMARY perms=3014 best=7 full=0 hist: 0:53313 1:335944 2:370745 3:192722 4:56616 5:5749 6:247 7:14
+
+## carved_rk wrapping controls
+CAND matches=24 perm=147 model=B mode=3 text=c34_K1pt offset=17
+CAND matches=24 perm=11 model=A mode=3 text=c34_K0morse offset=48
+CAND matches=24 perm=0 model=A mode=3 text=c34_K1ct_rev offset=36
+
+## carved_rk, 24 carved texts cyclic, all 1,873,954 rail/Redefence/AMSCO perms
+k4 perms 1873954 full 0 best 11 depth>=10: {10: 682, 11: 33}
+null_1 perms 1873954 full 0 best 12 depth>=10: {10: 990, 11: 21, 12: 1}
+null_2 perms 1873954 full 0 best 11 depth>=10: {10: 1070, 11: 73}
+null_3 perms 1873954 full 0 best 11 depth>=10: {10: 414, 11: 14}
