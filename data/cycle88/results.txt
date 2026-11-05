@@ -1,0 +1,10 @@
+Cycle 88: W treated as null; 92-letter W-free K4; cribs EASTNORTHEAST at 20-32 and BERLINCLOCK at 60-70 (0-indexed, W-free coordinates)
+Family 1: 239,149 permutations (identity; keyword columnar widths 2-8, every column order; K3-law decimations, step s coprime to M, M = 92..107, every start; plus all inverses)
+  x periodic key p 1-24, Vigenere/Beaufort (variant = Vigenere for consistency), plaintext/ciphertext alphabet each A-Z or KRYPTOS, key on PT position (sub then transpose) or on CT position (transpose then sub). Smallest consistent p counted.
+  K4 (W-free): p1-21: 0 | p22: 42 | p23: 367 | p24: 1046
+  null0      : p1-21: 0 | p22: 45 | p23: 327 | p24: 1146
+  null1      : p1-20: 0 | p21: 1 | p22: 33 | p23: 278 | p24: 848
+  null2      : p1-20: 0 | p21: 1 | p22: 52 | p23: 363 | p24: 1191
+  planted controls 3/3 recovered (perm 12345 KRYPTOS p7 KA CT-keyed; perm 200001 PALIMPSEST p10 A-Z PT-keyed; perm 77 ABSCISSA p8 KA CT-keyed)
+Family 2: no transposition, Quagmire III over 86,731 themed keyed alphabets (alpha.bin), Vigenere/Beaufort, p 1-20
+  K4 0; nulls 0/0/0; planted control (alphabet #5000, key CLANDESTI, p9) recovered.
