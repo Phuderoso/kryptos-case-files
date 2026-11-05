@@ -36,3 +36,8 @@ The planted controls are accepted while the shuffled nulls give 0, so the test h
 - w21 p21 dir1 is undecided; it needs a SAT encoding or a C counter.
 
 Code: [tools/cycle109](../tools/cycle109). Data: [data/cycle109/results109.txt](../data/cycle109/results109.txt).
+
+## Update, cycle 110
+- The background nulls finished after publication. Width 13 period 13 and width 21 period 7 (columns-in) each got 3/3 nulls at 0 for all six tableaux. Width 21 period 21 columns-in timed out for K4 and every null.
+- A second counter (`tools/cycle110/window110.py`) chooses column identities only where a column's chunk touches a crib, and counts the other columns combinatorially. It matches the cycle 109 counter exactly on 14 test cases (7 planted controls and K4 at 7 configurations).
+- On width 21 period 21 columns-in, it accepts a planted Vigenère A–Z control (156,764,160,000 consistent orders, so the cribs barely constrain this shape) and gives **K4 = 0 for Vigenère A–Z**. The other five tableaux and the nulls are still open: each count takes about 90 s in Python. Next step: port it to C.

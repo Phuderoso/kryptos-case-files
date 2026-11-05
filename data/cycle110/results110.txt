@@ -1,0 +1,9 @@
+# Cycle 110 results
+
+## Agreement with cycle 109 counter (dir1, planted control and K4 per config)
+w13 p13 varAZ ctl 16848/16848, K4 0/0; w14 p7 vigAZ ctl 1451520/1451520, K4 0/0; w14 p14 vigAZ ctl 3628800/3628800, K4 0/0; w21 p7 beauKA ctl 13063680000/13063680000, K4 0/0; w21 p3 varKA ctl 162570240000/162570240000, K4 0/0; w11 p11 varAZ ctl 5040/5040, K4 0/0; w12 p6 vigAZ ctl 240/240, K4 0/0 (14/14 agree)
+
+## w21 p21 dir1 (the case cycle 109 could not finish)
+CTL w21 p21 dir1 vigAZ: consistent orders=156764160000 (90.1s)
+K4 w21 p21 dir1 vigAZ 0 (95.8s, with key-state pruning)
+Other five tableaux for K4, other controls, and shuffled nulls: not reached inside the cycle budget (about 90 s per count in Python).
