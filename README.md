@@ -65,6 +65,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | [`case-file/44-running-keys-behind-rail-amsco.md`](case-file/44-running-keys-behind-rail-amsco.md) | Cycle 45: running keys (carved texts, Carter vol. I, Gospel of John) behind rail fence, Redefence and AMSCO |
 | [`case-file/45-myszkowski-exact.md`](case-file/45-myszkowski-exact.md) | Cycle 46: Myszkowski transposition (repeated-letter keywords) tested exactly with periodic/progressive keys |
 | [`case-file/50-double-keyed-columnar.md`](case-file/50-double-keyed-columnar.md) | Cycle 52: double keyed columnar (1,837 keyword orders, every pair) with periodic/progressive keys, exact |
+| [`case-file/58-autokey-behind-decimation.md`](case-file/58-autokey-behind-decimation.md) | Cycle 60: exact autokey (CT/PT-fed, both orders, lags 1–96) behind K3-law decimations, incl. the 98-symbol `?` circle |
 | [`tools/`](tools/) | Python: ciphertext, K1–K3 solvers, K4 analysis |
 | [`analysis/`](analysis/) | Saved outputs of the tools |
 | [`journal/`](journal/) | Case journal, one entry per cycle |
@@ -143,7 +144,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | Periodic affine | direct; behind 165k transpositions | L 1–13 (cycle 39) | L ≥ 14 |
 | Progressive affine (stepping multiplier and shift) | direct; behind 165k transpositions | a0·rⁱ, linear and second-order shift, both forms (cycle 40) | step driven by a second themed word |
 | Progressive keyword key (keyword shifts s each lap) | direct; behind 165k transpositions | L ≤ 20, any s, Vigenère/Beaufort, AZ/KA tableau (cycle 41) | L 21–26; mixed (non-tableau) alphabets |
-| Autokey (CT/PT-fed) | direct; behind transpositions | CT-fed lags 1–21 (cycle 19); PT-fed exact where not blind (cycle 22), English-scored lags 24–~70 direct (cycle 23) | PT-fed lags ≳ 75; blind lags behind transpositions |
+| Autokey (CT/PT-fed) | direct; behind transpositions | CT-fed lags 1–21 (cycle 19); PT-fed exact where not blind (cycle 22), English-scored lags 24–~70 direct (cycle 23); behind 159,712 K3-law decimations (264 alphabets) + 154,186 98-symbol `?` decimations (41 alphabets), lags 1–96, both orders (cycle 60, exact) | PT-fed lags ≳ 75; blind lags behind transpositions |
 | Running key (books, carved texts, Langley texts) | direct; behind 165k transpositions; behind 1.87M rail/Redefence/AMSCO (cycle 45: carved texts, Carter vol. I, John) | named sources; English-agnostic test | unnamed books behind wider transpositions; NT, NSA 1947, Reagan, Smith behind rail/AMSCO |
 | Gromark / digit keys | direct | textbook and plain-sight alphabets, primers ≤ 6 | keyed alphabets on both sides (SAT) |
 | Hill | direct n ≤ 4, any numbering for 2×2; behind 165k transpositions n 2–4 | as tested (cycles 27, 29) | n ≥ 5 |
@@ -165,5 +166,5 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 | Nicodemus (per-column key, columnar read in blocks of h rows) | direct (cycle 57, exact) | any order w ≤ 11 on A–Z/KRYPTOS, w ≤ 7 on 2,000 keyed alphabets, h 1–20, Vig/Beau | arbitrary alphabets; w ≥ 12; X-delimited blocks; running key per column |
 | Slidefair (digraphic slide on the tableau) | direct (cycle 57, exact) | any key sequence, 86,731 alphabets, Vig/Beau/variant forms, both offsets | arbitrary alphabets (SAT); behind transpositions |
 | Portax (period-pair digraphic, Porta slide) | direct; behind 96,630 transpositions, both orders (cycle 58, exact) | p 1–48, any key; 86,731 alphabets direct; A–Z/KRYPTOS + 264 themed alphabets behind transpositions | other conventions for the odd tail; arbitrary alphabets (SAT); inside a K3-style grid |
-| Decimation (K3's law: every s-th letter around M slots) | behind/in front of periodic Quagmire III (cycle 59, exact) | M 97–112, any s, a; p ≤ 21 A–Z/KRYPTOS, ≤ 16 on 264, ≤ 12 on 20,946 alphabets | every other family behind decimations (autokey, running keys, Porta, anomaly); `?` as symbol 0 (M 99) |
+| Decimation (K3's law: every s-th letter around M slots) | behind/in front of periodic Quagmire III (cycle 59, exact) | M 97–112, any s, a; p ≤ 21 A–Z/KRYPTOS, ≤ 16 on 264, ≤ 12 on 20,946 alphabets; autokey CT/PT-fed L 1–96 both orders, 264 alphabets; 98-symbol `?` circle (cycle 60) | running keys, Porta, Quagmire IV, one-letter anomaly behind decimations; PT-fed autokey after a decimation where untestable (n small); `?` at other positions |
 | Statistical anomalies (Stehle lag-4 run) | look-elsewhere test; mechanism check against cribs | Stehle run: p ≈ 0.008 corrected, no surviving simple mechanism (cycle 42) | a local key change at 55–63 (untestable from cribs) |
