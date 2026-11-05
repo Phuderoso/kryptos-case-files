@@ -39,3 +39,16 @@ at p 6). Raw output: [data/cycle91/results.txt](../data/cycle91/results.txt). Th
   exact key.
 - From cycle 86 we know that at p ≥ 8 the cribs stop constraining Playfair + key, so p 8 will need scoring on the
   full text rather than SAT.
+
+## Cycle 92 addendum: p ≤ 7 closed
+
+Resumed the queue. All 43 jobs finished, none hit the 420 s cap ([data/cycle92/results.txt](../data/cycle92/results.txt)):
+
+- K4 p 6: the remaining 7 configs are UNSAT (12/12 overall).
+- K4 p 7: 12/12 UNSAT.
+- Shuffled nulls p 6: the remaining 24 are UNSAT (36/36 overall).
+
+**Verdict: W-null + Playfair with any W-less square + periodic Vigenère/Beaufort/variant mod 25 (KA or A–Z, both
+alignments) is excluded for p ≤ 7.** The 12 K4 p 8 configs are listed in
+[data/cycle92/remaining.txt](../data/cycle92/remaining.txt). Expect them to be crib-underdetermined, as in cycle 86,
+so p 8 needs scoring on the full text.
