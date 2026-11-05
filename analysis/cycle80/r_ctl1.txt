@@ -1,0 +1,2 @@
+HIT perm=117523 tab=AZ mode=Beau L=3 d=5 c=3,7,11
+tests=731120000 hits=1

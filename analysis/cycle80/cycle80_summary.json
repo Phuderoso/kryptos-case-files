@@ -1,0 +1,96 @@
+{
+ "k4_behind_perms_L1_3": [
+  0,
+  12068232280
+ ],
+ "k4_direct_L1_6": [
+  0,
+  1285089624
+ ],
+ "nulls_behind_perms_L1_3": {
+  "null0": [
+   0,
+   12068232280
+  ],
+  "null1": [
+   0,
+   12068232280
+  ],
+  "null2": [
+   0,
+   12068232280
+  ],
+  "null3": [
+   0,
+   12068232280
+  ],
+  "null4": [
+   0,
+   12068232280
+  ]
+ },
+ "nulls_direct_L1_6": {
+  "null0": [
+   0,
+   1285089624
+  ],
+  "null1": [
+   0,
+   1285089624
+  ],
+  "null2": [
+   0,
+   1285089624
+  ],
+  "null3": [
+   0,
+   1285089624
+  ],
+  "null4": [
+   0,
+   1285089624
+  ]
+ },
+ "controls": [
+  {
+   "ctl": 0,
+   "name": "fib_KR_KA_Vig",
+   "hits": 162,
+   "planted_found": true,
+   "decrypt_34_96": "RWAYWASREMOVEDWITHTREMBLINGHABERLINCLOCKNYBREACHINTHEUPPERLEFTH",
+   "in_source": false
+  },
+  {
+   "ctl": 1,
+   "name": "L3_AZ_Beau",
+   "hits": 1,
+   "planted_found": true,
+   "decrypt_34_96": "ATPOSSIBLETHEYUSEDTHEEARTHSMABERLINCLOCKXTHEINFORMATIONWASGATHE",
+   "in_source": false
+  },
+  {
+   "ctl": 2,
+   "name": "prog_KA_Beau",
+   "hits": 703,
+   "planted_found": true,
+   "decrypt_34_96": "STHENUANCEOFIQLUSIONKASCARVEDBERLINCLOCKYINVISIBLEHOWSTHATPOSSI",
+   "in_source": false
+  },
+  {
+   "ctl": 3,
+   "name": "L2_AZ_Vig_affine",
+   "hits": 324,
+   "planted_found": true,
+   "decrypt_34_96": "STMESSAGEXTHIRTYEIGHTDEGREESFBERLINCLOCKNUTESSIXPOINTFIVESECOND",
+   "in_source": false
+  },
+  {
+   "ctl": 4,
+   "name": "direct_L6_KA_Vig",
+   "hits": 27,
+   "planted_found": true,
+   "decrypt_34_96": "NMINUTESSIXPOINTFIVESECONDSNOBERLINCLOCKEVENDEGREESEIGHTMINUTES",
+   "in_source": false
+  }
+ ]
+}
