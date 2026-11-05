@@ -1,0 +1,4 @@
+actl0: model A feed CT mode vig L 7 alpha 5 route perm index 4712
+actl1: model A feed PT mode beau L 4 alpha 1 route perm index 1417
+actl2: model B feed CT mode var L 11 alpha 40 route perm index 533
+actl3: model B feed PT mode vig L 2 alpha 0 route perm index 1950
