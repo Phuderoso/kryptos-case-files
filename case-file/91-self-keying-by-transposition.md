@@ -36,3 +36,27 @@ That is 340,256 permutations × 2 directions × 2 tableaux × 3 modes = **4,083,
 | Self-key on a mixed (non-KRYPTOS) alphabet; self-key + periodic keyword; a self-key and a transposition in sequence; σ outside these families (e.g. Myszkowski, turning grille) | open |
 
 Caveat: Model P with Vigenère has a parity weakness on odd cycles (closure gives `2·P = S`, a mod-2 ambiguity), so closure checks there are weaker than 1/26. The shuffled nulls measure the real false-positive level, and K4 does not exceed it.
+
+## Cycle 99 addendum: self-key plus a repeating keyword
+**Question:** could cycle 98's self-key be hidden under a second, K1/K2-style keyword layer? Here `C = enc(P, P∘σ) + k` (plaintext self-key) and `P = dec(C − k, C∘σ)` (ciphertext self-key), with k a repeating keyword of length L added on the alphabet indices (A–Z or KRYPTOS).
+
+**Method (`tools/cycle99/selfkey2.c`):**
+- Ciphertext self-key: every crib letter fixes its keyword letter exactly, so L 1–12 is pure algebra, with 24 − L ≥ 12 exact checks per configuration. That is 49.0 M configurations on all 340,256 permutations × σ/σ⁻¹ × 2 tableaux × 3 modes.
+- Plaintext self-key: the keyword is enumerated (L = 1: 26 shifts; L = 2: 676 pairs) and each choice is solved cycle by cycle as in cycle 98, about 2.9 × 10⁹ configurations in total. Three minutes on 8 cores.
+
+**Controls (`analysis/cycle99_selfkey_keyword_report.txt`), searched on routes, affine maps and a quarter each of the decimation and 165k files:**
+- 6 of 6 recovered. Plaintext self-key with keys K, X and EW (the EW plant on a route with fixed points comes back with `?` only on crib-free cycles).
+- Ciphertext self-key with PALIMPSEST (L 10, 14 checks), ABSCISSA (L 8, recovered through an equivalent affine map because its own decimation lay outside the searched quarter) and LAYER (L 5, 19 checks).
+
+**Nulls:** three shuffled K4s on routes, affine maps and a quarter of the decimations gave no fully consistent configuration and no hits.
+
+**K4:**
+- Ciphertext self-key: no configuration is fully consistent at any L from 1 to 12.
+- Plaintext self-key: every configuration fails at least 3 crib checks (the solver stops counting at 3).
+- **0 hits.**
+
+| Hypothesis | Status |
+|---|---|
+| Ciphertext self-key through these permutations + repeating keyword, L ≤ 12 (any keyword) | **negative** |
+| Plaintext self-key through these permutations + keyword L ≤ 2 (any keyword) | **negative** |
+| Plaintext self-key + keyword L ≥ 3 (needs Gaussian elimination mod 26 instead of enumeration); ciphertext self-key with L 13–23 (fewer checks); keyword before the self-key | open |
