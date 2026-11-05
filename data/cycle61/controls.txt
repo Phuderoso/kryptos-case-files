@@ -1,0 +1,3 @@
+ctl1: perm 1234 alphabet KRYPTOS key PALIMPSEST mode vig order 0
+ctl2: perm 6063 alphabet KRYPTOS key SHADOW mode beau order 1
+ctl3: perm 3035 alphabet ABCDEFGHIJKLMNOPQRSTUVWXYZ key ABSCISSA mode vig order 1
