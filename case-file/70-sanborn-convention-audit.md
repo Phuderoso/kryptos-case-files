@@ -35,5 +35,5 @@ were, under K3's transposition law, in both frames. The K4 negatives of cycles 1
 their crib-check code) are not convention artefacts. Limits: only Vigenère with Sanborn's KA tableau was tested
 externally (he used nothing else in K1–K2); the other families' controls remain self-generated.
 
-Output: [`analysis/cycle72_audit.txt`](../analysis/cycle72_audit.txt). Inputs: [`data/cycle72/`](../data/cycle72/).
+Output: [`analysis/cycle72_audit.txt`](../analysis/cycle72_audit.txt). Control ciphertexts and planted configs: [`analysis/cycle72_controls.txt`](../analysis/cycle72_controls.txt).
 Reproduce: `tools/run_cycle72.sh`.
