@@ -1,0 +1,100 @@
+{
+  "cycle": 121,
+  "family": "seriated_playfair",
+  "scope": {
+    "words": 367184,
+    "constructions": 6,
+    "seriations": [
+      "column",
+      "row_bounded"
+    ],
+    "phases": [
+      0,
+      1
+    ],
+    "widths": "2..12",
+    "orders": [
+      "PF_then_key",
+      "key_then_PF"
+    ],
+    "tableaux": [
+      "KA",
+      "AZ"
+    ],
+    "modes": [
+      "Vig",
+      "Beau",
+      "variant"
+    ],
+    "pmax": 16,
+    "minchecks_reported": 4
+  },
+  "controls_recovered": "6/6",
+  "k4": {
+    "tests": 9094413312,
+    "hits_checks_ge4": 550,
+    "hits_checks_ge6": 0,
+    "max_checks": 5,
+    "wall_s": 236.75870394706726,
+    "cons_ord0": [
+      0,
+      0,
+      0,
+      19,
+      0,
+      515,
+      13571,
+      17668,
+      19501,
+      1291,
+      509015,
+      14357666,
+      903928,
+      13649644,
+      13677068,
+      40657247
+    ],
+    "cons_ord1": [
+      0,
+      0,
+      0,
+      34,
+      729,
+      30640,
+      41226,
+      20050,
+      14780,
+      2205,
+      41630,
+      14849379,
+      14198499,
+      26679157,
+      26913994,
+      53354835
+    ]
+  },
+  "nulls_40k": {
+    "null0": {
+      "hits_ge4": 101,
+      "max_checks": 5
+    },
+    "null1": {
+      "hits_ge4": 69,
+      "max_checks": 5
+    },
+    "null2": {
+      "hits_ge4": 67,
+      "max_checks": 4
+    },
+    "null3": {
+      "hits_ge4": 88,
+      "max_checks": 4
+    },
+    "null4": {
+      "hits_ge4": 106,
+      "max_checks": 4
+    }
+  },
+  "verdict": "negative",
+  "note": "K4 has 0 configs with checks>=6 on the full 367184-word list; checks=4..5 survivors sit at or below the 40k-word null baseline (nulls 67-106 hits ge4, max 4-5)."
+}
