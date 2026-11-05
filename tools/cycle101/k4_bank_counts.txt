@@ -1,0 +1,12 @@
+L=1 keys/perm=75268 t0k0m0:0 t0k0m1:0 t0k1m0:0 t0k1m1:0 t1k0m0:0 t1k0m1:0 t1k1m0:0 t1k1m1:0
+L=2 keys/perm=1956968 t0k0m0:0 t0k0m1:2 t0k1m0:0 t0k1m1:0 t1k0m0:0 t1k0m1:0 t1k1m0:0 t1k1m1:0
+L=3 keys/perm=50881168 t0k0m0:0 t0k0m1:2 t0k1m0:18 t0k1m1:2 t1k0m0:6 t1k0m1:0 t1k1m0:14 t1k1m1:4
+L=1 keys/perm=1277696 t0k0m0:0 t0k0m1:0 t0k1m0:0 t0k1m1:0 t1k0m0:0 t1k0m1:0 t1k1m0:0 t1k1m1:0
+L=2 keys/perm=33220096 t0k0m0:4 t0k0m1:2 t0k1m0:6 t0k1m1:0 t1k0m0:0 t1k0m1:2 t1k1m0:4 t1k1m1:0
+L=3 keys/perm=863722496 t0k0m0:96 t0k0m1:26 t0k1m0:146 t0k1m1:18 t1k0m0:100 t1k0m1:28 t1k1m0:210 t1k1m1:68
+L=1 keys/perm=1320512 t0k0m0:0 t0k0m1:0 t0k1m0:0 t0k1m1:0 t1k0m0:0 t1k0m1:0 t1k1m0:0 t1k1m1:0
+L=2 keys/perm=34333312 t0k0m0:2 t0k0m1:2 t0k1m0:4 t0k1m1:4 t1k0m0:6 t1k0m1:0 t1k1m0:4 t1k1m1:2
+L=3 keys/perm=892666112 t0k0m0:92 t0k0m1:20 t0k1m0:76 t0k1m1:22 t1k0m0:74 t1k0m1:16 t1k1m0:294 t1k1m1:24
+L=1 keys/perm=48560 t0k0m0:0 t0k0m1:0 t0k1m0:0 t0k1m1:0 t1k0m0:0 t1k0m1:0 t1k1m0:0 t1k1m1:0
+L=2 keys/perm=1262560 t0k0m0:0 t0k0m1:0 t0k1m0:0 t0k1m1:0 t1k0m0:0 t1k0m1:0 t1k1m0:0 t1k1m1:0
+L=3 keys/perm=32826560 t0k0m0:2 t0k0m1:0 t0k1m0:6 t0k1m1:0 t1k0m0:2 t1k0m1:0 t1k1m0:6 t1k1m1:0
