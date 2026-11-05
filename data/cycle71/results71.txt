@@ -1,0 +1,22 @@
+# Cycle 71 results (wheat71.c, wheat71_sat.py)
+out/ctl_1.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=3031882 crib2_ok=13106924 both_ok=12
+out/ctl_2.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=1291845 crib2_ok=27936311 both_ok=26
+out/ctl_3.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=3316232 crib2_ok=14342828 both_ok=12
+out/ctl_4.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=2338562 crib2_ok=13114083 both_ok=60
+out/ctl_4_direct86k.out: SUMMARY perms=1 configs=4683474 tests=4683474 crib1_ok=443 crib2_ok=40352 both_ok=44
+out/ctl_5.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=1962456 crib2_ok=25695429 both_ok=2
+out/ctl_6.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=3045284 crib2_ok=16139582 both_ok=2
+out/k4.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=6295232 crib2_ok=25660288 both_ok=0
+out/k4_direct86k.out: SUMMARY perms=1 configs=4683474 tests=4683474 crib1_ok=0 crib2_ok=2478 both_ok=0
+out/null_1.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=3758376 crib2_ok=20571234 both_ok=0
+out/null_1_direct86k.out: SUMMARY perms=1 configs=4683474 tests=4683474 crib1_ok=0 crib2_ok=12906 both_ok=0
+out/null_2.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=1749373 crib2_ok=19404563 both_ok=0
+out/null_2_direct86k.out: SUMMARY perms=1 configs=4683474 tests=4683474 crib1_ok=0 crib2_ok=745 both_ok=0
+out/null_3.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=4600442 crib2_ok=36628249 both_ok=0
+out/null_3_direct86k.out: SUMMARY perms=1 configs=4683474 tests=4683474 crib1_ok=0 crib2_ok=0 both_ok=0
+out/null_4.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=3005852 crib2_ok=12212281 both_ok=0
+out/null_5.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=3061125 crib2_ok=46315905 both_ok=0
+out/null_6.out: SUMMARY perms=165065 configs=14256 tests=2353166640 crib1_ok=6223413 crib2_ok=16955571 both_ok=0
+
+Planted-config recovery (behind 165,065 transpositions, 264 themed outer alphabets): 6/6
+SMT, direct, arbitrary outer alphabet: k4 unsat (proof); ctl_4 with planted outer fixed: sat (encoding check); ctl_4/null_1 unconstrained: timeout 240 s (unknown)
