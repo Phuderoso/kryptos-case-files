@@ -1,0 +1,14 @@
+K4: 0 feasible (p, S1) of 48208; periods []
+null0: 0 feasible; periods []
+null1: 0 feasible; periods []
+null2: 0 feasible; periods []
+null3: 0 feasible; periods []
+null4: 0 feasible; periods []
+null5: 0 feasible; periods []
+ctl0 p=28 S1#486: 2 feasible; true found True; periods [28]
+ctl1 p=30 S1#513: 1 feasible; true found True; periods [30]
+ctl2 p=7 S1#395: 2 feasible; true found True; periods [7]
+
+real	0m5.135s
+user	0m5.850s
+sys	0m0.060s
