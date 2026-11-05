@@ -1,0 +1,29 @@
+ctl_1: best=24 full24=8 configs>=12:1184 top: [(22, 72), (23, 16), (24, 8)]
+    CAND matches=24 perm=0 model=A mode=3 text=nohf_cols offset=124
+    CAND matches=24 perm=0 model=A mode=3 text=body_cols offset=98
+    CAND matches=24 perm=0 model=A mode=5 text=nohf_cols_rev offset=151
+ctl_2: best=24 full24=3 configs>=12:3706 top: [(20, 13), (21, 5), (24, 3)]
+    CAND matches=24 perm=19829 model=B mode=0 text=full_diag offset=68
+    CAND matches=24 perm=19829 model=B mode=0 text=full_diagRev offset=68
+    CAND matches=24 perm=19829 model=B mode=0 text=full_diagZig offset=68
+ctl_3: best=24 full24=78 configs>=12:78164 top: [(22, 24), (23, 258), (24, 78)]
+    CAND matches=24 perm=17839 model=A mode=4 text=nolab_colsBou offset=178
+    CAND matches=24 perm=17851 model=A mode=4 text=nolab_colsBou offset=178
+    CAND matches=24 perm=17923 model=A mode=4 text=nolab_colsBou offset=178
+ctl_4: best=24 full24=2 configs>=12:665 top: [(20, 10), (21, 1), (24, 2)]
+    CAND matches=24 perm=14037 model=B mode=1 text=nohf_adiagRev_rev offset=475
+    CAND matches=24 perm=14037 model=B mode=1 text=body_adiagRev_rev offset=449
+ctl_5: best=24 full24=22 configs>=12:1225 top: [(17, 45), (20, 22), (24, 22)]
+    CAND matches=24 perm=8166 model=A mode=7 text=full_rowsBou offset=230
+    CAND matches=24 perm=8166 model=A mode=7 text=full_rowsBou_rev offset=540
+    CAND matches=24 perm=8166 model=A mode=7 text=full_spiralCW offset=280
+ctl_6: best=24 full24=2 configs>=12:5428 top: [(20, 10), (21, 2), (24, 2)]
+    CAND matches=24 perm=11851 model=B mode=3 text=nohf_colsBou offset=180
+    CAND matches=24 perm=11851 model=B mode=5 text=body_colsBou_rev offset=207
+k4: best=11 full24=0 configs>=12:0 top: [(9, 6487), (10, 330), (11, 57)]
+null_1: best=12 full24=0 configs>=12:2 top: [(10, 491), (11, 10), (12, 2)]
+null_2: best=12 full24=0 configs>=12:2 top: [(10, 577), (11, 18), (12, 2)]
+null_3: best=12 full24=0 configs>=12:2 top: [(10, 396), (11, 14), (12, 2)]
+null_4: best=12 full24=0 configs>=12:1 top: [(10, 699), (11, 30), (12, 1)]
+null_5: best=11 full24=0 configs>=12:0 top: [(9, 9393), (10, 336), (11, 29)]
+null_6: best=12 full24=0 configs>=12:1 top: [(10, 543), (11, 12), (12, 1)]
