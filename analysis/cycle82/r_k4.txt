@@ -1,0 +1,7 @@
+HIT word=DROPLING om=0 fill=2 a=1 tab=AZ mode=1 p=17 checks=5
+HIT word=DROPLING om=1 fill=2 a=1 tab=AZ mode=1 p=17 checks=5
+HIT word=SODDED om=0 fill=0 a=1 tab=AZ mode=0 p=17 checks=5
+HIT word=SODDED om=0 fill=0 a=1 tab=AZ mode=2 p=17 checks=5
+HIT word=SOOGEE om=0 fill=0 a=1 tab=AZ mode=0 p=17 checks=5
+HIT word=SOOGEE om=0 fill=0 a=1 tab=AZ mode=2 p=17 checks=5
+tests=687368448 cons_by_p=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,46,33944,26437248
