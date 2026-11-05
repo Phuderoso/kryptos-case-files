@@ -1,0 +1,52 @@
+pairs=2356 texts=['K4', 'null0', 'null1', 'null2', 'null3', 'null4', 'ctl1_clean', 'ctl1_flip', 'ctl2_clean', 'ctl2_flip']
+lines=47120 (10 texts × 2356 × 2)
+=== B1 leave-one-out ===
+B1 K4: strict_pairs=0 soft_only_pairs=0
+B1 null0: strict_pairs=0 soft_only_pairs=0
+B1 null1: strict_pairs=0 soft_only_pairs=0
+B1 null2: strict_pairs=0 soft_only_pairs=0
+B1 null3: strict_pairs=0 soft_only_pairs=0
+B1 null4: strict_pairs=0 soft_only_pairs=0
+B1 ctl1_clean: strict_pairs=2 soft_only_pairs=2
+B1 ctl1_flip: strict_pairs=0 soft_only_pairs=2
+B1 ctl2_clean: strict_pairs=0 soft_only_pairs=0
+B1 ctl2_flip: strict_pairs=0 soft_only_pairs=0
+B1 wall 0.4s
+=== B2 leave-one-out ===
+B2 K4: strict_pairs=0 soft_only_pairs=0
+B2 null0: strict_pairs=0 soft_only_pairs=0
+B2 null1: strict_pairs=0 soft_only_pairs=0
+B2 null2: strict_pairs=0 soft_only_pairs=0
+B2 null3: strict_pairs=0 soft_only_pairs=0
+B2 null4: strict_pairs=0 soft_only_pairs=0
+B2 ctl1_clean: strict_pairs=0 soft_only_pairs=0
+B2 ctl1_flip: strict_pairs=0 soft_only_pairs=0
+B2 ctl2_clean: strict_pairs=2 soft_only_pairs=0
+B2 ctl2_flip: strict_pairs=0 soft_only_pairs=2
+B2 wall 153.3s
+=== CONTROL CHECKS ===
+  ctl1_clean true ctl1_clean:741:-1: nstrict_n=9 nsoft_n=3 fdrop=0 fn=26 note=pi=741 sg=-1 n=7 w=[11, 5, 13, 10, 8, 10, 11] s0=16
+  ctl1_clean PASS=True
+  ctl1_flip true ctl1_flip:384:-1: nstrict_n=0 nsoft_n=19 fdrop=5 fn=3 note=pi=384 sg=-1 n=3 w=[11, 11, 13] s0=18 flip=5
+  ctl1_flip PASS=True
+  ctl2_clean true ctl2_clean:21:1: nstrict_cfg=1 nsoft_only_cfg=0 fdrop=-1 note=pi=21 sg=1 K=38 a=8 s0=23 H=[1, 2, 3, 4, 5, 6, 7, 8]...
+  ctl2_clean PASS=True
+  ctl2_flip true ctl2_flip:1923:-1: nstrict_cfg=0 nsoft_only_cfg=1 fdrop=7 note=pi=1923 sg=-1 K=38 a=3 s0=3 H=[0, 1, 2, 3, 4, 5, 6, 7]... flip=7
+  ctl2_flip PASS=True
+=== A published-wheel leave-one-out (free alphabets) ===
+A K4: strict=0 soft_only=2
+A null0: strict=0 soft_only=14
+A null1: strict=44 soft_only=84
+A null2: strict=0 soft_only=0
+A null3: strict=2 soft_only=114
+A null4: strict=0 soft_only=68
+A ctlA_clean: strict=32 soft_only=68
+A ctlA_flip: strict=16 soft_only=72
+A wall 0.7s
+=== SUMMARY ===
+B1 K4 strict=0 soft_only=0
+B1 nulls soft_only=[0, 0, 0, 0, 0]
+B2 K4 strict=0 soft_only=0
+B2 nulls soft_only=[0, 0, 0, 0, 0]
+A K4 strict=0 soft_only=2
+controls_pass=True wall=154.9s

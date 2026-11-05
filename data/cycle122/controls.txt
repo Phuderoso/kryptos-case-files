@@ -1,0 +1,8 @@
+# Cycle 122 planted Kryha controls
+ctl1_clean pi=741 sg=-1 n=7 w=[11, 5, 13, 10, 8, 10, 11] s0=16
+ctl1_flip pi=384 sg=-1 n=3 w=[11, 11, 13] s0=18 flip=5
+ctl2_clean pi=21 sg=1 K=38 a=8 s0=23 H=[1, 2, 3, 4, 5, 6, 7, 8]...
+ctl2_flip pi=1923 sg=-1 K=38 a=3 s0=3 H=[0, 1, 2, 3, 4, 5, 6, 7]... flip=7
+A_clean planted wheel=17
+A_flip crib_idx=4
+CONTROLS_PASS True
