@@ -1,0 +1,60 @@
+== k4 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:2
+== k4 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:3 p23:34 p24:185 p25:390 p26:1860
+== null0 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:1
+== null0 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:8 p23:53 p24:160 p25:395 p26:1813
+== null1 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:1
+== null1 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:5 p23:61 p24:165 p25:404 p26:1839
+== null2 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:5
+== null2 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:2 p23:44 p24:171 p25:392 p26:1799
+== ctl1 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:2 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:1
+HIT perm 1234 alpha 1 mode vig order 0 p 10 key PALIMPSEST
+HIT perm 1234 alpha 3 mode vig order 0 p 10 key YSJHLYODOP
+== ctl1 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:1 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:1 p23:36 p24:192 p25:378 p26:1888
+== ctl2 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:4 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:1
+HIT perm 6063 alpha 1 mode beau order 0 p 6 key SWODAH
+HIT perm 6063 alpha 1 mode beau order 1 p 6 key SHADOW
+HIT perm 6063 alpha 3 mode beau order 0 p 6 key AXSEBI
+HIT perm 6063 alpha 3 mode beau order 1 p 6 key AIBESX
+== ctl2 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:2 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:7 p23:41 p24:182 p25:395 p26:1702
+== ctl3 a264
+perms 6070 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:4 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:4 p17:0 p18:0 p19:0 p20:0
+HIT perm 3035 alpha 0 mode vig order 1 p 8 key ABSCISSA
+HIT perm 3035 alpha 2 mode vig order 1 p 8 key ZARBHRRZ
+HIT perm 3035 alpha 262 mode vig order 1 p 8 key XARBHRRX
+HIT perm 3035 alpha 263 mode vig order 1 p 8 key ZXQAGQQZ
+== ctl3 a2
+perms 6070 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:1 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:1 p17:0 p18:0 p19:0 p20:0 p21:1 p22:7 p23:39 p24:186 p25:404 p26:1883
+
+real	0m4.095s
+user	0m31.371s
+sys	0m0.094s
+== k4 a20946
+perms 6070 alphabets 20946; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0
+== null0 a20946
+perms 6070 alphabets 20946; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0
+== null1 a20946
+perms 6070 alphabets 20946; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0
+== null2 a20946
+perms 6070 alphabets 20946; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0
+== ctl1 a20946
+perms 6070 alphabets 20946; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:2 p11:0 p12:0 p13:0 p14:0
+HIT perm 1234 alpha 1 mode vig order 0 p 10 key PALIMPSEST
+HIT perm 1234 alpha 3 mode vig order 0 p 10 key YSJHLYODOP
+
+real	2m8.746s
+user	16m32.601s
+sys	0m0.508s
+HIT perm 1513 alpha 64 mode beau order 1 p 20 key IVNSFXATHETXWEZHAMCT
+HIT perm 6058 alpha 124 mode beau order 1 p 20 key TEORHPZUZYIUFJWJCECW
