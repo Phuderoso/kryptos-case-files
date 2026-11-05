@@ -1,0 +1,58 @@
+== A: direct ==
+self-encryptions at [32, 73]
+ shift blk1 -3 blk2 -3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -3 blk2 -2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -3 blk2 -1: self-enc 1 
+ shift blk1 -3 blk2 +0: self-enc 1 
+ shift blk1 -3 blk2 +1: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -3 blk2 +2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -3 blk2 +3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -2 blk2 -3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -2 blk2 -2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -2 blk2 -1: self-enc 1 
+ shift blk1 -2 blk2 +0: self-enc 1 
+ shift blk1 -2 blk2 +1: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -2 blk2 +2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -2 blk2 +3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -1 blk2 -3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -1 blk2 -2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -1 blk2 -1: self-enc 1 
+ shift blk1 -1 blk2 +0: self-enc 1 
+ shift blk1 -1 blk2 +1: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -1 blk2 +2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 -1 blk2 +3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 +0 blk2 -3: self-enc 1 
+ shift blk1 +0 blk2 -2: self-enc 1 
+ shift blk1 +0 blk2 -1: self-enc 2 
+ shift blk1 +0 blk2 +0: self-enc 2 
+ shift blk1 +0 blk2 +1: self-enc 1 
+ shift blk1 +0 blk2 +2: self-enc 1 
+ shift blk1 +0 blk2 +3: self-enc 1 
+ shift blk1 +1 blk2 -3: self-enc 2 
+ shift blk1 +1 blk2 -2: self-enc 2 
+ shift blk1 +1 blk2 -1: self-enc 3 
+ shift blk1 +1 blk2 +0: self-enc 3 
+ shift blk1 +1 blk2 +1: self-enc 2 
+ shift blk1 +1 blk2 +2: self-enc 2 
+ shift blk1 +1 blk2 +3: self-enc 2 
+ shift blk1 +2 blk2 -3: self-enc 1 
+ shift blk1 +2 blk2 -2: self-enc 1 
+ shift blk1 +2 blk2 -1: self-enc 2 
+ shift blk1 +2 blk2 +0: self-enc 2 
+ shift blk1 +2 blk2 +1: self-enc 1 
+ shift blk1 +2 blk2 +2: self-enc 1 
+ shift blk1 +2 blk2 +3: self-enc 1 
+ shift blk1 +3 blk2 -3: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 +3 blk2 -2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 +3 blk2 -1: self-enc 1 
+ shift blk1 +3 blk2 +0: self-enc 1 
+ shift blk1 +3 blk2 +1: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 +3 blk2 +2: self-enc 0   <-- reflector machine NOT excluded
+ shift blk1 +3 blk2 +3: self-enc 0   <-- reflector machine NOT excluded
+== B: behind bank (sub first = A, transposition first = B) ==
+K4 (51023, 51023) (0.309, 0.309); random expectation (25/26)^24 = 0.390
+nulls A min/med/max 46685 56860 65659  B 46685 56860 65659
+K4 rank among nulls A: 3 /20 below; B: 3 /20 below
+control 0 (order A, perm 107679): survives at true perm: True; total survivors (63034, 63034)
+control 1 (order A, perm 10209): survives at true perm: True; total survivors (57061, 57061)
+control direct reflector: self-enc 0
