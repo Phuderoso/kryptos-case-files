@@ -1,0 +1,8 @@
+{
+ "N": 200000,
+ "P_eqlen_W": 0.019745,
+ "P_event_W": 0.000105,
+ "P_shape_given_eqlen_W": 0.005317801975183591,
+ "P_event_any_split_letter": 0.000565,
+ "P_shape_random_46_46_split": 0.004425
+}
