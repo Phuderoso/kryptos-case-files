@@ -40,3 +40,15 @@ Case file 80 says the cribs give 22 inner letters in the even alignment and **20
 
 ## Still open
 p = 7 (11 configs) and p = 8 (closing p ≤ 8 by divisibility); p ≥ 9 with arbitrary squares (crib-underdetermined: needs annealing on the full text with quadgrams); outer keys on other mixed alphabets; Playfair behind or in front of a transposition; seriated / two-row Playfair; the halfabet (mod-13 key on the KA halves).
+
+## Cycle 84 addendum: p = 7 and p = 8 (resumed)
+Same encoder (`tools/cycle83/sat83.py`), resumed with `tools/cycle84/run84.sh` under an 8-minute budget. Raw results: `analysis/cycle84/results_c83_c84.jsonl`.
+
+**Two new planted controls** (`mkctl84.py`, random squares, seed 8401): p 7 AZ/Beaufort/even and p 8 KA/Vigenère/odd. **2/2 SAT, and both witness keys equal the planted keys** (`XADWASO`, `GZYXIDQX`). Controls are now 6/6 across p 4–8, so the encoding is sound at the longer periods too.
+
+| K4 | done | result |
+|---|---|---|
+| p = 7 | 4/12 (KA Vig even, KA Vig odd, KA Beau even, KA Beau odd) | 4 UNSAT (16–22 s each) |
+| p = 8 | 5/12 (KA Vig odd, KA Beau odd, KA variant odd, AZ Vig odd, AZ Vig even) | 5 UNSAT (267–404 s each) |
+
+p = 8 is about 20 times harder than p = 7 for the solver, so the budget went mostly to p 8. **Still pending:** p 7 KA variant ×2, AZ ×6 (8 configs); p 8 KA Vig even, KA Beau even, KA variant even, AZ Beau ×2, AZ variant ×2 (7 configs); nulls at p 7 and the unfinished p 6 null. Rerunning `run84.sh` resumes exactly there. No verdict for p 7–8 until all 12 configs of each period are done.
