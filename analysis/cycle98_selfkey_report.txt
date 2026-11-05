@@ -1,0 +1,38 @@
+# Cycle 98 results: self-keying by transposition
+
+## K4
+tested 4083072 configs; model C best 9/24, hits(>=20) 0; model P min fails 17, hits(<=1 fail) 0
+hit lines: 0
+
+## Shuffled K4 nulls (5)
+tested 4083072 configs; model C best 8/24, hits(>=20) 0; model P min fails 16, hits(<=1 fail) 0
+tested 4083072 configs; model C best 8/24, hits(>=20) 0; model P min fails 15, hits(<=1 fail) 0
+tested 4083072 configs; model C best 10/24, hits(>=20) 0; model P min fails 15, hits(<=1 fail) 0
+tested 4083072 configs; model C best 7/24, hits(>=20) 0; model P min fails 15, hits(<=1 fail) 0
+tested 4083072 configs; model C best 8/24, hits(>=20) 0; model P min fails 16, hits(<=1 fail) 0
+
+## Planted controls
+control 1: P perms97 n=100000 inv0 KA Beau
+tested 4083072 configs; model C best 9/24, hits(>=20) 0; model P min fails 0, hits(<=1 fail) 2
+P perms97.bin n=100000 inv=0 t=1 m=1 checks=24 fail=0 WEDUGTHROUGHTHERUBBLEEASTNORTHEASTANDFO?NDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
+control 2: P dec n=12345 inv1 AZ Vig
+tested 4083072 configs; model C best 8/24, hits(>=20) 0; model P min fails 0, hits(<=1 fail) 2
+P dec_perm.bin n=12344 inv=0 t=0 m=0 checks=24 fail=0 WE?UG??RO?GHTH?R?B?LEEASTNORTHEASTAND?OU??THEDO?RUNDERTHEOLDBRIBERLINCLOCKTOWE??ST?E?UN?E?TDOWNX?
+control 3: P route n=4321 inv0 KA Var
+tested 4083072 configs; model C best 8/24, hits(>=20) 0; model P min fails 0, hits(<=1 fail) 2
+P route_perm.bin n=4321 inv=0 t=1 m=2 checks=24 fail=0 WEDUGTHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
+control 4: P affine n=500 inv0 AZ Beau
+tested 4083072 configs; model C best 8/24, hits(>=20) 0; model P min fails 0, hits(<=1 fail) 4
+P dec_perm.bin n=854 inv=0 t=0 m=1 checks=24 fail=0 WEDU?THROUGH?HERUBBLEEASTNORTHEASTAN??O?NDT?EDOO?UND?R??EOLDBRIBERLINCLOCKTOWER?STHESUN?ENTDOW?XX
+control 5: C perms97.bin n=77777 AZKA=0 m=0
+tested 4083072 configs; model C best 24/24, hits(>=20) 480; model P min fails 16, hits(<=1 fail) 0
+C perms97.bin n=35597 inv=0 t=0 m=0 ok=23 IBLMGFTLUMASTHERUSBLEEASTNORTHEASTANSUFUHMOSRUVWDUGZTJSFCNVSMRIBERLINCLOCLUGEJFOYNPKHGPBPIXYBQYXO
+control 6: C route_perm.bin n=999 AZKA=1 m=1
+tested 4083072 configs; model C best 24/24, hits(>=20) 2; model P min fails 16, hits(<=1 fail) 0
+C route_perm.bin n=999 inv=0 t=1 m=1 ok=24 IADUGTHROUGHTHFRUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXK
+control 7: C dec_perm.bin n=54321 AZKA=1 m=2
+tested 4083072 configs; model C best 24/24, hits(>=20) 2; model P min fails 16, hits(<=1 fail) 0
+C dec_perm.bin n=54320 inv=1 t=1 m=2 ok=24 JESHGYHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHJOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWNXX
+control 8: C affine.bin n=3000 AZKA=0 m=0
+tested 4083072 configs; model C best 24/24, hits(>=20) 4; model P min fails 16, hits(<=1 fail) 0
+C dec_perm.bin n=5228 inv=0 t=0 m=0 ok=24 QETUGTHROUGHTHERUBBLEEASTNORTHEASTANDFOUNDTHEDOORUNDERTHEOLDBRIBERLINCLOCKTOWERASTHESUNWENTDOWAXX
