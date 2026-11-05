@@ -1,0 +1,62 @@
+# Cycle 109 results (bundled). Controls first, then K4 and shuffled nulls per configuration.
+# Counts are exact numbers of column orders consistent with all 24 crib letters; T/O = 20 s timeout per count.
+# Files captured about 3 minutes after launch; w13 p13 dir1 and w21 p7 dir1 nulls were still running, w21 p21 dir1 timed out.
+
+## controls
+CTL w14 p7 dir1 varAZ: true order accepted=True consistent orders=1451520 (0.0s)
+CTL w14 p14 dir1 beauKA: true order accepted=True consistent orders=3628800 (5.9s)
+CTL w13 p13 dir1 beauKA: true order accepted=True consistent orders=6480 (11.6s)
+CTL w21 p3 dir0 varKA: true order accepted=True consistent orders=80640 (0.2s)
+CTL w21 p7 dir0 vigKA: true order accepted=True consistent orders=40320 (0.9s)
+CTL w21 p21 dir0 vigAZ: true order accepted=True consistent orders=2580480 (4.7s)
+CTL w21 p3 dir1 varKA: true order accepted=True consistent orders=15240960000 (1.1s)
+CTL w21 p7 dir1 beauAZ: true order accepted=True consistent orders=11612160000 (9.2s)
+CTL w21 p21 dir1 beauAZ: true order accepted=True consistent orders=TIMEOUT (90.0s)
+
+## k4_13,13,1.txt
+K4 w13 p13 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w13 p13 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_14,14,1.txt
+K4 w14 p14 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w14 p14 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w14 p14 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w14 p14 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_14,7,1.txt
+K4 w14 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w14 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w14 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w14 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,21,0.txt
+K4 w21 p21 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w21 p21 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w21 p21 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w21 p21 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,21,1.txt
+K4 w21 p21 dir1: vigAZ=T/O beauAZ=T/O varAZ=T/O vigKA=T/O beauKA=T/O varKA=T/O
+
+## k4_21,3,0.txt
+K4 w21 p3 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w21 p3 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w21 p3 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w21 p3 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,3,1.txt
+K4 w21 p3 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w21 p3 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w21 p3 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w21 p3 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,7,0.txt
+K4 w21 p7 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w21 p7 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w21 p7 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null2 w21 p7 dir0: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+
+## k4_21,7,1.txt
+K4 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null0 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
+null1 w21 p7 dir1: vigAZ=0 beauAZ=0 varAZ=0 vigKA=0 beauKA=0 varKA=0
