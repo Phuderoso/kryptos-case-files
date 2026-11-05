@@ -1,0 +1,113 @@
+== ctl_0
+HIT F0 perm=132176 tab=KA mode=0 p=7 b=2 checks=17
+HIT F0 perm=132176 tab=KA mode=0 p=14 b=2 checks=10
+HIT F0 perm=132176 tab=KA mode=0 p=14 b=9 checks=10
+HIT F0 perm=132176 tab=KA mode=0 p=15 b=14 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=16 b=5 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=16 b=12 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=17 b=3 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=17 b=10 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=18 b=1 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=18 b=8 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=19 b=6 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=19 b=18 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=20 b=4 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=20 b=17 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=21 b=2 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=21 b=16 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=22 b=0 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=22 b=15 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=23 b=14 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=23 b=21 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=24 b=13 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=24 b=20 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=25 b=12 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=25 b=19 checks=9
+HIT F0 perm=132176 tab=KA mode=0 p=26 b=11 checks=8
+HIT F0 perm=132176 tab=KA mode=0 p=26 b=18 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=7 b=2 checks=17
+HIT F0 perm=132176 tab=KA mode=2 p=14 b=2 checks=10
+HIT F0 perm=132176 tab=KA mode=2 p=14 b=9 checks=10
+HIT F0 perm=132176 tab=KA mode=2 p=15 b=14 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=16 b=5 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=16 b=12 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=17 b=3 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=17 b=10 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=18 b=1 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=18 b=8 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=19 b=6 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=19 b=18 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=20 b=4 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=20 b=17 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=21 b=2 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=21 b=16 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=22 b=0 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=22 b=15 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=23 b=14 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=23 b=21 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=24 b=13 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=24 b=20 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=25 b=12 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=25 b=19 checks=9
+HIT F0 perm=132176 tab=KA mode=2 p=26 b=11 checks=8
+HIT F0 perm=132176 tab=KA mode=2 p=26 b=18 checks=9
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=1)=581520
+F0 consistent-by-checks: 0:5942340 1:297520 2:15097 3:2142 4:13 8:22 9:24 10:4 17:2
+F1 consistent-by-checks: 1:143687 2:5358 3:47 4:2
+F2 consistent-by-checks: 1:110574 2:6854 3:171 4:3
+== ctl_1
+HIT F0 perm=102543 tab=AZ mode=1 p=11 b=6 checks=13
+HIT F0 perm=102543 tab=AZ mode=1 p=14 b=11 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=15 b=9 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=16 b=7 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=17 b=5 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=18 b=3 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=19 b=1 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=20 b=19 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=21 b=18 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=22 b=17 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=23 b=16 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=24 b=15 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=25 b=14 checks=10
+HIT F0 perm=102543 tab=AZ mode=1 p=26 b=13 checks=10
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=1)=505871
+F0 consistent-by-checks: 0:5942340 1:264808 2:15684 3:540 4:26 10:13 13:1
+F1 consistent-by-checks: 1:109126 2:5002 3:85 4:11
+F2 consistent-by-checks: 1:105179 2:5198 3:166 4:32
+== ctl_2
+HIT F1 perm=100919 tab=KA mode=0 L=8 d=none checks=8
+HIT F1 perm=100919 tab=KA mode=0 L=8 d=-10 checks=11
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=1)=558096
+F0 consistent-by-checks: 0:5942340 1:294880 2:11897 3:379 4:42 5:1
+F1 consistent-by-checks: 1:117861 2:10711 3:377 4:241 8:1 11:1
+F2 consistent-by-checks: 1:116439 2:5108 3:154 4:4
+== ctl_3
+HIT F1 perm=150859 tab=AZ mode=2 L=any d=5 checks=6
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=1)=566249
+F0 consistent-by-checks: 0:5942340 1:305660 2:16040 3:338 4:1
+F1 consistent-by-checks: 1:118958 2:9653 3:113 4:2 6:1
+F2 consistent-by-checks: 1:109508 2:5676 3:294 4:5
+== ctl_4
+HIT F2 perm=11108 tab=KA mode=1 L=3 d=none checks=18
+HIT F2 perm=11108 tab=KA mode=1 L=3 d=-10 checks=21
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=1)=573913
+F0 consistent-by-checks: 0:5942340 1:329620 2:14923 3:501 4:13
+F1 consistent-by-checks: 1:98619 2:4762 3:63 4:9
+F2 consistent-by-checks: 1:119189 2:6006 3:198 4:8 18:1 21:1
+== ctl_5
+HIT F2 perm=26771 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=26819 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=33731 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=33779 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=36851 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=36899 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=54131 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=54179 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=64211 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=64259 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=68771 tab=AZ mode=0 L=any d=-2 checks=11
+HIT F2 perm=68819 tab=AZ mode=0 L=any d=-2 checks=11
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=1)=527442
+F0 consistent-by-checks: 0:5942340 1:272096 2:15725 3:605 4:41
+F1 consistent-by-checks: 1:122695 2:7609 3:562 4:3
+F2 consistent-by-checks: 1:101980 2:5888 3:219 4:6 5:1 11:12

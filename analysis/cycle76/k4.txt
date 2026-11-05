@@ -1,0 +1,6 @@
+HIT F0 perm=128252 tab=AZ mode=0 p=19 b=13 checks=5
+HIT F0 perm=128252 tab=AZ mode=2 p=19 b=13 checks=5
+perms=165065 tests F0=347626890 F1=111914070 F2=111914070 hits(checks>=5)=2
+F0 consistent-by-checks: 0:5942340 1:284572 2:14025 3:490 4:10 5:2
+F1 consistent-by-checks: 1:130833 2:3906 3:115 4:6
+F2 consistent-by-checks: 1:116202 2:5684 3:269 4:4
