@@ -1,0 +1,20 @@
+# K4 and nulls, 41 alphabets p<=6
+== k4 a41 p<=6
+TOTAL 0   (timing run, same binary)
+== null0 a41 p<=6
+TOTAL 0
+== null1 a41 p<=6
+TOTAL 0
+== null2 a41 p<=6
+TOTAL 0
+DONE
+
+# A-Z/KRYPTOS/Z-A p<=8
+== k4 a3 p<=8
+TOTAL 0
+== null0 a3 p<=8
+TOTAL 0
+== null1 a3 p<=8
+TOTAL 0
+== null2 a3 p<=8
+TOTAL 0

@@ -1,0 +1,41 @@
+== sctl0
+  HIT vig A p=7 tau: .35.42. .71.23. .62.71. .46.57. .14.3.. .23.1.. .5..6..
+  HIT vig A p=7 tau: .35.42. .71.26. .62.71. .46.57. .14.3.. .23.1.. .5..6..
+  HIT vig A p=7 tau: .35.42. .71.23. .62.71. .46.57. .14.3.. .23.1.. .5..6..
+98 ?start nullPTend forward case A vig p=7: 12 partial-square solutions
+TOTAL 12
+== sctl1
+  HIT beau B p=5 tau: ....... ....... .761324 3276451 ..13265 ....... .......
+  HIT beau B p=5 tau: ....... ....... .761324 3276451 ..43265 ....... .......
+  HIT beau B p=5 tau: ....... ....... .761324 3276451 ..13265 ....... .......
+98 ?end nullPTstart inverse case B beau p=5: 8 partial-square solutions
+TOTAL 8
+== sctl2
+  HIT vig B p=4 tau: .25.71. .47.62. .16.24. .71.35. .54.1.. .63.5.. .3..4..
+  HIT vig B p=4 tau: .25.71. .47.62. .16.24. .71.35. .54.1.. .63.5.. .3..4..
+  HIT vig B p=4 tau: .25.76. .47.62. .16.24. .71.35. .54.1.. .63.5.. .3..4..
+98 ?end nullPTend forward case B vig p=4: 4 partial-square solutions
+  HIT vig B p=4 tau: .25.71. .47.62. .16.24. .71.35. .54.1.. .63.5.. .3..4.5
+  HIT vig B p=4 tau: .25.71. .47.62. .16.24. .71.35. .54.1.. .63.5.. .3..4.6
+  HIT vig B p=4 tau: .25.71. .47.62. .16.24. .71.35. .54.1.. .63.5.. .3..4.7
+97 irregular (last cell empty) forward case B vig p=4: 12 partial-square solutions
+TOTAL 16
+== sctl3
+  HIT beau A p=6 tau: .67.35. .41.72. .16.23. .54.67. .72.5.. .23.4.. .3..1..
+  HIT beau A p=6 tau: .67.35. .41.72. .16.23. .54.67. .72.5.. .23.4.. .3..1..
+98 ?end nullPTend forward case A beau p=6: 2 partial-square solutions
+  HIT beau A p=6 tau: .67.35. .41.72. .16.23. .54.67. .72.5.. .23.4.. .3..1.4
+  HIT beau A p=6 tau: .67.35. .41.72. .16.23. .54.67. .72.5.. .23.4.. .3..1.5
+  HIT beau A p=6 tau: .67.35. .41.72. .16.23. .54.67. .72.5.. .23.4.. .3..1.6
+97 irregular (last cell empty) forward case A beau p=6: 8 partial-square solutions
+TOTAL 10
+== sctl4
+  HIT vig A p=3 tau: ....... ....... .136472 4751236 ..14365 ....... .......
+  HIT vig A p=3 tau: ....... ....... .136472 4751236 ..24365 ....... .......
+  HIT vig A p=3 tau: ....... ....... .136472 4751236 ..74365 ....... .......
+98 ?start nullPTstart inverse case A vig p=3: 3 partial-square solutions
+  HIT vig A p=6 tau: ....... ....... .136472 4751236 ..14365 ....... .......
+  HIT vig A p=6 tau: ....... ....... .136472 4751236 ..24365 ....... .......
+  HIT vig A p=6 tau: ....... ....... .136472 4751236 ..74365 ....... .......
+98 ?start nullPTstart inverse case A vig p=6: 3 partial-square solutions
+TOTAL 6
