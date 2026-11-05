@@ -1,0 +1,28 @@
+== k4 (264 themed alphabets, p<=16)
+perms 159712 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0
+== null0 (264 themed alphabets, p<=16)
+perms 159712 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0
+== null1 (264 themed alphabets, p<=16)
+perms 159712 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0
+== null2 (264 themed alphabets, p<=16)
+perms 159712 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0
+== ctl1 (264 themed alphabets, p<=16)
+perms 159712 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:2 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0
+HIT perm 11534 alpha 1 mode vig order 0 p 8 key ABSCISSA
+HIT perm 11534 alpha 3 mode vig order 0 p 8 key SAOBHOOS
+== ctl2 (264 themed alphabets, p<=16)
+perms 159712 alphabets 264; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:2 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0
+HIT perm 64322 alpha 1 mode vig order 1 p 10 key PA?IMPSEST
+HIT perm 64322 alpha 3 mode vig order 1 p 10 key YS?HLYODOP
+== k4 (A-Z/KRYPTOS, p<=26)
+perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:20 p23:39 p24:668 p25:516 p26:28910
+== null0 (A-Z/KRYPTOS, p<=26)
+perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:20 p23:69 p24:578 p25:540 p26:28498
+== null1 (A-Z/KRYPTOS, p<=26)
+perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:4 p23:35 p24:602 p25:554 p26:28851
+== null2 (A-Z/KRYPTOS, p<=26)
+perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:33 p23:48 p24:653 p25:525 p26:28739
+== ctl1 (A-Z/KRYPTOS, p<=26)
+perms 159712 alphabets 2; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:1 p9:0 p10:0 p11:0 p12:0 p13:0 p14:0 p15:0 p16:0 p17:0 p18:0 p19:0 p20:0 p21:0 p22:16 p23:51 p24:621 p25:508 p26:27098
+== k4 (20,946 alphabets, p<=12)
+perms 159712 alphabets 20946; minimal-period hits: p1:0 p2:0 p3:0 p4:0 p5:0 p6:0 p7:0 p8:0 p9:0 p10:0 p11:0 p12:0
