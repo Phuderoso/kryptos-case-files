@@ -1,0 +1,31 @@
+ctl_1: best=24 full24=24 configs>=12:864 top: [(15, 120), (23, 72), (24, 24)]
+    CAND matches=24 perm=15007 model=A mode=0 text=K2pt_carved_noX offset=150
+    CAND matches=24 perm=15007 model=A mode=0 text=K2pt_fixed_noX offset=150
+    CAND matches=24 perm=15007 model=A mode=0 text=K123pt_noX offset=213
+ctl_2: best=24 full24=4 configs>=12:124 top: [(17, 24), (18, 4), (24, 4)]
+    CAND matches=24 perm=10557 model=B mode=4 text=K2pt_carved_noX offset=76
+    CAND matches=24 perm=10557 model=B mode=4 text=K2pt_fixed_noX offset=76
+    CAND matches=24 perm=10557 model=B mode=4 text=K123pt_noX offset=139
+ctl_3: best=24 full24=12 configs>=12:29790 top: [(22, 60), (23, 36), (24, 12)]
+    CAND matches=24 perm=19569 model=A mode=3 text=full_cols_noX offset=158
+    CAND matches=24 perm=19569 model=A mode=3 text=nolab_cols_noX offset=133
+    CAND matches=24 perm=19597 model=A mode=3 text=full_cols_noX offset=158
+ctl_4: best=24 full24=3 configs>=12:810 top: [(20, 12), (21, 3), (24, 3)]
+    CAND matches=24 perm=12455 model=B mode=1 text=K3pt_noX offset=210
+    CAND matches=24 perm=12455 model=B mode=1 text=K123pt_noX offset=636
+    CAND matches=24 perm=12455 model=B mode=1 text=K123pt_K0_noX offset=717
+ctl_5: best=24 full24=3 configs>=12:6072 top: [(22, 6), (23, 6), (24, 3)]
+    CAND matches=24 perm=2378 model=A mode=2 text=KAtableau_rows_noX offset=409
+    CAND matches=24 perm=2378 model=A mode=2 text=nohf_cols_noX offset=434
+    CAND matches=24 perm=2378 model=A mode=2 text=body_cols_noX offset=409
+ctl_6: best=24 full24=4 configs>=12:376 top: [(18, 36), (19, 12), (24, 4)]
+    CAND matches=24 perm=3225 model=A mode=5 text=K2ct_rev_noX offset=354
+    CAND matches=24 perm=3225 model=A mode=5 text=K123ct_rev_noX offset=327
+    CAND matches=24 perm=9039 model=A mode=5 text=K2ct_rev_noX offset=354
+k4: best=11 full24=0 configs>=12:0 top: [(9, 7734), (10, 469), (11, 25)]
+null_1: best=12 full24=0 configs>=12:11 top: [(10, 911), (11, 93), (12, 11)]
+null_2: best=12 full24=0 configs>=12:5 top: [(10, 494), (11, 21), (12, 5)]
+null_3: best=12 full24=0 configs>=12:1 top: [(10, 450), (11, 35), (12, 1)]
+null_4: best=11 full24=0 configs>=12:0 top: [(9, 9458), (10, 826), (11, 310)]
+null_5: best=11 full24=0 configs>=12:0 top: [(9, 8256), (10, 604), (11, 43)]
+null_6: best=11 full24=0 configs>=12:0 top: [(9, 7373), (10, 439), (11, 10)]
