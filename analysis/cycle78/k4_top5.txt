@@ -1,0 +1,4 @@
+HIT perm=151422 tab=AZ mode=0 model=C start=26 p=25 checks=5 | YL.....BEVMBKO.M.....EASTNORTHEAST......H.EF...EX.....VB.......BERLINCLOCK.......R.....U.....B.U. | qg/4gram -4.92
+HIT perm=151422 tab=AZ mode=0 model=C start=27 p=25 checks=5 | YL.....BEVMBKO.M.....EASTNORTHEAST......H.EF...EX.....VB.......BERLINCLOCK.......R.....U.....B.U. | qg/4gram -4.92
+HIT perm=151422 tab=AZ mode=2 model=C start=26 p=25 checks=5 | YL.....BEVMBKO.M.....EASTNORTHEAST......H.EF...EX.....VB.......BERLINCLOCK.......R.....U.....B.U. | qg/4gram -4.92
+HIT perm=151422 tab=AZ mode=2 model=C start=27 p=25 checks=5 | YL.....BEVMBKO.M.....EASTNORTHEAST......H.EF...EX.....VB.......BERLINCLOCK.......R.....U.....B.U. | qg/4gram -4.92

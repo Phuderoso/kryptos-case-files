@@ -1,0 +1,318 @@
+{
+ "k4_consistent": 60,
+ "k4_tests": 744,
+ "k4_best": [
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 26,
+   "p": 26,
+   "partial": ".....FXP.......RPYZKYEASTNORTHEAST...NPTE......................BERLINCLOCKHNNKEWBFBMJF.......EXXN",
+   "qg": -6.159353133400579,
+   "n4": 38
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 26,
+   "p": 27,
+   "partial": ".....OV..............EASTNORTHEAST..FGMR.......................BERLINCLOCK....................QVM",
+   "qg": -4.357284576850841,
+   "n4": 19
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 26,
+   "p": 28,
+   "partial": ".....P...............EASTNORTHEAST..SYI........................BERLINCLOCK.....................MJ",
+   "qg": -4.128855488548501,
+   "n4": 18
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 26,
+   "p": 29,
+   "partial": ".....................EASTNORTHEAST..UZ.........................BERLINCLOCK......................F",
+   "qg": -4.128855488548501,
+   "n4": 18
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 26,
+   "p": 30,
+   "partial": ".....FY..............EASTNORTHEASTWEM..............SAGQKLVLRBDZBERLINCLOCK.......................",
+   "qg": -5.675417324179381,
+   "n4": 33
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 27,
+   "p": 26,
+   "partial": "....NFXP......ZRPYZKYEASTNORTHEAST...NPT.......................BERLINCLOCKHNNKEWBFBMJF......SEXXN",
+   "qg": -6.2748358850451975,
+   "n4": 40
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 27,
+   "p": 27,
+   "partial": "....YOV..............EASTNORTHEAST..FGM........................BERLINCLOCK...................UQVM",
+   "qg": -4.357284576850841,
+   "n4": 19
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 27,
+   "p": 28,
+   "partial": "....UP...............EASTNORTHEAST.NSY.........................BERLINCLOCK....................TMJ",
+   "qg": -4.128855488548501,
+   "n4": 18
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 27,
+   "p": 29,
+   "partial": "....N................EASTNORTHEAST.GU..........................BERLINCLOCK.....................YF",
+   "qg": -4.128855488548501,
+   "n4": 18
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 27,
+   "p": 30,
+   "partial": "....GF...............EASTNORTHEASTWY...............SAGQKLVLRBDZBERLINCLOCK......................V",
+   "qg": -5.812736442823283,
+   "n4": 32
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "B",
+   "model": "C",
+   "start": 26,
+   "p": 26,
+   "partial": ".....YHO.......ZOFOSFEASTNORTHEAST...WNXW......................BERLINCLOCKTWNJPCTQMKKK.......NHQI",
+   "qg": -6.050108826180786,
+   "n4": 38
+  },
+  {
+   "checks": 0,
+   "tableau": "KA",
+   "mode": "B",
+   "model": "C",
+   "start": 26,
+   "p": 27,
+   "partial": ".....AF..............EASTNORTHEAST..TCDA.......................BERLINCLOCK....................DJK",
+   "qg": -4.357284576850841,
+   "n4": 19
+  }
+ ],
+ "nulls": [
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 66,
+   "max_checks": 1
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 66,
+   "max_checks": 1
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  },
+  {
+   "consistent": 60,
+   "max_checks": 0
+  }
+ ],
+ "controls": [
+  {
+   "tableau": "KA",
+   "mode": "X",
+   "model": "C",
+   "start": 26,
+   "p": 5,
+   "recovered": true,
+   "checks": 17,
+   "rank_by_checks": 1,
+   "qg": -4.402361879019305,
+   "partial": ".....ISTHEYSHOULDITSBEASTNORTHEASTSOMEWHEREXWHOKNOWSTHEEXACTLOCBERLINCLOCKTHISWASHISLASTMESSAGEXT"
+  },
+  {
+   "tableau": "AZ",
+   "mode": "B",
+   "model": "R",
+   "start": 26,
+   "p": 13,
+   "recovered": true,
+   "checks": 9,
+   "rank_by_checks": 1,
+   "qg": -4.7161132254394325,
+   "partial": ".....THATPOSSIBLETHEYEASTNORTHEASTMAGNETICFIELDXTHEINFORMATIONWBERLINCLOCKNDTRANSMITTEDUNDERGRUUN"
+  },
+  {
+   "tableau": "KA",
+   "mode": "B",
+   "model": "R",
+   "start": 26,
+   "p": 13,
+   "recovered": true,
+   "checks": 9,
+   "rank_by_checks": 1,
+   "qg": -4.684218027239644,
+   "partial": ".....NETICFIELDXTHEINEASTNORTHEASTATHEREDANDTRANSMITTEDUNDERGRUBERLINCLOCKOWNLOCATIONXDOESLANGLEY"
+  },
+  {
+   "tableau": "KA",
+   "mode": "V",
+   "model": "C",
+   "start": 26,
+   "p": 7,
+   "recovered": true,
+   "checks": 15,
+   "rank_by_checks": 1,
+   "qg": -4.4266409773865885,
+   "partial": ".....FIFTYSEVENMINUTEEASTNORTHEASTSECONDSNORTHSEVENTYSEVENDEGREBERLINCLOCKTESFORTYFOURSECONDSWEST"
+  },
+  {
+   "tableau": "KA",
+   "mode": "B",
+   "model": "C",
+   "start": 27,
+   "p": 5,
+   "recovered": true,
+   "checks": 17,
+   "rank_by_checks": 1,
+   "qg": -4.7566508143478625,
+   "partial": "....KNOWSTHEEXACTLOCAEASTNORTHEASTSWASHISLASTMESSAGEXTHIRTYEIGHBERLINCLOCKTYSEVENMINUTESSIXPOINTF"
+  },
+  {
+   "tableau": "KA",
+   "mode": "B",
+   "model": "C",
+   "start": 26,
+   "p": 10,
+   "recovered": true,
+   "checks": 12,
+   "rank_by_checks": 1,
+   "qg": -4.781600770679343,
+   "partial": ".....ACTLOCATIONONLYWEASTNORTHEASTSTMESSAGEXTHIRTYEIGHTDEGREESFBERLINCLOCKNUTESSIXPOINTFIVESECOND"
+  },
+  {
+   "tableau": "KA",
+   "mode": "B",
+   "model": "C",
+   "start": 26,
+   "p": 7,
+   "recovered": true,
+   "checks": 15,
+   "rank_by_checks": 1,
+   "qg": -4.654666699395405,
+   "partial": ".....OSSIBLETHEYUSEDTEASTNORTHEASTTICFIELDXTHEINFORMATIONWASGATBERLINCLOCKNSMITTEDUNDERGRUUNDTOAN"
+  },
+  {
+   "tableau": "KA",
+   "mode": "V",
+   "model": "R",
+   "start": 27,
+   "p": 13,
+   "recovered": true,
+   "checks": 9,
+   "rank_by_checks": 1,
+   "qg": -4.485201177089129,
+   "partial": "....IONXDOESLANGLEYKNEASTNORTHEASTEYSHOULDITSBURIEDOUTTHERESOMEBERLINCLOCKOWSTHEEXACTLOCATIONONLY"
+  }
+ ]
+}

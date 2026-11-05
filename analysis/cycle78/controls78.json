@@ -1,0 +1,62 @@
+[
+ {
+  "ctl": 0,
+  "ct": "WPNZXBSGXCBXRSKDHHOWVKDLFOWVBRILKCTKDAUOIBUELLJSTVDVLKNXMZGWRHWJTFZTVHKMIOIRPGWYYALSVLJNLZDUQJAEL",
+  "perm": 87437,
+  "tab": "KA",
+  "mode": 2,
+  "model": "C",
+  "start": 27,
+  "p": 7
+ },
+ {
+  "ctl": 1,
+  "ct": "RQRCCSGUEBKCPQQPOENJUPJOKPQAYEEUEHFYGRRTXDUVOMMOOGRBEGVZIEVTHRBJBKKFVQSHJTAHIMSZYTLFZHSACFVRKBANE",
+  "perm": 67023,
+  "tab": "KA",
+  "mode": 0,
+  "model": "C",
+  "start": 26,
+  "p": 13
+ },
+ {
+  "ctl": 2,
+  "ct": "NLGCQYBMIAGUQIQEMFKVGDRWUHVFVSNYRGKZTHHBQCARLOMQSUBVUZSXGPDZHASUGCZKWXZMSNAQKCZTSYTSOOBFSFMSYGWNG",
+  "perm": 83206,
+  "tab": "AZ",
+  "mode": 2,
+  "model": "C",
+  "start": 27,
+  "p": 8
+ },
+ {
+  "ctl": 3,
+  "ct": "UXALTOBEFXFZWTUXFLMVCRVLBQGEFVMRALEHHTDHETIGVYQQALYIWETFYRFYMAHUWWCRDPWLAGLJIYPNKUSVWJZIRPLVGRVSU",
+  "perm": 2875,
+  "tab": "KA",
+  "mode": 0,
+  "model": "R",
+  "start": 27,
+  "p": 8
+ },
+ {
+  "ctl": 4,
+  "ct": "IAOUYQRBEUSDEDFUCJDYIYVCQXCEWQTDPMHKSCNWSCNPWXTFVMVAWELHEHVULKPPYPAAIRJQXSPMBOAUADOIUQJVTHIPLIIWU",
+  "perm": 149277,
+  "tab": "KA",
+  "mode": 0,
+  "model": "R",
+  "start": 26,
+  "p": 5
+ },
+ {
+  "ctl": 5,
+  "ct": "BUCCHUHUXZYBGLHERXMXOXOWNMTQQNBELNDXGSVUHDYDHCDDLZMDRJWDMYGITZOZHBWTLJFMTJLNTPYMCYKKTWYFVGTLKIWKJ",
+  "perm": 126666,
+  "tab": "KA",
+  "mode": 2,
+  "model": "R",
+  "start": 26,
+  "p": 10
+ }
+]
