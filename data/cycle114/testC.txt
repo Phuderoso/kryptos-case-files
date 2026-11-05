@@ -1,0 +1,20 @@
+n=1 sigma=+1  K4 UNSAT  nulls SAT 0/10 UNSAT 10 UNKNOWN 0
+n=1 sigma=-1  K4 UNSAT  nulls SAT 0/10 UNSAT 10 UNKNOWN 0
+n=2 sigma=+1  K4 UNSAT  nulls SAT 3/10 UNSAT 7 UNKNOWN 0
+n=2 sigma=-1  K4 UNSAT  nulls SAT 3/10 UNSAT 7 UNKNOWN 0
+n=3 sigma=+1  K4 UNSAT  nulls SAT 2/10 UNSAT 8 UNKNOWN 0
+n=3 sigma=-1  K4 UNSAT  nulls SAT 2/10 UNSAT 8 UNKNOWN 0
+n=4 sigma=+1  K4 UNSAT  nulls SAT 6/10 UNSAT 4 UNKNOWN 0
+n=4 sigma=-1  K4 UNSAT  nulls SAT 6/10 UNSAT 4 UNKNOWN 0
+n=5 sigma=+1  K4 SAT  nulls SAT 6/10 UNSAT 4 UNKNOWN 0
+n=5 sigma=-1  K4 SAT  nulls SAT 6/10 UNSAT 4 UNKNOWN 0
+n=6 sigma=+1  K4 UNSAT  nulls SAT 7/10 UNSAT 3 UNKNOWN 0
+n=6 sigma=-1  K4 UNSAT  nulls SAT 7/10 UNSAT 3 UNKNOWN 0
+n=7 sigma=+1  K4 UNSAT  nulls SAT 8/10 UNSAT 1 UNKNOWN 1
+n=7 sigma=-1  K4 UNSAT  nulls SAT 8/10 UNSAT 0 UNKNOWN 2
+control n=3 sigma=+1 teeth=[4, 2, 4]: SAT; with the true wheel fixed: SAT
+control n=1 sigma=-1 teeth=[1]: SAT; with the true wheel fixed: SAT
+control n=4 sigma=+1 teeth=[5, 3, 5, 4]: SAT; with the true wheel fixed: SAT
+control n=4 sigma=-1 teeth=[5, 6, 5, 5]: SAT; with the true wheel fixed: SAT
+control n=3 sigma=-1 teeth=[1, 1, 4]: SAT; with the true wheel fixed: SAT
+control n=2 sigma=+1 teeth=[4, 5]: SAT; with the true wheel fixed: SAT
