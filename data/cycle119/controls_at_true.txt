@@ -1,0 +1,14 @@
+Planted controls checked at their true (perm, pair, sg), with the flip applied to the intermediate
+letter feeding one crib (carved position P[cpos[k]]), which is the letter the crib test actually reads.
+
+Clean plants recover m0 = |S| (and m1 <= |S|):
+  |S|=3: m0=3 m1=3
+  |S|=4: m0=4 m1=4
+  |S|=5: m0=5 m1=4..5  (m1 can under-count when a step value appears only next to the dropped crib)
+
+After one intermediate-crib flip, m1 recovers to <= |S| in every trial (3 per size):
+  |S|=3: after flip m0=4..5, m1=3
+  |S|=4: after flip m0=4..5, m1=3..4
+  |S|=5: after flip m0=5..6, m1=4..5
+
+K4's only m1=5 config (threshold-5 rescan): perm=104010 pair=707 sg=+/-1 m1=5 drop=19 m0=7.
