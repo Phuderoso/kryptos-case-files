@@ -1,0 +1,6 @@
+Cycle 89: W as WORD SEPARATOR, key restarting at each block (W dropped). Smallest consistent period counted, p 1-20.
+basic (plain/cipher alphabet each A-Z or KRYPTOS, mod 26), Vigenere/Beaufort: K4 {} ; nulls (non-W letters shuffled, Ws kept in place) {} {} {} ; control ctl.txt (KA, key LUCID) recovered at p5
+w25 (same alphabets with W removed, mod 25): K4 {} ; nulls {} {} {} ; control ctl25.txt (KA-W, KRYPTOS) recovered at p7
+themed (86,731 keyed alphabets, Quagmire III, mod 26): K4 {} ; nulls {} {} ; control ctl_th0.txt (alphabet #5000, LUCID) recovered at p5
+themed25 (same with W removed, mod 25): K4 {} ; nulls {} {} ; control ctl_th1.txt recovered at p5
+Side note: with a 26-letter cipher alphabet, P(no W among 92 enciphered letters) ~ (25/26)^92 = 0.027, so a separator reading of W favours a 25-letter (W-less) cipher alphabet.
