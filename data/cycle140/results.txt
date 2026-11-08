@@ -1,0 +1,20 @@
+# Cycle 140 — ptfree behind the 165k bank, words 601–3600 of all.txt (lines 601–3600 of allA.txt)
+# K4: full bank (330,130 perms incl. inverses), both index orders; nulls: every 10th bank entry
+T K4 356
+T nulls 72
+C K4 tests 4341964500 hits 0 nperm=165065 words=0..375 minchk=5
+C K4 tests 4341964500 hits 0 nperm=165065 words=375..750 minchk=5
+C K4 tests 4341964500 hits 2 nperm=165065 words=750..1125 minchk=5
+C K4 tests 4341964500 hits 4 nperm=165065 words=1125..1500 minchk=5
+C K4 tests 4341964500 hits 4 nperm=165065 words=1500..1875 minchk=5
+C K4 tests 4341964500 hits 4 nperm=165065 words=1875..2250 minchk=5
+C K4 tests 4341964500 hits 2 nperm=165065 words=2250..2625 minchk=5
+C K4 tests 4341964500 hits 4 nperm=165065 words=2625..3000 minchk=5
+C null1 tests 867967500 hits 1 nperm=16507 words=0..750 minchk=5
+C null1 tests 867967500 hits 0 nperm=16507 words=750..1500 minchk=5
+C null1 tests 867967500 hits 0 nperm=16507 words=1500..2250 minchk=5
+C null1 tests 867967500 hits 0 nperm=16507 words=2250..3000 minchk=5
+C null2 tests 867967500 hits 0 nperm=16507 words=0..750 minchk=5
+C null2 tests 867967500 hits 0 nperm=16507 words=750..1500 minchk=5
+C null2 tests 867967500 hits 1 nperm=16507 words=1500..2250 minchk=5
+C null2 tests 867967500 hits 1 nperm=16507 words=2250..3000 minchk=5
