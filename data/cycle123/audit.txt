@@ -1,0 +1,40 @@
+# Cycle 123 audit: 165,065-transposition bank frame vs textbook keyword columnar
+
+## sigma / sigma^-1 lookup (frame_audit.py)
+bank size 165065
+KRYPTOS     COL: sigma(enc frame) idx=2812  sigma^-1 idx=2811
+KRYPTOS     ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+BERLIN      COL: sigma(enc frame) idx=336  sigma^-1 idx=335
+BERLIN      ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+CLOCK       COL: sigma(enc frame) idx=98  sigma^-1 idx=97
+CLOCK       ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+SHADOW      COL: sigma(enc frame) idx=898  sigma^-1 idx=897
+SHADOW      ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+PALIMPSEST  COL: sigma(enc frame) idx=None  sigma^-1 idx=None
+PALIMPSEST  ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+ABSCISSA    COL: sigma(enc frame) idx=20526  sigma^-1 idx=20525
+ABSCISSA    ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+LAYERTWO    COL: sigma(enc frame) idx=24996  sigma^-1 idx=24995
+LAYERTWO    ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+COMPASS     COL: sigma(enc frame) idx=7554  sigma^-1 idx=7553
+COMPASS     ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+NORTHEAST   COL: sigma(enc frame) idx=None  sigma^-1 idx=None
+NORTHEAST   ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+LODESTONE   COL: sigma(enc frame) idx=None  sigma^-1 idx=None
+LODESTONE   ROW: sigma(enc frame) idx=None  sigma^-1 idx=None
+
+## planted controls (plant.py, rotations 0): name ciphertext
+a1 KIOMDVVBGWQIYEDSBENPYJBZBCBEKEXVHGHYJWIPXEMQHXMJNBKPFAVODZBFZEJKUGFTRVBEVWUEJBKVMQJCITUHBSTDTKNUK
+a2 ENKJGMSWHYLREKGTNXEFPOOSAZMXPEMIQNECXLZHHKZZPSEMHIZFVAOZTNZZPSOWEUWLQBRWWBKJXBBNPRFUAVMQWNFZMEZOJ
+a3 FOEDDZSSITTJAZVJNTJHJBCOOBPUGQQBDOHDEWIBGAGJPFBDVWEEGOSCLPTFFWNHPPDQLDKDECAQFLDICTDJSXYMGCIUTIILC
+# a1: KRYPTOS columnar dir0 + KA Vig PALIMPSEST model A; a2: KRYPTOS columnar dir1 + AZ Beau ABSCISSA model B; a3: PALIMPSEST columnar dir0 + KA Vig KRYPTOS model A (w 10, not in bank)
+
+## cycle-41 progkw on bank indices 2800-2819
+== a1
+HIT perm=2812 num=K model=A mode=V L=10 s=0 free=0 key=PALIMPSEST score=-4.730 pt=WEMETATTHEBRIDGEXGOTOEASTNORTHEASTANDWALKTOTHEOLDTOWERXWAITFORTBERLINCLOCKTOSTRIKEMIDNIGHTXTHENGO
+SUMMARY perms=20 tests=108160 best_qg=-4.730
+== a2
+HIT perm=2812 num=A model=B mode=B L=8 s=0 free=0 key=ABSCISSA score=-4.730 pt=WEMETATTHEBRIDGEXGOTOEASTNORTHEASTANDWALKTOTHEOLDTOWERXWAITFORTBERLINCLOCKTOSTRIKEMIDNIGHTXTHENGO
+SUMMARY perms=20 tests=108160 best_qg=-4.730
+== a3
+SUMMARY perms=20 tests=108160 best_qg=-99.000
