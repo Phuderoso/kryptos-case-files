@@ -1,0 +1,215 @@
+===== p22_distinct.txt
+# p 19-22 survivors, crib-distinct configurations (same w, mode, dir, alphabet, cipher, p and same carved positions of the 24 crib letters)
+# raw survivor lines in parentheses
+K4      242  (720 at p22)
+null1   148  (144 p22 + 4 p21)
+null2    29  (60 p22 + 2 p21)
+null3    62  (132 p22)
+null4    14  (253 p22)
+null5    99  (169 p22)
+null6     0
+null7     2  (2 p20)
+null8    98  (192 p22)
+null9     4  (276 p22)
+null10  316  (324 p22 + 3 p21)
+# K4 ranks 2nd of 11; within the null spread. All K4 decrypts unreadable (best -6.45 mean log10 quadgram).
+===== counts.txt
+C K4 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null1 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null2 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C null3 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=48
+C K4 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=48
+C K4 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C K4 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=6
+C K4 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=150
+C K4 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=206
+C K4 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=22
+C K4 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=14
+C K4 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=118
+C K4 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=108
+C K4 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null1 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null1 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null1 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null1 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=4 p22=0
+C null1 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=84
+C null1 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null1 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=18
+C null1 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=18
+C null1 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null1 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null1 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null2 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null2 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null2 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null2 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null2 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=2
+C null2 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null2 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null2 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=4
+C null2 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=2
+C null2 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=4
+C null2 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=2 p22=36
+C null3 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null3 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null3 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null3 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null3 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null3 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=32
+C null3 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=6
+C null3 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=8
+C null3 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=2
+C null3 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null3 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=72
+===== counts_extra_nulls.txt
+C null10 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null10 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null10 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null10 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=1 p22=0
+C null10 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=1 p22=108
+C null10 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=76
+C null10 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=24
+C null10 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=24
+C null10 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=40
+C null10 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=1 p22=40
+C null10 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null4 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=25
+C null4 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=24
+C null4 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null4 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=6
+C null4 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=48
+C null4 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=54
+C null4 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null4 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null4 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=48
+C null4 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=48
+C null4 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null5 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null5 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=1
+C null5 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null5 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null5 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=6
+C null5 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=48
+C null5 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null5 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=6
+C null5 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null5 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null5 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=72
+C null6 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null6 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null7 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=2 p21=0 p22=0
+C null8 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null8 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null8 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null8 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null8 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=72
+C null8 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null8 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=60
+C null8 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null8 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=24
+C null8 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=12
+C null8 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=240
+C null9 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=0
+C null9 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0 p19=0 p20=0 p21=0 p22=36
+===== p22_breakdown.txt
+    120 K4 w10 mode0 dir0 model1 p22
+    120 K4 w10 mode0 dir1 model1 p22
+    480 K4 w10 mode1 dir1 model1 p22
+      2 null1 w10 mode0 dir0 model1 p21
+     72 null1 w10 mode0 dir0 model1 p22
+      2 null1 w10 mode0 dir1 model1 p21
+     72 null1 w10 mode0 dir1 model1 p22
+     12 null2 w10 mode0 dir0 model1 p22
+     12 null2 w10 mode0 dir1 model1 p22
+      1 null2 w9 mode0 dir0 model1 p21
+      1 null2 w9 mode0 dir1 model1 p21
+     36 null2 w9 mode1 dir1 model1 p22
+     30 null3 w10 mode0 dir0 model1 p22
+     30 null3 w10 mode0 dir1 model1 p22
+     72 null3 w9 mode1 dir1 model1 p22
+===== p22_scored.txt
+K4 n 720 distinct plaintexts 720 best -6.452
+   -6.452 0 BBRKFIMIASHLWELQCHISEEASTNORTHEASTMASOYOUTHJMWXYDDQDUDEACQSIXUSBERLINCLOCKIFUSORVEVGJGCLXZFYUFVPX
+   -6.452 0 BBRKFIMIASHLWELQCHISEEASTNORTHEASTMASOYOUTHJMWXYDDQDUDEACQSIXUSBERLINCLOCKIFUSORVEVGJGCLXZPFYUFVX
+   -6.55 4 JBRDGMINUO?HEGIWDQLEPEASTNORTHEASTTOOUJ?OZHXCMDZDBBQLUJ?BASHUSDBERLINCLOCKWOSFRXYXTC?KOGYGAFCETXV
+null1 n 148 distinct plaintexts 148 best -6.296
+   -6.296 12 TARJEDWGEY?X?CE?SCTQZEASTNORTHEAST?MCH??KXSPGPENOYTU?YH??YXPWGDBERLINCLOCKGBFU??UOB?OHFANDPULESJK
+   -6.427 12 TARJEDWGEY?X?CE?SCTQZEASTNORTHEAST?MCH??KXSPGPENOYTU?YH??YXPWGDBERLINCLOCKGBFU??UOB?OHFANDSPEJLUK
+   -6.461 12 TRRFIGWDEY?X?CECB?TQQEASTNORTHEAST?HCM??KTSYXNEPOCTU?YHY??XPSGHBERLINCLOCKGUFB??UXB?KAFHRUSPLEJUK
+null2 n 62 distinct plaintexts 62 best -6.819
+   -6.819 4 YJVSDEUCIZ?SUNCXLOJVOEASTNORTHEASTP?GXSLDBRAXMVMZMENYUSSHK?FFTDBERLINCLOCKRXZIOPDAYSLGS?HFBXSSNEM
+   -6.867 4 YJVSDEUCIZ?SUNCXLOJVOEASTNORTHEASTP?GXSLDBRAXMVMZMENYUSSHK?FFTDBERLINCLOCKRXZIOPDAYSLGS?HFEMXBSSN
+   -6.901 4 YJVSCEUDIX?SUNOTPCJVOEASTNORTHEASTX?GPOLDBPCMMVXZQENYUKSHS?FHRDBERLINCLOCKIXZROPDACO?IQLHFBXSSNEM
+null3 n 132 distinct plaintexts 132 best -6.741
+   -6.741 0 VJSLFCSBGQORSCVWXYTNBEASTNORTHEASTDARMDCOGEZRHPUTUDBFMTOELBXHUNBERLINCLOCKUPXPPHUZDJKRDISJNSARPNX
+   -6.782 0 VJSLFCSBGQORSCVWXYTNBEASTNORTHEASTDARMDCOGEZRHPUTUDBFMTOELBXHUNBERLINCLOCKUPXPPHUZDJKRDISJRPSAXNN
+   -6.843 0 VJSMBHFCGKOESOYXVWMNHEASTNORTHEASTMRSAQCOGNOULRYTXDBFMMETOBXLPABERLINCLOCKPXUPPIUGXNIDKEHFNSAYZXP
