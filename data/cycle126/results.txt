@@ -1,0 +1,54 @@
+# Cycle 126 results (allcol2, exact 24-crib consistency, p<=18; S lines = survivors: label w dir col/row keymodel alph beau period order)
+## Controls (w9-10 Quagmire I/II, w11 A-Z)
+S ctl1 10 1 0 2 0 0 7 5 0 3 2 4 6 7 1 8 9
+S ctl1 10 1 0 2 0 0 14 5 0 3 2 4 6 7 1 8 9
+S ctl2 9 1 0 3 1 1 9 3 5 0 1 7 8 6 4 2
+S ctl2 9 1 0 3 1 1 18 3 5 0 1 7 8 6 4 2
+S ctl3 10 0 1 2 0 1 4 2 3 7 1 6 4 0 8 9 5
+S ctl3 10 0 1 2 0 1 8 2 3 7 1 6 4 0 8 9 5
+S ctl3 10 0 1 2 0 1 12 2 3 7 1 6 4 0 8 9 5
+S ctl3 10 0 1 2 0 1 16 2 3 7 1 6 4 0 8 9 5
+S ctl3 10 0 1 2 0 1 16 2 3 7 1 8 4 0 6 9 5
+S ctl3 10 0 0 2 0 1 4 6 3 0 1 5 9 4 2 7 8
+S ctl3 10 0 0 2 0 1 8 6 3 0 1 5 9 4 2 7 8
+S ctl3 10 0 0 2 0 1 12 6 3 0 1 5 9 4 2 7 8
+S ctl3 10 0 0 2 0 1 16 6 3 0 1 5 9 4 2 7 8
+S ctl3 10 0 0 2 0 1 16 6 3 0 1 5 9 7 2 4 8
+S ctl4 11 1 0 0 0 1 8 9 4 0 2 7 3 8 6 10 5 1
+S ctl4 11 1 0 0 0 1 16 9 4 0 2 7 3 8 6 10 5 1
+## Part A: Quagmire I/II (pairs 2,3) behind all 9!+10! orders
+K4 survivors: 0
+null1 survivors: 0
+null2 survivors: 0
+null3 survivors: 0
+## Part B: all 11! orders, pairs 0-3
+K4 survivors: 0
+null1 survivors: 4
+null2 survivors: 0
+S null1 11 0 1 3 0 1 18 6 9 5 2 7 3 4 8 10 0 1
+S null1 11 0 1 3 0 1 18 6 9 5 4 7 3 2 8 10 0 1
+S null1 11 0 0 3 0 1 18 9 10 3 5 6 2 0 4 7 1 8
+S null1 11 0 0 3 0 1 18 9 10 6 5 3 2 0 4 7 1 8
+## Raw per-period count lines
+C K4 w10 first0 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first2 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first3 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first4 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first5 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first6 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first7 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first8 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w10 first9 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w9 first-1 perms 362880 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first0 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first1 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first10 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first2 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first3 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first4 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first5 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first6 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first7 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first8 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
+C K4 w11 first9 perms 3628800 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0 p15=0 p16=0 p17=0 p18=0
