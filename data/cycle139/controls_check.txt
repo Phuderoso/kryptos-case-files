@@ -1,0 +1,14 @@
+S ctl1 word=PALIMPSEST z=y form=vig ix=0 L=4 perm=0 dir=0 m=16 checks=4
+C ctl1 tests 341938 hits 1 nperm=1 words=0..10057 minchk=4
+S ctl4 word=CLOCK z=x form=diff ix=0 L=3 perm=0 dir=0 m=18 checks=6 even=6 odd=0 bits=28.2
+C ctl4 tests 341938 hits 1 nperm=1 words=0..10057 minchk=4
+S ctl2 word=KRYPTOS z=AZ form=variant ix=0 L=3 perm=0 dir=0 m=18 checks=6
+S ctl2 word=KRYPTOS z=AZ form=variant ix=0 L=3 perm=0 dir=0 m=18 checks=6
+C ctl2 tests 28116 hits 2 nperm=4 words=0..99 minchk=5
+C ctl3 tests 28116 hits 0 nperm=4 words=0..99 minchk=5
+S ctl5 word=SHADOW z=KRYPTOS form=vig ix=0 L=2 perm=2 dir=0 m=20 checks=8
+C ctl5 tests 28116 hits 1 nperm=4 words=0..99 minchk=5
+S ctl6 word=BERLIN z=x form=diff ix=1 L=6 perm=1 dir=1 m=16 checks=5 even=5 odd=0 bits=23.5
+C ctl6 tests 28116 hits 1 nperm=4 words=0..99 minchk=5
+S ctl3_nobitfilter word=BERLIN z=x form=sum ix=1 L=6 perm=1 dir=1 m=16 checks=5 even=1 odd=4 bits=8.7
+C ctl3_nobitfilter tests 28116 hits 1 nperm=4 words=0..99 minchk=5

@@ -1,0 +1,2 @@
+S K4 word=PEQUOD z=KRYPTOS form=vig ix=1 L=27 perm=107127 dir=1 m=12 checks=5
+S K4 word=PEQUOD z=KRYPTOS form=vig ix=1 L=27 perm=107128 dir=0 m=12 checks=5

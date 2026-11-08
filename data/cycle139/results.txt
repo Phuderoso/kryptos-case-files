@@ -1,0 +1,12 @@
+direct (identity), all 10,057 alphabets (10,056 words + A-Z), z in {y,A-Z,KRYPTOS,x}, Vig/variant, every lag with >=4 checks (L1-4 known-z; L1-4,9 z=x with >=18.8 bits):
+C DK4 tests 341938 hits 0 nperm=1 words=0..10057 minchk=4
+C Dnull1 tests 341938 hits 0 nperm=1 words=0..10057 minchk=4
+C Dnull2 tests 341938 hits 0 nperm=1 words=0..10057 minchk=4
+bank 165,065 x 2 directions, model Q and carved, every lag 1-96 with >=5 checks (z=x: >=23.5 bits), 601 words:
+K4 tests 6958721772 hits 2 (full bank)
+null1 tests 695531290 hits 0 (every 10th bank entry)
+null2 tests 695531290 hits 0 (every 10th bank entry)
+K4 hit (one configuration, bank duplicate pair): PEQUOD z=KRYPTOS vig carved L27 perm 107127/107128, 5 checks; decodes only 2 extra letters: ????????????????????lEASTNORTHEAST?????????????????????????????BERLINCLOCK????n??????????????????
+first run without the bit filter: K4 2,358 / null1 36 / null2 147 hits, all z=x sum form with odd cycles (1 bit each) - weak-check artifact, see case file
+direct without bit filter: K4 1,426 hits at L9 z=x sum (self-loops E-E,A-A,S-S,T-T give parity checks; K4 has SS at 32-33) vs nulls 1-2
+times: K4 bank 79 s (8 cores), nulls 17 s, direct <1 s
