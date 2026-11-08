@@ -1,0 +1,16 @@
+Cycle 148 — running keys from digit streams of mathematical constants
+Constants: pi, e, sqrt2, sqrt3, sqrt5, phi, ln2, gamma (10,000 digits each, mpmath)
+Derivations per constant: D1 single digits; P0/P1 digit pairs mod 26 (phase 0/1); Q0/Q1 digit pairs kept only if < 26 => 40 streams
+Key: key[i] = stream[o+i] + c, any start offset o, any constant shift c (0..25)
+Forms: Vigenere, Beaufort, variant; alphabets A-Z, KRYPTOS; orders model Q and carved
+Exact: (gap,diff) index on the two lowest crib positions picks candidate offsets; every candidate verified on all 24 cribs; m = cribs matched
+
+Controls (plant.py, seed 14800): 5/5 recovered at m=24 with full English plaintext (direct, bank, carved, inverse)
+
+Direct K4: 240 configs, 0 hits (m>=22), best m=9
+Bank (165,065 perms x 2 directions, both orders), 126 s on 8 cores for all three texts:
+text   configs      candidates       hits(m>=20)  best m
+K4     158,462,400  27,997,714,972   0            10
+null1  158,462,400  26,997,337,072   0            10
+null2  158,462,400  27,031,294,988   0            10
+Verdict: negative. K4 is indistinguishable from shuffled ciphertext; no constant-digit running key (in these derivations) fits the cribs, direct or behind the bank.
