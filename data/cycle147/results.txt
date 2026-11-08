@@ -1,0 +1,18 @@
+# Cycle 147 — ptfree behind the 165k bank, words 6801–9000 of all.txt; K4 full bank, nulls every 10th entry
+# wall 758 s (inflated: orphaned cycle-146 mixdir processes shared the CPUs for ~12 min)
+C K4 tests 3184107300 hits 8 nperm=165065 words=0..275 minchk=5
+C K4 tests 3184107300 hits 4 nperm=165065 words=275..550 minchk=5
+C K4 tests 3184107300 hits 2 nperm=165065 words=550..825 minchk=5
+C K4 tests 3184107300 hits 0 nperm=165065 words=825..1100 minchk=5
+C K4 tests 3184107300 hits 0 nperm=165065 words=1100..1375 minchk=5
+C K4 tests 3184107300 hits 0 nperm=165065 words=1375..1650 minchk=5
+C K4 tests 3184107300 hits 0 nperm=165065 words=1650..1925 minchk=5
+C K4 tests 3184107300 hits 2 nperm=165065 words=1925..2200 minchk=5
+C null1 tests 636509500 hits 0 nperm=16507 words=0..550 minchk=5
+C null1 tests 636509500 hits 0 nperm=16507 words=550..1100 minchk=5
+C null1 tests 636509500 hits 0 nperm=16507 words=1100..1650 minchk=5
+C null1 tests 636509500 hits 5 nperm=16507 words=1650..2200 minchk=5
+C null2 tests 636509500 hits 0 nperm=16507 words=0..550 minchk=5
+C null2 tests 636509500 hits 0 nperm=16507 words=550..1100 minchk=5
+C null2 tests 636509500 hits 1 nperm=16507 words=1100..1650 minchk=5
+C null2 tests 636509500 hits 0 nperm=16507 words=1650..2200 minchk=5

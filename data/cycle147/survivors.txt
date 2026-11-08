@@ -1,0 +1,22 @@
+S K4 word=EXTINCTION z=y form=variant ix=1 L=12 perm=26127 dir=1 m=15 checks=5
+S K4 word=EXTINCTION z=y form=variant ix=1 L=12 perm=26128 dir=0 m=15 checks=5
+S K4 word=ABILITY z=AZ form=variant ix=0 L=3 perm=30431 dir=1 m=18 checks=6
+S K4 word=ABILITY z=AZ form=variant ix=0 L=3 perm=30432 dir=0 m=18 checks=6
+S K4 word=PINES z=y form=variant ix=1 L=24 perm=86033 dir=1 m=13 checks=5
+S K4 word=PINES z=y form=variant ix=1 L=24 perm=86034 dir=0 m=13 checks=5
+S K4 word=PINK z=KRYPTOS form=vig ix=1 L=25 perm=105039 dir=0 m=14 checks=5
+S K4 word=PINK z=KRYPTOS form=vig ix=1 L=25 perm=105040 dir=1 m=14 checks=5
+S K4 word=VELVET z=KRYPTOS form=vig ix=1 L=24 perm=26053 dir=1 m=11 checks=5
+S K4 word=VELVET z=KRYPTOS form=vig ix=1 L=24 perm=26054 dir=0 m=11 checks=5
+S K4 word=COMFORTABLY z=y form=variant ix=1 L=12 perm=60763 dir=1 m=16 checks=5
+S K4 word=COMFORTABLY z=y form=variant ix=1 L=12 perm=60764 dir=0 m=16 checks=5
+S K4 word=SILVERY z=AZ form=variant ix=1 L=3 perm=100854 dir=0 m=14 checks=5
+S K4 word=SILVERY z=AZ form=variant ix=1 L=3 perm=100855 dir=1 m=14 checks=5
+S K4 word=DIVULGED z=y form=vig ix=1 L=12 perm=84967 dir=1 m=14 checks=5
+S K4 word=DIVULGED z=y form=vig ix=1 L=12 perm=84968 dir=0 m=14 checks=5
+S null1 word=HUNDREDTH z=y form=variant ix=1 L=12 perm=18950 dir=0 m=16 checks=5
+S null1 word=ENCOUNTERS z=x form=diff ix=1 L=12 perm=66240 dir=0 m=14 checks=5 even=5 odd=0 bits=23.5
+S null1 word=REALISED z=x form=sum ix=1 L=6 perm=144640 dir=0 m=17 checks=7 even=5 odd=2 bits=25.5
+S null1 word=UNHEARD z=y form=variant ix=1 L=12 perm=146760 dir=0 m=17 checks=5
+S null1 word=THICKEST z=AZ form=vig ix=0 L=3 perm=153960 dir=1 m=18 checks=6
+S null2 word=DONATION z=y form=vig ix=1 L=36 perm=44440 dir=0 m=11 checks=5
