@@ -1,0 +1,7 @@
+Cycle 141 bank totals (sum of 8 chunks; full bank for K4 and both nulls)
+text   tests      inconsistent  underdetermined  scored   invertible matrices  best mean log10 quadgram
+K4     6,602,600  6,429,922     38,868           133,810  699,495,378          -6.167
+null1  6,602,600  6,423,456     44,322           134,822  802,850,126          -6.291
+null2  6,602,600  6,482,122     25,346            95,132  511,785,918          -6.291
+controls (English plaintext, Hill-5 planted): -4.056 to -4.120, all 5 recovered with readable text
+direct (no transposition): K4, null1, null2 all 10/10 configurations inconsistent; controls 1/10 consistent (the true one)

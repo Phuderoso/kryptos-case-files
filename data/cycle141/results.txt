@@ -1,0 +1,58 @@
+# Cycle 141 — Hill 5x5, direct and behind the 165k bank (330,130 perms), model Q + carved, A-Z/KRYPTOS numbering, alignments o=0..4
+T K4 139
+T null1 166
+T null2 101
+C DK4 tests=10 incons=10 underdet=0 scored=0 invertible_combos=0 best=-99.000 range=0..1/1
+H DK4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C Dnull1 tests=10 incons=10 underdet=0 scored=0 invertible_combos=0 best=-99.000 range=0..1/1
+H Dnull1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C Dnull2 tests=10 incons=10 underdet=0 scored=0 invertible_combos=0 best=-99.000 range=0..1/1
+H Dnull2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=802313 underdet=5154 scored=17893 invertible_combos=83025303 best=-6.531 range=0..20634/1
+H K4 1900 3827 4166 3140 1670 434 96 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=798921 underdet=5098 scored=21341 invertible_combos=112069931 best=-6.444 range=20634..41268/1
+H K4 1788 4021 4682 3758 2228 832 162 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=799031 underdet=6789 scored=19540 invertible_combos=100986758 best=-6.483 range=41268..61902/1
+H K4 1658 3508 4246 3494 1914 814 106 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=800168 underdet=5367 scored=19825 invertible_combos=110554309 best=-6.505 range=61902..82536/1
+H K4 1792 3642 4263 3286 1908 802 196 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=802939 underdet=5324 scored=17097 invertible_combos=88377329 best=-6.486 range=82536..103170/1
+H K4 1684 3108 3783 2918 1638 598 136 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=813034 underdet=2544 scored=9782 invertible_combos=46526138 best=-6.167 range=103170..123804/1
+H K4 882 1992 2322 1722 806 296 48 8 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825360 incons=809451 underdet=3922 scored=11987 invertible_combos=66611704 best=-6.352 range=123804..144438/1
+H K4 992 2400 2736 2261 1158 400 86 10 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C K4 tests=825080 incons=804065 underdet=4670 scored=16345 invertible_combos=91343906 best=-6.418 range=144438..165065/1
+H K4 1550 2902 3622 2839 1458 548 128 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=800782 underdet=5814 scored=18764 invertible_combos=100461152 best=-6.381 range=0..20634/1
+H null1 1370 3150 4334 3968 2306 648 102 18 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=803061 underdet=3852 scored=18447 invertible_combos=99507894 best=-6.301 range=20634..41268/1
+H null1 1264 3522 4153 3600 1856 684 138 30 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=801499 underdet=5910 scored=17951 invertible_combos=112681002 best=-6.327 range=41268..61902/1
+H null1 1266 3297 4089 3680 1972 710 172 14 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=799648 underdet=6608 scored=19104 invertible_combos=137991562 best=-6.441 range=61902..82536/1
+H null1 1152 3358 4373 3858 2236 914 196 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=801704 underdet=6258 scored=17398 invertible_combos=115242740 best=-6.326 range=82536..103170/1
+H null1 1412 3055 3977 3404 1908 780 114 14 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=810772 underdet=3594 scored=10994 invertible_combos=56431756 best=-6.291 range=103170..123804/1
+H null1 892 1982 2656 1970 1148 402 86 16 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825360 incons=806118 underdet=5666 scored=13576 invertible_combos=83404290 best=-6.425 range=123804..144438/1
+H null1 946 2294 3084 2676 1594 606 128 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null1 tests=825080 incons=799872 underdet=6620 scored=18588 invertible_combos=97129730 best=-6.367 range=144438..165065/1
+H null1 1906 3096 3696 3266 2080 716 124 18 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=808937 underdet=3358 scored=13065 invertible_combos=65203905 best=-6.352 range=0..20634/1
+H null2 1566 2686 2942 2274 1077 468 100 18 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=811793 underdet=2014 scored=11553 invertible_combos=48924875 best=-6.447 range=20634..41268/1
+H null2 1062 2252 2662 2104 965 298 88 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=809994 underdet=2702 scored=12664 invertible_combos=64598036 best=-6.291 range=41268..61902/1
+H null2 1290 2338 2818 2224 1140 330 186 24 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=809214 underdet=3662 scored=12484 invertible_combos=82531137 best=-6.357 range=61902..82536/1
+H null2 1130 2052 2611 2342 1390 564 148 26 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=809476 underdet=3978 scored=11906 invertible_combos=64743033 best=-6.456 range=82536..103170/1
+H null2 1254 2286 2503 2098 1090 298 102 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=814326 underdet=2360 scored=8674 invertible_combos=45708481 best=-6.546 range=103170..123804/1
+H null2 832 1764 2005 1418 745 298 72 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825360 incons=811111 underdet=3676 scored=10573 invertible_combos=63109396 best=-6.312 range=123804..144438/1
+H null2 902 1980 2538 1856 1005 346 104 14 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C null2 tests=825080 incons=807271 underdet=3596 scored=14213 invertible_combos=76967055 best=-6.319 range=144438..165065/1
+H null2 1578 2532 2929 2228 1334 518 130 32 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
