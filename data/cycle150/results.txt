@@ -1,0 +1,14 @@
+Cycle 150 — zig-zag autokey: encryption form cycles Vigenere/Beaufort/variant letter by letter (period 2 or 3, 36 cycles)
+Sub-layer: c_j = s + a p_j + b f_j (mod 26); feed f = ciphertext (CT-autokey) or plaintext (PT-autokey) at lag L = 1..96; one global shift s
+A-Z and KRYPTOS numbering; direct; behind 165,065 bank transpositions x 2 directions x 2 layer orders
+Exact: each crib position with a known feed yields s; m = largest agreeing set of n eligible positions (n = 24 for CT feed, L <= 21)
+
+Controls (seed 15000): 6/6 recovered - five CT-autokey (direct, bank, carved, inverse; m = n = 22-24, full English decryption) and one PT-autokey (11/11)
+
+Direct K4: 13,824 configs, best CT m = 7/24, best PT m = 5
+Bank (9.13e9 configs per text, 226 s on 8 cores for three texts):
+text   best CT m (of 24)   CT configs at m=8 / 9 / 10 / 11 / 12   best PT m
+K4     10                  36,384 / 2,084 / 116 / 0 / 0           9 (of 20-22)
+null1  12                  38,040 / 2,578 / 164 / 6 / 2           9
+null2  11                  38,696 / 2,438 / 146 / 6 / 0           10
+Verdict: negative. K4 sits at or below the shuffled-ciphertext nulls on every count; no English.
