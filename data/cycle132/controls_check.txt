@@ -1,0 +1,4 @@
+ctl1 HARBOR(AZ variant)+WINDOW(KA vig), perm 12345: recovered HARBOR WINDOW T1=0 f1=2 T2=1 f2=0 (bank perm 12333 shares the crib signature)
+ctl2 MIRROR(KA beau)+GARDEN(AZ beau), inverse of perm 99999: recovered MIRROR GARDEN T1=1 f1=1 T2=0 f2=1 perm=99998 dir=0 (99998 is the bank inverse of 99999)
+ctl3 KRYPTOS(KA vig)+QUESTION(KA variant), perm 160000: recovered KRYPTOS QUESTION T1=1 f1=0 T2=1 f2=2 perm=159999 dir=1
+Each control was searched in the row of its first keyword against the full 10,056-word list (362,016 configs): 3/3 recovered, 1 survivor each.
