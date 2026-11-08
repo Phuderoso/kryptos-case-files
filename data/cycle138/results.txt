@@ -1,0 +1,7 @@
+K4 bank tests 5070796800 satisfiable 315844 score>=8 84
+null1 bank tests 507095040 satisfiable 25709 score>=8 5
+null2 bank tests 507095040 satisfiable 24985 score>=8 1
+K4 cycles histogram 0:194336 1:95686 2:22612 3:2994 4:196 5:20
+null1 (1/10) cycles histogram 0:15252 1:8552 2:1729 3:151 4:25
+direct (ctself, all 10,056 words, L1-26): K4 0 satisfiable of 2,091,648; null1 0; null2 0
+times: controls 72/171/73 s (one core each), K4 286 s (8 cores, words 0-239), nulls 61 s
