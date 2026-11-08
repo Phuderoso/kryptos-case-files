@@ -1,0 +1,33 @@
+S K4 word=NEGLECT z=AZ form=vig ix=1 L=12 perm=91589 dir=1 m=15 checks=5
+S K4 word=NEGLECT z=AZ form=vig ix=1 L=12 perm=91590 dir=0 m=15 checks=5
+S K4 word=LINKED z=KRYPTOS form=vig ix=1 L=25 perm=105039 dir=0 m=14 checks=5
+S K4 word=LINKED z=KRYPTOS form=vig ix=1 L=25 perm=105040 dir=1 m=14 checks=5
+S K4 word=REQUIRES z=KRYPTOS form=vig ix=0 L=3 perm=28331 dir=1 m=18 checks=6
+S K4 word=REQUIRES z=KRYPTOS form=vig ix=0 L=3 perm=28332 dir=0 m=18 checks=6
+S K4 word=JUNE z=x form=diff ix=1 L=12 perm=51043 dir=1 m=15 checks=6 even=6 odd=0 bits=28.2
+S K4 word=JUNE z=x form=diff ix=1 L=12 perm=51044 dir=0 m=15 checks=6 even=6 odd=0 bits=28.2
+S K4 word=STORIES z=KRYPTOS form=variant ix=1 L=12 perm=150449 dir=0 m=11 checks=5
+S K4 word=STORIES z=KRYPTOS form=variant ix=1 L=12 perm=150450 dir=1 m=11 checks=5
+S K4 word=LINK z=KRYPTOS form=vig ix=1 L=25 perm=105039 dir=0 m=14 checks=5
+S K4 word=LINK z=KRYPTOS form=vig ix=1 L=25 perm=105040 dir=1 m=14 checks=5
+S K4 word=PENCIL z=x form=sum ix=1 L=12 perm=25623 dir=1 m=15 checks=5 even=5 odd=0 bits=23.5
+S K4 word=PENCIL z=x form=sum ix=1 L=12 perm=25624 dir=0 m=15 checks=5 even=5 odd=0 bits=23.5
+S K4 word=CORN z=y form=vig ix=1 L=1 perm=93764 dir=0 m=14 checks=5
+S K4 word=CORN z=y form=vig ix=1 L=1 perm=93765 dir=1 m=14 checks=5
+S K4 word=INNERMOST z=AZ form=variant ix=1 L=12 perm=146427 dir=1 m=16 checks=5
+S K4 word=INNERMOST z=AZ form=variant ix=1 L=12 perm=146428 dir=0 m=16 checks=5
+S K4 word=INNERMOST z=AZ form=variant ix=1 L=12 perm=147179 dir=1 m=15 checks=5
+S K4 word=INNERMOST z=AZ form=variant ix=1 L=12 perm=147180 dir=0 m=15 checks=5
+S K4 word=PROFESSORS z=y form=vig ix=1 L=12 perm=78439 dir=1 m=15 checks=5
+S K4 word=PROFESSORS z=y form=vig ix=1 L=12 perm=78440 dir=0 m=15 checks=5
+S K4 word=TEASING z=AZ form=variant ix=1 L=12 perm=27635 dir=1 m=15 checks=5
+S K4 word=TEASING z=AZ form=variant ix=1 L=12 perm=27636 dir=0 m=15 checks=5
+S K4 word=HEEDFUL z=KRYPTOS form=vig ix=1 L=12 perm=73829 dir=1 m=16 checks=5
+S K4 word=HEEDFUL z=KRYPTOS form=vig ix=1 L=12 perm=73830 dir=0 m=16 checks=5
+S K4 word=INTENSELY z=x form=diff ix=0 L=4 perm=106011 dir=0 m=16 checks=5 even=5 odd=0 bits=23.5
+S K4 word=INTENSELY z=x form=diff ix=0 L=4 perm=106012 dir=1 m=16 checks=5 even=5 odd=0 bits=23.5
+S K4 word=PORTLY z=KRYPTOS form=variant ix=1 L=10 perm=148099 dir=0 m=12 checks=5
+S K4 word=PORTLY z=KRYPTOS form=variant ix=1 L=10 perm=148100 dir=1 m=12 checks=5
+S null1 word=VOLUNTARY z=KRYPTOS form=variant ix=1 L=24 perm=58560 dir=0 m=15 checks=5
+S null2 word=CIGAR z=y form=vig ix=1 L=17 perm=111570 dir=0 m=15 checks=5
+S null2 word=EXHAUSTION z=y form=vig ix=1 L=19 perm=290 dir=0 m=15 checks=5
