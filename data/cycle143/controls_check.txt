@@ -1,0 +1,22 @@
+S ctl1 n=4 perm=0 dir=0 ix=0 num=0 o=1 combos=8 meanQ=-4.103 .HESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C ctl1 n=4 tests=8 incons=7 underdet=0 scored=1 invertible_combos=4 best=-4.103 range=0..1/1
+H ctl1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C ctl5 n=5 tests=10 incons=8 underdet=2 scored=0 invertible_combos=0 best=-99.000 range=0..1/1
+H ctl5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+S ctl2 n=3 perm=4241 dir=1 ix=0 num=1 o=2 combos=1 meanQ=-4.087 ..ESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENC..
+S ctl2 n=3 perm=4242 dir=0 ix=0 num=1 o=2 combos=1 meanQ=-4.087 ..ESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENC..
+C ctl2 n=3 tests=120 incons=118 underdet=0 scored=2 invertible_combos=2 best=-4.087 range=4240..4245/1
+H ctl2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C ctl3 n=4 tests=32 incons=31 underdet=1 scored=0 invertible_combos=0 best=-99.000 range=160000..160001/1
+H ctl3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+S ctl4 n=2 perm=99999 dir=1 ix=1 num=1 o=0 combos=1 meanQ=-4.055 THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILEN.EX
+C ctl4 n=2 tests=16 incons=15 underdet=0 scored=1 invertible_combos=1 best=-4.055 range=99999..100000/1
+H ctl4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+C ctl6 n=4 tests=32 incons=31 underdet=1 scored=0 invertible_combos=0 best=-99.000 range=50000..50001/1
+H ctl6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+S ctl7 n=3 perm=120000 dir=0 ix=1 num=0 o=1 combos=2 meanQ=-4.073 THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDT.WERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C ctl7 n=3 tests=24 incons=23 underdet=0 scored=1 invertible_combos=2 best=-4.073 range=120000..120001/1
+H ctl7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+S ctl8 n=4 perm=77777 dir=0 ix=0 num=0 o=2 combos=2 meanQ=-4.086 ..ESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILEN...
+C ctl8 n=4 tests=32 incons=31 underdet=0 scored=1 invertible_combos=1 best=-4.086 range=77777..77778/1
+H ctl8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

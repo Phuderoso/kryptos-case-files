@@ -1,0 +1,16 @@
+# Cycle 143 affine Hill (p = D c + e) n=2..5; direct + 330,130 bank perms; ix model Q/carved; A-Z/KRYPTOS; every alignment. Wall 55 s.
+# Totals (direct+bank):
+K4 n=2 tests=2641044 inconsistent=2641044 underdetermined=0 scored=0 invertible_combos=0 best_meanQ=-99.000
+K4 n=3 tests=3961566 inconsistent=3961566 underdetermined=0 scored=0 invertible_combos=0 best_meanQ=-99.000
+K4 n=4 tests=5282088 inconsistent=5281864 underdetermined=0 scored=224 invertible_combos=2810 best_meanQ=-7.194
+K4 n=5 tests=6602610 inconsistent=4223895 underdetermined=2378715 scored=0 invertible_combos=0 best_meanQ=-99.000
+null1 n=2 tests=2641044 inconsistent=2641044 underdetermined=0 scored=0 invertible_combos=0 best_meanQ=-99.000
+null1 n=3 tests=3961566 inconsistent=3961566 underdetermined=0 scored=0 invertible_combos=0 best_meanQ=-99.000
+null1 n=4 tests=5282088 inconsistent=5281872 underdetermined=0 scored=216 invertible_combos=1516 best_meanQ=-7.447
+null1 n=5 tests=6602610 inconsistent=4495809 underdetermined=2106801 scored=0 invertible_combos=0 best_meanQ=-99.000
+null2 n=2 tests=2641044 inconsistent=2641044 underdetermined=0 scored=0 invertible_combos=0 best_meanQ=-99.000
+null2 n=3 tests=3961566 inconsistent=3961566 underdetermined=0 scored=0 invertible_combos=0 best_meanQ=-99.000
+null2 n=4 tests=5282088 inconsistent=5281832 underdetermined=0 scored=256 invertible_combos=5766 best_meanQ=-7.275
+null2 n=5 tests=6602610 inconsistent=4487514 underdetermined=2115096 scored=0 invertible_combos=0 best_meanQ=-99.000
+# K4 scored configurations above the print threshold (THR, see hillaff.c): none. Best K4 -7.194 vs nulls -7.447, -7.275 (English ~ -4.1).
+
