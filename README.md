@@ -22,6 +22,7 @@ Investigate Jim Sanborn's *Kryptos* (CIA HQ, Langley, 1990), with a focus on **K
 ## Repo map
 | Path | Contents |
 |---|---|
+| [`IDEAS.md`](IDEAS.md) | **Persistent idea queue** (since cycle 151): every open hypothesis with priority, test, controls, status and result links. Read it first each cycle. |
 | [`case-file/01-the-sculpture.md`](case-file/01-the-sculpture.md) | History, verified facts, full ciphertext K1–K4, known anomalies |
 | [`case-file/02-solved-sections.md`](case-file/02-solved-sections.md) | K1, K2, K3 methods and verified decryptions |
 | [`case-file/03-k4-evidence.md`](case-file/03-k4-evidence.md) | Official K4 clues, Sanborn statements, 2025 auction, Smithsonian discovery, Paradigm (2026) |
