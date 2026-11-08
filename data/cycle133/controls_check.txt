@@ -1,0 +1,5 @@
+ctl1 QIII alphabet KRYPTOS (KA) + primer BERLIN, Vigenere, perm 12345: recovered KRYPTOS BERLIN T=2 f1=0 (planted perm 12345 dir=0; 12346 dir=1 is the bank inverse of 12345; nearby 12501/12502 also crib-match with a different full plaintext)
+ctl2 keyword SHADOW (AZ variant) then PT-autokey primer CLOCK (AZ vig), inverse of perm 99999: recovered SHADOW CLOCK T=0 f1=2 f2=0 perm=99999 dir=1 (99998 dir=0 is that same mapping stored the other way)
+ctl3 PT-autokey primer EAST (KA Beaufort) then keyword MIRROR (KA vig), perm 160000: recovered MIRROR EAST T=1 f1=1 f2=0 perm=160000 dir=0 (plus the stored inverse 159999 dir=1, and the dual writing f1=2 f2=1 of the same two operations)
+ctl4 QIII alphabet PALIMPSEST + primer LAYER, Beaufort, perm 4242: recovered PALIMPSEST LAYER T=2 f1=1 perm=4242 dir=0 (plus stored inverse 4241 dir=1)
+Each control was searched in the row of its first keyword against the full 10,056-word list (362,466 configs): 4/4 recovered the planted keys; no other keyword/primer pair survived.
