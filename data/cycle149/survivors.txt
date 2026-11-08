@@ -1,0 +1,14 @@
+S K4 word=LAUDABLE z=x form=diff ix=0 L=4 perm=121559 dir=1 m=16 checks=5 even=5 odd=0 bits=23.5
+S K4 word=LAUDABLE z=x form=diff ix=0 L=4 perm=121560 dir=0 m=16 checks=5 even=5 odd=0 bits=23.5
+S K4 word=BROUGHAM z=x form=diff ix=0 L=4 perm=130520 dir=1 m=16 checks=5 even=5 odd=0 bits=23.5
+S K4 word=BROUGHAM z=x form=diff ix=0 L=4 perm=130521 dir=0 m=16 checks=5 even=5 odd=0 bits=23.5
+S K4 word=TEMPERATE z=y form=variant ix=1 L=12 perm=49889 dir=1 m=14 checks=5
+S K4 word=TEMPERATE z=y form=variant ix=1 L=12 perm=49890 dir=0 m=14 checks=5
+S null1 word=BATTERED z=y form=vig ix=1 L=12 perm=17645 dir=1 m=16 checks=5
+S null1 word=BATTERED z=y form=vig ix=1 L=12 perm=17646 dir=0 m=16 checks=5
+S null2 word=INCONSIDERABLE z=AZ form=variant ix=1 L=21 perm=93295 dir=0 m=13 checks=5
+S null2 word=INCONSIDERABLE z=AZ form=variant ix=1 L=21 perm=93296 dir=1 m=13 checks=5
+S null2 word=PREACHER z=AZ form=vig ix=1 L=24 perm=44821 dir=1 m=11 checks=5
+S null2 word=PREACHER z=AZ form=vig ix=1 L=24 perm=44822 dir=0 m=11 checks=5
+S null2 word=EGYPTIANS z=y form=vig ix=1 L=11 perm=117343 dir=0 m=12 checks=5
+S null2 word=EGYPTIANS z=y form=vig ix=1 L=11 perm=117344 dir=1 m=12 checks=5

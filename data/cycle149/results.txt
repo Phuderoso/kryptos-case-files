@@ -1,0 +1,12 @@
+Cycle 149 — ptfree (plaintext autokey, free plain alphabet; cycle 139 model, >=5 crib-link checks) behind the full 165k bank
+Words: all.txt 9001-10057 (end of the list; sweep now complete over all 10,057 vocabulary alphabets)
+Wall time 308 s on 8 cores. Every chunk finished (C line present).
+
+text   words        bank      tests            survivors (distinct; each appears twice as perm/mirror pair)
+K4     9001-10057   full      12,238,550,604   3: LAUDABLE (L=4 diff, 23.5 bits), BROUGHAM (L=4 diff, 23.5 bits), TEMPERATE (L=12 variant) - all at the 5-check floor
+null1  9001-9528    full       6,113,486,016   1: BATTERED (5 checks)
+null2  9001-9528    full       6,113,486,016   3: INCONSIDERABLE, PREACHER, EGYPTIANS (5 checks)
+
+All three K4 survivors fall inside words 9001-9528, so on identical ground K4 = 3, nulls = 1 and 3.
+This is the first FULL-bank null baseline for ptfree (earlier cycles sampled every 10th bank entry): K4 sits exactly at chance.
+No survivor decrypts to English. Verdict: negative; ptfree behind the bank is closed for the whole all.txt vocabulary.
