@@ -1,0 +1,34 @@
+# Cycle 127: Sequence Transposition (all 100,000 primers x all 10! column orders) + periodic key p<=14, exact 24-crib consistency
+# S lines: label primer read-order(digit classes) model(A=key before,B=after) alph(0=A-Z,1=KRYPTOS) beau period(min)
+## Controls (primer windows around the planted primer)
+S ctl1 69315 3845912067 A 0 0 7
+S ctl1 69315 3854912067 A 0 0 14
+C ctl1 69300 69330 nodes 565319 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=1 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=1
+S ctl2 42983 2417956083 B 1 1 6
+C ctl2 42970 42990 nodes 437231 p1=0 p2=0 p3=0 p4=0 p5=0 p6=1 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+S ctl3 75639 1680235794 B 1 0 10
+S ctl3 75639 1680325794 B 1 0 10
+S ctl3 75639 1860235794 B 1 0 10
+S ctl3 75639 1860325794 B 1 0 10
+C ctl3 75630 75650 nodes 396786 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=4 p11=0 p12=0 p13=0 p14=0
+S ctl4 00427 4706958123 A 0 1 10
+C ctl4 420 440 nodes 1084209 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=1 p11=0 p12=0 p13=0 p14=0
+## K4 (all primers)
+C K4 0 12500 nodes 334309100 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 12500 25000 nodes 302091809 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 25000 37500 nodes 285315925 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 37500 50000 nodes 322575690 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 50000 62500 nodes 296846188 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 62500 75000 nodes 303934583 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 75000 87500 nodes 310505592 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C K4 87500 100000 nodes 277439499 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+## Shuffled K4 null1 (all primers)
+C null1 0 12500 nodes 332779473 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 12500 25000 nodes 303298443 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 25000 37500 nodes 286871545 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 37500 50000 nodes 323559058 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 50000 62500 nodes 297718299 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 62500 75000 nodes 305634589 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 75000 87500 nodes 311623480 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+C null1 87500 100000 nodes 279034042 p1=0 p2=0 p3=0 p4=0 p5=0 p6=0 p7=0 p8=0 p9=0 p10=0 p11=0 p12=0 p13=0 p14=0
+## null2 not run (time budget)
