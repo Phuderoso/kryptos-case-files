@@ -1,0 +1,7 @@
+# Cycle 146 — mixed-direction periodic key (per phase Vigenere or Beaufort), P 1-28
+# Direct: K4 and both shuffled nulls 0 consistent for P 1-26.
+# Behind the full 165,065-entry bank (both directions, model Q and carved, A-Z/KRYPTOS): 3.70e7 (perm,P,numbering,order) configs per text, 7 s on 8 cores
+# consistent (any check count): K4 1,378,846; null1 1,391,224; null2 1,389,140  (almost all with 0-3 checks)
+# configs with >= 4 checks: K4 2 (one bank pair), null1 2, null2 2; with >= 5 checks: 0, 0, 0
+# best K4: P=27 perm 54085/54086 carved, 4 checks, meanQ -7.199 (nulls -7.325, -7.559; English about -4.1)
+# controls: 6/6 recovered with full plaintext at meanQ -4.07 to -4.16 (data/cycle146/controls_check.txt)
