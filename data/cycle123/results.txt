@@ -1,0 +1,49 @@
+# Cycle 123 results (exact crib test, p 1-13). Survivors = configurations consistent with all 24 crib letters.
+
+## K4
+TOTAL K4 orders=9801 survivors=0
+TOTAL K4w8all orders=40320 survivors=0
+
+## Shuffled nulls (seeds 12301-12305)
+SURV null1 w=12 CONFIRMATION ROW dir=0 model=A AZ Vig p=13 known=13/13 score=-7.320 order= rot=6,1,1,4,3,0,2,0,1,4,2,5 key=TJGSUGADJLORX pt=XAKMCQPIJKWPNDRLXPTDOEASTNORTHEASTZMETRYFNPADTNJRRVQRBFLHIIFKCGBERLINCLOCKIJOGCZVIZTUMTAQBDBSOJWA
+TOTAL null1 orders=9801 survivors=1
+TOTAL null2 orders=9801 survivors=0
+TOTAL null3 orders=9801 survivors=0
+TOTAL null4 orders=9801 survivors=0
+TOTAL null5 orders=9801 survivors=0
+TOTAL null1w8 orders=40320 survivors=0
+TOTAL null2w8 orders=40320 survivors=0
+
+## Planted controls
+== ctl1 planted: 7 CADENUS [3, 0, 11, 5, 8, 1, 13] ROW 0 PALIMPS KA Vig A
+TOTAL ctl1 orders=4 survivors=4
+== ctl2 planted: 6 SHADOW [2, 15, 7, 0, 9, 4] COL 1 ABSCISSA AZ Beau B
+TOTAL ctl2 orders=4 survivors=256
+== ctl3 planted: 10 WELTZEITUH [1, 2, 3, 4, 5, 6, 7, 8, 9, 0] ROW 1 CLOCK KA Beau A
+TOTAL ctl3 orders=4 survivors=5
+== ctl4 planted: 5 BERLI [0, 7, 3, 19, 12] COL 0 LAYERTWO KA Vig B
+TOTAL ctl4 orders=4 survivors=1
+
+== exact-recovery check (planted rotations reduced mod column length must appear among survivors with the planted key)
+SURV ctl1 w=7 CADENUS ROW dir=0 model=A KA Vig p=7 known=7/7 score=-4.730 order= rot=3,0,11,5,8,1,0 key=PALIMPS pt=WEMETATTHEBRIDGEXGOTOEASTNORTHEASTANDWALKTOTHEOLDTOWERXWAITFORTBERLINCLOCKTOSTRIKEMID
+SURV ctl2 w=6 SHADOW COL dir=1 model=B AZ Beau p=8 known=8/8 score=-4.730 order= rot=2,15,7,0,9,4 key=ABSCISSA pt=WEMETATTHEBRIDGEXGOTOEASTNORTHEASTANDWALKTOTHEOLDTOWERXWAITFORTBERLINCLOCKTOSTRIKEMIDN
+SURV ctl3 w=10 WELTZEITUH ROW dir=1 model=A KA Beau p=5 known=5/5 score=-4.730 order= rot=1,2,3,4,5,6,7,8,0,0 key=CLOCK pt=WEMETATTHEBRIDGEXGOTOEASTNORTHEASTANDWALKTOTHEOLDTOWERXWAITFORTBERLINCLOCKTOS
+SURV ctl4 w=5 BERLI COL dir=0 model=B KA Vig p=8 known=8/8 score=-4.730 order= rot=0,7,3,0,12 key=LAYERTWO pt=WEMETATTHEBRIDGEXGOTOEASTNORTHEASTANDWALKTOTHEOLDTOWERXWAITFORTBERLINCLOCKTOSTRIKEMIDNIGHT
+
+### ctl_ctl1.counts.txt
+TOTAL ctl1 orders=4 survivors=4
+COUNT ctl1 ROW dir=0 model=A KA-Vig p=7 n=1
+COUNT ctl1 ROW dir=0 model=B KA-Vig p=7 n=1
+COUNT ctl1 ROW dir=1 model=A KA-Vig p=7 n=1
+COUNT ctl1 ROW dir=1 model=B KA-Vig p=7 n=1
+### ctl_ctl2.counts.txt
+TOTAL ctl2 orders=4 survivors=256
+COUNT ctl2 COL dir=1 model=B AZ-Beau p=8 n=256
+### ctl_ctl3.counts.txt
+TOTAL ctl3 orders=4 survivors=5
+COUNT ctl3 ROW dir=1 model=A KA-Beau p=5 n=1
+COUNT ctl3 ROW dir=1 model=A KA-Beau p=10 n=2
+COUNT ctl3 ROW dir=1 model=B KA-Beau p=10 n=2
+### ctl_ctl4.counts.txt
+TOTAL ctl4 orders=4 survivors=1
+COUNT ctl4 COL dir=0 model=B KA-Vig p=8 n=1
