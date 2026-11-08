@@ -1,0 +1,10 @@
+ctl1 2 survivors; first: S ctl1 word=PALIMPSEST comb=V,V sign=- ix=carved L=7 perm=4241 dir=1 extra=10 partial=T?ES.A.O?.ELLAC?OSST.E?STNORT?EAST.E?ALKE.T?.AR.T.EOL.TO.ERAN.TBERLINCLOCKSTR.CKT.E.O.RINSILENCE. classes=m?rkoxvw
+ctl2 2 survivors; first: S ctl2 word=KRYPTOS comb=V,AZ sign=- ix=carved L=13 perm=99998 dir=0 extra=10 partial=THESHA.O..ELLA?ROS?THEASTNORTHEAS?.E.?LKE.TO.AR.THEO?.TO?ER??.T?ERLINCLOCK?TR?CKTHEHO.RI?SI?ENCE. classes=rbsjbitk
+ctl3 2 survivors; first: S ctl3 word=BERLIN comb=V,KA sign=+ ix=pt L=5 perm=159999 dir=1 extra=11 partial=?????A.O..ELLACROSSTHEASTNORTHEAST.E.ALKE.TO.AR.THEOL.TO.ERAN.TBERLINCLOCKSTR.CKTHEHO.RINSILENCE. classes=?????kshbunff
+ctl4 48 survivors; first: S ctl4 word=CLOCK comb=AZ,V sign=- ix=carved L=16 perm=12305 dir=0 extra=9 partial=??ESHA.O..ELL??ROSSTHEAST??RTHEAST.E.??.E.TO.AR.T??TR.C.THEHO??BERLINCLOC??INSILENCE.??OL.TO.ERAN classes=??xajzkctox
+ctl5direct (direct, y=z=SHADOW, variant, L=12): 8 survivors
+C K4direct tests 10458240 consistent 0 survivors 0 alph=0..10056 nperm=1 lmax=96 minchk=6
+C ctl3direct tests 10458240 consistent 0 survivors 0 alph=0..10056 nperm=1 lmax=96 minchk=6
+C null1direct tests 10458240 consistent 0 survivors 0 alph=0..10056 nperm=1 lmax=96 minchk=6
+C null2direct tests 10458240 consistent 0 survivors 0 alph=0..10056 nperm=1 lmax=96 minchk=6
+ctl4 true perm 12345 present: 1

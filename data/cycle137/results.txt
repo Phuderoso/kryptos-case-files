@@ -1,0 +1,3 @@
+K4 tests 1060428127680 consistent 0 survivors 0
+null1 tests 106050173760 consistent 0 survivors 0
+null2 tests 106050173760 consistent 0 survivors 0
