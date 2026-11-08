@@ -1,0 +1,7 @@
+D K4 configs 3640432896 survivors 0
+D null1 configs 3640432896 survivors 0
+D null2 configs 3640432896 survivors 0
+T K4 configs 150544 survivors 0
+T null1 configs 150544 survivors 0
+transposition mode: each config x 3 models x 330,130 perm-directions
+elapsed 306s
