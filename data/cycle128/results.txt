@@ -1,0 +1,56 @@
+# Cycle 128: one primer stream drives Sequence Transposition + Gromark substitution (arbitrary cipher alphabet), all 10^5 primers x all 10! orders, exact
+## Controls (windows around the planted primer; ctl3's primer 08800 has only even digits, so 5 empty columns permute freely: 30240 equivalent orders, true order among them)
+S ctl1 31415 6084739251 model=A PA=AZ form=vig
+C ctl1 31400 31430 nodes 118800 survivors 1
+S ctl2 19902 9513706842 model=B PA=KA form=beau
+C ctl2 19890 19910 nodes 122823 survivors 1
+C ctl3 8790 8810 nodes 241350 survivors 30240
+S ctl4 77553 0451293678 model=B PA=AZ form=vig
+S ctl4 77553 0451293768 model=B PA=AZ form=vig
+S ctl4 77553 0451296738 model=B PA=AZ form=vig
+S ctl4 77553 0451297638 model=B PA=AZ form=vig
+C ctl4 77540 77560 nodes 119722 survivors 4
+## K4
+C K4 0 12500 nodes 80543073 survivors 0
+C K4 12500 25000 nodes 75010371 survivors 0
+C K4 25000 37500 nodes 71131878 survivors 0
+C K4 37500 50000 nodes 80304360 survivors 0
+C K4 50000 62500 nodes 71729713 survivors 0
+C K4 62500 75000 nodes 75895382 survivors 0
+S K4 76707 3942165807 model=B PA=AZ form=vig
+C K4 75000 87500 nodes 76802393 survivors 1
+C K4 87500 100000 nodes 69566490 survivors 0
+## Partial decryption of the K4 survivor (decrypt_survivor.py)
+?BP?GI?LWMC?HKU?N?LKCEASTNORTHEASTUVPUEFLB?Y??SNFJLONM?UB?YXM??BERLINCLOCKDA?ZFT??FWSJ?G?JYI?JRFM
+known letters: 78 cipher letters pinned: 19
+## null1
+C null1 0 12500 nodes 146454503 survivors 0
+S null1 16501 5067841239 model=A PA=AZ form=vig
+S null1 20540 7513029486 model=A PA=AZ form=vig
+C null1 12500 25000 nodes 136516436 survivors 2
+C null1 25000 37500 nodes 130001287 survivors 0
+C null1 37500 50000 nodes 145519662 survivors 0
+S null1 52214 0156392874 model=A PA=AZ form=vig
+C null1 50000 62500 nodes 130022534 survivors 1
+C null1 62500 75000 nodes 137893151 survivors 0
+C null1 75000 87500 nodes 139476074 survivors 0
+C null1 87500 100000 nodes 127780620 survivors 0
+## null2
+S null2 01890 3791802546 model=B PA=KA form=beau
+S null2 03712 9861234075 model=A PA=AZ form=beau
+C null2 0 12500 nodes 85766285 survivors 2
+C null2 12500 25000 nodes 80905259 survivors 0
+S null2 28238 5364218907 model=B PA=AZ form=beau
+S null2 31280 9587431620 model=B PA=KA form=beau
+C null2 25000 37500 nodes 76300054 survivors 2
+S null2 37586 9035182746 model=B PA=AZ form=beau
+S null2 44972 5281064379 model=A PA=AZ form=vig
+C null2 37500 50000 nodes 87045300 survivors 2
+S null2 58113 3140692785 model=A PA=AZ form=beau
+S null2 59757 1270495836 model=A PA=AZ form=beau
+C null2 50000 62500 nodes 76711557 survivors 2
+C null2 62500 75000 nodes 82116899 survivors 0
+S null2 78800 2741890365 model=B PA=AZ form=beau
+S null2 83243 5481709632 model=B PA=AZ form=vig
+C null2 75000 87500 nodes 82861671 survivors 2
+C null2 87500 100000 nodes 74888465 survivors 0
