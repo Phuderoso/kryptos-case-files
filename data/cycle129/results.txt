@@ -1,0 +1,25 @@
+C K4 configs 13209 perms 165065 survivors 0
+C K4 configs 13140 perms 165065 survivors 0
+C K4 configs 13107 perms 165065 survivors 0
+C K4 configs 13086 perms 165065 survivors 0
+C K4 configs 12672 perms 165065 survivors 0
+C K4 configs 12592 perms 165065 survivors 0
+C K4 configs 12575 perms 165065 survivors 0
+C K4 configs 12603 perms 165065 survivors 0
+C null1 configs 13209 perms 165065 survivors 0
+C null1 configs 13140 perms 165065 survivors 0
+C null1 configs 13107 perms 165065 survivors 0
+C null1 configs 13086 perms 165065 survivors 0
+C null1 configs 12672 perms 165065 survivors 0
+C null1 configs 12592 perms 165065 survivors 0
+C null1 configs 12575 perms 165065 survivors 0
+C null1 configs 12603 perms 165065 survivors 0
+C null2 configs 13209 perms 165065 survivors 0
+C null2 configs 13140 perms 165065 survivors 0
+C null2 configs 13107 perms 165065 survivors 0
+C null2 configs 13086 perms 165065 survivors 0
+C null2 configs 12672 perms 165065 survivors 0
+C null2 configs 12592 perms 165065 survivors 0
+C null2 configs 12575 perms 165065 survivors 0
+C null2 configs 12603 perms 165065 survivors 0
+elapsed 304s
