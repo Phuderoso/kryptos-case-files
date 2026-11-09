@@ -1,0 +1,16 @@
+Cycle 164 reconciliation of IDEAS I-014 vs I-015 (which part is new):
+I-014 (CT-autokey, both alphabets free):
+ - direct, lags 1-35 (and 38, 42, 45, 49): SAT-impossible since cycle 11b (case 11, family F5).
+ - free plain alphabet x, key read through a known alphabet z in {y, A-Z, KRYPTOS}, y = 10,056 vocabulary alphabets: behind the
+   bank L 1-16 and direct L 1-26, exact, K4 0 (cycle 137, case 125).
+ - z = x (key read through the free plain alphabet): direct all words exact; behind the bank 239 words, satisfiable configs ranked
+   by English (cycle 138, case 126).
+ => I-014 is mostly regression; left open: direct lags 36-49 (weak) and both-free behind the bank (one SAT/union-find per
+   permutation, expensive, expected LOW-POWER). Narrowed and kept queued at P3.
+I-015 (Quagmire I/II/IV autokey, two different keyed alphabets):
+ - Quagmire III autokey (X = Y) behind the bank: cycle 136 (case 124), excluded.
+ - PT-fed with a free plain alphabet: only crib-to-crib links (cases 127-137), real power only at lags 1-4 in plaintext order.
+ - With BOTH alphabets keyed (known) the PT-fed chain runs through the letters between the cribs: every lag L <= 16 gets >= 8
+   checks (pigeonhole), so PT-fed QI/QII/IV autokey with X != Y is new at full power.  CT-fed with z = Y is a subset of case 125;
+   CT-fed with z = X is new as an exact test (case 126 had x free and language-ranked).  Both feeds are run (CT is cheap).
+ => cycle 164 runs I-015.
