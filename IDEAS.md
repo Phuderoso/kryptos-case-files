@@ -64,9 +64,12 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-053 | ACA Periodic Gromark with any keyword behind the 165k bank (stage 1 relaxed screen per entry + stage 2 keyword enumeration), strict and one-error | P3 | queued (cost, from cycle 155) |
 | I-054 | Ordinary Gromark (any cipher alphabet) base 10 L 9–10 under one error | P3 | queued (from cycle 155) |
 | I-055 | Key on both sides of Hill: behind the bank for n 3 (and n 2 k₁ + k₂ 13–16), and one-error behind the bank | P3 | queued (from cycle 156) |
-| I-056 | Key on both sides of Hill with vocabulary-keyword keys (both keys words), long periods behind the bank | P3 | queued (from cycle 156) |
+| I-056 | Key on both sides of Hill with vocabulary-keyword keys (both keys words), long periods behind the bank | P3 | tested — EXACT-EXCL (direct n 2–4 all 10,056² word pairs; one-error n 2–3 one themed key; bank n 2–3 core-32²) / NO-SIGNAL (bank n 4) ([case 146](case-file/146-hill-between-two-keywords.md)) |
 | I-057 | Cycle-rank-matched nulls for Periodic Gromark L 8 (is K4's 28 over its r = 6 baseline of 1–5?), then L 9 / L 11–12 | P2 | queued (from cycle 157) |
 | I-058 | Apply cycle-rank-matched nulls to other strict feasibility rows labelled LOW-POWER (SAT families, free-alphabet autokey, Hill one-error) | P3 | queued (method, from cycle 157) |
+| I-059 | Hill between two keywords: behind the bank with all 97 themed words (and themed × full vocabulary), one error behind the bank | P3 | queued (from cycle 158) |
+| I-060 | Keyword keys with a shifted start (phase) or restarted per Hill block / per row, around Hill (n 2–3), direct | P3 | queued (from cycle 158) |
+| I-061 | Hill + ONE keyword key on either side (cases 132/142 structures) with long vocabulary words behind the bank (k > 14) | P3 | queued (from cycle 158) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -255,7 +258,8 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 ### I-056 — Key on both sides of Hill with vocabulary keywords
 - **Date / source:** 2026-11-08, cycle 156 (K1–K3 used keyword keys, not random periods). `[speculation]`
 - **Hypothesis:** both additive keys are words (KRYPTOS, PALIMPSEST, ABSCISSA, vocabulary list), which turns the long-period pairs that are LOW-POWER as free keys into strong tests: with e and f fixed, only D is unknown (n² unknowns, 24 equations).
-- **Test:** for every word pair (vocabulary × vocabulary, both tableaux), solve D linearly (exact), direct and behind the bank for n 2–4. **Controls:** planted word-key encryptions; 2 nulls. **Cost:** 10⁴ × 10⁴ word pairs direct is 10⁸ small solves (minutes); behind the bank restrict to themed words. **Status:** queued.
+- **Test:** for every word pair (vocabulary × vocabulary, both tableaux), solve D linearly (exact), direct and behind the bank for n 2–4. **Controls:** planted word-key encryptions; 2 nulls. **Cost:** 10⁴ × 10⁴ word pairs direct is 10⁸ small solves (minutes); behind the bank restrict to themed words. **Status:** tested (cycle 158).
+- **Result (cycle 158):** `tools/cycle158/hillw.c` — with both words fixed the rows of D are independent; per (frame, f word, sign) each row's left null space mod 13 and mod 2 gives exact linear checks on the e word (CRT; necessary and sufficient), early exit. Keys from the first letter (phase 0), 4 sign pairs (all Vig/Beau/variant mixes), A–Z/KRYPTOS numbering, every alignment. Overlap with case 144 stated: direct n 2 96.4 % of word pairs already excluded there (regression), n 3 80.8 % / n 4 99.9 % new; bank 74.9 % / 96.7 % / 99.9 % new. Direct strict all 10,056 × 10,056 words n 2–4 (7.3 × 10⁹ tests per text): **K4 0, nulls 0 (×4) → `EXACT-EXCL`** (analytic chance 10⁻¹⁹ / 10⁻¹² / 10⁻²). Direct one error (block drop), n 2–3, themed-97 × all both ways: **K4 0 → `EXACT-EXCL` under one wrong carved or crib letter**. Bank (165k, both orders, model Q/carved) core-32 × core-32: **n 2, n 3 K4 0 (nulls 0 on ¼ bank) → `EXACT-EXCL`**; n 4 K4 44 consistent (24 singular, 20 invertible = 10 configs × inverse twin, best −7.76) vs null1 20 / mnull01 14 on ¼ bank and analytic ≈ 26 → `NO-SIGNAL` (exhaustive decode), screen `LOW-POWER`. Nulls: two shuffles + two cycle-157 profile-matched. Controls 10/10 (incl. corrupted carved letter, wrong crib letter, non-themed pair, three bank plants); independent brute-force recount (`indep158.py`) 15/15 runs × 9 counts identical (non-zero up to 14,196). ~7 min heavy compute. [Case 146](case-file/146-hill-between-two-keywords.md), [data](data/cycle158/), [tools](tools/cycle158/). Follow-ups: I-059–I-061.
 
 ### I-057 — Cycle-rank-matched nulls for Periodic Gromark L 8 (and L 9, L 11–12)
 - **Date / source:** 2026-11-08, cycle 157 ([case 145](case-file/145-structure-matched-nulls.md)). `[repo]`
@@ -267,6 +271,19 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Date / source:** 2026-11-08, cycle 157 method. `[repo]`
 - **Hypothesis / rationale:** every free-alphabet union-find / SAT test (cycle 11b SAT periodic, CT/PT-autokey with free alphabets, cycle 130 relaxed model, Hill one-error screens) has a chance rate set by its constraint graph's cycle rank; plain shuffles mix ranks, so "K4 inside the null range" may hide an excess or a deficit.
 - **Test:** for each LOW-POWER row, compute K4's rank under that model's graph and redo the null with rank-matched shuffles. **Cost:** row-dependent. **Status:** queued.
+
+### I-059 — Hill between two keywords: wider bank word lists and one error behind the bank
+- **Date / source:** 2026-11-08, cycle 158 scope limits ([case 146](case-file/146-hill-between-two-keywords.md)). `[repo]`
+- **Hypothesis:** the keyword pair is a themed word outside the core 32 (or one themed and one ordinary word) and the text sits behind a bank transposition, possibly with one carved error. `[speculation]`
+- **Test:** `hillw` on the bank with themed-97 × themed-97 (≈ 9× the core cost, ~45 core-min per text for n 2–3) and themed-97 × full vocabulary at n 2 (split, resumable); `DROP=1` behind the bank for n 2 core-32. **Controls:** cycle-158 bank plants; corrupted bank plant. **Nulls:** 2 (¼ bank at least; profile-matched preferred). **Cost:** high; split across cycles. **Status:** queued.
+
+### I-060 — Keyword keys with a shifted start or block-wise restart around Hill
+- **Date / source:** 2026-11-08, cycle 158 blind spot. `[speculation]`
+- **Hypothesis:** the keyword does not start at the first letter (K2-style keys run continuously, but a key could start at the Hill alignment, per row, or restart per block). **Test:** direct, n 2–3, themed-97 × all words, every phase pair (k1·k2 more configurations; power check first, since phases cost log26(k1·k2) checks). **Controls:** planted shifted-phase plants. **Cost:** moderate. **Status:** queued.
+
+### I-061 — Hill + one keyword key on either side, long words behind the bank
+- **Date / source:** 2026-11-08, cycle 158. `[repo]` Behind the bank, cases 132/142 covered free single keys only up to k 14 (n 2), k ≤ 9–10 (n 3) and k ≤ 3–4 (n 4); longer keys at n 3–4 were only sampled or LOW-POWER. Fixing the key to a word makes them strong exact tests.
+- **Test:** `hillw` with one side fixed to a zero key (add a zero-key entry) and the other from the vocabulary, behind the bank for n 3–4. **Controls:** planted. **Cost:** small–moderate. **Status:** queued.
 
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
@@ -305,3 +322,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 156 end: I-050 tested (EXACT-EXCL bank n 2 18 pairs, direct 149/153 strict and 131/153 one-error; NO-SIGNAL / LOW-POWER rest). Added I-055, I-056 (56 items). Recommended next: cycle 157 variant/audit — I-055 (bank n 3, one error behind the bank), I-007 or I-052; then a new family (I-010, I-013 or I-056).
 - 2026-11-08, cycle 157 start: I-052 in progress (variant/audit of method after the cycle-156 new structure; chosen over I-055 for value/cost).
 - 2026-11-08, cycle 157 end: I-052 tested (profile-matched nulls; cycle rank identified as the governing statistic; L 8 digits unresolved at r = 6). Added I-057, I-058 (58 items). Recommended next: cycle 158 **new family** (157 was an audit) — I-056 (both Hill keys as vocabulary words), I-010 or I-013; next audit slot: I-057 (rank-matched nulls, ~7 min).
+- 2026-11-08, cycle 158 start: I-056 in progress (required new family after the cycle-157 audit); overlap with case 144 checked first (direct n 2 mostly regression, n 3–4 and bank new), so I-056 kept over I-010 / I-013.
+- 2026-11-08, cycle 158 end: I-056 tested (EXACT-EXCL direct n 2–4 all word pairs, one-error n 2–3 with one themed key, bank n 2–3 core-32²; NO-SIGNAL bank n 4). Added I-059–I-061 (61 items). Recommended next: cycle 159 variant/audit — I-057 (rank-matched nulls, ~7 min) or I-007; then a new family (I-010, I-013).
