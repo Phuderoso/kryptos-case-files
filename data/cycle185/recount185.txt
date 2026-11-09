@@ -1,0 +1,7 @@
+k4: recount configs 0 (L1 0, L2 0; strict 0) C 0 done True END True identical True
+n18511: recount configs 0 (L1 0, L2 0; strict 0) C 0 done True END True identical True
+n18512: recount configs 0 (L1 0, L2 0; strict 0) C 0 done True END True identical True
+P8: recount configs 1 (L1 1, L2 0; strict 0) C 1 done True END True identical True
+P9: recount configs 1 (L1 0, L2 1; strict 0) C 1 done True END True identical True
+P10: recount configs 1 (L1 1, L2 0; strict 0) C 1 done True END True identical True
+RECOUNT MATCH
