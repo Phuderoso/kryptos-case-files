@@ -1,0 +1,8 @@
+# Cycle 152 tools — free-form zig-zag autokey + progressive shift
+
+- `zigfree.c` — exact counter. Model at stream position j: `c_j = s + d·j + a_F·p_j + b_F·f_j (mod 26)`, form F ∈ {Vigenère (+1,+1), Beaufort (−1,+1), variant (+1,−1)} chosen **freely per position**, progressive step d = 0–25, feed f = CT or PT L letters back (L 1–96), A–Z / KRYPTOS numbering, direct or behind a bank permutation (both directions; ix 0 model Q, ix 1 carved order). Per crib the three admissible shifts are listed; m = largest set of cribs sharing one shift, n = eligible cribs. A free form sequence contains every word-keyed sequence (any word, letter mod 2 or 3, any residue→form map, any phase) and every fixed cycle. Prints `S` lines (CT m ≥ 16 or m ≥ n−2 with n ≥ 14; PT m = n with n ≥ 9) and one `C` summary line with histograms.
+- `plant.py` — seven planted word-keyed zig-zag encryptions of the English control text (KRYPTOS, PALIMPSEST, ABSCISSA, BERLIN, SHADOW, IQLUSION, LAYERTWO; direct, bank entries, inverse entries, both layer orders, d ≠ 0, one PT-feed control, one control with a corrupted carved letter) and two shuffled-K4 nulls (seeds 15201–15202).
+- `check.py` — independent check in Python: from each control's survivor line it recovers the form word from the wordlist (`all.txt`, the 10,056-word vocabulary of cycles 135–149) and re-decrypts the whole text without the C code.
+- `controls.sh` — plant → zigfree → check. `run_cycle152.sh` — K4 + nulls, direct and full bank (setsid/timeout, 8 workers, resumable). `summarize.py` — merges the `C` lines into `data/cycle152/results.txt`.
+
+Bank: `perms97.bin` (165,065 entries, support backup). Wordlist: `/workspace/k137/all.txt` (md5 6da1075a04c06292f3fd5647e02501e4).
