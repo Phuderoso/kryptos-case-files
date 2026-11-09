@@ -1,0 +1,12 @@
+# Cycle 165 runs (q4akb). All H rows for every text are zero (every lag, feed, form, Z reading, order).
+K4 themed x themed, independent re-run on entries = 3 mod 8 (1/8 of bank), both dirs: slices 32 tests 150633444864 consistent 0 reported 0 S-lines 0
+null1 themed x themed, entries = 5 mod 8 (1/8): slices 16 tests 150633444864 consistent 0 reported 0 S-lines 0
+null2 themed x themed, entries = 5 mod 8 (1/8): slices 16 tests 150633444864 consistent 0 reported 0 S-lines 0
+mnull01 themed x themed, entries = 7 mod 32 (1/32): slices 4 tests 37663836672 consistent 0 reported 0 S-lines 0
+mnull02 themed x themed, entries = 7 mod 32 (1/32): slices 4 tests 37663836672 consistent 0 reported 0 S-lines 0
+mnull03 themed x themed, entries = 7 mod 32 (1/32): slices 4 tests 37663836672 consistent 0 reported 0 S-lines 0
+mnull04 themed x themed, entries = 7 mod 32 (1/32): slices 4 tests 37663836672 consistent 0 reported 0 S-lines 0
+K4 themed(X) x vocabulary(Y), entries = 11 mod 1000 (166 entries x 2 dirs), 22 vocab half-chunks: slices 22 tests 125049154560 consistent 0 reported 0 S-lines 0
+null1 themed(X) x vocabulary(Y), entries = 11 mod 1000 (166 entries x 2 dirs), 22 vocab half-chunks: slices 22 tests 125049154560 consistent 0 reported 0 S-lines 0
+null2 themed(X) x vocabulary(Y), entries = 11 mod 1000 (166 entries x 2 dirs), 22 vocab half-chunks: slices 22 tests 125049154560 consistent 0 reported 0 S-lines 0
+nonzero H rows anywhere: 0

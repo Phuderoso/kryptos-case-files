@@ -1,0 +1,16 @@
+# Provenance audit of the cycle-164 full K4 bank pass (themed x themed, q4ak, L 1-16, both directions and orders)
+# Files in /workspace/k4c164/run (box clock UTC-7). Each slice was written to .tmp and renamed only on exit 0.
+bank_K4_0.txt mtime 2026-11-09 00:00:00 PDT
+bank_K4_1.txt mtime 2026-11-08 23:59:56 PDT
+bank_K4_2.txt mtime 2026-11-09 00:00:00 PDT
+bank_K4_3.txt mtime 2026-11-09 00:00:04 PDT
+bank_K4_4.txt mtime 2026-11-08 23:59:58 PDT
+bank_K4_5.txt mtime 2026-11-09 00:00:00 PDT
+bank_K4_6.txt mtime 2026-11-09 00:00:00 PDT
+bank_K4_7.txt mtime 2026-11-09 00:00:04 PDT
+done_K4.txt (written by run_cycle164.sh after all 8 K4 slices): Mon Nov  9 00:00:04 MST 2026
+no bank_*.tmp left; no null bank slice (bank_null*) present -> it was the null phase that was stopped at 00:00:14 PDT
+sum of tests over the 8 C lines: 1205074859520
+expected 165065 perms x 2 dirs x 9506 pairs x 6 (Z,form) x 2 orders x 16 lags x 2 feeds = 1205074859520
+slice ranges: 0..20634 20634..41268 41268..61902 61902..82536 82536..103170 103170..123804 123804..144438 144438..165065 (contiguous, cover 0..165065)
+consistent over all slices: 0, S lines: 0

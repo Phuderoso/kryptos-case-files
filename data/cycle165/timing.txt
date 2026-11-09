@@ -1,0 +1,11 @@
+Cycle 165 heavy compute (8 cores, box clock UTC-7, 2026-11-09), q4akb (tools/cycle165/q4akb.c), run_cycle165.sh stages:
+ controls (ctl1-6 windows)                          00:16:5x, ~4 s
+ sample (exact reproduction of cycle-164 1/40)      00:17:03-00:17:33 PDT (30 s)
+ k4part (K4 themed x themed, 1/8 of bank, 32 ckpt)  00:17:46-00:18:36 PDT (50 s)
+ nulls (null1/null2 1/8, mnull01-04 1/32, 64 ckpt)  00:18:36-00:21:22 PDT (2 min 46 s)
+ vocab (themed x vocabulary, 1/1000, K4+2 nulls)    00:21:48-00:24:00 PDT (2 min 12 s)
+ vocabulary bank plants vc1-vc3                     ~16 s
+ total heavy ~6.6 min. Every job is checkpointed (one file per slice, .tmp renamed on success).
+Speed: q4akb ~12% faster than q4ak with 8 parallel processes (2.52 s vs 2.87 s for 8 x 128 entries); single-process equal.
+The I-074 premise (memory-bound, needs blocking) was mostly wrong: the full cycle-164 K4 pass had in fact finished (see
+cycle164_fullpass_provenance.txt); it was the null phase that the budget stop killed.
