@@ -1,0 +1,53 @@
+# primer chunks used: ['0', '25000000', '50000000', '75000000']; complete rank-matched nulls: 7 of 48
+rnull01 chunks=4/4 one=0 distinct_primers=0 strict=0 r8=6 r9=7 r11=8 r12=7
+rnull02 chunks=4/4 one=10 distinct_primers=10 strict=0 r8=6 r9=7 r11=8 r12=7
+rnull03 chunks=4/4 one=6 distinct_primers=6 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull04 chunks=4/4 one=1 distinct_primers=1 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull05 chunks=4/4 one=6 distinct_primers=6 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull06 chunks=4/4 one=23 distinct_primers=23 strict=0 r8=6 r9=7 r11=7 r12=8
+rnull07 chunks=4/4 one=0 distinct_primers=0 strict=0 r8=6 r9=8 r11=7 r12=8
+rnull08 chunks=3/4 one=incomplete distinct_primers=1 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull09 chunks=3/4 one=incomplete distinct_primers=4 strict=0 r8=6 r9=8 r11=7 r12=8
+rnull10 chunks=3/4 one=incomplete distinct_primers=12 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull11 chunks=3/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull12 chunks=3/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull13 chunks=3/4 one=incomplete distinct_primers=24 strict=0 r8=6 r9=8 r11=6 r12=8
+rnull14 chunks=2/4 one=incomplete distinct_primers=6 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull15 chunks=3/4 one=incomplete distinct_primers=5 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull16 chunks=2/4 one=incomplete distinct_primers=1 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull17 chunks=3/4 one=incomplete distinct_primers=25 strict=0 r8=6 r9=8 r11=6 r12=8
+rnull18 chunks=3/4 one=incomplete distinct_primers=3 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull19 chunks=3/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull20 chunks=3/4 one=incomplete distinct_primers=4 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull21 chunks=3/4 one=incomplete distinct_primers=3 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull22 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull23 chunks=2/4 one=incomplete distinct_primers=4 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull24 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=8
+rnull25 chunks=2/4 one=incomplete distinct_primers=1 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull26 chunks=2/4 one=incomplete distinct_primers=15 strict=0 r8=6 r9=8 r11=6 r12=8
+rnull27 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=8 r11=6 r12=8
+rnull28 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull29 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull30 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull31 chunks=2/4 one=incomplete distinct_primers=5 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull32 chunks=2/4 one=incomplete distinct_primers=2 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull33 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull34 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=8 r12=7
+rnull35 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull36 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull37 chunks=2/4 one=incomplete distinct_primers=5 strict=0 r8=6 r9=8 r11=6 r12=8
+rnull38 chunks=2/4 one=incomplete distinct_primers=1 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull39 chunks=2/4 one=incomplete distinct_primers=3 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull40 chunks=2/4 one=incomplete distinct_primers=3 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull41 chunks=2/4 one=incomplete distinct_primers=1 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull42 chunks=2/4 one=incomplete distinct_primers=4 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull43 chunks=2/4 one=incomplete distinct_primers=7 strict=0 r8=6 r9=7 r11=6 r12=7
+rnull44 chunks=2/4 one=incomplete distinct_primers=2 strict=0 r8=6 r9=7 r11=8 r12=7
+rnull45 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull46 chunks=2/4 one=incomplete distinct_primers=0 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull47 chunks=2/4 one=incomplete distinct_primers=16 strict=0 r8=6 r9=7 r11=7 r12=7
+rnull48 chunks=2/4 one=incomplete distinct_primers=3 strict=0 r8=6 r9=7 r11=6 r12=7
+K4 one=28; nulls N=7 min=0 median=6 max=23 zero=2 >=K4: 0  p_upper=0.1250 (resolution 0.1250)
+sorted null counts: 0 0 1 6 6 10 23
+pooled with cycle-157 r=6 nulls (1,2,2,5): N=11 >=K4: 0 p_upper=0.0833
+Bonferroni x4 (L8 row singled out post hoc among the 4 relaxed LOW-POWER rows of case 143): p_adj=min(1,4p)=0.5000
