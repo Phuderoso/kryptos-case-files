@@ -1,0 +1,26 @@
+p0 q=-1 dir=0 ix=0 a=0 forms=000 shift3=1 recount=1 OK
+p1 q=96000 dir=0 ix=0 a=1 forms=000 shift3=1 recount=1 OK
+p2 q=152000 dir=1 ix=1 a=65135 forms=101 shift3=1 recount=1 OK
+p2 q=152000 dir=1 ix=1 a=65135 forms=111 shift3=1 recount=1 OK
+p3 q=-1 dir=0 ix=0 a=0 forms=111 shift3=1 recount=1 OK
+p4 q=44000 dir=0 ix=0 a=1 forms=000 shift3=1 recount=1 OK
+p5 q=60000 dir=0 ix=1 a=38380 forms=001 shift3=1 recount=1 OK
+p5 q=60000 dir=0 ix=1 a=38380 forms=011 shift3=1 recount=1 OK
+p6 q=-1 dir=0 ix=0 a=0 forms=111 shift3=1 recount=1 OK
+p7 q=72000 dir=1 ix=0 a=1 forms=101 shift3=1 recount=1 OK
+p8 q=128000 dir=1 ix=1 a=39803 forms=000 shift3=1 recount=1 OK
+p9 q=-1 dir=0 ix=0 a=0 forms=110 shift3=1 recount=1 OK
+p10 q=108000 dir=1 ix=0 a=1 forms=111 shift3=1 recount=1 OK
+p11 q=132000 dir=0 ix=1 a=29219 forms=010 shift3=1 recount=1 OK
+p12 q=-1 dir=0 ix=0 a=0 forms=000 shift3=1 recount=1 OK
+p13 q=156000 dir=1 ix=0 a=1 forms=111 shift3=1 recount=1 OK
+p14 q=124000 dir=0 ix=1 a=40030 forms=111 shift3=1 recount=1 OK
+p15 q=-1 dir=0 ix=0 a=0 forms=111 shift3=1 recount=1 OK
+p16 q=64000 dir=1 ix=0 a=1 forms=000 shift3=1 recount=1 OK
+p17 q=16000 dir=0 ix=1 a=49604 forms=100 shift3=1 recount=1 OK
+p17 q=16000 dir=0 ix=1 a=49604 forms=110 shift3=1 recount=1 OK
+e0 q=-1 dir=0 ix=0 a=1 forms=000 shift3=1 recount=1 OK
+e1 q=-1 dir=0 ix=0 a=0 forms=111 shift3=1 recount=1 OK
+e2 q=-1 dir=0 ix=0 a=30000 forms=000 shift3=1 recount=1 OK
+e3 q=-1 dir=0 ix=0 a=1 forms=111 shift3=1 recount=1 OK
+compare 560/560 cells identical

@@ -1,0 +1,9 @@
+# Cycle 167 run provenance (I-078 run-folder audit). Times box-local PDT (UTC-7).
+run dir: /workspace/k4c167/run167   start: 2026-11-09 01:18:22 PDT   done marker: 01:23:19 PDT (4 min 57 s wall, 8 processes)
+jobs listed: 227   finished .txt slices: 227   leftover .tmp: 0
+BS: 30 slices, H lines 60
+D: 25 slices, H lines 625
+BE: 72 slices, H lines 144
+BA: 100 slices, H lines 200
+S (fit) lines in all slices: 0
+controls: /workspace/k4c167/run167/ctl, 30 files, all 26 plants present

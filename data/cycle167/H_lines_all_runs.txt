@@ -1,0 +1,1029 @@
+BS_K4_0 H K4 0 14 0 0 0 0 0 0 0 0 0
+BS_K4_0 H K4 1 14 0 0 0 0 0 0 0 0 0
+BS_K4_1 H K4 0 14 0 0 0 0 0 0 0 0 0
+BS_K4_1 H K4 1 14 0 0 0 0 0 0 0 0 0
+BS_K4_2 H K4 0 14 0 0 0 0 0 0 0 0 0
+BS_K4_2 H K4 1 14 0 0 0 0 0 0 0 0 0
+BS_K4_3 H K4 0 14 0 0 0 0 0 0 0 0 0
+BS_K4_3 H K4 1 14 0 0 0 0 0 0 0 0 0
+BS_K4_4 H K4 0 14 0 0 0 0 0 0 0 0 0
+BS_K4_4 H K4 1 14 0 0 0 0 0 0 0 0 0
+BS_K4_5 H K4 0 14 0 0 0 0 0 0 0 0 0
+BS_K4_5 H K4 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_0 H mnull01 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_0 H mnull01 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_1 H mnull01 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_1 H mnull01 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_2 H mnull01 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_2 H mnull01 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_3 H mnull01 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_3 H mnull01 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_4 H mnull01 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_4 H mnull01 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_5 H mnull01 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull01_5 H mnull01 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_0 H mnull02 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_0 H mnull02 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_1 H mnull02 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_1 H mnull02 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_2 H mnull02 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_2 H mnull02 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_3 H mnull02 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_3 H mnull02 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_4 H mnull02 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_4 H mnull02 1 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_5 H mnull02 0 14 0 0 0 0 0 0 0 0 0
+BS_mnull02_5 H mnull02 1 14 0 0 0 0 0 0 0 0 0
+BS_null1_0 H null1 0 14 0 0 0 0 0 0 0 0 0
+BS_null1_0 H null1 1 14 0 0 0 0 0 0 0 0 0
+BS_null1_1 H null1 0 14 0 0 0 0 0 0 0 0 0
+BS_null1_1 H null1 1 14 0 0 0 0 0 0 0 0 0
+BS_null1_2 H null1 0 14 0 0 0 0 0 0 0 0 0
+BS_null1_2 H null1 1 14 0 0 0 0 0 0 0 0 0
+BS_null1_3 H null1 0 14 0 0 0 0 0 0 0 0 0
+BS_null1_3 H null1 1 14 0 0 0 0 0 0 0 0 0
+BS_null1_4 H null1 0 14 0 0 0 0 0 0 0 0 0
+BS_null1_4 H null1 1 14 0 0 0 0 0 0 0 0 0
+BS_null1_5 H null1 0 14 0 0 0 0 0 0 0 0 0
+BS_null1_5 H null1 1 14 0 0 0 0 0 0 0 0 0
+BS_null2_0 H null2 0 14 0 0 0 0 0 0 0 0 0
+BS_null2_0 H null2 1 14 0 0 0 0 0 0 0 0 0
+BS_null2_1 H null2 0 14 0 0 0 0 0 0 0 0 0
+BS_null2_1 H null2 1 14 0 0 0 0 0 0 0 0 0
+BS_null2_2 H null2 0 14 0 0 0 0 0 0 0 0 0
+BS_null2_2 H null2 1 14 0 0 0 0 0 0 0 0 0
+BS_null2_3 H null2 0 14 0 0 0 0 0 0 0 0 0
+BS_null2_3 H null2 1 14 0 0 0 0 0 0 0 0 0
+BS_null2_4 H null2 0 14 0 0 0 0 0 0 0 0 0
+BS_null2_4 H null2 1 14 0 0 0 0 0 0 0 0 0
+BS_null2_5 H null2 0 14 0 0 0 0 0 0 0 0 0
+BS_null2_5 H null2 1 14 0 0 0 0 0 0 0 0 0
+D_K4 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D0 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D1 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D2 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D3 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D4 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D5 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D6 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D7 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D8 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D9 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D10 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D11 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D12 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D13 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D14 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D15 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D16 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D17 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D18 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D19 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D20 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D21 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D22 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_K4 D23 H K4 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D0 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D1 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D2 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D3 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D4 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D5 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D6 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D7 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D8 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D9 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D10 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D11 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D12 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D13 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D14 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D15 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D16 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D17 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D18 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D19 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D20 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D21 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D22 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull01 D23 H mnull01 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D0 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D1 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D2 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D3 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D4 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D5 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D6 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D7 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D8 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D9 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D10 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D11 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D12 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D13 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D14 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D15 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D16 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D17 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D18 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D19 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D20 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D21 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D22 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull02 D23 H mnull02 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D0 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D1 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D2 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D3 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D4 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D5 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D6 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D7 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D8 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D9 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D10 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D11 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D12 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D13 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D14 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D15 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D16 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D17 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D18 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D19 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D20 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D21 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D22 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull03 D23 H mnull03 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D0 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D1 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D2 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D3 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D4 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D5 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D6 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D7 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D8 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D9 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D10 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D11 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D12 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D13 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D14 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D15 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D16 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D17 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D18 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D19 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D20 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D21 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D22 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull04 D23 H mnull04 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D0 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D1 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D2 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D3 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D4 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D5 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D6 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D7 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D8 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D9 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D10 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D11 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D12 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D13 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D14 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D15 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D16 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D17 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D18 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D19 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D20 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D21 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D22 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull05 D23 H mnull05 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D0 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D1 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D2 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D3 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D4 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D5 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D6 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D7 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D8 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D9 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D10 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D11 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D12 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D13 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D14 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D15 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D16 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D17 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D18 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D19 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D20 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D21 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D22 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull06 D23 H mnull06 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D0 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D1 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D2 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D3 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D4 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D5 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D6 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D7 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D8 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D9 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D10 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D11 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D12 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D13 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D14 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D15 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D16 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D17 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D18 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D19 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D20 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D21 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D22 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull07 D23 H mnull07 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D0 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D1 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D2 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D3 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D4 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D5 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D6 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D7 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D8 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D9 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D10 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D11 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D12 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D13 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D14 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D15 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D16 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D17 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D18 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D19 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D20 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D21 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D22 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull08 D23 H mnull08 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D0 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D1 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D2 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D3 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D4 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D5 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D6 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D7 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D8 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D9 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D10 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D11 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D12 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D13 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D14 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D15 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D16 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D17 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D18 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D19 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D20 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D21 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D22 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull09 D23 H mnull09 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D0 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D1 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D2 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D3 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D4 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D5 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D6 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D7 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D8 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D9 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D10 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D11 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D12 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D13 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D14 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D15 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D16 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D17 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D18 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D19 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D20 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D21 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D22 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull10 D23 H mnull10 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D0 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D1 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D2 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D3 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D4 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D5 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D6 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D7 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D8 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D9 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D10 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D11 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D12 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D13 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D14 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D15 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D16 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D17 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D18 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D19 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D20 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D21 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D22 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull11 D23 H mnull11 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D0 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D1 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D2 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D3 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D4 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D5 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D6 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D7 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D8 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D9 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D10 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D11 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D12 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D13 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D14 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D15 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D16 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D17 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D18 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D19 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D20 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D21 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D22 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull12 D23 H mnull12 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D0 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D1 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D2 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D3 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D4 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D5 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D6 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D7 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D8 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D9 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D10 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D11 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D12 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D13 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D14 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D15 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D16 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D17 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D18 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D19 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D20 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D21 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D22 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull13 D23 H mnull13 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D0 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D1 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D2 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D3 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D4 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D5 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D6 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D7 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D8 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D9 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D10 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D11 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D12 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D13 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D14 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D15 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D16 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D17 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D18 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D19 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D20 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D21 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D22 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull14 D23 H mnull14 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D0 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D1 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D2 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D3 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D4 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D5 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D6 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D7 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D8 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D9 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D10 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D11 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D12 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D13 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D14 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D15 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D16 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D17 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D18 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D19 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D20 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D21 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D22 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull15 D23 H mnull15 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D0 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D1 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D2 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D3 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D4 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D5 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D6 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D7 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D8 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D9 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D10 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D11 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D12 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D13 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D14 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D15 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D16 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D17 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D18 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D19 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D20 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D21 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D22 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull16 D23 H mnull16 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D0 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D1 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D2 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D3 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D4 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D5 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D6 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D7 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D8 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D9 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D10 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D11 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D12 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D13 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D14 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D15 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D16 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D17 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D18 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D19 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D20 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D21 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D22 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull17 D23 H mnull17 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D0 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D1 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D2 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D3 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D4 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D5 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D6 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D7 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D8 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D9 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D10 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D11 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D12 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D13 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D14 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D15 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D16 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D17 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D18 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D19 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D20 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D21 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D22 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull18 D23 H mnull18 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D0 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D1 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D2 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D3 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D4 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D5 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D6 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D7 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D8 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D9 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D10 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D11 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D12 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D13 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D14 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D15 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D16 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D17 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D18 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D19 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D20 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D21 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D22 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull19 D23 H mnull19 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D0 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D1 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D2 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D3 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D4 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D5 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D6 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D7 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D8 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D9 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D10 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D11 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D12 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D13 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D14 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D15 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D16 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D17 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D18 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D19 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D20 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D21 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D22 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_mnull20 D23 H mnull20 0 1 0 0 0 0 0 0 0 0 0
+D_null1 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D0 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D1 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D2 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D3 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D4 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D5 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D6 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D7 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D8 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D9 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D10 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D11 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D12 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D13 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D14 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D15 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D16 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D17 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D18 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D19 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D20 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D21 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D22 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null1 D23 H null1 0 1 0 0 0 0 0 0 0 0 0
+D_null2 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D0 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D1 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D2 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D3 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D4 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D5 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D6 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D7 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D8 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D9 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D10 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D11 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D12 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D13 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D14 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D15 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D16 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D17 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D18 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D19 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D20 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D21 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D22 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null2 D23 H null2 0 1 0 0 0 0 0 0 0 0 0
+D_null3 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D0 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D1 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D2 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D3 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D4 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D5 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D6 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D7 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D8 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D9 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D10 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D11 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D12 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D13 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D14 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D15 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D16 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D17 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D18 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D19 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D20 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D21 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D22 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null3 D23 H null3 0 1 0 0 0 0 0 0 0 0 0
+D_null4 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D0 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D1 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D2 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D3 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D4 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D5 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D6 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D7 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D8 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D9 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D10 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D11 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D12 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D13 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D14 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D15 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D16 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D17 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D18 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D19 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D20 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D21 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D22 H null4 0 1 0 0 0 0 0 0 0 0 0
+D_null4 D23 H null4 0 1 0 0 0 0 0 0 0 0 0
+BE_K4_0 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_0 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_1 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_1 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_10 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_10 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_11 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_11 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_12 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_12 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_13 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_13 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_14 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_14 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_15 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_15 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_16 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_16 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_17 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_17 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_18 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_18 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_19 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_19 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_2 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_2 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_20 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_20 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_21 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_21 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_22 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_22 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_23 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_23 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_3 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_3 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_4 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_4 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_5 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_5 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_6 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_6 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_7 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_7 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_8 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_8 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_K4_9 H K4 0 330130 0 0 0 0 0 0 0 0 0
+BE_K4_9 H K4 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_0 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_0 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_1 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_1 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_10 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_10 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_11 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_11 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_12 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_12 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_13 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_13 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_14 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_14 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_15 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_15 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_16 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_16 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_17 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_17 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_18 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_18 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_19 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_19 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_2 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_2 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_20 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_20 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_21 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_21 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_22 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_22 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_23 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_23 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_3 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_3 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_4 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_4 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_5 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_5 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_6 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_6 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_7 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_7 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_8 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_8 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_9 H mnull01 0 330130 0 0 0 0 0 0 0 0 0
+BE_mnull01_9 H mnull01 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_0 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_0 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_1 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_1 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_10 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_10 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_11 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_11 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_12 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_12 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_13 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_13 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_14 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_14 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_15 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_15 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_16 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_16 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_17 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_17 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_18 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_18 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_19 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_19 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_2 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_2 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_20 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_20 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_21 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_21 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_22 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_22 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_23 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_23 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_3 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_3 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_4 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_4 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_5 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_5 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_6 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_6 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_7 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_7 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_8 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_8 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BE_null1_9 H null1 0 330130 0 0 0 0 0 0 0 0 0
+BE_null1_9 H null1 1 330130 0 0 0 0 0 0 0 0 0
+BA_K4_0 H K4 0 82534 0 0 0 0 0 0 0 0 0
+BA_K4_0 H K4 1 82534 0 0 0 0 0 0 0 0 0
+BA_K4_1 H K4 0 82534 0 0 0 0 0 0 0 0 0
+BA_K4_1 H K4 1 82534 0 0 0 0 0 0 0 0 0
+BA_K4_2 H K4 0 82534 0 0 0 0 0 0 0 0 0
+BA_K4_2 H K4 1 82534 0 0 0 0 0 0 0 0 0
+BA_K4_3 H K4 0 82528 0 0 0 0 0 0 0 0 0
+BA_K4_3 H K4 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull01_0 H mnull01 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull01_0 H mnull01 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull01_1 H mnull01 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull01_1 H mnull01 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull01_2 H mnull01 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull01_2 H mnull01 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull01_3 H mnull01 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull01_3 H mnull01 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull02_0 H mnull02 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull02_0 H mnull02 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull02_1 H mnull02 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull02_1 H mnull02 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull02_2 H mnull02 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull02_2 H mnull02 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull02_3 H mnull02 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull02_3 H mnull02 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull03_0 H mnull03 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull03_0 H mnull03 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull03_1 H mnull03 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull03_1 H mnull03 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull03_2 H mnull03 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull03_2 H mnull03 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull03_3 H mnull03 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull03_3 H mnull03 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull04_0 H mnull04 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull04_0 H mnull04 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull04_1 H mnull04 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull04_1 H mnull04 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull04_2 H mnull04 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull04_2 H mnull04 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull04_3 H mnull04 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull04_3 H mnull04 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull05_0 H mnull05 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull05_0 H mnull05 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull05_1 H mnull05 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull05_1 H mnull05 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull05_2 H mnull05 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull05_2 H mnull05 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull05_3 H mnull05 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull05_3 H mnull05 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull06_0 H mnull06 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull06_0 H mnull06 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull06_1 H mnull06 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull06_1 H mnull06 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull06_2 H mnull06 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull06_2 H mnull06 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull06_3 H mnull06 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull06_3 H mnull06 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull07_0 H mnull07 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull07_0 H mnull07 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull07_1 H mnull07 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull07_1 H mnull07 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull07_2 H mnull07 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull07_2 H mnull07 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull07_3 H mnull07 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull07_3 H mnull07 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull08_0 H mnull08 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull08_0 H mnull08 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull08_1 H mnull08 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull08_1 H mnull08 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull08_2 H mnull08 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull08_2 H mnull08 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull08_3 H mnull08 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull08_3 H mnull08 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull09_0 H mnull09 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull09_0 H mnull09 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull09_1 H mnull09 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull09_1 H mnull09 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull09_2 H mnull09 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull09_2 H mnull09 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull09_3 H mnull09 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull09_3 H mnull09 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull10_0 H mnull10 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull10_0 H mnull10 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull10_1 H mnull10 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull10_1 H mnull10 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull10_2 H mnull10 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull10_2 H mnull10 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull10_3 H mnull10 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull10_3 H mnull10 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull11_0 H mnull11 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull11_0 H mnull11 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull11_1 H mnull11 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull11_1 H mnull11 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull11_2 H mnull11 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull11_2 H mnull11 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull11_3 H mnull11 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull11_3 H mnull11 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull12_0 H mnull12 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull12_0 H mnull12 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull12_1 H mnull12 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull12_1 H mnull12 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull12_2 H mnull12 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull12_2 H mnull12 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull12_3 H mnull12 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull12_3 H mnull12 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull13_0 H mnull13 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull13_0 H mnull13 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull13_1 H mnull13 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull13_1 H mnull13 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull13_2 H mnull13 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull13_2 H mnull13 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull13_3 H mnull13 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull13_3 H mnull13 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull14_0 H mnull14 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull14_0 H mnull14 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull14_1 H mnull14 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull14_1 H mnull14 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull14_2 H mnull14 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull14_2 H mnull14 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull14_3 H mnull14 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull14_3 H mnull14 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull15_0 H mnull15 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull15_0 H mnull15 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull15_1 H mnull15 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull15_1 H mnull15 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull15_2 H mnull15 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull15_2 H mnull15 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull15_3 H mnull15 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull15_3 H mnull15 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull16_0 H mnull16 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull16_0 H mnull16 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull16_1 H mnull16 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull16_1 H mnull16 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull16_2 H mnull16 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull16_2 H mnull16 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull16_3 H mnull16 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull16_3 H mnull16 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull17_0 H mnull17 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull17_0 H mnull17 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull17_1 H mnull17 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull17_1 H mnull17 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull17_2 H mnull17 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull17_2 H mnull17 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull17_3 H mnull17 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull17_3 H mnull17 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull18_0 H mnull18 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull18_0 H mnull18 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull18_1 H mnull18 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull18_1 H mnull18 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull18_2 H mnull18 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull18_2 H mnull18 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull18_3 H mnull18 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull18_3 H mnull18 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull19_0 H mnull19 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull19_0 H mnull19 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull19_1 H mnull19 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull19_1 H mnull19 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull19_2 H mnull19 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull19_2 H mnull19 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull19_3 H mnull19 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull19_3 H mnull19 1 82528 0 0 0 0 0 0 0 0 0
+BA_mnull20_0 H mnull20 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull20_0 H mnull20 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull20_1 H mnull20 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull20_1 H mnull20 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull20_2 H mnull20 0 82534 0 0 0 0 0 0 0 0 0
+BA_mnull20_2 H mnull20 1 82534 0 0 0 0 0 0 0 0 0
+BA_mnull20_3 H mnull20 0 82528 0 0 0 0 0 0 0 0 0
+BA_mnull20_3 H mnull20 1 82528 0 0 0 0 0 0 0 0 0
+BA_null1_0 H null1 0 82534 0 0 0 0 0 0 0 0 0
+BA_null1_0 H null1 1 82534 0 0 0 0 0 0 0 0 0
+BA_null1_1 H null1 0 82534 0 0 0 0 0 0 0 0 0
+BA_null1_1 H null1 1 82534 0 0 0 0 0 0 0 0 0
+BA_null1_2 H null1 0 82534 0 0 0 0 0 0 0 0 0
+BA_null1_2 H null1 1 82534 0 0 0 0 0 0 0 0 0
+BA_null1_3 H null1 0 82528 0 0 0 0 0 0 0 0 0
+BA_null1_3 H null1 1 82528 0 0 0 0 0 0 0 0 0
+BA_null2_0 H null2 0 82534 0 0 0 0 0 0 0 0 0
+BA_null2_0 H null2 1 82534 0 0 0 0 0 0 0 0 0
+BA_null2_1 H null2 0 82534 0 0 0 0 0 0 0 0 0
+BA_null2_1 H null2 1 82534 0 0 0 0 0 0 0 0 0
+BA_null2_2 H null2 0 82534 0 0 0 0 0 0 0 0 0
+BA_null2_2 H null2 1 82534 0 0 0 0 0 0 0 0 0
+BA_null2_3 H null2 0 82528 0 0 0 0 0 0 0 0 0
+BA_null2_3 H null2 1 82528 0 0 0 0 0 0 0 0 0
+BA_null3_0 H null3 0 82534 0 0 0 0 0 0 0 0 0
+BA_null3_0 H null3 1 82534 0 0 0 0 0 0 0 0 0
+BA_null3_1 H null3 0 82534 0 0 0 0 0 0 0 0 0
+BA_null3_1 H null3 1 82534 0 0 0 0 0 0 0 0 0
+BA_null3_2 H null3 0 82534 0 0 0 0 0 0 0 0 0
+BA_null3_2 H null3 1 82534 0 0 0 0 0 0 0 0 0
+BA_null3_3 H null3 0 82528 0 0 0 0 0 0 0 0 0
+BA_null3_3 H null3 1 82528 0 0 0 0 0 0 0 0 0
+BA_null4_0 H null4 0 82534 0 0 0 0 0 0 0 0 0
+BA_null4_0 H null4 1 82534 0 0 0 0 0 0 0 0 0
+BA_null4_1 H null4 0 82534 0 0 0 0 0 0 0 0 0
+BA_null4_1 H null4 1 82534 0 0 0 0 0 0 0 0 0
+BA_null4_2 H null4 0 82534 0 0 0 0 0 0 0 0 0
+BA_null4_2 H null4 1 82534 0 0 0 0 0 0 0 0 0
+BA_null4_3 H null4 0 82528 0 0 0 0 0 0 0 0 0
+BA_null4_3 H null4 1 82528 0 0 0 0 0 0 0 0 0
