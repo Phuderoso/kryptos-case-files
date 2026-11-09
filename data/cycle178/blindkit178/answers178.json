@@ -1,0 +1,150 @@
+[
+ {
+  "id": "B1",
+  "ct": "ALTVQBFRWCAOMQHLHVXYGOPUPXQBKVXBSAWTGHGTVOQCMXPVGDUVDFDALCYIXUSMTIHKKBQPUPLPDOCRQPHCVOTWXXEXMCQOF",
+  "kind": "pos",
+  "ix": 1,
+  "L": 3,
+  "pa": "az",
+  "form": "vig",
+  "c": [
+   16,
+   11,
+   16
+  ],
+  "d": 7,
+  "seed": [
+   9,
+   3,
+   1
+  ],
+  "q": 114849,
+  "pt": "NOBODYREADTHELETTERXXEASTNORTHEASTUNTILTHELAMPHADBURNEDDOWNTOAXBERLINCLOCKSOTHEMESSAGESTAYEDSHUTX",
+  "seedword": null,
+  "sha256": "9da234495a26e11d9bdb35a6446cc0ee3b07de882354c1ff4a8c8ba005fa6e39"
+ },
+ {
+  "id": "B2",
+  "ct": "IQABYMGSGESGLZQTPGVZYTNDIKCZHPKIKCJKDUHKLWTPOWGRRMHYRQFQXRTJBCYVUQTIHEZDBBOCFXFBXCTKYBWJXIHJLUOJP",
+  "kind": "pos",
+  "ix": 0,
+  "L": 4,
+  "pa": "ka",
+  "form": "beau",
+  "c": [
+   5,
+   15,
+   14,
+   0
+  ],
+  "d": 10,
+  "seed": [
+   20,
+   6,
+   12,
+   11
+  ],
+  "q": 145473,
+  "pt": "THEWATERBEYONDTHEGATEEASTNORTHEASTWASCOLDANDTHEBOATMENWAITEDFORBERLINCLOCKATTHEHOUROFTHEFIRSTBELL",
+  "seedword": null,
+  "sha256": "98cc71d1fb74237f619ec4e392a9d7cef1aacded92f6f6f3c14f1d70e7b0fcb2"
+ },
+ {
+  "id": "B3",
+  "ct": "POBWSLYKZHFTXUYKOKHBYVKUIYJUVJXNVHTZTCBOWYMLEKVRPXPIADGBZXYQODAHSNBXZAHPFPQPALSXFDZNNNWGIAVLYLRJK",
+  "kind": "pos",
+  "ix": 0,
+  "L": 7,
+  "pa": "az",
+  "form": "vig",
+  "c": [
+   19,
+   3,
+   3,
+   5,
+   4,
+   10,
+   5
+  ],
+  "d": 18,
+  "seed": [
+   18,
+   22,
+   20,
+   16,
+   3,
+   23,
+   0
+  ],
+  "q": 15321,
+  "pt": "FOURMENCARRIEDTHEMAPXEASTNORTHEASTTHROUGHTHESNOWANDLEFTITATTHEXBERLINCLOCKSTATIONWITHTHEGREENDOOR",
+  "seedword": null,
+  "sha256": "1d234d34521bf6ad151ae066e6bde47f313400c099a7afca301af7442c470bc1"
+ },
+ {
+  "id": "B4",
+  "ct": "XWQPOQQZMGUKZISWUBVMPUWLKUHBLCARGKKXKVZETVPCHLITBCKCQHMEZLSZXUSJEQNALUPFIFBBCTRZEVNDDEFVIVKXDGCNZ",
+  "kind": "pos",
+  "ix": 1,
+  "L": 8,
+  "pa": "ka",
+  "form": "vig",
+  "c": [
+   1,
+   1,
+   1,
+   0,
+   1,
+   0,
+   0,
+   1
+  ],
+  "d": 14,
+  "seed": [
+   9,
+   8,
+   12,
+   18,
+   0,
+   13,
+   1,
+   14
+  ],
+  "q": 59011,
+  "pt": "ASMALLBOXOFSALTWASXXXEASTNORTHEASTBURIEDUNDERTHETHIRDSTONEFROMTBERLINCLOCKWHERETHEROADSCROSSTWICE",
+  "seedword": "JIMSANBORN",
+  "sha256": "975d4a3166260884f25e66688cd40a7e4865b2d31d131eded621b239d9837e96"
+ },
+ {
+  "id": "B5",
+  "ct": "KIBYERACADCRPXEHNHTTOGGWMPRCJXYBFOQYGRIYJQKUEVUNGXQESUXGKVTFZYILFJCBGZTJZLKBSXNEJEWVVRLBIGWNWTFEW",
+  "kind": "decoy",
+  "ix": 1,
+  "L": 0,
+  "pa": "ka",
+  "form": "beau",
+  "c": null,
+  "d": null,
+  "seed": null,
+  "q": 148020,
+  "pt": "THEKEEPERCOUNTEDSHEEPEASTNORTHEASTTWICEANDSTILLFOUNDONETOOMANYABERLINCLOCKBEFOREHELOCKEDTHEPENXXX",
+  "seedword": null,
+  "sha256": "e159318ad35c460c75f765320f8ef791382aa0e79dec1e1fc0ecd576049f3e1a"
+ },
+ {
+  "id": "B6",
+  "ct": "HRAEQSYPSZWRJFJYRFBYIHCRTZNJSMETFPKBEUTWODCVHDBFIKSLOLJHGMFESPXHPXEVTIYBONOKTQVGHPLOVMIRDNYYMDEGJ",
+  "kind": "decoy",
+  "ix": 0,
+  "L": 0,
+  "pa": "az",
+  "form": "vig",
+  "c": null,
+  "d": null,
+  "seed": null,
+  "q": 104182,
+  "pt": "HERLASTNOTESAIDGOXXXXEASTNORTHEASTANDTHENTHELINEWENTQUIETUNTILXBERLINCLOCKTHERAINSTOPPEDATDAWNXXX",
+  "seedword": null,
+  "sha256": "4a75f95604bf1372318c1d9f89162ca3e4331daba471acfa49e04dafefaee827"
+ }
+]

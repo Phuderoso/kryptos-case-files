@@ -18,3 +18,11 @@ Every plaintext carries the K4 cribs EASTNORTHEAST at 21–33 and BERLINCLOCK at
 
 Validation on our side (cycle 178): `lr178` recovered every positive at its planted perm and replayed it to the planted plaintext;
 no decoy produced a fit.
+
+## Reveal (cycle 185, 2026-11-09, IDEAS I-145)
+No review came back by cycle 185, so the answers are published as promised: [`answers178.json`](answers178.json) (byte-identical to the
+private file; `sha256sum answers178.json` = 218831985fdf677b2964f157d285241089b0558f0ee26223d2e434bf8edf65b0, the commitment above)
+and the generator [`blind178.py`](blind178.py) (published verbatim under its working name `blind178_PRIVATE.py`). All six item hashes
+`sha256("B<n>|<answer>")` check out. **B1–B4 are positives** (B1 ix 1 L 3 A–Z Vig, q 114849; B2 ix 0 L 4 KA Beau, q 145473; B3 ix 0 L 7
+A–Z Vig, q 15321; B4 ix 1 L 8 KA Vig, q 59011), **B5–B6 are decoys** (random keys). Nothing to score; the kit stays usable as an
+un-blinded exercise.
