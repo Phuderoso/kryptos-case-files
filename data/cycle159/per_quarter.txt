@@ -1,0 +1,54 @@
+# one-error-feasible cases per primer quarter (q0 0-25M, q1 25-50M, q2 50-75M, q3 75-100M); '-' = not run (budget)
+K4 5 5 5 13   (from cycle 155/157 survivor lines)
+rnull01 0 0 0 0
+rnull02 4 2 4 0
+rnull03 1 2 3 0
+rnull04 0 0 1 0
+rnull05 1 0 3 2
+rnull06 4 4 9 6
+rnull07 0 0 0 0
+rnull08 0 0 1 -
+rnull09 3 1 0 -
+rnull10 0 7 5 -
+rnull11 0 0 0 -
+rnull12 0 0 0 -
+rnull13 7 8 9 -
+rnull14 0 4 - -
+rnull15 2 1 2 -
+rnull16 1 0 - -
+rnull17 8 13 4 -
+rnull18 1 0 2 -
+rnull19 0 0 0 -
+rnull20 2 1 1 -
+rnull21 1 0 2 -
+rnull22 0 0 - -
+rnull23 2 1 - -
+rnull24 0 0 - -
+rnull25 1 0 - -
+rnull26 2 9 - -
+rnull27 0 0 - -
+rnull28 0 0 - -
+rnull29 0 0 - -
+rnull30 0 0 - -
+rnull31 4 1 - -
+rnull32 1 1 - -
+rnull33 0 0 - -
+rnull34 0 0 - -
+rnull35 0 0 - -
+rnull36 0 0 - -
+rnull37 3 2 - -
+rnull38 1 0 - -
+rnull39 1 2 - -
+rnull40 2 1 - -
+rnull41 1 0 - -
+rnull42 3 1 - -
+rnull43 3 4 - -
+rnull44 1 1 - -
+rnull45 0 0 - -
+rnull46 0 0 - -
+rnull47 10 6 - -
+rnull48 1 2 - -
+# q0: N=48 median=1 max=10 >=K4: 3
+# q1: N=48 median=0 max=13 >=K4: 5
+# q2: N=19 median=2 max=9 >=K4: 3
+# q3: N=7 median=0 max=6 >=K4: 0

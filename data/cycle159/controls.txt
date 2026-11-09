@@ -1,0 +1,23 @@
+# planted controls (tools/cycle159/plant159.py): name CT pa form primer note
+p1 NPUCHEGUYRXJHNRHXRHLUCIAJXDUNTBZAXGJYQYSFNVMPGCJBPQHCTZVILKCNLOKHRTBMSYGQBWNXFKUJPCHFNLTKWLCOJCQB az vig 24321825 carved-error@33
+p2 BYTKSEQTXLIJJSEIPBIFUBYBQFOXPEWRAPNYKTODIKCCRJWVFDWXTTBYIYAIWAXFUZWUOPAGIUYGETMPLDOBTCEKVAMBVSSNW ka beau 39487874 wrong-crib-letter@26
+p3 YHJBHTLILLIBKYGDGEQEZLRWYCEECOFMKYQWOKPOXXNPSQXLJYVPSPBTMSRNLYOIWORBOGSPAKFCOELNTETOSWASPVCWMWXQH az beau 07103383 clean
+p4 PVBDHZDYXOYNSSGUNSKITUKKONMOZGKVUKXSCJFGOHVCISAVWANSZCBQOBVQPOLIJCZWZSZLQTCAFERFHJVEOCEEJGCMDYHED ka vig 60376799 carved-error@29
+# gromark1e model P L 8 on a 600k-primer window around each planted primer (SHOW=1, lines for the planted primer + C line)
+[carved-error@33] S p1 P L=8 all pa=az form=vig drop=11(pos32 S) primer=24321825
+[carved-error@33] S p1 P L=8 all pa=az form=vig drop=12(pos33 T) primer=24321825
+[carved-error@33] S p1 P L=8 all pa=az form=vig drop=4(pos25 N) primer=24321825
+[carved-error@33] C p1 P L=8 all lo=24021825 tested=600000 strict az:vig=18 beau=17 ka:vig=18 beau=12 | one az:vig=1588 beau=1552 ka:vig=1052 beau=1048 | pairs=8892 | dropidx 0:96 1:132 2:374 3:108 4:1726 5:140 6:119 7:127 8:789 9:782 10:111 11:979 12:979 14:106 15:107 16:806 17:773 18:107 19:118 20:115 21:112 22:93 23:93
+[wrong-crib-letter@26] S p2 P L=8 all pa=ka form=beau drop=5(pos26 O) primer=39487874
+[wrong-crib-letter@26] C p2 P L=8 all lo=39187874 tested=600000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=4 | pairs=7 | dropidx 5:3 9:1 14:1 16:1 18:1
+[clean] C p3 P L=8 all lo=6803383 tested=600000 strict az:vig=0 beau=1 ka:vig=0 beau=0 | one az:vig=11 beau=6 ka:vig=0 beau=1 | pairs=25 | dropidx 1:2 2:4 3:1 4:4 5:1 7:4 8:2 14:2 15:1 18:2 22:1 23:1
+[carved-error@29] S p4 P L=8 all pa=ka form=vig drop=8(pos29 H) primer=60376799
+[carved-error@29] S p4 P L=8 all pa=ka form=vig drop=7(pos28 T) primer=60376799
+[carved-error@29] S p4 P L=8 all pa=ka form=vig drop=19(pos69 C) primer=60376799
+[carved-error@29] C p4 P L=8 all lo=60076799 tested=600000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=0 ka:vig=8 beau=5 | pairs=25 | dropidx 0:2 1:1 2:2 3:2 4:1 6:3 7:2 8:1 11:2 12:2 16:1 18:2 19:2 20:2
+
+real	0m3.473s
+user	0m3.458s
+sys	0m0.032s
+# p3 (clean) exact primer:
+C p3x P L=8 all lo=7103383 tested=1 strict az:vig=0 beau=1 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx   (strict-feasible az/beau = the planted setting)

@@ -1,0 +1,13 @@
+rnull13 lo 6610895 C (strict,one,pairs) (0, 1, 3) Py (0, 1, 3) same
+rnull10 lo 25309010 C (strict,one,pairs) (0, 1, 1) Py (0, 1, 1) same
+rnull05 lo 11411754 C (strict,one,pairs) (0, 1, 2) Py (0, 1, 2) same
+rnull02 lo 25151354 C (strict,one,pairs) (0, 1, 2) Py (0, 1, 2) same
+rnull03 lo 27997076 C (strict,one,pairs) (0, 1, 1) Py (0, 1, 1) same
+rnull09 lo 566440 C (strict,one,pairs) (0, 1, 1) Py (0, 1, 1) same
+rnull14 lo 31925562 C (strict,one,pairs) (0, 1, 1) Py (0, 1, 1) same
+rnull06 lo 1169953 C (strict,one,pairs) (0, 1, 2) Py (0, 1, 2) same
+K4 lo 82550397 C (strict,one,pairs) (0, 1, 3) Py (0, 1, 3) same
+K4 lo 19565014 C (strict,one,pairs) (0, 1, 1) Py (0, 1, 1) same
+rnull10 lo 6712943 C (strict,one,pairs) (0, 0, 0) Py (0, 0, 0) same
+rnull30 lo 34485879 C (strict,one,pairs) (0, 0, 0) Py (0, 0, 0) same
+window recount identical 12/12
