@@ -1,0 +1,16 @@
+# Cycle 175 independent recounts
+## slip175 vs recount175.py (numpy conflict-matrix formulation): per-p HIST / HISTK / EXPECT on slices
+delx dec98.bin 0-20: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+delx dec98.bin 100000-100020: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+insx dec96.bin 0-20: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+insx dec96.bin 150000-150020: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+delx dec98_s8.bin 0-20: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+insx dec96_s8.bin 0-20: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+delx ctl0_slice.bin 90-110: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+insx ctl4_slice.bin 90-110: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+delx dec98.bin 96794-96795: HIST identical=True HISTK identical=True EXPECT agree(1e-3)=True 
+## hill175 vs hillrecount175.py (brute force over all row vectors mod 2 and mod 13): perms (30 with K4 K lines + 30 random, seed 1751) then the 3 K4 affine ix-0 consistent perms
+164877 22618 42634 52 18517 10904 9132 31092 31574 37014 9259 138612 49 9253 43504 22096 9131 31690 9177 40249 28924 43506 31096 17126 9134 9130 11784 22094 13997 40317
+1734 90852 56981 37591 104152 42964 78301 87814 44886 65995 159994 17625 118602 88487 162906 94340 22042 42225 118154 161395 11217 72730 104737 131046 165391 101710 58382 79485 45715 96576
+HILL RECOUNT: 1920 sub-cell configs compared, 0 mismatches
+HILL RECOUNT: 96 sub-cell configs compared, 0 mismatches
