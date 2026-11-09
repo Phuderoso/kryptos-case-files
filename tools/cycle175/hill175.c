@@ -6,7 +6,9 @@
    New solver (replaces hill174's brute-force row enumeration, needed for n 4 / u 5): each row's system A x = z is put in
    reduced row-echelon form mod 2 and mod 13; inconsistent -> no fit; otherwise particular solution + kernel basis per prime,
    the row solution set mod 26 = CRT of the two affine spaces (2^f2 * 13^f13 vectors, enumerated up to CAP).
-   Consistent configs are checked for an invertible D (det != 0 mod 2 and mod 13) and decoded with the first invertible key.
+   Consistent configs are checked for an invertible D (det != 0 mod 2 and mod 13) and decoded with every invertible key (up to
+   MAXDEC = 64 per config, one K line each; '+' after ninv = truncated). [Changed after the pre-registration push, before any K4/null
+   run: hill174 decoded only the first invertible key, and two planted controls showed the planted key is not always first.]
    checks(config) = sum_r max(0, m_r - u) (equations beyond unknowns; I-115 information filter, counted as 'consistent_k').
    Analytic chance per config ~ prod_r 26^-(max(0, m_r - u)) (generic rank).
    usage: hill175 CT perms.bin label qlo qhi nmin nmax KMIN
@@ -18,6 +20,7 @@
 #include <math.h>
 #define N 97
 #define CAP 4096
+#define MAXDEC 64
 static const int CI[24]={21,22,23,24,25,26,27,28,29,30,31,32,33,63,64,65,66,67,68,69,70,71,72,73};
 static const char *PT="EASTNORTHEASTBERLINCLOCK";
 static const char *KA="KRYPTOSABCDEFGHIJLMNQUVWXZ";
@@ -78,15 +81,17 @@ int main(int argc,char**argv){
         if(!ok)continue; h[1]++; if(chk>=KMIN) h[3]++;
         long c[4]; int trunc=0; for(int r=0;r<n;r++){c[r]=ns[r]; if(c[r]>CAP){c[r]=CAP;trunc=1;}}
         for(int r=n;r<4;r++) c[r]=1;
-        long ninv=0, lim=20000000L; int best[4][5];
+        long ninv=0, lim=20000000L; static int best[MAXDEC][4][5];
         for(long a0=0;a0<c[0]&&lim>0;a0++)for(long a1=0;a1<c[1]&&lim>0;a1++)for(long a2=0;a2<c[2]&&lim>0;a2++)for(long a3=0;a3<c[3]&&lim>0;a3++){lim--;
           int D[4][5]; long ai[4]={a0,a1,a2,a3}; for(int r=0;r<n;r++) memcpy(D[r],SOL[r][ai[r]],sizeof D[r]);
-          if(det_nz_mod(n,D,2)&&det_nz_mod(n,D,13)){ if(!ninv) memcpy(best,D,sizeof best); ninv++; } }
+          if(det_nz_mod(n,D,2)&&det_nz_mod(n,D,13)){ if(ninv<MAXDEC) memcpy(best[ninv],D,sizeof best[0]); ninv++; } }
         if(!ninv)continue; h[2]++;
-        int inv[26]; for(int i=0;i<26;i++)inv[nm[i]]=i; char out[N+1]; out[N]=0; int X[N]; for(int i=0;i<N;i++)X[i]=-1;
-        for(int b=0;off+n*(b+1)<=N;b++) for(int r=0;r<n;r++){int s=aff?best[r][n]:0; for(int cc=0;cc<n;cc++)s+=best[r][cc]*Z[off+n*b+cc]; X[off+n*b+r]=s%26;}
-        for(int i=0;i<N;i++){int v= ix==0? X[i] : X[S[i]]; out[i]= v<0?'?':(char)('A'+inv[v]);}
-        printf("K %s %ld %d %d %s %d %d %ld%s %d %s\n",lab,q,n,aff,num?"KA":"AZ",ix,off,ninv,(trunc||lim<=0)?"+":"",chk,out);
+        /* decode with every invertible key up to MAXDEC (cycle 175: the crib solution set can hold several keys) */
+        int inv[26]; for(int i=0;i<26;i++)inv[nm[i]]=i;
+        for(long kk=0;kk<ninv&&kk<MAXDEC;kk++){ char out[N+1]; out[N]=0; int X[N]; for(int i=0;i<N;i++)X[i]=-1;
+          for(int b=0;off+n*(b+1)<=N;b++) for(int r=0;r<n;r++){int s=aff?best[kk][r][n]:0; for(int cc=0;cc<n;cc++)s+=best[kk][r][cc]*Z[off+n*b+cc]; X[off+n*b+r]=s%26;}
+          for(int i=0;i<N;i++){int v= ix==0? X[i] : X[S[i]]; out[i]= v<0?'?':(char)('A'+inv[v]);}
+          printf("K %s %ld %d %d %s %d %d %ld%s %d %s\n",lab,q,n,aff,num?"KA":"AZ",ix,off,ninv,(trunc||lim<=0||ninv>MAXDEC)?"+":"",chk,out); }
       }}}}
   for(int n=nmin;n<=nmax;n++)for(int aff=0;aff<2;aff++)for(int num=0;num<2;num++)for(int ix=0;ix<2;ix++)for(int off=0;off<n;off++){
     long long*h=H[n-2][aff][num][ix][off]; double*e=E[n-2][aff][num][ix][off];
