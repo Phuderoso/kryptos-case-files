@@ -93,6 +93,11 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-083 | Segment shift taken in plain A–Z letter space, then read through the keyed alphabet (differs from the tableau-row shift except for A–Z) | P3 | queued (from cycle 167) |
 | I-084 | Segment-shifted key with all 86,731 alphabets behind the rest of the bank (only 1/4000 done), after a ≥ 10× faster shift3 (residue precheck, bit-parallel) | P3 | queued (from cycle 167; ~660k core-s at current speed) |
 | I-085 | Gate audit for count cells (after Voynich C078): where a verdict rests on the I-079 gate, use ≥ 40 nulls or an exact binomial bound on the null hit rate, and report the gate's own FPR | P2 | queued (method, from cycle 167; apply first to I-072) |
+| I-086 | Running keys behind K3-law decimations (159,712) and spiral/diagonal routes (6,070): named texts exact, unnamed English scored | P2 | tested (cycle 168, [case 156](case-file/156-running-keys-behind-decimations-and-routes.md)): named texts (48, 3.30 M letters, 29 substitutions, both orders) K4 0 full fits `EXACT-EXCL`; unnamed English (Model A) K4 −5.12 vs 48 nulls median −5.28 `NO-SIGNAL`, power 19/20 |
+| I-087 | Running keys behind decimations / routes (and the bank) under one wrong crib or carved letter (≥ 23 of 24 per offset) | P3 | queued (from cycle 168; needs a popcount-sum bookrk variant, ~10× cost; K4-only first) |
+| I-088 | Transpose first, then an unnamed English running key (Model B): key letters scattered; decimations put them on a stride-s progression of the key text | P3 | queued (from cycle 168; needs a language-model key prior or two-stream annealing, I-029) |
+| I-089 | Rest of case 57's list behind decimations: Porta, Quagmire IV, one-letter anomaly; running keys on the 98-symbol `?` circle and on 20,946 mixed tableaux | P3 | queued (from cycle 168) |
+| I-090 | bookrk depth diagnostic counts ≤ 63 tail bits past the last valid offset: mask it, then re-check case files that quote bookrk depths (e.g. case 44's "9 vs nulls 8–10") | P3 | queued (method, from cycle 168; FULL fits unaffected) |
 | I-071 | Split period-7 key with a themed / vocabulary alphabet per segment, or Quagmire I/II/IV per segment | P3 | queued (from cycle 162) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
@@ -431,6 +436,26 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Date / source:** 2026-11-09, cycle 167. `[Voynich]` C078 measured 8.3 % FPR for its 20-replicate gate (nominal 5 %).
 - **Test:** for any K4 verdict that depends on the I-079 gate (count cells, not analytic zero cells), run ≥ 40 nulls or give an exact binomial / Clopper–Pearson bound on the null hit rate, and report the gate's own false-positive rate on synthetic plants. First use: I-072. **Status:** queued (P2, method).
 
+### I-086 — Running keys behind K3's decimation law and spiral/diagonal routes
+- **Date / source:** 2026-11-09, cycle 168. `[repo]` Coverage rows "Decimation" and "Spiral and diagonal routes" listed running keys as open since cycles 59/61. Case 57 called the decimation gap "the most obvious structural gap".
+- **Test:** `bookrk` (unchanged) on 165,782 perms × 2 orders × 29 substitutions × 48 key texts (3.30 M letters, carved texts cyclic), plus a quadgram score of the 24 forced key letters for an unnamed English key (Model A). **Status:** tested ([case 156](case-file/156-running-keys-behind-decimations-and-routes.md)). Named texts `EXACT-EXCL` (K4 0 full fits, 12/12 controls, ≈ 10⁻²⁰ chance fits). Unnamed English `NO-SIGNAL`, power 19/20.
+
+### I-087 — One-error running keys behind decimations / routes
+- **Date / source:** 2026-11-09, cycle 168. `[repo]` bookrk is strict. One wrong carved or crib letter breaks a true fit.
+- **Test:** count per offset how many of the 24 constraints hold (bit-sliced adders) and keep ≥ 23. Run K4 + nulls behind decimations/routes first, then the bank. **Controls:** planted one-error running keys. **Cost:** ~10× bookrk. **Status:** queued.
+
+### I-088 — Transpose first with an unnamed English book
+- **Date / source:** 2026-11-09, cycle 168. `[repo]` Under Model B the 24 forced key letters sit at carved positions. For a decimation those form an arithmetic progression mod M, so the key letters are a decimated sample of the book, not two fragments.
+- **Test:** a key prior (I-029) or annealing of plaintext and key together. **Status:** queued.
+
+### I-089 — Remaining families behind decimations
+- **Date / source:** 2026-11-09, cycle 168. `[repo]` Case 57's list: Porta, Quagmire IV, the one-letter anomaly. Also running keys on the 98-symbol `?` circle (154,186 decimations, needs an N = 98 bookrk) and on the 20,946 mixed tableaux.
+- **Status:** queued.
+
+### I-090 — bookrk depth tail bits
+- **Date / source:** 2026-11-09, cycle 168 recount. `[repo]` bookrk's depth (< 24) diagnostic also counts bit positions past the last valid offset in the final word, so a depth can read one level high (2 of 92,160 sampled configs). FULL fits are masked to real offsets, so no exclusion moves.
+- **Test:** mask the tail, then re-read past depth comparisons (case 44: "best depth 9 vs nulls 8–10"). **Status:** queued (method).
+
 ### I-071 — Split period-7 key with a restricted alphabet per segment or Quagmire I/II/IV
 - **Date / source:** 2026-11-08, cycle 162. `[repo]` Model X (any of 86,731 alphabets per segment) was at chance; restricting each segment to themed or vocabulary alphabets sits between Z (exact) and X (no power).
 - **Test:** `split7` with separate alphabet files per segment (264 themed × 10,056 vocabulary), and Quagmire I/II/IV tableaux per segment; count vs nulls, decode survivors. **Controls:** planted mixed-alphabet split; 2–4 nulls. **Cost:** small–moderate. **Status:** queued.
@@ -491,3 +516,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-09, cycle 166 end: I-070 tested (new structure: returning key A|B|A `EXACT-EXCL` direct strict + one-error with 86,731 alphabets and behind the full bank for A–Z/KA, strict + one-error; three independent keys `EXACT-EXCL` A–Z/KA direct, `NO-SIGNAL` elsewhere). I-079 FPR gate applied per cell (unverified, Voynich-sourced). Voynich C077 journal (~00:21 PT) says they sent a second lesson (a statistic symmetric in theory gives a clean built-in null); the message itself is not visible here. Added I-080–I-082 (82 items). Recommended next: cycle 167 audit/variant — I-078 sweep (minutes) + I-072 with the I-079 gate, or I-082 (cheap, P2); then a new family (I-016, I-071 or I-081).
 - 2026-11-09, cycle 167 start: reconciled I-078 (sweep, minutes), I-072 (≥ 35 min, can only re-rank decoded gibberish) and I-082 (P2, cheap, closes case 154's power gap). Picked I-082 + I-078 sweep. Voynich: C078 journal/case file read (gate definition and gate-noise warning); no direct reply visible to the 01:05 PDT message.
 - 2026-11-09, cycle 167 end: I-082 tested (segment-shifted key `EXACT-EXCL` direct strict + one-error, full bank A–Z/KA strict + one-error, all alphabets on 1/4000 of the bank; K4 0, nulls 0 everywhere). I-078 tested (sweep: no further orphans). I-079 updated from C078. Added I-083–I-085 (85 items). Recommended next: cycle 168 **new family** (167 was a variant): I-081 (alternating A|B|A|B keys, power check first), I-016 or I-075; I-072 with I-085 when an audit slot comes.
+- 2026-11-09, cycle 168 start: reconciled I-081 (alternating period-7 keys, a sixth period-7 segment variant), I-016 (SAT periodic, mostly LOW-POWER) and I-075 (autokey bank upgrade) against the user's request for diversity; picked a K3-style layered structure open in the coverage table: running keys behind K3-law decimations and routes (new I-086). Voynich: our ~01:05 PDT message still pending; the proposed cycle-167 reply was held (no new substance); their C079 (gate audit) is in progress on the box, no reply visible.
+- 2026-11-09, cycle 168 end: I-086 tested (named running keys behind 165,782 decimations/routes `EXACT-EXCL`, K4 0 full fits; unnamed English `NO-SIGNAL`, power 19/20; controls 12/12 + 19/20; recount identical). Added I-087–I-090 (90 items). Recommended next: cycle 169 audit/variant: I-087 (one-error running keys behind decimations/routes, K4 first) with I-090 (mask the depth tail), or I-072 under I-085; next new family after that: I-089 or I-016.
