@@ -1,0 +1,67 @@
+# chunks: 192 of 192; duplicates 0 []; gaps 0 []
+# per text: q0 q1 q2 q3 | full | strict
+rnull01 0 0 0 0 | 0 | 0
+rnull02 4 2 4 0 | 10 | 0
+rnull03 1 2 3 0 | 6 | 0
+rnull04 0 0 1 0 | 1 | 0
+rnull05 1 0 3 2 | 6 | 0
+rnull06 4 4 9 6 | 23 | 0
+rnull07 0 0 0 0 | 0 | 0
+rnull08 0 0 1 0 | 1 | 0
+rnull09 3 1 0 1 | 5 | 0
+rnull10 0 7 5 6 | 18 | 0
+rnull11 0 0 0 0 | 0 | 0
+rnull12 0 0 0 0 | 0 | 0
+rnull13 7 8 9 11 | 35 | 0
+rnull14 0 4 2 1 | 7 | 0
+rnull15 2 1 2 3 | 8 | 0
+rnull16 1 0 0 1 | 2 | 0
+rnull17 8 13 4 9 | 34 | 0
+rnull18 1 0 2 1 | 4 | 0
+rnull19 0 0 0 1 | 1 | 0
+rnull20 2 1 1 1 | 5 | 0
+rnull21 1 0 2 3 | 6 | 0
+rnull22 0 0 0 1 | 1 | 0
+rnull23 2 1 2 1 | 6 | 0
+rnull24 0 0 0 0 | 0 | 0
+rnull25 1 0 0 0 | 1 | 0
+rnull26 2 9 10 6 | 27 | 0
+rnull27 0 0 0 0 | 0 | 0
+rnull28 0 0 0 0 | 0 | 0
+rnull29 0 0 0 0 | 0 | 0
+rnull30 0 0 0 0 | 0 | 0
+rnull31 4 1 0 4 | 9 | 0
+rnull32 1 1 1 0 | 3 | 0
+rnull33 0 0 0 1 | 1 | 0
+rnull34 0 0 0 0 | 0 | 0
+rnull35 0 0 2 1 | 3 | 0
+rnull36 0 0 0 0 | 0 | 0
+rnull37 3 2 1 1 | 7 | 0
+rnull38 1 0 1 1 | 3 | 0
+rnull39 1 2 1 2 | 6 | 0
+rnull40 2 1 0 2 | 5 | 0
+rnull41 1 0 1 0 | 2 | 0
+rnull42 3 1 2 2 | 8 | 0
+rnull43 3 4 3 2 | 12 | 0
+rnull44 1 1 5 2 | 9 | 0
+rnull45 0 0 0 0 | 0 | 0
+rnull46 0 0 0 0 | 0 | 0
+rnull47 10 6 12 9 | 37 | 0
+rnull48 1 2 1 2 | 6 | 0
+K4 5 5 5 13 | 28
+PRIMARY full 10^8 (pre-specified cycle 161; secondary in cycle 159): K4 28; nulls N=48 min=0 median=3.5 max=37 zero=13 >=K4 3 p_upper=0.0816 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 3 3 3 4 5 5 5 6 6 6 6 6 6 7 7 8 8 9 9 10 12 18 23 27 34 35 37
+   Bonferroni x4 (L8 row singled out post hoc among 4 relaxed LOW-POWER rows): 0.3265
+quarter q0: K4 5; nulls N=48 min=0 median=1.0 max=10 zero=21 >=K4 3 p_upper=0.0816 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 7 8 10
+quarter q1: K4 5; nulls N=48 min=0 median=0.0 max=13 zero=26 >=K4 5 p_upper=0.1224 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 4 4 4 6 7 8 9 13
+quarter q2: K4 5; nulls N=48 min=0 median=1.0 max=12 zero=21 >=K4 6 p_upper=0.1429 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 4 4 5 5 9 9 10 12
+quarter q3: K4 13; nulls N=48 min=0 median=1.0 max=11 zero=20 >=K4 0 p_upper=0.0204 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 4 6 6 6 9 9 11
+POST-HOC q3 (75-100M; loose end noticed after the fact in cycle 159): K4 13; nulls N=48 min=0 median=1.0 max=11 zero=20 >=K4 0 p_upper=0.0204 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 4 6 6 6 9 9 11
+   Bonferroni x4 (quarter chosen post hoc) = 0.0816; x16 (quarter and row) = 0.3265
+check: cycle-159 primary 0-50M: K4 10; nulls N=48 min=0 median=1.0 max=21 zero=19 >=K4 4 p_upper=0.1020 (resolution 0.0204) 
+   sorted: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 4 4 4 5 5 6 7 7 8 11 15 16 21

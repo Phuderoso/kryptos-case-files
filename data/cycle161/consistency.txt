@@ -1,0 +1,5 @@
+# resume consistency: cycle-159 results_raw.txt is an exact prefix of the cycle-161 file: True
+cycle-159 chunks 122 unique 122 ; cycle-161 total chunks 192 unique 192 ; max multiplicity 1
+new chunks 70 by start: {'75000000': 41, '50000000': 29}
+every one of 48 nulls x 4 quarters present exactly once: True
+solver: tools/cycle155/gromark1e.c unchanged (byte-identical to remote head 2a1878f and cycle-159 copy); binary sha256 c63bb0702dbe227bc01ba05f8c7a652b624e7c83ab54464feeb5dd462799b1b6 = cycle-159 build
