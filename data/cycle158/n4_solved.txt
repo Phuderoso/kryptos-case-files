@@ -1,0 +1,78 @@
+S K4 n=4 perm=95966 dir=1 ix=1 nu=1 o=3 drop=-1 f=BERLIN sf=-1 e=SANBORN se=-1 -> ('singular', 52)
+S K4 n=4 perm=95967 dir=0 ix=1 nu=1 o=3 drop=-1 f=BERLIN sf=-1 e=SANBORN se=-1 -> ('singular', 52)
+S K4 n=4 perm=95968 dir=1 ix=1 nu=0 o=2 drop=-1 f=INVISIBLE sf=-1 e=LODESTONE se=1 -> sols=52 invertible=24 best: D=[[14, 24, 17, 12], [11, 15, 8, 16], [9, 24, 21, 4], [18, 1, 12, 23]] meanQ=-7.832 wrong_decided_cribs=0 JTIJGNZHSMWAYROUGHNLXEAST.ORT.EAS.UKGJAGXOVTULKQGOKSDOZQNBDXNGNBER.INC.OCKSTZXYTHXZMUUKPHZMXRMAOS
+S K4 n=4 perm=95969 dir=0 ix=1 nu=0 o=2 drop=-1 f=INVISIBLE sf=-1 e=LODESTONE se=1 -> sols=52 invertible=24 best: D=[[14, 24, 17, 12], [11, 15, 8, 16], [9, 24, 21, 4], [18, 1, 12, 23]] meanQ=-7.832 wrong_decided_cribs=0 JTIJGNZHSMWAYROUGHNLXEAST.ORT.EAS.UKGJAGXOVTULKQGOKSDOZQNBDXNGNBER.INC.OCKSTZXYTHXZMUUKPHZMXRMAOS
+S K4 n=4 perm=105857 dir=0 ix=1 nu=1 o=3 drop=-1 f=CARTER sf=1 e=ILLUSION se=-1 -> ('singular', 2)
+S K4 n=4 perm=105857 dir=0 ix=1 nu=1 o=3 drop=-1 f=CARTER sf=1 e=IQLUSION se=-1 -> ('singular', 2)
+S K4 n=4 perm=105858 dir=1 ix=1 nu=1 o=3 drop=-1 f=CARTER sf=1 e=ILLUSION se=-1 -> ('singular', 2)
+S K4 n=4 perm=105858 dir=1 ix=1 nu=1 o=3 drop=-1 f=CARTER sf=1 e=IQLUSION se=-1 -> ('singular', 2)
+S K4 n=4 perm=105863 dir=0 ix=1 nu=1 o=2 drop=-1 f=ABSCISSA sf=1 e=INVISIBLE se=1 -> sols=4 invertible=2 best: D=[[3, 11, 15, 4], [20, 14, 13, 0], [21, 24, 25, 9], [12, 8, 14, 25]] meanQ=-8.012 wrong_decided_cribs=0 ZLDGTYJUAPAAXGZHWWHEEE...NO..HEASTWXGGEGTJYFPDXXWVXSZNWSGSLIYIRBERLINCLOCKSLXCCWYNOKDJDONYMRRUUET
+S K4 n=4 perm=105864 dir=1 ix=1 nu=1 o=2 drop=-1 f=ABSCISSA sf=1 e=INVISIBLE se=1 -> sols=4 invertible=2 best: D=[[3, 11, 15, 4], [20, 14, 13, 0], [21, 24, 25, 9], [12, 8, 14, 25]] meanQ=-8.012 wrong_decided_cribs=0 ZLDGTYJUAPAAXGZHWWHEEE...NO..HEASTWXGGEGTJYFPDXXWVXSZNWSGSLIYIRBERLINCLOCKSLXCCWYNOKDJDONYMRRUUET
+S K4 n=4 perm=123939 dir=1 ix=1 nu=1 o=2 drop=-1 f=TUTANKHAMEN sf=-1 e=LODESTONE se=-1 -> ('singular', 2)
+S K4 n=4 perm=123940 dir=0 ix=1 nu=1 o=2 drop=-1 f=TUTANKHAMEN sf=-1 e=LODESTONE se=-1 -> ('singular', 2)
+S K4 n=4 perm=124395 dir=0 ix=1 nu=1 o=3 drop=-1 f=INVISIBLE sf=1 e=WEBSTER se=-1 -> ('singular', 1)
+S K4 n=4 perm=124396 dir=1 ix=1 nu=1 o=3 drop=-1 f=INVISIBLE sf=1 e=WEBSTER se=-1 -> ('singular', 1)
+S K4 n=4 perm=125097 dir=0 ix=1 nu=0 o=2 drop=-1 f=PALIMPSEST sf=-1 e=SANBORN se=1 -> sols=1 invertible=1 best: D=[[15, 4, 3, 20], [3, 10, 23, 15], [22, 5, 18, 19], [24, 4, 13, 9]] meanQ=-8.011 wrong_decided_cribs=0 UJEFCHGOFRSTTAVWHPMHXEASTN.RTHEAS.EMCFMOEYLGBRKBRWEPRTCVLVVHYHHBER.INCLOC.RGPAVXG.XCYIXBJUEJOFUDG
+S K4 n=4 perm=125098 dir=1 ix=1 nu=0 o=2 drop=-1 f=PALIMPSEST sf=-1 e=SANBORN se=1 -> sols=1 invertible=1 best: D=[[15, 4, 3, 20], [3, 10, 23, 15], [22, 5, 18, 19], [24, 4, 13, 9]] meanQ=-8.011 wrong_decided_cribs=0 UJEFCHGOFRSTTAVWHPMHXEASTN.RTHEAS.EMCFMOEYLGBRKBRWEPRTCVLVVHYHHBER.INCLOC.RGPAVXG.XCYIXBJUEJOFUDG
+S K4 n=4 perm=126517 dir=0 ix=1 nu=0 o=3 drop=-1 f=CLOCK sf=-1 e=CANDLE se=1 -> ('singular', 1)
+S K4 n=4 perm=126517 dir=0 ix=1 nu=1 o=3 drop=-1 f=KRYPTOS sf=-1 e=DESPARATLY se=-1 -> sols=2 invertible=1 best: D=[[1, 12, 24, 24], [14, 21, 16, 25], [2, 25, 11, 11], [4, 16, 8, 5]] meanQ=-8.375 wrong_decided_cribs=0 FXVGWLDQLYPFXMMNIWVSG.....ORTHEASTEKKEMVATZQWCBMDYAQAVQXOQVIOQDBERLINCLOCKMMIYQJNMMLQWTUWSOYGAJCC
+S K4 n=4 perm=126517 dir=1 ix=1 nu=0 o=3 drop=-1 f=CLOCK sf=-1 e=CANDLE se=1 -> ('singular', 1)
+S K4 n=4 perm=126517 dir=1 ix=1 nu=1 o=3 drop=-1 f=KRYPTOS sf=-1 e=DESPARATLY se=-1 -> sols=2 invertible=1 best: D=[[1, 12, 24, 24], [14, 21, 16, 25], [2, 25, 11, 11], [4, 16, 8, 5]] meanQ=-8.375 wrong_decided_cribs=0 FXVGWLDQLYPFXMMNIWVSG.....ORTHEASTEKKEMVATZQWCBMDYAQAVQXOQVIOQDBERLINCLOCKMMIYQJNMMLQWTUWSOYGAJCC
+S K4 n=4 perm=138278 dir=1 ix=1 nu=1 o=3 drop=-1 f=TUTANKHAMEN sf=-1 e=NORTHEAST se=-1 -> ('singular', 52)
+S K4 n=4 perm=138279 dir=0 ix=1 nu=1 o=3 drop=-1 f=TUTANKHAMEN sf=-1 e=NORTHEAST se=-1 -> ('singular', 52)
+S K4 n=4 perm=138332 dir=1 ix=1 nu=0 o=2 drop=-1 f=WEBSTER sf=1 e=CANDLE se=-1 -> sols=2 invertible=1 best: D=[[16, 11, 12, 11], [19, 17, 24, 25], [23, 20, 25, 22], [14, 13, 4, 6]] meanQ=-8.169 wrong_decided_cribs=0 XJLSZETYAWQTSUWVSUQJWEASTNO.THE.STKYCKXRNCBXEKVICVZFYEWVREIQXPRB.RLI.CLO.KCCBJXQWXIKWMEWRBEYQJPTZ
+S K4 n=4 perm=138333 dir=0 ix=1 nu=0 o=2 drop=-1 f=WEBSTER sf=1 e=CANDLE se=-1 -> sols=2 invertible=1 best: D=[[16, 11, 12, 11], [19, 17, 24, 25], [23, 20, 25, 22], [14, 13, 4, 6]] meanQ=-8.169 wrong_decided_cribs=0 XJLSZETYAWQTSUWVSUQJWEASTNO.THE.STKYCKXRNCBXEKVICVZFYEWVREIQXPRB.RLI.CLO.KCCBJXQWXIKWMEWRBEYQJPTZ
+S K4 n=4 perm=138620 dir=1 ix=1 nu=1 o=3 drop=-1 f=TUTANKHAMEN sf=-1 e=NORTHEAST se=-1 -> ('singular', 2)
+S K4 n=4 perm=138621 dir=0 ix=1 nu=1 o=3 drop=-1 f=TUTANKHAMEN sf=-1 e=NORTHEAST se=-1 -> ('singular', 2)
+S K4 n=4 perm=142413 dir=1 ix=1 nu=0 o=3 drop=-1 f=SLOWLY sf=1 e=ABSCISSA se=-1 -> sols=4 invertible=2 best: D=[[21, 14, 11, 17], [23, 20, 6, 8], [7, 7, 13, 21], [19, 16, 18, 19]] meanQ=-7.960 wrong_decided_cribs=0 DMDCNKHITEKXQZMXJPNJFEASTNORTHEAS.XXDFUUFVKOBHXRCWEVJLLHHGHCOLHBER.IN...CKZWCTSATWNUVCQWTTYTBIZQU
+S K4 n=4 perm=142414 dir=0 ix=1 nu=0 o=3 drop=-1 f=SLOWLY sf=1 e=ABSCISSA se=-1 -> sols=4 invertible=2 best: D=[[21, 14, 11, 17], [23, 20, 6, 8], [7, 7, 13, 21], [19, 16, 18, 19]] meanQ=-7.960 wrong_decided_cribs=0 DMDCNKHITEKXQZMXJPNJFEASTNORTHEAS.XXDFUUFVKOBHXRCWEVJLLHHGHCOLHBER.IN...CKZWCTSATWNUVCQWTTYTBIZQU
+S K4 n=4 perm=142797 dir=1 ix=1 nu=1 o=3 drop=-1 f=LAYERTWO sf=1 e=UNDERGROUND se=-1 -> sols=2 invertible=2 best: D=[[4, 13, 3, 12], [0, 24, 7, 21], [7, 13, 20, 1], [4, 15, 2, 14]] meanQ=-7.764 wrong_decided_cribs=0 XHFFWERDCVJNSYEIIRIXCEASTNORTHEAS.QZTSMNQFIPZHDMXYWFQVPEWASPAIXBERL.NC...KNFIQNFSMCOQSSZWRGCCEETD
+S K4 n=4 perm=142798 dir=0 ix=1 nu=1 o=3 drop=-1 f=LAYERTWO sf=1 e=UNDERGROUND se=-1 -> sols=2 invertible=2 best: D=[[4, 13, 3, 12], [0, 24, 7, 21], [7, 13, 20, 1], [4, 15, 2, 14]] meanQ=-7.764 wrong_decided_cribs=0 XHFFWERDCVJNSYEIIRIXCEASTNORTHEAS.QZTSMNQFIPZHDMXYWFQVPEWASPAIXBERL.NC...KNFIQNFSMCOQSSZWRGCCEETD
+S K4 n=4 perm=143931 dir=0 ix=1 nu=0 o=3 drop=-1 f=LANGLEY sf=1 e=WEBSTER se=1 -> ('singular', 4)
+S K4 n=4 perm=143931 dir=0 ix=1 nu=1 o=2 drop=-1 f=SLOWLY sf=1 e=MAGNETIC se=-1 -> sols=2 invertible=1 best: D=[[24, 10, 17, 24], [8, 25, 10, 6], [9, 0, 2, 21], [8, 9, 7, 19]] meanQ=-8.110 wrong_decided_cribs=0 LWMUUZVQJXHAAWJEDOUNNE...NORTHEASTMMLZPKDXVXVWFXOWLSUSYMJAOMJFTB..LINCLOCKADSKREXRLXMSIKGCQEIFXFP
+S K4 n=4 perm=143932 dir=1 ix=1 nu=0 o=3 drop=-1 f=LANGLEY sf=1 e=WEBSTER se=1 -> ('singular', 4)
+S K4 n=4 perm=143932 dir=1 ix=1 nu=1 o=2 drop=-1 f=SLOWLY sf=1 e=MAGNETIC se=-1 -> sols=2 invertible=1 best: D=[[24, 10, 17, 24], [8, 25, 10, 6], [9, 0, 2, 21], [8, 9, 7, 19]] meanQ=-8.110 wrong_decided_cribs=0 LWMUUZVQJXHAAWJEDOUNNE...NORTHEASTMMLZPKDXVXVWFXOWLSUSYMJAOMJFTB..LINCLOCKADSKREXRLXMSIKGCQEIFXFP
+S K4 n=4 perm=159513 dir=0 ix=1 nu=1 o=2 drop=-1 f=SLOWLY sf=1 e=UNDERGROUND se=-1 -> ('singular', 1)
+S K4 n=4 perm=159514 dir=1 ix=1 nu=1 o=2 drop=-1 f=SLOWLY sf=1 e=UNDERGROUND se=-1 -> ('singular', 1)
+S K4 n=4 perm=163991 dir=0 ix=1 nu=1 o=2 drop=-1 f=INVISIBLE sf=-1 e=IDBYROWS se=-1 -> sols=8 invertible=4 best: D=[[11, 19, 18, 25], [4, 0, 11, 10], [3, 25, 24, 16], [11, 14, 4, 12]] meanQ=-8.106 wrong_decided_cribs=0 SGKPBEQAWCKYMTSANSNGOEA.T.ORTHEASTAYKRMDCKVLYHKGXGFBSBYGMUXEMJMBERLINCL...HNBPLKUVPNWTKYGRSYOKKKP
+S K4 n=4 perm=163991 dir=0 ix=1 nu=1 o=2 drop=-1 f=CHAMBER sf=-1 e=SHADOW se=-1 -> sols=2 invertible=1 best: D=[[8, 22, 23, 12], [19, 22, 16, 3], [14, 22, 3, 21], [21, 5, 6, 17]] meanQ=-8.218 wrong_decided_cribs=0 NLACKXYPYNCCDHIAHJDLNEA.T.ORTHEASTWVVIBZWRQXEMZIFRJKBQDEUNZITDNBERLINCL...FMAUDTWLHMPXZVQKQQDGQUU
+S K4 n=4 perm=163992 dir=1 ix=1 nu=1 o=2 drop=-1 f=INVISIBLE sf=-1 e=IDBYROWS se=-1 -> sols=8 invertible=4 best: D=[[11, 19, 18, 25], [4, 0, 11, 10], [3, 25, 24, 16], [11, 14, 4, 12]] meanQ=-8.106 wrong_decided_cribs=0 SGKPBEQAWCKYMTSANSNGOEA.T.ORTHEASTAYKRMDCKVLYHKGXGFBSBYGMUXEMJMBERLINCL...HNBPLKUVPNWTKYGRSYOKKKP
+S K4 n=4 perm=163992 dir=1 ix=1 nu=1 o=2 drop=-1 f=CHAMBER sf=-1 e=SHADOW se=-1 -> sols=2 invertible=1 best: D=[[8, 22, 23, 12], [19, 22, 16, 3], [14, 22, 3, 21], [21, 5, 6, 17]] meanQ=-8.218 wrong_decided_cribs=0 NLACKXYPYNCCDHIAHJDLNEA.T.ORTHEASTWVVIBZWRQXEMZIFRJKBQDEUNZITDNBERLINCL...FMAUDTWLHMPXZVQKQQDGQUU
+S K4 n=4 perm=164735 dir=0 ix=1 nu=1 o=2 drop=-1 f=ABSCISSA sf=1 e=LAYERTWO se=-1 -> ('singular', 2)
+S K4 n=4 perm=164736 dir=1 ix=1 nu=1 o=2 drop=-1 f=ABSCISSA sf=1 e=LAYERTWO se=-1 -> ('singular', 2)
+S K4 n=4 perm=164737 dir=0 ix=1 nu=1 o=2 drop=-1 f=EASTNORTHEAST sf=1 e=TUTANKHAMEN se=-1 -> ('singular', 1)
+S K4 n=4 perm=164738 dir=1 ix=1 nu=1 o=2 drop=-1 f=EASTNORTHEAST sf=1 e=TUTANKHAMEN se=-1 -> ('singular', 1)
+S mnull01 n=4 perm=94557 dir=1 ix=1 nu=0 o=3 drop=-1 f=ABSCISSA sf=-1 e=SCHEIDT se=1 -> sols=4 invertible=1 best: D=[[1, 5, 8, 2], [7, 5, 9, 25], [12, 1, 17, 10], [1, 4, 18, 4]] meanQ=-7.669 wrong_decided_cribs=0 UMFEERIUQGLPAWAHIEDXWEAST.OR.HE.STBTPEQSNQAAPJUIDNYQGVZSLFVJJB.BE.LINCLOCKATNILARCHEZJNXDQGPADJTQ
+S mnull01 n=4 perm=104157 dir=0 ix=1 nu=0 o=2 drop=-1 f=LANGLEY sf=-1 e=EASTNORTHEAST se=-1 -> sols=16 invertible=4 best: D=[[18, 1, 9, 4], [25, 1, 7, 4], [20, 22, 9, 17], [0, 20, 9, 12]] meanQ=-8.073 wrong_decided_cribs=0 BQOHYENWJDSHZLVSFCGEQEASTNORTHE..TTXAMLPFCXBDTAPXNPNGDRZDUSFJUJB..LINCLOCKSEHZWPTMEKYIZHMPACM.OUI
+S mnull01 n=4 perm=106697 dir=0 ix=1 nu=0 o=3 drop=-1 f=SCHEIDT sf=-1 e=UNDERGROUND se=1 -> sols=4 invertible=2 best: D=[[12, 22, 4, 7], [21, 10, 23, 15], [5, 25, 0, 4], [15, 0, 10, 14]] meanQ=-7.673 wrong_decided_cribs=0 LGWAIOTDAGMOVXXIIXQIZ.ASTNOR.HEASTODPOWFQJICEVDGKYUTAKSMSKULYNGBER.INC.OC.AOMIRYAIPCEIOKIMOWUYBKX
+S mnull01 n=4 perm=126169 dir=0 ix=1 nu=1 o=3 drop=-1 f=TUTANKHAMEN sf=-1 e=UNDERGROUND se=1 -> ('singular', 1)
+S mnull01 n=4 perm=137473 dir=1 ix=1 nu=0 o=3 drop=-1 f=TOMB sf=1 e=NORTHEAST se=-1 -> sols=1 invertible=1 best: D=[[3, 5, 1, 10], [13, 9, 5, 23], [1, 20, 20, 16], [7, 23, 4, 14]] meanQ=-8.252 wrong_decided_cribs=0 SCDGNUJPP.IHVBYJZPQLS.A.TNORT.E.STSAELZXRMCDVJCXARUSZFFHPQVCQMVBERLINCLOCKFHLWIJPLBDJZLJHANFOSXHB
+S mnull01 n=4 perm=139373 dir=1 ix=1 nu=1 o=3 drop=-1 f=DESPARATLY sf=-1 e=LAYER se=-1 -> sols=2 invertible=2 best: D=[[0, 18, 18, 7], [1, 16, 1, 0], [3, 22, 20, 25], [21, 1, 7, 6]] meanQ=-7.720 wrong_decided_cribs=0 OOROPPEMMXGEUSDODGSZUEASTNORTH..STJHNFDKSQSHVUSZQCYJZTIGVAOVEKSBE...NCLOCKBFPAXITMIEJCFMOALCOICFU
+S mnull01 n=4 perm=139373 dir=1 ix=1 nu=1 o=3 drop=-1 f=LANGLEY sf=-1 e=CANDLE se=1 -> ('singular', 4)
+S mnull01 n=4 perm=140129 dir=1 ix=1 nu=1 o=2 drop=-1 f=LANGLEY sf=-1 e=KRYPTOS se=-1 -> sols=2 invertible=1 best: D=[[12, 5, 14, 3], [16, 5, 1, 25], [10, 3, 2, 24], [17, 18, 17, 6]] meanQ=-7.848 wrong_decided_cribs=0 TMIDWIHFKSXJNBKGYALLAEASTNORT..ASTHSWNCDOEESJYHJJAJYPKKRKYMAHJABE...NCLOCKVOPICPVZLEIWFNFYALHLRFG
+S mnull01 n=4 perm=140129 dir=1 ix=1 nu=1 o=3 drop=-1 f=MAGNETIC sf=1 e=EASTNORTHEAST se=1 -> sols=8 invertible=2 best: D=[[4, 1, 6, 20], [7, 0, 13, 22], [13, 15, 12, 18], [14, 19, 0, 5]] meanQ=-7.999 wrong_decided_cribs=0 EKSPQXBRCFOWVVCEJTHREEASTNORTH.ASTQNMKGJJZYNUOKRWHDIAQYZNINSNAOBE....CLOCKCDWZQXJWQGDCKJLWAKSCADZ
+S mnull01 n=4 perm=140225 dir=1 ix=1 nu=1 o=3 drop=-1 f=INVISIBLE sf=-1 e=BERLINCLOCK se=1 -> ('singular', 1)
+S mnull01 n=4 perm=140881 dir=1 ix=1 nu=0 o=2 drop=-1 f=TUTANKHAMEN sf=-1 e=IDBYROWS se=-1 -> ('singular', 8)
+S mnull01 n=4 perm=140893 dir=1 ix=1 nu=1 o=2 drop=-1 f=LAYER sf=1 e=INVISIBLE se=1 -> sols=52 invertible=24 best: D=[[22, 20, 19, 4], [6, 9, 14, 17], [15, 4, 22, 20], [15, 6, 20, 13]] meanQ=-7.709 wrong_decided_cribs=0 GLGASTERNKWHSQIUGUAGGEASTNORTHEA.TMKXVZRKVADEWYUCBLWIVIVTZPFXXUBERL....OCKFJADVECAJRQSUYVMDGJDFQX
+S mnull01 n=4 perm=143193 dir=1 ix=1 nu=0 o=2 drop=-1 f=LAYERTWO sf=1 e=INVISIBLE se=-1 -> sols=26 invertible=24 best: D=[[9, 3, 11, 2], [19, 5, 0, 17], [6, 4, 4, 5], [1, 0, 20, 23]] meanQ=-7.822 wrong_decided_cribs=0 LCZRXJLQMKSJRVJOCHAPNEASTNORTHEASTMPXQFBQJOBIBYVDAJWOCRWLASULHL.ER.IN..O.KSZRSGIRCHJOHBTTRBYZCHTY
+S mnull01 n=4 perm=162553 dir=1 ix=1 nu=0 o=3 drop=-1 f=SHADOWFORCES sf=-1 e=SLOWLY se=1 -> ('singular', 1)
+S null1 n=4 perm=93053 dir=1 ix=1 nu=0 o=3 drop=-1 f=CHAMBER sf=1 e=LODESTONE se=1 -> ('singular', 1)
+S null1 n=4 perm=94101 dir=0 ix=1 nu=0 o=2 drop=-1 f=CLOCK sf=1 e=HOWARDCARTER se=1 -> ('singular', 1)
+S null1 n=4 perm=96865 dir=1 ix=1 nu=1 o=2 drop=-1 f=EGYPT sf=-1 e=NORTHEAST se=1 -> sols=2 invertible=1 best: D=[[5, 4, 18, 7], [7, 17, 16, 21], [16, 10, 1, 15], [12, 24, 22, 17]] meanQ=-7.799 wrong_decided_cribs=0 CGXXNQNEEMSTQJWCNFYHPEA.TNOR.HEASTAJQNAVVSOJTOQQLYLIGHULKRQ.YKYB.RLINCLOCKBOFQCGCTOYWTINTDHTHJA.H
+S null1 n=4 perm=106697 dir=0 ix=1 nu=1 o=3 drop=-1 f=CHAMBER sf=1 e=LODESTONE se=1 -> ('singular', 4)
+S null1 n=4 perm=116725 dir=1 ix=1 nu=0 o=3 drop=-1 f=ILLUSION sf=1 e=SHADOW se=1 -> ('singular', 1)
+S null1 n=4 perm=126169 dir=0 ix=1 nu=0 o=3 drop=-1 f=KRYPTOS sf=1 e=SHADOW se=1 -> ('singular', 1)
+S null1 n=4 perm=126169 dir=1 ix=1 nu=0 o=2 drop=-1 f=SLOWLY sf=1 e=LANGLEY se=-1 -> ('singular', 1)
+S null1 n=4 perm=126169 dir=1 ix=1 nu=0 o=3 drop=-1 f=KRYPTOS sf=1 e=SHADOW se=1 -> ('singular', 1)
+S null1 n=4 perm=128401 dir=1 ix=1 nu=0 o=2 drop=-1 f=LODESTONE sf=-1 e=CHAMBER se=-1 -> sols=52 invertible=24 best: D=[[25, 22, 22, 2], [19, 13, 23, 1], [24, 13, 13, 6], [3, 4, 21, 18]] meanQ=-7.796 wrong_decided_cribs=0 JEVKPPYKTYEEKMXCVJRGGEA..NO...EASTDELEARNYLOHRWWXEDTVCNZEEYZMHGBERLINCLOCKVFPLEFRGAUPNMQZMDHGMMOK
+S null1 n=4 perm=129921 dir=1 ix=1 nu=0 o=3 drop=-1 f=CLOCK sf=-1 e=SHADOWFORCES se=1 -> ('singular', 1)
+S null1 n=4 perm=138277 dir=0 ix=1 nu=0 o=3 drop=-1 f=SHADOWFORCES sf=1 e=ABSCISSA se=-1 -> sols=1 invertible=1 best: D=[[14, 18, 25, 9], [10, 15, 18, 9], [9, 0, 1, 6], [15, 24, 11, 13]] meanQ=-7.948 wrong_decided_cribs=0 VBZRYGDLEBVDSVLGZBMRIEASTNORT...STYLGJVMNBJACPWDLZUIPANSCADUWDQB..LINCLOCKYLCTVQXOOFFAGKDUJDLNNLI
+S null1 n=4 perm=139037 dir=1 ix=1 nu=1 o=2 drop=-1 f=DESPARATLY sf=-1 e=SCHEIDT se=-1 -> sols=2 invertible=1 best: D=[[7, 9, 6, 14], [20, 7, 7, 1], [18, 1, 15, 4], [18, 1, 8, 2]] meanQ=-8.243 wrong_decided_cribs=0 CJNWIIPFJFIZHTFKMDJGPEA.TN.RT.EASTELGVZGKZQRXYGHLLOANHRGOPMJPPHBE.LI.CLOCKUCDUMPOPNJVKKHCKRNWYWXX
+S null1 n=4 perm=140129 dir=1 ix=1 nu=0 o=2 drop=-1 f=SANBORN sf=-1 e=INVISIBLE se=-1 -> sols=4 invertible=2 best: D=[[15, 2, 19, 12], [6, 17, 6, 6], [9, 4, 22, 3], [19, 15, 6, 14]] meanQ=-7.938 wrong_decided_cribs=0 SGMLSQCZLZIIFIVACNXYFEASTNORT..ASTPOTMOYDSNNCBFTMMYRZSPIHUGEGODBE...NCLOCKYCEGRVFSFYLJNGIZCAAJMJV
+S null1 n=4 perm=141649 dir=0 ix=1 nu=0 o=3 drop=-1 f=KRYPTOS sf=-1 e=UNDERGROUND se=-1 -> ('singular', 2)
+S null1 n=4 perm=141649 dir=1 ix=1 nu=0 o=2 drop=-1 f=IDBYROWS sf=-1 e=UNDERGROUND se=-1 -> ('singular', 1)
+S null1 n=4 perm=141649 dir=1 ix=1 nu=0 o=3 drop=-1 f=LODESTONE sf=-1 e=KRYPTOS se=-1 -> ('singular', 2)
+S null1 n=4 perm=142413 dir=1 ix=1 nu=0 o=3 drop=-1 f=LANGLEY sf=1 e=IQLUSION se=-1 -> ('singular', 2)
+S null1 n=4 perm=142413 dir=1 ix=1 nu=1 o=3 drop=-1 f=WEBSTER sf=-1 e=TOMB se=1 -> sols=1 invertible=1 best: D=[[14, 21, 13, 3], [9, 24, 10, 0], [3, 0, 9, 6], [24, 0, 3, 7]] meanQ=-8.107 wrong_decided_cribs=0 OHWSLMRLPIXXWHIUXETNXEASTNORTHEAS.IWBWGVMWATKZTFHQBUQWPYOFSPXHOBER.IN...CKUSDMKGQSLFBQHTEKLMDUIFW
+S null1 n=4 perm=143169 dir=0 ix=1 nu=0 o=2 drop=-1 f=KRYPTOS sf=-1 e=WEBSTER se=-1 -> ('singular', 2)
+S null1 n=4 perm=143169 dir=1 ix=1 nu=0 o=2 drop=-1 f=EASTNORTHEAST sf=1 e=ABSCISSA se=-1 -> sols=2 invertible=2 best: D=[[16, 6, 22, 17], [5, 17, 5, 2], [21, 14, 7, 4], [7, 12, 14, 15]] meanQ=-8.228 wrong_decided_cribs=0 CQRJCFGBWGCPLRDGUSIHREASTNORTHEA.TGTNCKOMUKPJNYBIEYWMHZADWHKTPNBER.IN...CKMJQEOQAXYJRSLDFTHPQPTBP

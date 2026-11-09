@@ -1,0 +1,48 @@
+text     n   scope                          frames    word-pair tests     strict      1-err    E[chance]
+K4       n2  bank-power-sample                2656           10878976          0          -     1.42e-21
+K4       n2  bank-strict                   2641040        10817699840          0          -          nan
+K4       n2  direct-1err e=themed                4          218496768          0          0     7.83e-22
+K4       n2  direct-1err f=themed                4          218496768          0          0     7.83e-22
+K4       n2  direct-strict                      16         1617970176          0          -     8.12e-20
+K4       n3  bank-power-sample                3984           16318464          0          -     3.36e-12
+K4       n3  bank-strict                   3961560        16226549760          0          -          nan
+K4       n3  direct-1err e=themed                6          241907136          0          0     1.37e-14
+K4       n3  direct-1err f=themed                6          241907136          0          0     1.37e-14
+K4       n3  direct-strict                      24         2426955264          0          -     1.43e-12
+K4       n4  bank-power-sample                5312           21757952          0          -     2.57e-02
+K4       n4  bank-strict                   5282080        21635399680         44          -          nan
+K4       n4  direct-strict                      32         3235940352          0          -     1.16e-02
+mnull01  n2  bank-strict                    660272         2704474112          0          -          nan
+mnull01  n2  direct-1err e=themed                4          218496768          0          0     7.83e-22
+mnull01  n2  direct-1err f=themed                4          218496768          0          0     7.82e-22
+mnull01  n2  direct-strict                      16         1617970176          0          -     8.12e-20
+mnull01  n3  bank-strict                    990408         4056711168          0          -          nan
+mnull01  n3  direct-1err e=themed                6          241907136          0          0     1.32e-14
+mnull01  n3  direct-1err f=themed                6          241907136          0          0     1.32e-14
+mnull01  n3  direct-strict                      24         2426955264          0          -     1.37e-12
+mnull01  n4  bank-strict                   1320544         5408948224         14          -          nan
+mnull01  n4  direct-strict                      32         3235940352          0          -     1.11e-02
+mnull02  n2  direct-1err e=themed                4          218496768          0          0     7.83e-22
+mnull02  n2  direct-1err f=themed                4          218496768          0          0     7.80e-22
+mnull02  n2  direct-strict                      16         1617970176          0          -     8.12e-20
+mnull02  n3  direct-1err e=themed                6          241907136          0          0     1.34e-14
+mnull02  n3  direct-1err f=themed                6          241907136          0          0     1.34e-14
+mnull02  n3  direct-strict                      24         2426955264          0          -     1.39e-12
+mnull02  n4  direct-strict                      32         3235940352          0          -     1.10e-02
+null1    n2  bank-strict                    660272         2704474112          0          -          nan
+null1    n2  direct-1err e=themed                4          218496768          0          0     7.83e-22
+null1    n2  direct-1err f=themed                4          218496768          0          0     7.80e-22
+null1    n2  direct-strict                      16         1617970176          0          -     8.11e-20
+null1    n3  bank-strict                    990408         4056711168          0          -          nan
+null1    n3  direct-1err e=themed                6          241907136          0          0     1.33e-14
+null1    n3  direct-1err f=themed                6          241907136          0          0     1.32e-14
+null1    n3  direct-strict                      24         2426955264          0          -     1.38e-12
+null1    n4  bank-strict                   1320544         5408948224         20          -          nan
+null1    n4  direct-strict                      32         3235940352          0          -     1.02e-02
+null2    n2  direct-1err e=themed                4          218496768          0          0     7.83e-22
+null2    n2  direct-1err f=themed                4          218496768          0          0     7.83e-22
+null2    n2  direct-strict                      16         1617970176          0          -     8.12e-20
+null2    n3  direct-1err e=themed                6          241907136          0          0     1.36e-14
+null2    n3  direct-1err f=themed                6          241907136          0          0     1.38e-14
+null2    n3  direct-strict                      24         2426955264          0          -     1.41e-12
+null2    n4  direct-strict                      32         3235940352          0          -     9.75e-03
