@@ -1,0 +1,209 @@
+## n18411.s512
+H n18411 0 1 q4vv vig perms 324 pairs 352538176 pass2 38244 fits 0
+H n18411 0 1 q4vv beau perms 324 pairs 352538176 pass2 38244 fits 0
+H n18411 0 2 q4vv vig perms 324 pairs 352538176 pass2 144574 fits 0
+H n18411 0 2 q4vv beau perms 324 pairs 352538176 pass2 144574 fits 0
+H n18411 0 3 q4vv vig perms 324 pairs 352538176 pass2 579102 fits 0
+H n18411 0 3 q4vv beau perms 324 pairs 352538176 pass2 579102 fits 0
+H n18411 0 4 q4vv vig perms 324 pairs 352538176 pass2 2322304 fits 0
+H n18411 0 4 q4vv beau perms 324 pairs 352538176 pass2 2322304 fits 0
+O n18411 overflow 0 mismatch 0 passLmax 2322304 method 1 safe 0 nW 342
+END n18411 0 324
+## n18412.s512
+H n18412 0 1 q4vv vig perms 324 pairs 352538176 pass2 43249 fits 0
+H n18412 0 1 q4vv beau perms 324 pairs 352538176 pass2 43249 fits 0
+H n18412 0 2 q4vv vig perms 324 pairs 352538176 pass2 145149 fits 0
+H n18412 0 2 q4vv beau perms 324 pairs 352538176 pass2 145149 fits 0
+H n18412 0 3 q4vv vig perms 324 pairs 352538176 pass2 591748 fits 0
+H n18412 0 3 q4vv beau perms 324 pairs 352538176 pass2 591748 fits 0
+H n18412 0 4 q4vv vig perms 324 pairs 352538176 pass2 2306156 fits 0
+H n18412 0 4 q4vv beau perms 324 pairs 352538176 pass2 2306156 fits 0
+O n18412 overflow 0 mismatch 0 passLmax 2306156 method 1 safe 0 nW 342
+END n18412 0 324
+## n18413.s512
+H n18413 0 1 q4vv vig perms 324 pairs 352538176 pass2 47856 fits 0
+H n18413 0 1 q4vv beau perms 324 pairs 352538176 pass2 47856 fits 0
+H n18413 0 2 q4vv vig perms 324 pairs 352538176 pass2 164987 fits 0
+H n18413 0 2 q4vv beau perms 324 pairs 352538176 pass2 164987 fits 0
+H n18413 0 3 q4vv vig perms 324 pairs 352538176 pass2 621286 fits 0
+H n18413 0 3 q4vv beau perms 324 pairs 352538176 pass2 621286 fits 0
+H n18413 0 4 q4vv vig perms 324 pairs 352538176 pass2 2358494 fits 0
+H n18413 0 4 q4vv beau perms 324 pairs 352538176 pass2 2358494 fits 0
+O n18413 overflow 0 mismatch 0 passLmax 2358494 method 1 safe 0 nW 342
+END n18413 0 324
+## n18414.s512
+H n18414 0 1 q4vv vig perms 324 pairs 352538176 pass2 35572 fits 0
+H n18414 0 1 q4vv beau perms 324 pairs 352538176 pass2 35572 fits 0
+H n18414 0 2 q4vv vig perms 324 pairs 352538176 pass2 147903 fits 0
+H n18414 0 2 q4vv beau perms 324 pairs 352538176 pass2 147903 fits 0
+H n18414 0 3 q4vv vig perms 324 pairs 352538176 pass2 588003 fits 0
+H n18414 0 3 q4vv beau perms 324 pairs 352538176 pass2 588003 fits 0
+H n18414 0 4 q4vv vig perms 324 pairs 352538176 pass2 2313081 fits 0
+H n18414 0 4 q4vv beau perms 324 pairs 352538176 pass2 2313081 fits 0
+O n18414 overflow 0 mismatch 0 passLmax 2313081 method 1 safe 0 nW 342
+END n18414 0 324
+## n18415.s512
+H n18415 0 1 q4vv vig perms 324 pairs 352538176 pass2 40208 fits 0
+H n18415 0 1 q4vv beau perms 324 pairs 352538176 pass2 40208 fits 0
+H n18415 0 2 q4vv vig perms 324 pairs 352538176 pass2 145281 fits 0
+H n18415 0 2 q4vv beau perms 324 pairs 352538176 pass2 145281 fits 0
+H n18415 0 3 q4vv vig perms 324 pairs 352538176 pass2 563202 fits 0
+H n18415 0 3 q4vv beau perms 324 pairs 352538176 pass2 563202 fits 0
+H n18415 0 4 q4vv vig perms 324 pairs 352538176 pass2 2231666 fits 0
+H n18415 0 4 q4vv beau perms 324 pairs 352538176 pass2 2231666 fits 0
+O n18415 overflow 0 mismatch 0 passLmax 2231666 method 1 safe 0 nW 342
+END n18415 0 324
+## n18416.s512
+H n18416 0 1 q4vv vig perms 324 pairs 352538176 pass2 41355 fits 0
+H n18416 0 1 q4vv beau perms 324 pairs 352538176 pass2 41355 fits 0
+H n18416 0 2 q4vv vig perms 324 pairs 352538176 pass2 153604 fits 0
+H n18416 0 2 q4vv beau perms 324 pairs 352538176 pass2 153604 fits 0
+H n18416 0 3 q4vv vig perms 324 pairs 352538176 pass2 581684 fits 0
+H n18416 0 3 q4vv beau perms 324 pairs 352538176 pass2 581684 fits 0
+H n18416 0 4 q4vv vig perms 324 pairs 352538176 pass2 2386499 fits 0
+H n18416 0 4 q4vv beau perms 324 pairs 352538176 pass2 2386499 fits 0
+O n18416 overflow 0 mismatch 0 passLmax 2386499 method 1 safe 0 nW 342
+END n18416 0 324
+## n18417.s512
+H n18417 0 1 q4vv vig perms 324 pairs 352538176 pass2 35584 fits 0
+H n18417 0 1 q4vv beau perms 324 pairs 352538176 pass2 35584 fits 0
+H n18417 0 2 q4vv vig perms 324 pairs 352538176 pass2 142824 fits 0
+H n18417 0 2 q4vv beau perms 324 pairs 352538176 pass2 142824 fits 0
+H n18417 0 3 q4vv vig perms 324 pairs 352538176 pass2 583345 fits 0
+H n18417 0 3 q4vv beau perms 324 pairs 352538176 pass2 583345 fits 0
+H n18417 0 4 q4vv vig perms 324 pairs 352538176 pass2 2339801 fits 0
+H n18417 0 4 q4vv beau perms 324 pairs 352538176 pass2 2339801 fits 0
+O n18417 overflow 0 mismatch 0 passLmax 2339801 method 1 safe 0 nW 342
+END n18417 0 324
+## n18418.s512
+H n18418 0 1 q4vv vig perms 324 pairs 352538176 pass2 40005 fits 0
+H n18418 0 1 q4vv beau perms 324 pairs 352538176 pass2 40005 fits 0
+H n18418 0 2 q4vv vig perms 324 pairs 352538176 pass2 139184 fits 0
+H n18418 0 2 q4vv beau perms 324 pairs 352538176 pass2 139184 fits 0
+H n18418 0 3 q4vv vig perms 324 pairs 352538176 pass2 574961 fits 0
+H n18418 0 3 q4vv beau perms 324 pairs 352538176 pass2 574961 fits 0
+H n18418 0 4 q4vv vig perms 324 pairs 352538176 pass2 2287529 fits 0
+H n18418 0 4 q4vv beau perms 324 pairs 352538176 pass2 2287529 fits 0
+O n18418 overflow 0 mismatch 0 passLmax 2287529 method 1 safe 0 nW 342
+END n18418 0 324
+## n18419.s512
+H n18419 0 1 q4vv vig perms 324 pairs 352538176 pass2 41682 fits 0
+H n18419 0 1 q4vv beau perms 324 pairs 352538176 pass2 41682 fits 0
+H n18419 0 2 q4vv vig perms 324 pairs 352538176 pass2 148302 fits 0
+H n18419 0 2 q4vv beau perms 324 pairs 352538176 pass2 148302 fits 0
+H n18419 0 3 q4vv vig perms 324 pairs 352538176 pass2 602801 fits 0
+H n18419 0 3 q4vv beau perms 324 pairs 352538176 pass2 602801 fits 0
+H n18419 0 4 q4vv vig perms 324 pairs 352538176 pass2 2405237 fits 0
+H n18419 0 4 q4vv beau perms 324 pairs 352538176 pass2 2405237 fits 0
+O n18419 overflow 0 mismatch 0 passLmax 2405237 method 1 safe 0 nW 342
+END n18419 0 324
+## n18420.s512
+H n18420 0 1 q4vv vig perms 324 pairs 352538176 pass2 37978 fits 0
+H n18420 0 1 q4vv beau perms 324 pairs 352538176 pass2 37978 fits 0
+H n18420 0 2 q4vv vig perms 324 pairs 352538176 pass2 148561 fits 0
+H n18420 0 2 q4vv beau perms 324 pairs 352538176 pass2 148561 fits 0
+H n18420 0 3 q4vv vig perms 324 pairs 352538176 pass2 571517 fits 0
+H n18420 0 3 q4vv beau perms 324 pairs 352538176 pass2 571517 fits 0
+H n18420 0 4 q4vv vig perms 324 pairs 352538176 pass2 2315298 fits 0
+H n18420 0 4 q4vv beau perms 324 pairs 352538176 pass2 2315298 fits 0
+O n18420 overflow 0 mismatch 0 passLmax 2315298 method 1 safe 0 nW 342
+END n18420 0 324
+## n18421.s512
+H n18421 0 1 q4vv vig perms 324 pairs 352538176 pass2 33807 fits 0
+H n18421 0 1 q4vv beau perms 324 pairs 352538176 pass2 33807 fits 0
+H n18421 0 2 q4vv vig perms 324 pairs 352538176 pass2 133240 fits 0
+H n18421 0 2 q4vv beau perms 324 pairs 352538176 pass2 133240 fits 0
+H n18421 0 3 q4vv vig perms 324 pairs 352538176 pass2 573892 fits 0
+H n18421 0 3 q4vv beau perms 324 pairs 352538176 pass2 573892 fits 0
+H n18421 0 4 q4vv vig perms 324 pairs 352538176 pass2 2303714 fits 0
+H n18421 0 4 q4vv beau perms 324 pairs 352538176 pass2 2303714 fits 0
+O n18421 overflow 0 mismatch 0 passLmax 2303714 method 1 safe 0 nW 342
+END n18421 0 324
+## n18422.s512
+H n18422 0 1 q4vv vig perms 324 pairs 352538176 pass2 31535 fits 0
+H n18422 0 1 q4vv beau perms 324 pairs 352538176 pass2 31535 fits 0
+H n18422 0 2 q4vv vig perms 324 pairs 352538176 pass2 144173 fits 0
+H n18422 0 2 q4vv beau perms 324 pairs 352538176 pass2 144173 fits 0
+H n18422 0 3 q4vv vig perms 324 pairs 352538176 pass2 564857 fits 0
+H n18422 0 3 q4vv beau perms 324 pairs 352538176 pass2 564857 fits 0
+H n18422 0 4 q4vv vig perms 324 pairs 352538176 pass2 2269052 fits 0
+H n18422 0 4 q4vv beau perms 324 pairs 352538176 pass2 2269052 fits 0
+O n18422 overflow 0 mismatch 0 passLmax 2269052 method 1 safe 0 nW 342
+END n18422 0 324
+## n18423.s512
+H n18423 0 1 q4vv vig perms 324 pairs 352538176 pass2 48966 fits 0
+H n18423 0 1 q4vv beau perms 324 pairs 352538176 pass2 48966 fits 0
+H n18423 0 2 q4vv vig perms 324 pairs 352538176 pass2 167479 fits 0
+H n18423 0 2 q4vv beau perms 324 pairs 352538176 pass2 167479 fits 0
+H n18423 0 3 q4vv vig perms 324 pairs 352538176 pass2 597788 fits 0
+H n18423 0 3 q4vv beau perms 324 pairs 352538176 pass2 597788 fits 0
+H n18423 0 4 q4vv vig perms 324 pairs 352538176 pass2 2346264 fits 0
+H n18423 0 4 q4vv beau perms 324 pairs 352538176 pass2 2346264 fits 0
+O n18423 overflow 0 mismatch 0 passLmax 2346264 method 1 safe 0 nW 342
+END n18423 0 324
+## n18424.s512
+H n18424 0 1 q4vv vig perms 324 pairs 352538176 pass2 44407 fits 0
+H n18424 0 1 q4vv beau perms 324 pairs 352538176 pass2 44407 fits 0
+H n18424 0 2 q4vv vig perms 324 pairs 352538176 pass2 138238 fits 0
+H n18424 0 2 q4vv beau perms 324 pairs 352538176 pass2 138238 fits 0
+H n18424 0 3 q4vv vig perms 324 pairs 352538176 pass2 555158 fits 0
+H n18424 0 3 q4vv beau perms 324 pairs 352538176 pass2 555158 fits 0
+H n18424 0 4 q4vv vig perms 324 pairs 352538176 pass2 2346955 fits 0
+H n18424 0 4 q4vv beau perms 324 pairs 352538176 pass2 2346955 fits 0
+O n18424 overflow 0 mismatch 0 passLmax 2346955 method 1 safe 0 nW 342
+END n18424 0 324
+## n18425.s512
+H n18425 0 1 q4vv vig perms 324 pairs 352538176 pass2 43285 fits 0
+H n18425 0 1 q4vv beau perms 324 pairs 352538176 pass2 43285 fits 0
+H n18425 0 2 q4vv vig perms 324 pairs 352538176 pass2 155823 fits 0
+H n18425 0 2 q4vv beau perms 324 pairs 352538176 pass2 155823 fits 0
+H n18425 0 3 q4vv vig perms 324 pairs 352538176 pass2 600410 fits 0
+H n18425 0 3 q4vv beau perms 324 pairs 352538176 pass2 600410 fits 0
+H n18425 0 4 q4vv vig perms 324 pairs 352538176 pass2 2334178 fits 0
+H n18425 0 4 q4vv beau perms 324 pairs 352538176 pass2 2334178 fits 0
+O n18425 overflow 0 mismatch 0 passLmax 2334178 method 1 safe 0 nW 342
+END n18425 0 324
+## n18426.s512
+H n18426 0 1 q4vv vig perms 324 pairs 352538176 pass2 35941 fits 0
+H n18426 0 1 q4vv beau perms 324 pairs 352538176 pass2 35941 fits 0
+H n18426 0 2 q4vv vig perms 324 pairs 352538176 pass2 144399 fits 0
+H n18426 0 2 q4vv beau perms 324 pairs 352538176 pass2 144399 fits 0
+H n18426 0 3 q4vv vig perms 324 pairs 352538176 pass2 559333 fits 0
+H n18426 0 3 q4vv beau perms 324 pairs 352538176 pass2 559333 fits 0
+H n18426 0 4 q4vv vig perms 324 pairs 352538176 pass2 2300583 fits 0
+H n18426 0 4 q4vv beau perms 324 pairs 352538176 pass2 2300583 fits 0
+O n18426 overflow 0 mismatch 0 passLmax 2300583 method 1 safe 0 nW 342
+END n18426 0 324
+## n18427.s512
+H n18427 0 1 q4vv vig perms 324 pairs 352538176 pass2 49878 fits 0
+H n18427 0 1 q4vv beau perms 324 pairs 352538176 pass2 49878 fits 0
+H n18427 0 2 q4vv vig perms 324 pairs 352538176 pass2 167408 fits 0
+H n18427 0 2 q4vv beau perms 324 pairs 352538176 pass2 167408 fits 0
+H n18427 0 3 q4vv vig perms 324 pairs 352538176 pass2 620656 fits 0
+H n18427 0 3 q4vv beau perms 324 pairs 352538176 pass2 620656 fits 0
+H n18427 0 4 q4vv vig perms 324 pairs 352538176 pass2 2397270 fits 0
+H n18427 0 4 q4vv beau perms 324 pairs 352538176 pass2 2397270 fits 0
+O n18427 overflow 0 mismatch 0 passLmax 2397270 method 1 safe 0 nW 342
+END n18427 0 324
+## n18428.s512
+H n18428 0 1 q4vv vig perms 324 pairs 352538176 pass2 45586 fits 0
+H n18428 0 1 q4vv beau perms 324 pairs 352538176 pass2 45586 fits 0
+H n18428 0 2 q4vv vig perms 324 pairs 352538176 pass2 145327 fits 0
+H n18428 0 2 q4vv beau perms 324 pairs 352538176 pass2 145327 fits 0
+H n18428 0 3 q4vv vig perms 324 pairs 352538176 pass2 599713 fits 0
+H n18428 0 3 q4vv beau perms 324 pairs 352538176 pass2 599713 fits 0
+H n18428 0 4 q4vv vig perms 324 pairs 352538176 pass2 2349469 fits 0
+H n18428 0 4 q4vv beau perms 324 pairs 352538176 pass2 2349469 fits 0
+O n18428 overflow 0 mismatch 0 passLmax 2349469 method 1 safe 0 nW 342
+END n18428 0 324
+## n18429.s512
+H n18429 0 1 q4vv vig perms 324 pairs 352538176 pass2 39697 fits 0
+H n18429 0 1 q4vv beau perms 324 pairs 352538176 pass2 39697 fits 0
+H n18429 0 2 q4vv vig perms 324 pairs 352538176 pass2 158934 fits 0
+H n18429 0 2 q4vv beau perms 324 pairs 352538176 pass2 158934 fits 0
+H n18429 0 3 q4vv vig perms 324 pairs 352538176 pass2 594746 fits 0
+H n18429 0 3 q4vv beau perms 324 pairs 352538176 pass2 594746 fits 0
+H n18429 0 4 q4vv vig perms 324 pairs 352538176 pass2 2313067 fits 0
+H n18429 0 4 q4vv beau perms 324 pairs 352538176 pass2 2313067 fits 0
+O n18429 overflow 0 mismatch 0 passLmax 2313067 method 1 safe 0 nW 342
+END n18429 0 324

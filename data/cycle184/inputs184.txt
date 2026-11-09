@@ -1,0 +1,46 @@
+# Cycle 184 inputs (md5) and timing (box clock, PT, UTC-7)
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+946402ca9cd1fcb962c51a16a76fef09  all.bin
+f45bc54b64f691e47d3f3ba927a84321  all_s64.bin
+2a8c7ba2030a7f9dd2a74d862444d639  all_s512.bin
+94a1a6c595377298dfde5fe51c8e0a67  all_s2048.bin
+92793b741a19ace55a1e410cd572ab8e  alpha172.txt
+8c579973175223685ab27ff44baa4734  alpha_recount180.txt
+255a21fad5a8d4e169127f28cf58589e  alpha_themed180.txt
+f2c34d8343c07083daaacffe3b70448e  slice184.bin
+b4a39268768ff9abe982d1293707c426  nulls184.txt
+92ae4b823ce76902fb57ad784e85c098  lrk184
+e7a2885911cea3ff201d54ca38db9916  lrk184safe
+298cb2d30e97442799c10577a7e0bdbe  ctl_rehearsal/plants.json
+8ca221d86cc93f0149d6ac8339e36306  ../../tools/lrk184.c
+build: gcc -O3 -march=native -fopenmp (lrk184), + -DSAFE=1 (lrk184safe)
+smoke/timing on reserved shuffle seed 9184, all_s64, 6 threads: Lmax 3 1.2 s, Lmax 4 4.4 s (method 0 4.5 s), Lmax 5 25.5 s; audit build rows 0-5 1.2 s; ~37 s in all
+control rehearsal (= registered control run, disclosed) 48 s, before the pre-registration push
+pre-registration commits ca93e91, 003d8dc, 8b61feb, 464d905 (~12:26-12:27 PT)
+main run (run_cycle184.sh) 12:27:15-12:32:11 PT elapsed 296 s; per job:
+k4.full 267 s
+k4.s64m1 5 s
+k4.s64m0 4 s
+k4.s2km1 1 s
+k4.s2ksafe 3 s
+k4.s512 1 s
+n18411.s512 0 s
+n18412.s512 1 s
+n18413.s512 1 s
+n18414.s512 1 s
+n18415.s512 1 s
+n18416.s512 0 s
+n18417.s512 1 s
+n18418.s512 1 s
+n18419.s512 1 s
+n18420.s512 1 s
+n18421.s512 0 s
+n18422.s512 1 s
+n18423.s512 1 s
+n18424.s512 1 s
+n18425.s512 1 s
+n18426.s512 0 s
+n18427.s512 1 s
+n18428.s512 1 s
+n18429.s512 1 s
+heavy total ~6.4 min (smoke 37 s + rehearsal 48 s + main 296 s); recount slice C runs ~2 s; numpy recount niced, 1 thread, outside the budget

@@ -1,0 +1,37 @@
+== K4 full set (165,782 perms x 352,538,176 ordered (A, B) vocabulary pairs x Vig/Beau, key on the plaintext index)
+K4 L1 fits vig 0 beau 0 mod-2 passes 21026632
+K4 L2 fits vig 0 beau 0 mod-2 passes 76564787
+K4 L3 fits vig 0 beau 0 mod-2 passes 300013596
+K4 L4 fits vig 0 beau 0 mod-2 passes 1190953754
+END True bad []
+method 0 (CSR union map) vs method 1 (syndrome join), K4 all_s64, H lines identical: True
+audit build (method 2, -DSAFE=1) vs method 1, K4 all_s2048, H lines identical: True
+  k4.s64m0: fits 0 END True bad []
+  k4.s64m1: fits 0 END True bad []
+  k4.s2km1: fits 0 END True bad []
+  k4.s2ksafe: fits 0 END True bad []
+== all_s512 (K4 + 19 nulls), L 1-4
+k4 fits 0 pass2_L4 2339902
+n18411 fits 0 pass2_L4 2322304
+n18412 fits 0 pass2_L4 2306156
+n18413 fits 0 pass2_L4 2358494
+n18414 fits 0 pass2_L4 2313081
+n18415 fits 0 pass2_L4 2231666
+n18416 fits 0 pass2_L4 2386499
+n18417 fits 0 pass2_L4 2339801
+n18418 fits 0 pass2_L4 2287529
+n18419 fits 0 pass2_L4 2405237
+n18420 fits 0 pass2_L4 2315298
+n18421 fits 0 pass2_L4 2303714
+n18422 fits 0 pass2_L4 2269052
+n18423 fits 0 pass2_L4 2346264
+n18424 fits 0 pass2_L4 2346955
+n18425 fits 0 pass2_L4 2334178
+n18426 fits 0 pass2_L4 2300583
+n18427 fits 0 pass2_L4 2397270
+n18428 fits 0 pass2_L4 2349469
+n18429 fits 0 pass2_L4 2313067
+== grid (empirical rank among 20 texts; F = fits L 1-4 (scored only if not all-zero); D1 = mod-2 passes at L 4 (every L <= 4 by nesting))
+F: all zero (reported, not scored)
+D1: K4 2339902 nulls 2231666-2405237 mean 2327716.7 SD 43009.4 p+ 0.40 p- 0.65
+grid p+ 0.40 / p- 0.65  [no multiplicity correction; floor 0.05]
