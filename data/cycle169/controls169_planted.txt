@@ -1,0 +1,18 @@
+e0: perm 82929 slice 798 model A mode 21 text carter1 offset 182208 error carved crib_index 11 carved_pos 59 expect FIT23 miss=11
+n0: perm 82929 slice 798 model A mode 21 text carter1 offset 182208 error carved non-crib pos 3 expect FULL
+d0: perm 82929 slice 798 model A mode 21 text carter1 offset 182208 errors crib_index 8,9 expect planted config ABSENT
+e1: perm 115071 slice 768 model B mode 9 text kjv_john offset 24383 error crib(A->Y) crib_index 1 carved_pos 74 expect FIT23 miss=1
+n1: perm 115071 slice 768 model B mode 9 text kjv_john offset 24383 error carved non-crib pos 5 expect FULL
+d1: perm 115071 slice 768 model B mode 9 text kjv_john offset 24383 errors crib_index 1,23 expect planted config ABSENT
+e2: perm 165587 slice 1805 model A mode 8 text cyc_K3pt offset 88 error carved crib_index 0 carved_pos 32 expect FIT23 miss=0
+d2: perm 165587 slice 1805 model A mode 8 text cyc_K3pt offset 88 errors crib_index 12,5 expect planted config ABSENT
+e3: perm 24166 slice 227 model B mode 20 text natsec_act_1947_amended offset 414630 error crib(A->H) crib_index 1 carved_pos 56 expect FIT23 miss=1
+d3: perm 24166 slice 227 model B mode 20 text natsec_act_1947_amended offset 414630 errors crib_index 1,7 expect planted config ABSENT
+e4: perm 126254 slice 659 model A mode 4 text smith_rev offset 2582 error carved crib_index 4 carved_pos 26 expect FIT23 miss=4
+e5: perm 23578 slice 597 model B mode 10 text kjv_nt offset 154480 error crib(E->Q) crib_index 9 carved_pos 93 expect FIT23 miss=9
+e6: perm 14502 slice 671 model A mode 22 text reagan_berlin offset 1187 error carved crib_index 21 carved_pos 73 expect FIT23 miss=21
+e7: perm 97143 slice 1606 model B mode 8 text cyc_K1pt offset 60 error crib(E->N) crib_index 14 carved_pos 88 expect FIT23 miss=14
+e8: perm 100133 slice 1836 model A mode 22 text carter1_rev offset 57420 error carved crib_index 3 carved_pos 38 expect FIT23 miss=3
+e9: perm 61033 slice 432 model B mode 15 text cyc_K123pt_K0 offset 66 error crib(T->R) crib_index 7 carved_pos 25 expect FIT23 miss=7
+e10: perm 71593 slice 1016 model A mode 16 text kjv_nt_rev offset 655647 error carved crib_index 0 carved_pos 25 expect FIT23 miss=0
+e11: perm 117178 slice 1190 model B mode 7 text cyc_KAtableau_rows offset 237 error crib(T->B) crib_index 12 carved_pos 46 expect FIT23 miss=12

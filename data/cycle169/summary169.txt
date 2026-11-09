@@ -1,0 +1,38 @@
+# Cycle 169 summary (I-087 one-error named running keys behind 165,782 decimations + routes; I-090 masked depths)
+
+K4: chunks done 16/16 
+K4: perms 165,782  configs 290,153,232 (x 48 texts inside each run; one config = perm x model x mode, all texts)
+K4: FULL 0  FIT23 0  best one-error depth1 12  best masked strict depth (bookrk configs) 9
+K4 hist1 (one-error prefix depth): 1:3284828 2:89831014 3:112062618 4:55190305 5:24839059 6:4574599 7:350965 8:18955 9:843 10:43 11:2 12:1
+K4 histS (masked strict, bookrk's config set): 0:18436652 1:133888412 2:89718871 3:34416438 4:9564827 5:1015415 6:53421 7:2422 8:82 9:4
+K4 configs with depth1 >= 12: 1
+   out/k4_chunk_04.out: CAND1 depth1=12 depth=5 perm=7017 model=B mode=22 text=kjv_nt
+
+Null lineup on nullslice.bin (first 500 decimations + last 500 routes): K4 best1 9 fit23 0
+nulls done 40/40: best1 min/median/max 9/9/10; nulls with any >=23/24 fit: 0/40 (exact binomial one-sided 95% upper bound on null fit rate 7.2%)
+nulls with best1 >= K4's 9: 40/40
+
+Controls (ctl169/planted.txt):
+  d0: PASS  planted-config hits 0, all hits 0, strict bookrk best/full ('8', '0')
+  d1: PASS  planted-config hits 0, all hits 0, strict bookrk best/full ('8', '0')
+  d2: PASS  planted-config hits 0, all hits 0, strict bookrk best/full ('7', '0')
+  d3: PASS  planted-config hits 0, all hits 0, strict bookrk best/full ('7', '0')
+  e0: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('11', '0')
+  e1: PASS  planted-config hits 1, all hits 2, strict bookrk best/full ('8', '0')
+  e10: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('8', '0')
+  e11: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('12', '0')
+  e2: PASS  planted-config hits 1, all hits 3, strict bookrk best/full ('7', '0')
+  e3: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('7', '0')
+  e4: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('7', '0')
+  e5: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('9', '0')
+  e6: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('21', '0')
+  e7: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('14', '0')
+  e8: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('8', '0')
+  e9: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('8', '0')
+  n0: PASS  planted-config hits 1, all hits 1, strict bookrk best/full ('24', '1')
+  n1: PASS  planted-config hits 1, all hits 2, strict bookrk best/full ('24', '2')
+controls PASS 18/18
+
+Bound: P(>=23 of 24 | random key letter, uniform) = 24*(1/26)^23*(25/26) + (1/26)^24 = 6.60e-32; x 3.2e13 placements = 2.1e-18 expected chance fits
+  worst case every required key letter as common as p=0.1: 6.9e-09 expected chance fits
+  worst case every required key letter as common as p=0.127: 1.6e-06 expected chance fits

@@ -1,0 +1,104 @@
+# cycle 169 inputs (symlinked from /workspace/k4c168/run; not committed: size)
+  8a9e1b3200cf803cc03fda7f60d0e181dacf479b127077c2632d818a45f9e857  all.bin
+  af2228905942f8a3f31c92aa2daabb8a5d96955e6d876677c85bdb303557f9a2  texts.txt
+  1457b794a6b20e8c525ae394e3232f487cfb0052364294c1ef0f382e294f7261  nullslice.bin
+  c96678593866dd075a1d3682992f4b48afd20d4c37b274a2d5c6d4479d4b4381  nulls169.txt
+  58bb4318e32fd5f690d45d712d35c0e1fb1b955e5eca5a3044f1c9123571e25b  ctl168/controls_planted.txt
+
+# run provenance (I-078), box time PDT: mtime, file, lines, ends in SUMMARY?
+02:24:38 ctlS_d0.out 1 SUMMARY
+02:24:38 ctlS_d1.out 1 SUMMARY
+02:24:37 ctlS_d2.out 1 SUMMARY
+02:24:37 ctlS_d3.out 1 SUMMARY
+02:24:45 ctlS_e0.out 1 SUMMARY
+02:24:45 ctlS_e1.out 1 SUMMARY
+02:24:54 ctlS_e10.out 1 SUMMARY
+02:25:02 ctlS_e11.out 1 SUMMARY
+02:25:02 ctlS_e2.out 1 SUMMARY
+02:25:09 ctlS_e3.out 1 SUMMARY
+02:25:10 ctlS_e4.out 1 SUMMARY
+02:25:16 ctlS_e5.out 1 SUMMARY
+02:25:17 ctlS_e6.out 1 SUMMARY
+02:25:24 ctlS_e7.out 1 SUMMARY
+02:25:27 ctlS_e8.out 1 SUMMARY
+02:25:31 ctlS_e9.out 1 SUMMARY
+02:25:35 ctlS_n0.out 2 SUMMARY
+02:25:39 ctlS_n1.out 3 SUMMARY
+02:24:55 ctl_d0.out 1 SUMMARY
+02:24:55 ctl_d1.out 3 SUMMARY
+02:24:55 ctl_d2.out 1 SUMMARY
+02:24:55 ctl_d3.out 1 SUMMARY
+02:25:03 ctl_e0.out 2 SUMMARY
+02:25:04 ctl_e1.out 3 SUMMARY
+02:25:09 ctl_e10.out 2 SUMMARY
+02:25:19 ctl_e11.out 2 SUMMARY
+02:25:20 ctl_e2.out 4 SUMMARY
+02:25:20 ctl_e3.out 2 SUMMARY
+02:25:27 ctl_e4.out 2 SUMMARY
+02:25:28 ctl_e5.out 2 SUMMARY
+02:25:34 ctl_e6.out 2 SUMMARY
+02:25:42 ctl_e7.out 2 SUMMARY
+02:25:44 ctl_e8.out 2 SUMMARY
+02:25:46 ctl_e9.out 2 SUMMARY
+02:25:53 ctl_n0.out 2 SUMMARY
+02:25:55 ctl_n1.out 3 SUMMARY
+02:27:51 k4_chunk_00.out 1 SUMMARY
+02:27:49 k4_chunk_01.out 1 SUMMARY
+02:27:54 k4_chunk_02.out 1 SUMMARY
+02:27:55 k4_chunk_03.out 1 SUMMARY
+02:27:59 k4_chunk_04.out 2 SUMMARY
+02:28:01 k4_chunk_05.out 1 SUMMARY
+02:28:05 k4_chunk_06.out 1 SUMMARY
+02:28:12 k4_chunk_07.out 1 SUMMARY
+02:30:12 k4_chunk_08.out 2 SUMMARY
+02:30:11 k4_chunk_09.out 1 SUMMARY
+02:30:15 k4_chunk_10.out 1 SUMMARY
+02:30:15 k4_chunk_11.out 1 SUMMARY
+02:30:16 k4_chunk_12.out 2 SUMMARY
+02:30:19 k4_chunk_13.out 1 SUMMARY
+02:30:22 k4_chunk_14.out 1 SUMMARY
+02:30:29 k4_chunk_15.out 1 SUMMARY
+02:30:24 k4_nullslice.out 4 SUMMARY
+02:30:25 null0.out 5 SUMMARY
+02:30:28 null1.out 8 SUMMARY
+02:30:42 null10.out 5 SUMMARY
+02:30:43 null11.out 6 SUMMARY
+02:30:46 null12.out 7 SUMMARY
+02:30:47 null13.out 9 SUMMARY
+02:30:52 null14.out 5 SUMMARY
+02:30:53 null15.out 5 SUMMARY
+02:30:55 null16.out 20 SUMMARY
+02:30:56 null17.out 2 SUMMARY
+02:30:57 null18.out 10 SUMMARY
+02:30:56 null19.out 10 SUMMARY
+02:30:28 null2.out 6 SUMMARY
+02:30:59 null20.out 6 SUMMARY
+02:31:01 null21.out 5 SUMMARY
+02:31:05 null22.out 5 SUMMARY
+02:31:06 null23.out 3 SUMMARY
+02:31:08 null24.out 4 SUMMARY
+02:31:09 null25.out 6 SUMMARY
+02:31:09 null26.out 2 SUMMARY
+02:31:10 null27.out 6 SUMMARY
+02:31:12 null28.out 7 SUMMARY
+02:31:13 null29.out 8 SUMMARY
+02:30:29 null3.out 5 SUMMARY
+02:31:18 null30.out 4 SUMMARY
+02:31:19 null31.out 5 SUMMARY
+02:31:21 null32.out 7 SUMMARY
+02:31:21 null33.out 3 SUMMARY
+02:31:21 null34.out 9 SUMMARY
+02:31:23 null35.out 6 SUMMARY
+02:31:24 null36.out 8 SUMMARY
+02:31:26 null37.out 4 SUMMARY
+02:31:29 null38.out 7 SUMMARY
+02:31:30 null39.out 9 SUMMARY
+02:30:32 null4.out 4 SUMMARY
+02:30:34 null5.out 9 SUMMARY
+02:30:38 null6.out 4 SUMMARY
+02:30:38 null7.out 5 SUMMARY
+02:30:40 null8.out 3 SUMMARY
+02:30:42 null9.out 6 SUMMARY
+
+outputs: 93, ending in SUMMARY: 93, .tmp left: 0
+run started 02:24:29 PDT (setsid, own process group 1326631), last output 02:31:30
