@@ -1,0 +1,342 @@
+{
+ "P": "ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW",
+ "plants": [
+  {
+   "id": 0,
+   "kind": "hill",
+   "q": 149832,
+   "slice": "ctl/slice_0.bin",
+   "at": 19,
+   "ct": "SJYXJRDBZVUHKYMNTWZGCUXYWULNXZAHXSBIXRDXYBJWUGUCBFOUCYBDWDCSXGTVJOCHMTSJIMJEXAKWTARDRUZIXZOLGVGCE",
+   "neg": false,
+   "n": 2,
+   "aff": 0,
+   "num": "AZ",
+   "ix": 0,
+   "off": 0,
+   "M": [
+    [
+     18,
+     25
+    ],
+    [
+     5,
+     17
+    ]
+   ],
+   "f": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 1,
+   "kind": "hill",
+   "q": 92967,
+   "slice": "ctl/slice_1.bin",
+   "at": 54,
+   "ct": "HCWBYRBCBCKEGVWDFGKCABCPVTEVCLYAMISMXEDSZPJSRXIZSAQEUOEFOAOUKJPUVCFWBNNKNPIMALDLUQMATGKXIVWVVNBCX",
+   "neg": false,
+   "n": 2,
+   "aff": 1,
+   "num": "KA",
+   "ix": 1,
+   "off": 1,
+   "M": [
+    [
+     20,
+     7
+    ],
+    [
+     7,
+     17
+    ]
+   ],
+   "f": [
+    14,
+    6
+   ]
+  },
+  {
+   "id": 2,
+   "kind": "hill",
+   "q": 94958,
+   "slice": "ctl/slice_2.bin",
+   "at": 5,
+   "ct": "IHNMNNQPPVCURSUPPIPOKBRRLTOONNHXQRSCUGQBDIMTCAZGAQCXJXABCZRJIRDNCKPPAVCQDYDICQJXKWHLENAEZJUMPQIJH",
+   "neg": false,
+   "n": 2,
+   "aff": 0,
+   "num": "AZ",
+   "ix": 1,
+   "off": 0,
+   "M": [
+    [
+     13,
+     20
+    ],
+    [
+     15,
+     15
+    ]
+   ],
+   "f": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 3,
+   "kind": "hill",
+   "q": 17687,
+   "slice": "ctl/slice_3.bin",
+   "at": 10,
+   "ct": "NXEEDZEVTZDQRSCKXLGYBTJPIYOVNHFCTBXJWVEAPYWKOIVRFUKQIXRGVTYAEVJDAIACTFRXUWCJSWQNVDKYMAVWVNIUJWOCO",
+   "neg": false,
+   "n": 3,
+   "aff": 0,
+   "num": "KA",
+   "ix": 0,
+   "off": 2,
+   "M": [
+    [
+     9,
+     25,
+     25
+    ],
+    [
+     17,
+     16,
+     9
+    ],
+    [
+     23,
+     23,
+     14
+    ]
+   ],
+   "f": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 4,
+   "kind": "hill",
+   "q": 118076,
+   "slice": "ctl/slice_4.bin",
+   "at": 157,
+   "ct": "CTMRFGXBVXDGBIKUMTRNKHKDVNASYHKKGHHVOHCKRPYMXZPGFSUPARDRMHBJLEERQPLSRWMUWSSNQTHYNRCTAFWUMZCTDCYEC",
+   "neg": false,
+   "n": 3,
+   "aff": 1,
+   "num": "AZ",
+   "ix": 1,
+   "off": 0,
+   "M": [
+    [
+     7,
+     21,
+     0
+    ],
+    [
+     7,
+     18,
+     12
+    ],
+    [
+     23,
+     25,
+     15
+    ]
+   ],
+   "f": [
+    20,
+    24,
+    13
+   ]
+  },
+  {
+   "id": 5,
+   "kind": "hill",
+   "q": 118474,
+   "slice": "ctl/slice_5.bin",
+   "at": 109,
+   "ct": "MVCEMXYXJMGUQCZWYJDAHSAZQXKLRRZMVFSSNVYMWFRNPSBLURIWLVRLQANCAGETILIUNEZPBIYLIIYRPEIOSTBDZHRPLSPVX",
+   "neg": false,
+   "n": 3,
+   "aff": 1,
+   "num": "KA",
+   "ix": 0,
+   "off": 1,
+   "M": [
+    [
+     2,
+     12,
+     23
+    ],
+    [
+     7,
+     11,
+     1
+    ],
+    [
+     6,
+     25,
+     3
+    ]
+   ],
+   "f": [
+    10,
+    17,
+    7
+   ]
+  },
+  {
+   "id": 6,
+   "kind": "hill",
+   "q": 111104,
+   "slice": "ctl/slice_6.bin",
+   "at": 117,
+   "ct": "VLSTYEPKPIWULTKYZLFRADHPPUSCDDIIBYOYNSQSILGQRAARRVBXCMQVYGBBCVZGZYKNTCWCNSOBLFSJQFCNSHEPGSQLJKZAY",
+   "neg": true,
+   "n": 2,
+   "aff": 0,
+   "num": "KA",
+   "ix": 0,
+   "off": 1,
+   "M": [
+    [
+     14,
+     11
+    ],
+    [
+     9,
+     9
+    ]
+   ],
+   "f": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 7,
+   "kind": "rag",
+   "q": 127702,
+   "slice": "ctl/slice_7.bin",
+   "at": 164,
+   "ct": "MFLRDIYNAKBNRPDAANXKDGLZMBZLZEOIXHECIKGPZTOHJOIVOOLTCRLXZOEODKYQTOWJOBLCNHTYEYHUBWGBZAHDJTGHTEOJM",
+   "neg": false,
+   "alpha": "KRYPTOSABCDEFGHIJLMNQUVWXZ",
+   "dir": 1,
+   "n0": 15,
+   "ix": 0
+  },
+  {
+   "id": 8,
+   "kind": "rag",
+   "q": 109160,
+   "slice": "ctl/slice_8.bin",
+   "at": 62,
+   "ct": "WYJLDQMPOGTHOIWWXYVFFQMTQMDUFPQKDQZOUDKPSHJNNQJKWETPBGHVWFHGWFPNYYRXQYFEAWPDVMIXSZPAFPOGMGVWBGSBF",
+   "neg": false,
+   "alpha": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+   "dir": -1,
+   "n0": 1,
+   "ix": 0
+  },
+  {
+   "id": 9,
+   "kind": "rag",
+   "q": 140855,
+   "slice": "ctl/slice_9.bin",
+   "at": 114,
+   "ct": "VTZDCPBPCYWIIHEIQDZRLSIZHRWUJZXFQYAMZDMWBPLYXYAYQWOMBVKYEPKPRRWLUXOWVPNWDTYFHBKVJVBVHNTWYXBQXWQWQ",
+   "neg": false,
+   "alpha": "ACEPTINGKRYOSBDFHJLMQUVWXZ",
+   "dir": 1,
+   "n0": 20,
+   "ix": 0
+  },
+  {
+   "id": 10,
+   "kind": "rag",
+   "q": 136693,
+   "slice": "ctl/slice_10.bin",
+   "at": 169,
+   "ct": "YWIRXPSRCXJRVJULKMFDBNNVPLXERDHMSYBRIRZWNVLONYSMGVRGRFFHOTZDNOICBILWWIOJPIKSJPDNLGVOBBOTAAVEUGQSJ",
+   "neg": false,
+   "alpha": "ADMITNGBCEFHJKLOPQRSUVWXYZ",
+   "dir": -1,
+   "n0": 3,
+   "ix": 0
+  },
+  {
+   "id": 11,
+   "kind": "portax",
+   "q": 54067,
+   "slice": "ctl/slice_11.bin",
+   "at": 163,
+   "ct": "EBGWBWFCQVUPGZUHOJYIHHJIADGBJOIUIFAOXXKVIGXQIQJUYYMHNCSIFSLBRSLJJBFFEKJGCJJLQAZEVBRHIVRLNBSWPCDEB",
+   "neg": false,
+   "key": "LUCID",
+   "num": "AZ",
+   "ix": 0,
+   "p": 5
+  },
+  {
+   "id": 12,
+   "kind": "portax",
+   "q": 12949,
+   "slice": "ctl/slice_12.bin",
+   "at": 171,
+   "ct": "MOBOQZOJSBRCIILHSHUYGFWPMAKHOWCGPVGBVWQPZWWDAACTGCWZZAMDWMGGUVGNBILVKYWYYELKTWBPMYDWCNWQETDODOARN",
+   "neg": false,
+   "key": "UNDERGROUND",
+   "num": "KA",
+   "ix": 1,
+   "p": 11
+  },
+  {
+   "id": 13,
+   "kind": "portax",
+   "q": 23233,
+   "slice": "ctl/slice_13.bin",
+   "at": 25,
+   "ct": "JYJJHZYJHUUCAHIWIEIRGAZILCJSXFNUGPBZIIFYZJFMXBMTPSKFJDICPOPMBDBGPXNFYGIQGGCPUJGQHQCTBFOZDGRVCMQQN",
+   "neg": false,
+   "key": "SHADOWFORCES",
+   "num": "AZ",
+   "ix": 1,
+   "p": 12
+  },
+  {
+   "id": 14,
+   "kind": "portax",
+   "q": 122742,
+   "slice": "ctl/slice_14.bin",
+   "at": 85,
+   "ct": "CVNPOJDYDCDVWFCSOPLSLERYKLSYIVPUWYLCCMPJOTRGWAYJOAQPUMECWUVNYGCIUADLAIPOOIMIVXIDZCAEKLZULLUACMRMY",
+   "neg": false,
+   "key": "THEHIDDENSHADOWLINEOFSIGHTX",
+   "num": "KA",
+   "ix": 0,
+   "p": 27
+  },
+  {
+   "id": 15,
+   "kind": "portax",
+   "q": 41809,
+   "slice": "ctl/slice_15.bin",
+   "at": 155,
+   "ct": "PPHGUHJBDWXJKXGEBMDIJQICXEQZGQXWOFONPPPIRQZZBKZNTAWVVWHHQACRQOKLIMYYLDIQYAVONGWUBZARIIFRBAPGSFGOA",
+   "neg": true,
+   "key": "COMPASS",
+   "num": "AZ",
+   "ix": 0,
+   "p": 7
+  }
+ ]
+}
