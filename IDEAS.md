@@ -48,7 +48,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-029 | Better score for weakly constrained solutions (letter likelihood, not partial quadgrams) | P3 | queued (method) |
 | I-030 | Physical measurement of the sculpture (letter spacing, re-cut letters) | P3 | blocked (no access) |
 | I-039 | Hill under a dropped or extra carved letter (alignment-shifting slip) | P2 | queued |
-| I-040 | One-error audit of Hill + key (cycles 143–144) and Hill n = 5 | P2 | queued |
+| I-040 | One-error audit of Hill + key (cycles 143–144) and Hill n = 5 | P2 | in progress (cycle 153) |
 | I-041 | One-error audit of strict vocabulary families behind the bank (cycles 135–137, 146) | P2 | queued |
 | I-042 | Zig-zag over keyed (Quagmire) or affine alphabets | P3 | queued |
 | I-043 | Zig-zag autokey + periodic key (form free, shift periodic) | P3 | queued (power check first) |
@@ -86,7 +86,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Hypothesis:** if one carved letter or one crib letter is wrong, a strict "all 24 cribs must agree" test rejects the true configuration. Every high-impact `EXACT-EXCL` claim should state whether it survives one error. `[repo]`
 - **Test:** per family, rerun with (a) leave-one-crib-out and (b) one carved-letter substitution, counting survivors; planted controls with one corrupted letter must be recovered; shuffled nulls at the same tolerance.
 - **Controls / nulls:** planted control with one corrupted letter (must be recovered) and without (must still be recovered); ≥ 2 shuffled-K4 nulls at full scale. **Cost:** family-dependent, usually ≤ 25× the strict run. **Dependencies:** I-004 labels.
-- **Status:** in progress. Done before: periodic KA/AZ ([case 23](case-file/23-one-letter-anomaly.md)), two letters direct ([case 24](case-file/24-two-letter-anomalies.md)), stepping disk ([107](case-file/107-stepping-disk-one-crib-error.md)), Quagmire I–III ([108](case-file/108-quagmire-one-crib-error.md)), Kryha ([110](case-file/110-kryha-one-crib-error.md)). Cycle 151: Hill (I-005) and the design audit (I-006). Remaining: I-007, I-008.
+- **Status:** in progress. Done before: periodic KA/AZ ([case 23](case-file/23-one-letter-anomaly.md)), two letters direct ([case 24](case-file/24-two-letter-anomalies.md)), stepping disk ([107](case-file/107-stepping-disk-one-crib-error.md)), Quagmire I–III ([108](case-file/108-quagmire-one-crib-error.md)), Kryha ([110](case-file/110-kryha-one-crib-error.md)). Cycle 151: Hill (I-005) and the design audit (I-006). Remaining: I-007, I-008, I-040, I-041 (reconciled in cycle 153: the summary row already listed all four).
 
 ### I-004 — Separate exact, heuristic and low-power results
 - **Date / source:** 2026-11-08, Firefly review (F4). `[repo]`
@@ -193,7 +193,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Test:** for each slip position d (≈ 98 + 97), rebuild the 96/98-letter stream (unknown letter = free variable in its block), solve rows exactly with a block-drop at the slip; direct first, bank for 96/98-letter permutations (`tools/export_perms_96_98.py`, cycle 24). **Controls:** planted Hill with one dropped / one extra letter. **Nulls:** two shuffles. **Cost:** direct seconds; bank ~200× cycle 151 (~2 h) → direct + model-Q first. **Status:** queued.
 
 ### I-040 — One-error audit of Hill + key and Hill n = 5
-- **Source:** cycle 151 audit table. **Test:** add the block-drop + repair step to `hillvk.c` (cycle 144) and `hill5.c` (cycle 141). **Controls:** corrupted-letter plants. **Cost:** ~25× the strict runs (minutes). **Status:** queued.
+- **Source:** cycle 151 audit table. **Test:** add the block-drop + repair step to `hillvk.c` (cycle 144) and `hill5.c` (cycle 141). **Controls:** corrupted-letter plants. **Cost:** ~25× the strict runs (minutes). **Status:** in progress (cycle 153, started 2026-11-08).
 
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
@@ -222,3 +222,4 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 151: file created (38 items: 30 open/blocked/in progress, 8 historical tested).
 - 2026-11-08, cycle 151 end: I-001, I-005, I-006 tested; I-003 still in progress; added I-039–I-041 (41 items). Recommended next: cycle 152 new family I-011 (word-keyed zig-zag autokey) or I-012 (Hill with a key before the matrix); then the one-error audits I-007 / I-040.
 - 2026-11-08, cycle 152: I-011 in progress at start, then tested (EXACT-EXCL for CT feed n ≥ 12, one-error tolerant; LOW-POWER for PT feed / long lags). Added I-042–I-045 (45 items). Recommended next: cycle 153 variant/audit — I-040 (one-error Hill + key / Hill 5) or I-007 (columnar w 9–10 × periodic key, one crib error); then new family I-012 or I-044.
+- 2026-11-08, cycle 153 start: reconciled I-003 detail with its summary row (remaining I-007, I-008, I-040, I-041); I-040 marked in progress (Hill + key and Hill 5 under one carving error). Cycle 152 was a new family, so 153 is a variant/audit and 154 must be a new family.
