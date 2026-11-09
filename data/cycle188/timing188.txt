@@ -1,0 +1,5 @@
+# Cycle 188 timing and heavy-compute ledger (box clock, PT), 6 threads, one job at a time.
+# I-180 probe, reserved shuffle 9188 only, all_s2048 (81 perms), under setsid timeout 60: lrk188 L 1-3 f ≈ 3.4 s, r ≈ 3.4 s (6.8 s both,
+#   0 fits, mismatch 0); L 1-2 f 63 ms, r 56 ms. No order above 3 was timed.
+# Control rehearsal (registered control run): 33 s (≈ 14:27). Recount rehearsal on planted P10 only: 3.1 s.
+# Heavy before the pre-registration push ≈ 45 s.
