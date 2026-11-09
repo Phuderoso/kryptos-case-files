@@ -64,3 +64,8 @@ Per quarter (`per_quarter.txt`): K4 5 / 5 / 5 / 13; nulls q0 median 1 (max 10), 
 [data/cycle159/](../data/cycle159/) (`nulls.txt`, `nulls_generation.txt`, `c_lines.txt`, `null_survivors.txt`,
 `summary_primary_0-50M.txt`, `summary_secondary_0-75M.txt`, `summary_secondary_full.txt`, `per_quarter.txt`, `structure_check.txt`,
 `controls.txt`, `indep_windows.txt`, `indep_windows_list.txt`, `timing.txt`) · [journal](../journal/2026-11-08-cycle159.md).
+
+## Update (cycle 161)
+The remaining 70 chunks were run with the same solver ([case 149](149-rank-matched-lineup-complete.md)). Full range: K4 28 vs 48
+nulls 0 / 3.5 / 37, p 0.082 (Bonferroni ×4 0.33). The post-hoc q3 loose end (K4 13 vs all 48 nulls, max 11) gives p 0.020 at the
+resolution floor, 0.041 corrected for the quarter choice and 0.16 for quarter and row: not evidence. The labels above stand.
