@@ -1,0 +1,47 @@
+# K4 regression: all 10^8 L 8 digit primers rerun with the same binary in cycle 161 (cycle 155 reported 28 = 5/5/5/13)
+S K4 P L=8 all pa=az form=vig drop=15(pos65 R) primer=51099232
+S K4 P L=8 all pa=az form=vig drop=3(pos24 T) primer=26470345
+S K4 P L=8 all pa=az form=vig drop=16(pos66 L) primer=26470345
+S K4 P L=8 all pa=az form=vig drop=7(pos28 T) primer=77343619
+S K4 P L=8 all pa=az form=vig drop=2(pos23 S) primer=77343619
+S K4 P L=8 all pa=az form=vig drop=0(pos21 E) primer=77343619
+S K4 P L=8 all pa=az form=vig drop=15(pos65 R) primer=79071692
+S K4 P L=8 all pa=az form=vig drop=7(pos28 T) primer=79539065
+S K4 P L=8 all pa=az form=vig drop=15(pos65 R) primer=55697254
+S K4 P L=8 all pa=az form=vig drop=15(pos65 R) primer=31297070
+S K4 P L=8 all pa=az form=vig drop=0(pos21 E) primer=57391023
+S K4 P L=8 all pa=az form=vig drop=21(pos71 O) primer=57391023
+S K4 P L=8 all pa=az form=beau drop=2(pos23 S) primer=82560397
+S K4 P L=8 all pa=az form=beau drop=0(pos21 E) primer=82560397
+S K4 P L=8 all pa=az form=beau drop=21(pos71 O) primer=82560397
+S K4 P L=8 all pa=az form=vig drop=22(pos72 C) primer=35853407
+S K4 P L=8 all pa=az form=vig drop=10(pos31 A) primer=35853407
+S K4 P L=8 all pa=az form=vig drop=23(pos73 K) primer=35853407
+S K4 P L=8 all pa=az form=vig drop=4(pos25 N) primer=86181835
+S K4 P L=8 all pa=az form=beau drop=15(pos65 R) primer=86618314
+S K4 P L=8 all pa=az form=vig drop=4(pos25 N) primer=86681835
+S K4 P L=8 all pa=az form=vig drop=21(pos71 O) primer=11853049
+S K4 P L=8 all pa=az form=vig drop=7(pos28 T) primer=13331643
+S K4 P L=8 all pa=az form=beau drop=3(pos24 T) primer=13523844
+S K4 P L=8 all pa=az form=beau drop=16(pos66 L) primer=13523844
+S K4 P L=8 all pa=az form=beau drop=22(pos72 C) primer=88962312
+S K4 P L=8 all pa=az form=beau drop=23(pos73 K) primer=88962312
+S K4 P L=8 all pa=az form=vig drop=7(pos28 T) primer=39951487
+S K4 P L=8 all pa=az form=vig drop=15(pos65 R) primer=15151490
+S K4 P L=8 all pa=az form=beau drop=22(pos72 C) primer=66324538
+S K4 P L=8 all pa=az form=beau drop=23(pos73 K) primer=66324538
+S K4 P L=8 all pa=az form=vig drop=3(pos24 T) primer=66666588
+S K4 P L=8 all pa=az form=vig drop=16(pos66 L) primer=66666588
+S K4 P L=8 all pa=az form=beau drop=21(pos71 O) primer=42140511
+S K4 P L=8 all pa=az form=vig drop=7(pos28 T) primer=93121255
+S K4 P L=8 all pa=az form=vig drop=2(pos23 S) primer=93121255
+S K4 P L=8 all pa=az form=beau drop=15(pos65 R) primer=19575014
+S K4 P L=8 all pa=az form=beau drop=4(pos25 N) primer=97673065
+S K4 P L=8 all pa=az form=vig drop=21(pos71 O) primer=97711809
+S K4 P L=8 all pa=az form=beau drop=7(pos28 T) primer=97779467
+S K4 P L=8 all pa=az form=beau drop=0(pos21 E) primer=99257061
+S K4 P L=8 all pa=az form=beau drop=21(pos71 O) primer=99257061
+C K4 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=2 ka:vig=0 beau=0 | pairs=6 | dropidx 3:1 7:1 15:2 16:1 21:1
+C K4 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=7 beau=6 ka:vig=0 beau=0 | pairs=20 | dropidx 0:3 2:3 4:3 7:4 15:2 21:3 22:1 23:1
+C K4 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=4 beau=1 ka:vig=0 beau=0 | pairs=8 | dropidx 3:1 7:1 10:1 15:1 16:1 21:1 22:1 23:1
+C K4 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=4 beau=1 ka:vig=0 beau=0 | pairs=8 | dropidx 0:1 3:1 15:2 16:1 21:1 22:1 23:1

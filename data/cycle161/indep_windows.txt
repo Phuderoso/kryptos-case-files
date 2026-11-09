@@ -1,0 +1,23 @@
+# independent pure-Python recount (tools/cycle159/indep159.py) vs gromark1e on 7 windows of 20,000 primers in the resumed range / K4 q3
+# window rnull13 79442367 79462367
+# window rnull47 51362498 51382498
+# window rnull26 65172985 65192985
+# window rnull10 75346746 75366746
+# window K4 97701809 97721809
+# window rnull21 61224567 61244567
+# window K4 88952312 88972312
+I rnull13 L=8 lo=79442367 hi=79462367 strict=0 one=1 pairs=1
+I rnull10 L=8 lo=75346746 hi=75366746 strict=0 one=1 pairs=1
+I K4 L=8 lo=88952312 hi=88972312 strict=0 one=1 pairs=2
+I K4 L=8 lo=97701809 hi=97721809 strict=0 one=1 pairs=1
+I rnull21 L=8 lo=61224567 hi=61244567 strict=0 one=0 pairs=0
+I rnull47 L=8 lo=51362498 hi=51382498 strict=0 one=1 pairs=1
+I rnull26 L=8 lo=65172985 hi=65192985 strict=0 one=3 pairs=12
+C rnull13 P L=8 all lo=79442367 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=1 | dropidx 20:1
+C rnull47 P L=8 all lo=51362498 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=1 | dropidx 18:1
+C rnull26 P L=8 all lo=65172985 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=3 beau=0 | pairs=12 | dropidx 0:2 1:2 3:2 4:1 8:1 11:2 12:2
+C rnull10 P L=8 all lo=75346746 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=1 | dropidx 21:1
+C K4 P L=8 all lo=97701809 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=1 | dropidx 21:1
+C rnull21 P L=8 all lo=61224567 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C K4 P L=8 all lo=88952312 tested=20000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=1 ka:vig=0 beau=0 | pairs=2 | dropidx 22:1 23:1
+# strict/one/pairs identical 7/7

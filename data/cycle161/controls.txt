@@ -1,0 +1,87 @@
+# Cycle 161 controls (unchanged cycle-155 gromark1e, model P L 8). Plants from tools/cycle161/plant161.py (seed 16101, primers forced into 50-100M)
+p1 ADKPPNAECBKCEGLBZGMRSZIIDNGGHBZALLOZLQDFBUDRWGZGRMPZHKCTHOLNIYRNYZFRQNDTCLAIKPVYGVEXPPBLXLXSYNHIR ka beau 65602521 carved-error@29
+p2 KVLELNLYLKEITCPCCCQJILXBMOVLMNUHNOMWLRSCRCLAGRVTOEPPQPBZNMBCFEIMDNFURWRROXCTAJSGHHAFJNQKINAXMLIJR az vig 82389117 wrong-crib-letter@24
+p3 AESVSFAIYKXSEWKRGGDDBHWJRYAWMOSBRWIWAKJZWFVQXZZPADQNBGSIZXDRLXBEELCCORBZQBFZTQKVXVTUFWMHKQCMDDYRI ka vig 98524685 clean
+# 600k-primer windows around each planted primer (SHOW=1)
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=19(pos69 C) primer=65329853
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=3(pos24 T) primer=65499645
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=4(pos25 N) primer=65523037
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=3(pos24 T) primer=65549819
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=20(pos70 L) primer=65549819
+[carved-error@29] S p1 P L=8 all pa=ka form=beau drop=11(pos32 S) primer=65668703
+[carved-error@29] S p1 P L=8 all pa=ka form=beau drop=12(pos33 T) primer=65668703
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=20(pos70 L) primer=65693829
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=4(pos25 N) primer=65768111
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=19(pos69 C) primer=65768111
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=3(pos24 T) primer=65798593
+[carved-error@29] S p1 P L=8 all pa=ka form=vig drop=20(pos70 L) primer=65798593
+[carved-error@29] S p1 P L=8 all pa=ka form=beau drop=15(pos65 R) primer=65848369
+[carved-error@29] C p1 P L=8 all lo=65302521 tested=600000 strict az:vig=0 beau=0 ka:vig=0 beau=1 | one az:vig=0 beau=0 ka:vig=7 beau=2 | pairs=13 | dropidx 3:3 4:2 11:1 12:1 15:1 19:2 20:3
+[wrong-crib-letter@24] S p2 P L=8 all pa=az form=vig drop=3(pos24 T) primer=82389117
+[wrong-crib-letter@24] S p2 P L=8 all pa=az form=vig drop=7(pos28 T) primer=82389117
+[wrong-crib-letter@24] C p2 P L=8 all lo=82089117 tested=600000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=2 | dropidx 3:1 7:1
+[clean] S p3 P L=8 all pa=az form=vig drop=6(pos27 R) primer=98230360
+[clean] S p3 P L=8 all pa=az form=vig drop=10(pos31 A) primer=98261579
+[clean] S p3 P L=8 all pa=az form=beau drop=6(pos27 R) primer=98265483
+[clean] S p3 P L=8 all pa=ka form=beau drop=18(pos68 N) primer=98268792
+[clean] S p3 P L=8 all pa=ka form=beau drop=8(pos29 H) primer=98268792
+[clean] S p3 P L=8 all pa=ka form=beau drop=10(pos31 A) primer=98273895
+[clean] S p3 P L=8 all pa=ka form=beau drop=9(pos30 E) primer=98295093
+[clean] S p3 P L=8 all pa=az form=beau drop=19(pos69 C) primer=98301843
+[clean] S p3 P L=8 all pa=ka form=vig drop=10(pos31 A) primer=98302383
+[clean] S p3 P L=8 all pa=az form=vig drop=20(pos70 L) primer=98310745
+[clean] S p3 P L=8 all pa=az form=beau drop=19(pos69 C) primer=98332648
+[clean] S p3 P L=8 all pa=ka form=vig drop=11(pos32 S) primer=98353226
+[clean] S p3 P L=8 all pa=ka form=vig drop=12(pos33 T) primer=98353226
+[clean] S p3 P L=8 all pa=az form=beau drop=10(pos31 A) primer=98372965
+[clean] S p3 P L=8 all pa=ka form=vig drop=5(pos26 O) primer=98397360
+[clean] S p3 P L=8 all pa=ka form=vig drop=14(pos64 E) primer=98397360
+[clean] S p3 P L=8 all pa=ka form=vig drop=20(pos70 L) primer=98422176
+[clean] S p3 P L=8 all pa=ka form=vig drop=16(pos66 L) primer=98462652
+[clean] S p3 P L=8 all pa=ka form=vig drop=11(pos32 S) primer=98464058
+[clean] S p3 P L=8 all pa=ka form=vig drop=12(pos33 T) primer=98464058
+[clean] S p3 P L=8 all pa=ka form=vig drop=16(pos66 L) primer=98470411
+[clean] S p3 P L=8 all pa=ka form=vig drop=19(pos69 C) primer=98499619
+[clean] S p3 P L=8 all pa=ka form=beau drop=8(pos29 H) primer=98504126
+[clean] S p3 P L=8 all pa=az form=vig drop=11(pos32 S) primer=98518751
+[clean] S p3 P L=8 all pa=az form=vig drop=12(pos33 T) primer=98518751
+[clean] S p3 P L=8 all pa=ka form=beau drop=8(pos29 H) primer=98519564
+[clean] S p3 P L=8 all pa=ka form=vig drop=6(pos27 R) primer=98535546
+[clean] S p3 P L=8 all pa=ka form=vig drop=17(pos67 I) primer=98553564
+[clean] S p3 P L=8 all pa=ka form=vig drop=17(pos67 I) primer=98558564
+[clean] S p3 P L=8 all pa=ka form=vig drop=3(pos24 T) primer=98571046
+[clean] S p3 P L=8 all pa=ka form=vig drop=17(pos67 I) primer=98582943
+[clean] S p3 P L=8 all pa=ka form=beau drop=0(pos21 E) primer=98597606
+[clean] S p3 P L=8 all pa=ka form=beau drop=1(pos22 A) primer=98597606
+[clean] S p3 P L=8 all pa=ka form=vig drop=6(pos27 R) primer=98600334
+[clean] S p3 P L=8 all pa=ka form=vig drop=18(pos68 N) primer=98604811
+[clean] S p3 P L=8 all pa=ka form=vig drop=8(pos29 H) primer=98604811
+[clean] S p3 P L=8 all pa=ka form=vig drop=16(pos66 L) primer=98628852
+[clean] S p3 P L=8 all pa=ka form=vig drop=17(pos67 I) primer=98628852
+[clean] S p3 P L=8 all pa=az form=vig drop=10(pos31 A) primer=98649079
+[clean] S p3 P L=8 all pa=ka form=beau drop=3(pos24 T) primer=98671433
+[clean] S p3 P L=8 all pa=ka form=beau drop=20(pos70 L) primer=98671831
+[clean] S p3 P L=8 all pa=az form=beau drop=10(pos31 A) primer=98676230
+[clean] S p3 P L=8 all pa=az form=beau drop=20(pos70 L) primer=98676230
+[clean] S p3 P L=8 all pa=az form=beau drop=10(pos31 A) primer=98676730
+[clean] S p3 P L=8 all pa=az form=beau drop=20(pos70 L) primer=98676730
+[clean] S p3 P L=8 all pa=az form=beau drop=19(pos69 C) primer=98692517
+[clean] S p3 P L=8 all pa=ka form=beau drop=6(pos27 R) primer=98717860
+[clean] S p3 P L=8 all pa=az form=vig drop=20(pos70 L) primer=98718781
+[clean] S p3 P L=8 all pa=ka form=vig drop=3(pos24 T) primer=98720661
+[clean] S p3 P L=8 all pa=az form=beau drop=19(pos69 C) primer=98723249
+[clean] S p3 P L=8 all pa=ka form=beau drop=16(pos66 L) primer=98737284
+[clean] S p3 P L=8 all pa=az form=vig drop=19(pos69 C) primer=98765443
+[clean] S p3 P L=8 all pa=az form=vig drop=10(pos31 A) primer=98814114
+[clean] S p3 P L=8 all pa=az form=vig drop=19(pos69 C) primer=98816031
+[clean] S p3 P L=8 all pa=ka form=vig drop=18(pos68 N) primer=98817691
+[clean] S p3 P L=8 all pa=ka form=vig drop=8(pos29 H) primer=98817691
+[clean] C p3 P L=8 all lo=98224685 tested=600000 strict az:vig=0 beau=0 ka:vig=1 beau=0 | one az:vig=9 beau=8 ka:vig=18 beau=10 | pairs=56 | dropidx 0:1 1:1 3:3 5:1 6:5 8:5 9:1 10:8 11:3 12:3 14:1 16:4 17:4 18:3 19:7 20:6
+# exact single-primer check of each planted primer
+[carved-error@29 planted ka/beau]
+C p1 P L=8 all lo=65602521 tested=1 strict az:vig=0 beau=0 ka:vig=0 beau=1 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+[wrong-crib-letter@24 planted az/vig]
+C p2 P L=8 all lo=82389117 tested=1 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=2 | dropidx 3:1 7:1
+[clean planted ka/vig]
+C p3 P L=8 all lo=98524685 tested=1 strict az:vig=0 beau=0 ka:vig=1 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+# result: p1 (carved error @29, ka/beau) planted primer strict-feasible (the changed letter stayed consistent: free cipher alphabet), recovered; p2 (wrong crib letter @24, az/vig) recovered only as one-error survivor, drops idx 3 (pos 24) and 7; p3 (clean, ka/vig) strict-feasible. 3/3 recovered.
