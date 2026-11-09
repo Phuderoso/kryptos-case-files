@@ -1,0 +1,43 @@
+profile mnull01 match
+profile mnull02 match
+profile mnull03 match
+profile mnull04 match
+profile mnull05 match
+profile mnull06 match
+profile mnull07 match
+profile mnull08 match
+profile mnull09 match
+profile mnull10 match
+profile mnull11 match
+profile mnull12 match
+profile mnull13 match
+profile mnull14 match
+profile mnull15 match
+profile mnull16 match
+profile mnull17 match
+profile mnull18 match
+profile mnull19 match
+profile mnull20 match
+L4 mnull05 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull03 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull08 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull06 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull02 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull01 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull07 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull04 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull09 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull10 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull12 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull13 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull14 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull15 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull11 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull16 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull19 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull17 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull18 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 mnull20 C (10000, 0, 0, 0) I (10000, 0, 0, 0) same
+L4 recount identical 20/20
+single-primer survivors confirmed (one>0): 35 of 35
+K4 L8/L11 survivor lines identical to cycle 155 (45)

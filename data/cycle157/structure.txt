@@ -1,0 +1,48 @@
+# L=8 all: text cycle-rank r, one-error-feasible primers
+  mnull01 r=5 one=90
+  mnull02 r=5 one=99
+  mnull03 r=5 one=113
+  mnull04 r=5 one=65
+  mnull06 r=5 one=397
+  mnull07 r=5 one=56
+  mnull08 r=5 one=586
+  mnull11 r=5 one=125
+  mnull13 r=5 one=20
+  mnull14 r=5 one=64
+  mnull15 r=5 one=2
+  mnull17 r=5 one=153
+  mnull18 r=5 one=93
+  mnull19 r=5 one=0
+  K4 r=6 one=28
+  mnull05 r=6 one=2
+  mnull10 r=6 one=1
+  mnull12 r=6 one=2
+  mnull16 r=6 one=5
+  mnull09 r=7 one=2
+  mnull20 r=7 one=0
+  matched nulls by r: r=5: n=14 median=93 range 0-586; r=6: n=4 median=2 range 1-5; r=7: n=2 median=2 range 0-2
+  cycle-155 nulls r: null1=5 null2=1 null3=4 null4=5 null5=7 null6=2
+# L=11 perm: text cycle-rank r, one-error-feasible primers
+  K4 r=6 one=6
+  mnull01 r=6 one=2
+  mnull03 r=6 one=6
+  mnull04 r=6 one=0
+  mnull06 r=6 one=10
+  mnull09 r=6 one=0
+  mnull10 r=6 one=0
+  mnull11 r=6 one=2
+  mnull12 r=6 one=0
+  mnull13 r=6 one=0
+  mnull14 r=6 one=0
+  mnull19 r=6 one=0
+  mnull02 r=7 one=0
+  mnull05 r=7 one=0
+  mnull07 r=7 one=0
+  mnull08 r=7 one=0
+  mnull15 r=7 one=0
+  mnull16 r=7 one=0
+  mnull17 r=7 one=0
+  mnull18 r=7 one=0
+  mnull20 r=8 one=0
+  matched nulls by r: r=6: n=11 median=0 range 0-10; r=7: n=8 median=0 range 0-0; r=8: n=1 median=0 range 0-0
+  cycle-155 nulls r: null1=6 null2=3 null3=6 null4=6 null5=8 null6=3
