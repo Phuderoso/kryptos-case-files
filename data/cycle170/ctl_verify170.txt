@@ -1,0 +1,13 @@
+ctl0 PASS V1A L12 key [11, 11, 1, 5, 2, 3, 11, 5, 0, 8, 6, 6] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDSTO
+ctl1 PASS V1B L11 key [6, 5, 7, 9, 5, 4, '?', 1, 5, 6, 1] unknown-letters 9 match-plant True -> T?EYCAME?TDAWNA?DSTOOEAS
+ctl2 PASS RK lines ['RK:natsec_act_1947_amended_rev:f1:V2:A:s-:c7:t256811'] (all: ['RK:natsec_act_1947_amended_rev:f1:V2
+ctl3 PASS V2B L6 key [1, 9, 6, 12, 8, 10] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDSTOOEASTNORTHEASTTOFTHE
+ctl4 PASS V2A L12 key [12, 5, 12, 4, 4, 3, 4, 3, 0, 11, 10, 6] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDST
+ctl5 PASS RK lines ['RK:smith_rev:f1:V1:B:s+:c4:t23816'] (all: ['RK:smith_rev:f1:V1:B:s+:c4:t23816'])
+ctl6 PASS V1A L10 key [8, 1, 4, 9, 6, 11, 6, 7, 7, 10] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDSTOOEASTNO
+ctl7 PASS V2B L11 key [8, 11, 9, 7, 5, 0, 7, 12, 12, 8, 11] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDSTOOE
+ctl8 PASS RK lines ['RK:reagan_berlin:f1:V2:A:s+:c10:t4494'] (all: ['RK:reagan_berlin:f1:V2:A:s+:c10:t4494'])
+ctl9 PASS V1B L6 key [2, 12, 0, 9, 1, 10] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDSTOOEASTNORTHEASTTOFTHE
+ctl10 PASS V1A L6 key [11, 11, 10, 8, 3, 7] unknown-letters 0 match-plant True -> THEYCAMEATDAWNANDSTOOEASTNORTHEASTTOFT
+ctl11 PASS RK lines ['RK:natsec_act_1947_amended:f0:V1:B:s+:c9:t104498'] (all: ['RK:natsec_act_1947_amended:f0:V1:B:s+:c
+controls 12/12
