@@ -7,3 +7,4 @@
 - `plant173.py` — independent planted controls (string alphabets; 10 plants over the 4 models + 1 two-anomaly plant that must be missed), `checkctl173.py` — runs and checks them.
 - `run_cycle173.sh` — K4 full families + K4 and 19 shuffled nulls on every 4th perm; resumable.
 - `summarize173.py` — per-cell table, chance expectations, I-107 max-over-cells rank; `decode173.py` — decrypts p ≤ 21 survivors, English score; `recount173.py` — independent brute-force recount on sampled configs; `wordkey173.py` — I-104 word-key check on cycle 172's survivors.
+- `posthoc173.py` — POST-HOC, descriptive only: max over cells of z = (count − E)/√E against the nulls (added because the pre-registered min cell-p saturates at 20 texts; see case 161 §4).

@@ -1,0 +1,19 @@
+# Cycle 173 add-on I-104: word keys on cycle 172's Quagmire IV survivors (p 15-16), tools/cycle173/wordkey173.py
+## K4 (685 survivors, data/cycle172/k4_outputs.txt, perms all.bin)
+SUMMARY survivors=685 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+## cycle-172 nulls (data/cycle172/null_outputs.txt, perms all_s4.bin)
+null0 SUMMARY survivors=171 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null1 SUMMARY survivors=129 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null2 SUMMARY survivors=160 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null3 SUMMARY survivors=188 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null4 SUMMARY survivors=159 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null5 SUMMARY survivors=152 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null6 SUMMARY survivors=176 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+null7 SUMMARY survivors=170 with_word_key=0 (vocabulary words of length 15/16: 0/0)
+## planted controls: Quagmire IV p 16, key = two vocabulary words, cycle-172 alphabets, random perm (seed 173104)
+wk0 q=74273 ix=0 p=16 vig PENETRATED/K->DELUSION/Z WORDKEY CA:ACCOSTED+VERTICAL CA:VERTICAL+ACCOSTED
+SUMMARY survivors=1 with_word_key=1 (vocabulary words of length 15/16: 0/0)
+wk1 q=125523 ix=1 p=16 beau VAULTED/K->ISLANDERS/K WORDKEY CA:BELRIVE+SECLUSION CA:SECLUSION+BELRIVE
+SUMMARY survivors=1 with_word_key=1 (vocabulary words of length 15/16: 0/0)
+wk2 q=57109 ix=0 p=16 beau STREAMING/K->TORTURES/K WORDKEY CA:AGREEABLE+RIOTOUS CA:RIOTOUS+AGREEABLE
+SUMMARY survivors=1 with_word_key=1 (vocabulary words of length 15/16: 0/0)
