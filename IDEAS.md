@@ -19,12 +19,12 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 |---|---|---|---|
 | I-001 | Superseded notices for stale strips/transposition and S2/S6 text (case 10, README) | P1 | tested (done, cycle 151) |
 | I-002 | Provenance of the circled tableau letters and archival carving differences | P1 | blocked (unpublished sources) |
-| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill 151, Hill + key / Hill 5 153; I-007, I-008, I-041 left) |
+| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill 151, Hill + key / Hill 5 153, Gromark 155; I-007, I-041 left) |
 | I-004 | Separate exact / heuristic / low-power results; full-scale nulls for tail claims | P1 | queued |
 | I-005 | Hill n = 2–4 under one carving error (block-drop + exact one-letter repair) | P1 | tested — EXACT-EXCL ([case 139](case-file/139-hill-one-carving-error.md)) |
 | I-006 | Robustness by design: which count-scored families already tolerate one error | P1 | tested ([case 139](case-file/139-hill-one-carving-error.md) audit table) |
 | I-007 | Keyword / arbitrary columnar w 9–11 × periodic key under one crib error | P2 | queued |
-| I-008 | Gromark / Periodic Gromark under one crib error | P2 | queued |
+| I-008 | Gromark / Periodic Gromark under one crib error | P2 | tested — EXACT-EXCL (ordinary Gromark; periodic digit L ≤ 7, rank L 8–10; ACA rule any keyword L ≤ 12) / LOW-POWER (relaxed digit L 8–9, relaxed rank L 11–12) ([case 143](case-file/143-gromark-one-error.md)) |
 | I-009 | Two-letter differences anchored to the archive charts | P2 | blocked (needs archive data, see I-002) |
 | I-010 | Quagmire IV with two different vocabulary alphabets | P2 | queued |
 | I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P1 | tested — EXACT-EXCL (CT feed, n ≥ 12) / LOW-POWER (PT feed, long lags) ([case 140](case-file/140-free-form-zigzag-autokey.md)) |
@@ -55,10 +55,14 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-044 | Free-choice superset for other per-letter choices (AZ vs KRYPTOS tableau per letter; free Vig/Beau per letter on periodic keys behind other transposition families) | P2 | queued (method from cycle 152) |
 | I-045 | Language-scored PT-feed / long-lag zig-zag (the LOW-POWER part of I-011) | P3 | queued (needs I-029) |
 | I-046 | Decode the Hill one-error blind spots: Hill 5 behind the bank (LOW-POWER, count-only), n 4 k 4 undecoded sets, affine Hill n = 5 | P3 | queued (from cycle 153) |
-| I-047 | Syndrome block-drop + linear repair method for other strict linear families (Gromark I-008, periodic Quagmire with known alphabets, linear-recurrence keys) | P2 | queued (method from cycle 153) |
+| I-047 | Syndrome block-drop + linear repair method for other strict linear families (Gromark I-008, periodic Quagmire with known alphabets, linear-recurrence keys) | P2 | queued (method from cycle 153; Gromark part done in cycle 155 with union-find certificates) |
 | I-048 | Ciphertext-side-key Hill (I-012) under one error behind the bank (block-drop in `hillcs` on bank entries) | P3 | queued (from cycle 154) |
 | I-049 | Ciphertext-side-key Hill behind the bank at longer periods (n 2 k 15–20, n 3 k 10–12 full, n 4 k 5–7 full) | P3 | queued (cost; screen LOW-POWER from n 4 k 5) |
 | I-050 | Key on both sides of the Hill step (Vigenère → Hill → Vigenère, periods k₁, k₂ small) | P3 | queued (new structure, from cycle 154) |
+| I-051 | Decode the relaxed one-error Periodic Gromark survivors (K4: 28 + 11 digit primers L 8–9, 4 rank strings L 11–12) | P3 | queued (from cycle 155) |
+| I-052 | Structure-matched nulls for strict union-find / SAT tests (shuffles with K4's crib-letter repetition profile) | P2 | queued (method, from cycle 155) |
+| I-053 | ACA Periodic Gromark with any keyword behind the 165k bank (stage 1 relaxed screen per entry + stage 2 keyword enumeration), strict and one-error | P3 | queued (cost, from cycle 155) |
+| I-054 | Ordinary Gromark (any cipher alphabet) base 10 L 9–10 under one error | P3 | queued (from cycle 155) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -91,7 +95,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Hypothesis:** if one carved letter or one crib letter is wrong, a strict "all 24 cribs must agree" test rejects the true configuration. Every high-impact `EXACT-EXCL` claim should state whether it survives one error. `[repo]`
 - **Test:** per family, rerun with (a) leave-one-crib-out and (b) one carved-letter substitution, counting survivors; planted controls with one corrupted letter must be recovered; shuffled nulls at the same tolerance.
 - **Controls / nulls:** planted control with one corrupted letter (must be recovered) and without (must still be recovered); ≥ 2 shuffled-K4 nulls at full scale. **Cost:** family-dependent, usually ≤ 25× the strict run. **Dependencies:** I-004 labels.
-- **Status:** in progress. Done before: periodic KA/AZ ([case 23](case-file/23-one-letter-anomaly.md)), two letters direct ([case 24](case-file/24-two-letter-anomalies.md)), stepping disk ([107](case-file/107-stepping-disk-one-crib-error.md)), Quagmire I–III ([108](case-file/108-quagmire-one-crib-error.md)), Kryha ([110](case-file/110-kryha-one-crib-error.md)). Cycle 151: Hill (I-005) and the design audit (I-006). Cycle 153: Hill + key and Hill 5 (I-040, [case 141](case-file/141-hill-key-and-hill5-one-carving-error.md)). Remaining: I-007, I-008, I-041 (I-003 detail reconciled with its summary row in cycle 153).
+- **Status:** in progress. Done before: periodic KA/AZ ([case 23](case-file/23-one-letter-anomaly.md)), two letters direct ([case 24](case-file/24-two-letter-anomalies.md)), stepping disk ([107](case-file/107-stepping-disk-one-crib-error.md)), Quagmire I–III ([108](case-file/108-quagmire-one-crib-error.md)), Kryha ([110](case-file/110-kryha-one-crib-error.md)). Cycle 151: Hill (I-005) and the design audit (I-006). Cycle 153: Hill + key and Hill 5 (I-040, [case 141](case-file/141-hill-key-and-hill5-one-carving-error.md)). Cycle 155: Gromark / Periodic Gromark / ACA rule (I-008, [case 143](case-file/143-gromark-one-error.md)). Remaining: I-007, I-041 (I-003 detail reconciled with its summary row in cycle 153).
 
 ### I-004 — Separate exact, heuristic and low-power results
 - **Date / source:** 2026-11-08, Firefly review (F4). `[repo]`
@@ -118,7 +122,8 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ### I-008 — Gromark / Periodic Gromark under one crib error
 - **Source:** cycle 151 from I-003; strict in cycles 129–130 ([117](case-file/117-periodic-gromark.md), [118](case-file/118-periodic-gromark-unknown-keyword.md)). `[repo]`
-- **Test:** leave-one-crib-out in the weighted union-find. **Controls:** planted ACA example with one corrupted letter. **Cost:** moderate. **Status:** queued.
+- **Test:** leave-one-crib-out in the weighted union-find. **Controls:** planted ACA example with one corrupted letter. **Cost:** moderate. **Status:** tested (cycle 155).
+- **Result (cycle 155):** the digit stream never reads the ciphertext, so one wrong carved or crib letter breaks exactly one equation; exact leave-one-out with certificate pruning (`tools/cycle155/gromark1e.c`), cycle-130 scope (model P: arbitrary alphabet, free group offsets, digit primers L 2–9, rank primers L 8–12, A–Z/KRYPTOS, Vig/Beau) plus ordinary Gromark (model G: base 10 L 2–8, bases 5–9 L 2–7), and stage 2 (`acakw1e.c`): every keyword behind each K4 rank survivor under the ACA rule (ACA/mixed/KRYPTOS cipher alphabet). K4 + six cycle-130 nulls; ~21 min wall. **K4 0** for model G everywhere, model P digit L 2–7 and rank L 8–10 → `EXACT-EXCL`; ACA rule with any keyword L 2–12: **0 of 1.53 × 10⁹** stage-2 configurations → `EXACT-EXCL` under one error. Relaxed digit primers L 8 (K4 28 vs nulls 0–1.15 M) and L 9 (11 vs 0 / 508,775), relaxed rank survivors L 11 (3 digit strings) / L 12 (1): inside the null range, undecoded → `LOW-POWER`. Controls 11/11 (five corrupted ACA plants recovered at the exact crib index, wrong-crib plant, clean plants, ordinary-Gromark plants) and stage 2 recovers BLACKHORSE / CUBANSEDGIW; strict counts reproduce cycle 130; independent Python recount 56/56. [Case 143](case-file/143-gromark-one-error.md), [data](data/cycle155/), [tools](tools/cycle155/). Follow-ups: I-051–I-054.
 
 ### I-009 — Two-letter differences anchored to the archive charts
 - **Source:** kryptosbot findings (Sep 2026): "two-character differences anchored to the archive were never run" `[sourced, secondary]`. Generic two-letter anomalies were tested direct only ([case 24](case-file/24-two-letter-anomalies.md)).
@@ -207,7 +212,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Source:** cycle 153 blind spots ([case 141](case-file/141-hill-key-and-hill5-one-carving-error.md)). `[repo]` **Test:** enumerate the repairable Hill 5 bank configurations (full bank, not 1/20) with a language score (I-029) and a larger cap; decode the 212 + 90 capped K4 sets at n 4 k 4; run affine Hill n = 5 under one error. **Controls:** cycle 153 plants ctl8/ctl9 behind a bank entry. **Nulls:** 2 full-scale. **Cost:** Hill 5 bank ~20× the 1/20 count (~25 min CPU) plus decoding. **Expected label:** NO-SIGNAL at best. **Status:** queued.
 
 ### I-047 — Syndrome block-drop + linear repair for other strict linear families
-- **Source:** cycle 153 method. `[repo]` **Rationale:** for any family that is linear in its unknowns once the frame is fixed (Gromark / Periodic Gromark with known alphabet, linear-recurrence keys, periodic keys on known alphabets behind the bank), one reduction per configuration answers "consistent after dropping any one block / equation", and a one-letter repair is linear. Makes I-008 and parts of I-041 cheap. **Controls:** corrupted-letter plants. **Status:** queued.
+- **Source:** cycle 153 method. `[repo]` **Rationale:** for any family that is linear in its unknowns once the frame is fixed (Gromark / Periodic Gromark with known alphabet, linear-recurrence keys, periodic keys on known alphabets behind the bank), one reduction per configuration answers "consistent after dropping any one block / equation", and a one-letter repair is linear. Makes I-008 and parts of I-041 cheap. **Controls:** corrupted-letter plants. **Status:** queued. **Note (cycle 155):** for Gromark the key does not depend on the ciphertext, so the block is a single equation; the union-find analogue (drop only edges of one infeasibility certificate) was used for I-008 and is exact. Periodic Quagmire with known alphabets and linear-recurrence keys remain.
 
 ### I-048 — Ciphertext-side-key Hill under one error behind the bank
 - **Source:** cycle 154 blind spot ([case 142](case-file/142-hill-then-ciphertext-side-key.md)). `[repo]` **Test:** `hillcs DROP=1` on the bank for n 2 k ≤ 14, n 3 k ≤ 8 (block-drop superset; expect ~13× cost and more chance survivors). **Controls:** cycle 154 ctl7/ctl8 behind a bank entry. **Nulls:** 2 full-scale. **Cost:** ~1–2 h CPU; slice it. **Status:** queued.
@@ -217,6 +222,24 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ### I-050 — Key on both sides of the Hill step
 - **Source:** cycle 154 (combining cases 132 and 142). `[speculation]` **Hypothesis:** Vigenère (period k₁) → Hill → Vigenère (period k₂). **Test:** enumerate the outer key f (small k₂) per field and run case 132's linear solve for (D, e); exact. **Controls:** planted; 2 nulls. **Cost:** 13^k₂ × cycle-144 cost; k₂ ≤ 3 direct first. **Status:** queued.
+
+### I-051 — Decode the relaxed one-error Periodic Gromark survivors
+- **Date / source:** 2026-11-08, cycle 155 ([case 143](case-file/143-gromark-one-error.md)). `[repo]`
+- **Hypothesis:** one of K4's relaxed one-error survivors (free alphabet + free group offsets; 28 digit primers L 8, 11 L 9, 3 rank strings L 11, 1 L 12) hides a readable decryption that is not an ACA keyword. `[speculation]`
+- **Test:** for each survivor and its drop, hard-constrained annealing of the full 97-letter decryption (case 63 method: alphabet must satisfy the 23 kept equations), quadgram score; same for an equal number of null survivors (null1/null4 L 8, null2 sample). **Controls:** corrupted ACA plants (must reach English, ≈ −4.1). **Cost:** ~1–2 min per 10 survivors. **Dependencies:** I-029 helps. **Status:** queued.
+
+### I-052 — Structure-matched nulls for strict union-find / SAT tests
+- **Date / source:** 2026-11-08, cycle 155: one-error survivor counts of six shuffled nulls range from 0 to 1.15 × 10⁶ at the same L, tracking the number of distinct cipher letters under the cribs (13–19; K4 14). `[repo]`
+- **Hypothesis / rationale:** the power of strict feasibility tests depends on how often the crib cipher letters repeat; plain shuffles mix very different profiles, so "K4 inside the null range" is uninformative. Nulls drawn from shuffles with K4's exact repetition profile (14 distinct letters, same multiplicities under the cribs) would give a calibrated baseline. Relabelling letters is useless (feasibility is invariant under an arbitrary alphabet).
+- **Test:** rejection-sample 20+ shuffles with K4's profile; rerun cycle-155 model P at L 8–9 and L 11–12 (and cycle 130 strict). **Controls:** n/a (null method). **Cost:** ~10–20 min for 20 nulls at L 8 only; L 9/12 need splitting. **Status:** queued.
+
+### I-053 — ACA Periodic Gromark with any keyword behind the bank
+- **Date / source:** 2026-11-08, cycle 155; cycle 129 tested only 17,164 listed keywords behind the bank. `[repo]`
+- **Test:** per bank entry and direction, cycle-130 relaxed screen (strict, then one-error) on the transposed crib landings; stage-2 keyword enumeration only for rank survivors. **Controls:** planted ACA behind a bank transposition, with and without one corrupted letter; 2 nulls. **Cost:** high (330k entries × 4.3 × 10⁸ rank primers at L 12): start with L ≤ 9 and use the rank-primer superset. **Status:** queued.
+
+### I-054 — Ordinary Gromark base 10 L 9–10 under one error
+- **Date / source:** 2026-11-08, cycle 155 (model G stopped at L 8 for cost). `[repo]`
+- **Test:** `gromark1e … G` for L 9 (10⁹ primers, ~13 min single core per text) and L 10 split with checkpoints; K4 + 2 nulls. **Controls:** cycle-155 ordinary-Gromark plants at L 9. **Cost:** ~40 core-min for L 9. **Status:** queued.
 
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
@@ -249,3 +272,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 153 end: I-040 tested (EXACT-EXCL n 2 / n 3 k ≤ 7; NO-SIGNAL exhaustive n 3 k 8–10, n 4, Hill 5 direct; LOW-POWER Hill 5 bank). Added I-046, I-047 (47 items). Recommended next: cycle 154 **new family** — I-012 (Hill with the key on the ciphertext side, `p = D·(c − f)`); alternatives I-044 or I-013. Next audit after that: I-008 via the I-047 method.
 - 2026-11-08, cycle 154 start: I-012 in progress (new structure: Hill then ciphertext-side periodic key). Reconciled against case 132 (lcm relaxation covers part of the space, see I-012). Cycle 153 was an audit, so 154 is the required new family.
 - 2026-11-08, cycle 154 end: I-012 tested (EXACT-EXCL bank n 2 k ≤ 14, n 3 k ≤ 8, direct all tested (n, k) and one-error for short k; NO-SIGNAL elsewhere; LOW-POWER screen at n 4 k ≥ 5). Added I-048–I-050 (50 items). Recommended next: cycle 155 variant/audit — I-008 (Gromark / Periodic Gromark under one crib error) via the I-047 method; then a new family (I-044, I-013 or I-050).
+- 2026-11-08, cycle 155 start: I-008 in progress (variant/audit after the new families of cycles 152 and 154); scope matched to cycle 130 (case 118) and cycle 10 (case 08).
+- 2026-11-08, cycle 155 end: I-008 tested (EXACT-EXCL ordinary Gromark, periodic digit L ≤ 7 / rank L 8–10, ACA rule any keyword L ≤ 12 under one error; LOW-POWER relaxed digit L 8–9 and rank L 11–12). I-003 now leaves I-007, I-041. I-047 note added. Added I-051–I-054 (54 items). Recommended next: cycle 156 **new family** (155 was an audit) — I-050 (key on both sides of Hill), I-010 or I-013.
