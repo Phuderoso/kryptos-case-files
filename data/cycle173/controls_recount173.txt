@@ -1,0 +1,45 @@
+# Cycle 173 controls: plants (tools/plant173.py seed 173100) and check (tools/checkctl173.py)
+ctl0 model=del n=98 q=5178 slot=100 d=25 PA=KA CA=KA mode=vig idx=pt p=7 key=COMPASS
+ctl1 model=del n=98 q=49713 slot=100 d=81 PA=AZ CA=KA mode=beau idx=ct p=11 key=UNDERGROUND
+ctl2 model=del n=98 q=90604 slot=100 d=41 PA=AZ CA=AZ mode=vig idx=pt p=19 key=THEHIDDENSHADOWLINE
+ctl3 model=ins n=96 q=78528 slot=100 d=25 PA=KA CA=AZ mode=vig idx=ct p=8 key=LODESTAR
+ctl4 model=ins n=96 q=81963 slot=100 d=35 PA=KA CA=KA mode=beau idx=pt p=13 key=MAGNETICFIELD
+ctl5 model=ins n=96 q=72187 slot=100 d=21 PA=AZ CA=AZ mode=vig idx=ct p=19 key=THEHIDDENSHADOWLINE
+ctl6 model=chg n=97 q=156564 slot=100 d=22 PA=KA CA=KA mode=vig idx=pt p=12 key=ILLUMINATION
+ctl7 model=chg n=97 q=91296 slot=100 d=21 PA=AZ CA=KA mode=beau idx=ct p=5 key=LUCID
+ctl8 model=swp n=97 q=5069 slot=100 d=39 PA=KA CA=KA mode=vig idx=ct p=14 key=QUARTZLANTERNS
+ctl9 model=swp n=97 q=10337 slot=100 d=89 PA=KA CA=AZ mode=beau idx=pt p=8 key=LODESTAR
+ctl10 model=neg n=98 q=124500 slot=100 d=65 PA=KA CA=KA mode=vig idx=pt p=7 key=COMPASS (expect MISS under strict del)
+
+ctl0 del p=7 FOUND key=COMPASS  hits_at_p_in_slice=10 -> PASS
+ctl1 del p=11 FOUND key=?NDER??OUND  hits_at_p_in_slice=7 -> PASS
+ctl2 del p=19 FOUND key=??EHIDDENSHADOWLI??  hits_at_p_in_slice=8 -> PASS
+ctl3 ins p=8 FOUND key=LODESTAR  hits_at_p_in_slice=8 -> PASS
+ctl4 ins p=13 FOUND key=MAGNETICFIELD  hits_at_p_in_slice=5 -> PASS
+ctl5 ins p=19 FOUND key=TH?HIDDENSHADOW?IN?  hits_at_p_in_slice=9 -> PASS
+ctl6 chg p=12 FOUND key=ILLUMINATION  hits_at_p_in_slice=2 -> PASS
+ctl7 chg p=5 FOUND key=LUCID  hits_at_p_in_slice=1 -> PASS
+ctl8 swp p=14 FOUND key=?UA?TZ?AN?E?NS  hits_at_p_in_slice=55 -> PASS
+ctl9 swp p=8 FOUND key=LODESTAR  hits_at_p_in_slice=1 -> PASS
+ctl10 neg p=7 MISSED (expected miss) hits_at_p_in_slice=0 -> PASS
+CONTROLS 11/11 PASS
+
+# planted decodes at the true slot (decode173.py), English score first
+-4.196 ctl0 del t=100 d=25 KA->KA vig pt p=7 key=COMPASS unk=1 ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATH?NOWX
+-4.056 ctl1 del t=100 d=81 AZ->KA beau ct p=11 key=?NDER??OUND unk=28 ??????I?D?AME???R?H?WEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKST?L?R?N???GBE?E????????
+-4.296 ctl2 del t=100 d=41 AZ->AZ vig pt p=19 key=??EHIDDENSHADOWLI?? unk=23 ??OLDWINDCAMEOVER????EASTNORTHEASTRI????NDTHESURVEYORSF????THEXBERLINCLOCK????LRUNNINGB?NEATH????X
+-4.195 ctl3 ins t=100 d=25 KA->AZ vig ct p=8 key=LODESTAR unk=0 ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNO
+-4.195 ctl4 ins t=100 d=35 KA->KA beau pt p=13 key=MAGNETICFIELD unk=0 ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNO
+-3.997 ctl5 ins t=100 d=21 AZ->AZ vig ct p=19 key=TH?HIDDENSHADOW?IN? unk=15 ACO?DWI?DCA?EOVE?THEWEASTNORTHEASTRIDG?AND?HES?RV?YOR?FOU?DTHEXBERLINCLOCKS?ILL?UNNI?GBE?EAT?SNO
+-4.189 ctl6 chg t=100 d=22 KA->KA vig pt p=12 key=ILLUMINATION unk=0 ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOZKSTILLRUNNINGBENEATHSNOW
+-4.189 ctl7 chg t=100 d=21 AZ->KA beau ct p=5 key=LUCID unk=0 ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLJCKSTILLRUNNINGBENEATHSNOW
+-3.649 ctl8 swp t=100 d=39 KA->KA vig ct p=14 key=?UA?TZ?AN?E?NS unk=35 ???L???ND??MEOVERTHEWEASTNORTHEAST?IDG??ND???????E???SF??NDT?EXBERLINCLOCKSTILLR?NNI??BE???T?????
+-4.189 ctl9 swp t=100 d=89 KA->AZ beau pt p=8 key=LODESTAR unk=0 ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW
+
+# independent recount (tools/recount173.py), python brute force vs anom173 on slices
+del slice 1000-1012: python 955 tool 955 identical=True
+ins slice 90000-90012: python 325 tool 325 identical=True
+chg slice 160000-160040: python 1120 tool 1120 identical=True
+swp slice 50000-50012: python 475 tool 475 identical=True
+del slice 120000-120012: python 663 tool 663 identical=True
+swp slice 165700-165712: python 386 tool 386 identical=True
