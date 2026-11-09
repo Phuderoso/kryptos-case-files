@@ -1,0 +1,37 @@
+ctl1 planted: G ix0 L4 az vig b10 q12345 7426 err-slots 4
+M ctl1 0 4 az vig 10 35043 1907 040000
+M ctl1 0 4 az vig 10 12345 7426 000011
+M ctl1 0 4 az beau 10 12345 3684 000011
+ctl2 planted: G ix1 L4 ka beau b10 q98765 3141 err-slots 19
+M ctl2 1 4 ka beau 10 98765 3141 080000
+ctl3 planted: G ix0 L5 ka vig b10 q162000 27182 err-slots 20
+M ctl3 0 4 az beau 10 91865 1009 040000
+M ctl3 0 5 az vig 10 95079 04722 020000
+M ctl3 0 5 az beau 10 95079 06388 020000
+M ctl3 0 5 az vig 10 75479 21159 001000
+M ctl3 0 5 az vig 10 106761 23156 000004
+M ctl3 0 5 az beau 10 134852 27156 000400
+ctl4 planted: G ix1 L7 az vig b10 q163500 1473625 err-slots 0
+M ctl4 1 7 az vig 10 163500 1473625 000001 KRYPTOS/r
+ctl5 planted: G ix1 L5 az var b10 q54321 90210 err-slots 2
+M ctl5 1 5 az beau 10 54321 90210 000004
+ctl6 planted: PG ix1 L8 az vig b10 q777 PALIMPSEST/aca/az err-slots 0
+M ctl6 1 vig 777 PALIMPSEST/aca/az 0
+ctl7 planted: PG ix0 L6 ka beau b10 q40000 SHADOW/kmix/ka err-slots 5
+M ctl7 0 beau 40000 SHADOW/kmix/ka 5
+ctl8 planted: PG ix1 L6 az beau b10 q88888 ILLUSION/mix/az err-slots 17
+M ctl8 1 beau 88888 ILLUSION/mix/az 17
+ctl9 planted: G ix0 L6 az vig b7 q120000 314159 err-slots -
+M ctl9 0 6 az vig 7 120000 314152 ffffff
+ctl10 planted: G ix1 L4 ka beau b5 q777 2413 err-slots -
+M ctl10 1 4 ka beau 5 777 2413 ffffff
+ctl11 planted: G ix0 L5 az vig b10 q12345 74269 err-slots -
+M ctl11 0 3 az beau 10 145615 827 400000
+M ctl11 0 4 ka beau 10 117198 5788 800000
+M ctl11 0 4 az vig 10 107075 7978 000400
+M ctl11 0 5 az vig 10 57603 13702 080400
+M ctl11 0 5 az beau 10 135589 10228 000008
+M ctl11 0 5 az vig 10 161545 32584 006000
+neg1 planted: G ix0 L4 az vig b10 q12345 7426 err-slots 4,16
+M neg1 0 4 az vig 10 35043 1907 040000
+neg2 planted: PG ix1 L8 az vig b10 q777 PALIMPSEST/aca/az err-slots 0,9
