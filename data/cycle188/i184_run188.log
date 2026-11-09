@@ -1,0 +1,7 @@
+class 1 done 32 s
+class 2 done 65 s
+class 3 done 98 s
+class 4 done 130 s
+class 5 done 162 s
+class 6 skipped (budget: 290 + 162 + 32 > 460)
+class 7 skipped (budget: 290 + 162 + 32 > 460)
