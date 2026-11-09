@@ -1,0 +1,6 @@
+Cycle 158 heavy compute (box clock America/Vancouver, 2026-11-08; 8 cores)
+timing probes (direct and bank, n 2-3, incl. one killed 1000-entry probe): ~60 s wall
+controls (10 plants, DROP=1): ~3 s (one all x all control killed after ~25 s and rerun on a 21-word f slice)
+main run tools/cycle158/run_cycle158.sh (setsid timeout 420, own process group): 312 s wall, 20:51-20:57 PDT
+n 4 survivor decode (solve158.py): ~30 s; independent recount (indep158.py + VERB hillw, 15 runs): ~130 s single core
+total heavy compute ~7 min

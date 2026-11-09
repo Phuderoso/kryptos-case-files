@@ -1,0 +1,3 @@
+n=2 direct: 97497886 of 101123136 word pairs (96.4%) inside case-144 free-key exclusions -> 3.6% new; bank core-32: 257 of 1024 (25.1%) covered -> 74.9% new
+n=3 direct: 19390752 of 101123136 word pairs (19.2%) inside case-144 free-key exclusions -> 80.8% new; bank core-32: 34 of 1024 (3.3%) covered -> 96.7% new
+n=4 direct: 100489 of 101123136 word pairs (0.1%) inside case-144 free-key exclusions -> 99.9% new; bank core-32: 1 of 1024 (0.1%) covered -> 99.9% new
