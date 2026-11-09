@@ -1,0 +1,11 @@
+ctl1 n=2 k=9 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl2 n=3 k=4 clean strict_lines=2 best_wrong=0 decided=93 via=S drop=-1 -> PASS
+ctl3 n=2 k=13 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl4 n=3 k=7 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl5 n=4 k=3 clean strict_lines=2 best_wrong=0 decided=92 via=S drop=-1 -> PASS
+ctl6 n=2 k=19 clean strict_lines=2 best_wrong=0 decided=74 via=S drop=-1 -> PASS
+ctl7 n=3 k=5 error-control strict_lines=0 best_wrong=0 decided=90 via=X drop=26 -> PASS
+ctl8 n=2 k=11 error-control strict_lines=0 best_wrong=0 decided=94 via=X drop=65 -> PASS
+ctl9 n=4 k=5 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl10 n=3 k=8 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+controls passed 10/10
