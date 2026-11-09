@@ -9,7 +9,7 @@ def read(fn):
         a = l.split()
         if not a: continue
         if a[0] == "H":
-            k = (int(a[2]), int(a[3]), a[4], a[5]); H[k] = dict(pass2=int(a[12]), fits=int(a[14]), strict=int(a[16]), slots=int(a[18]))
+            k = (int(a[2]), int(a[3]), a[4], a[5]); H[k] = dict(pass2=int(a[11]), fits=int(a[13]), strict=int(a[15]), slots=int(a[17]))
         elif a[0] == "O" and (a[3] != "0" or a[5] != "0"): bad.append(l.strip())
         elif a[0] == "X": bad.append(l.strip())
         elif a[0] == "END": ok = True
@@ -30,9 +30,6 @@ for lab in ["k4"] + nulls:
     rows[lab] = r
     print(lab, " ".join(f"{nm}: fits {v[0]} pass2 {v[1]}{'' if v[2] else ' NO-END'}{' BAD' if v[3] else ''}" for nm, v in r.items()))
 print("== grid (empirical rank among 20 texts; D1 = M0 one-error mod-2 passes L5-6, D2 = M1 one-error mod-2 passes L1-3; fit cells reported, scored only if not all-zero)")
-def d(lab, which):
-    r = rows[lab]; return (r["M0 L1-5"][1] if False else 0) + (sum(rows[lab][c][1] for c in (["M0 L6"] if which == "D1" else ["M1 L1-2", "M1 L3"])))
-import subprocess
 def m0L5(lab):
     H, _, _ = read(f"{od}/{lab}.m0s64.txt"); return cell(H, 0, [5, 6], "pass2")
 D = {"D1": {lab: m0L5(lab) for lab in rows}, "D2": {lab: rows[lab]["M1 L1-2"][1] + rows[lab]["M1 L3"][1] for lab in rows}}
