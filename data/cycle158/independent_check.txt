@@ -1,0 +1,45 @@
+C:  VC K4 n=2 cons13=0,0,0,0 cons2=12,8,0,0 all=0
+PY: VC K4 n=2 cons13=0,0,0,0 cons2=12,8,0,0 all=0
+MATCH K4 n=2
+C:  VC K4 n=3 cons13=1,0,0,0 cons2=1032,1132,1116,0 all=0
+PY: VC K4 n=3 cons13=1,0,0,0 cons2=1032,1132,1116,0 all=0
+MATCH K4 n=3
+C:  VC K4 n=4 cons13=1167,1159,1207,1060 cons2=13044,13924,13544,13348 all=0
+PY: VC K4 n=4 cons13=1167,1159,1207,1060 cons2=13044,13924,13544,13348 all=0
+MATCH K4 n=4
+C:  VC null1 n=2 cons13=0,0,0,0 cons2=12,36,0,0 all=0
+PY: VC null1 n=2 cons13=0,0,0,0 cons2=12,36,0,0 all=0
+MATCH null1 n=2
+C:  VC null1 n=3 cons13=0,0,1,0 cons2=1172,1256,1184,0 all=0
+PY: VC null1 n=3 cons13=0,0,1,0 cons2=1172,1256,1184,0 all=0
+MATCH null1 n=3
+C:  VC null1 n=4 cons13=1101,1130,1195,1148 cons2=13216,13068,13980,13724 all=0
+PY: VC null1 n=4 cons13=1101,1130,1195,1148 cons2=13216,13068,13980,13724 all=0
+MATCH null1 n=4
+C:  VC mnull01 n=2 cons13=0,0,0,0 cons2=8,24,0,0 all=0
+PY: VC mnull01 n=2 cons13=0,0,0,0 cons2=8,24,0,0 all=0
+MATCH mnull01 n=2
+C:  VC mnull01 n=3 cons13=1,0,0,0 cons2=1104,1052,1192,0 all=0
+PY: VC mnull01 n=3 cons13=1,0,0,0 cons2=1104,1052,1192,0 all=0
+MATCH mnull01 n=3
+C:  VC mnull01 n=4 cons13=1233,1035,1123,1118 cons2=13560,12612,13156,12580 all=0
+PY: VC mnull01 n=4 cons13=1233,1035,1123,1118 cons2=13560,12612,13156,12580 all=0
+MATCH mnull01 n=4
+C:  VC ctl3 n=2 cons13=0,0,0,0 cons2=24,12,0,0 all=0
+PY: VC ctl3 n=2 cons13=0,0,0,0 cons2=24,12,0,0 all=0
+MATCH ctl3 n=2
+C:  VC ctl3 n=3 cons13=3,1,2,0 cons2=1048,1124,1092,0 all=1
+PY: VC ctl3 n=3 cons13=3,1,2,0 cons2=1048,1124,1092,0 all=1
+MATCH ctl3 n=3
+C:  VC ctl3 n=4 cons13=1106,1162,1113,1132 cons2=12940,12444,12692,12652 all=0
+PY: VC ctl3 n=4 cons13=1106,1162,1113,1132 cons2=12940,12444,12692,12652 all=0
+MATCH ctl3 n=4
+C:  VC ctl4 n=2 cons13=0,0,0,0 cons2=8,36,0,0 all=0
+PY: VC ctl4 n=2 cons13=0,0,0,0 cons2=8,36,0,0 all=0
+MATCH ctl4 n=2
+C:  VC ctl4 n=3 cons13=0,0,1,0 cons2=1168,1188,1184,0 all=0
+PY: VC ctl4 n=3 cons13=0,0,1,0 cons2=1168,1188,1184,0 all=0
+MATCH ctl4 n=3
+C:  VC ctl4 n=4 cons13=1119,1119,1111,1171 cons2=13388,13936,14196,13592 all=1
+PY: VC ctl4 n=4 cons13=1119,1119,1111,1171 cons2=13388,13936,14196,13592 all=1
+MATCH ctl4 n=4
