@@ -1,0 +1,28 @@
+K4 (full family, 16 chunks): {'perms': 165782, 'masks': 69012, 'orderings': 173431, 'perm_mask_tested': 4009459176, 'dead_selfmap': 107684, 'dead_oddcycle': 53812, 'surv_perm_mask': 637, 'surv_perm_ordering': 1539, 'rk_full': 0}
+K4 survivors (perm, ordering): 1539  running-key full fits: 0
+K4 periodic V1A L1..26: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 115]
+K4 periodic V1B L1..26: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 16]
+K4 periodic V2A L1..26: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 111]
+K4 periodic V2B L1..26: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 8, 12]
+nulls: 40; survivors min/median/max 1165/1551/2942; nulls with <= K4 survivors 20/40  -> rank p (K4 as few as or fewer) = 0.512, floor 1/(N+1) = 0.024
+  V1A L25: K4 0  nulls min/median/max 0/0/3  nulls >= K4 40/40  p = 1.000
+  V1A L26: K4 115  nulls min/median/max 75/109/378  nulls >= K4 18/40  p = 0.463
+  V1A: K4 and all nulls 0 at L 1..24 (contiguous from 1: True)
+  V1B L23: K4 0  nulls min/median/max 0/0/8  nulls >= K4 40/40  p = 1.000
+  V1B L24: K4 4  nulls min/median/max 0/3/19  nulls >= K4 14/40  p = 0.366
+  V1B L25: K4 1  nulls min/median/max 0/2/52  nulls >= K4 27/40  p = 0.683
+  V1B L26: K4 16  nulls min/median/max 1/9/34  nulls >= K4 5/40  p = 0.146
+  V1B: K4 and all nulls 0 at L 1..22 (contiguous from 1: True)
+  V2A L25: K4 0  nulls min/median/max 0/0/5  nulls >= K4 40/40  p = 1.000
+  V2A L26: K4 111  nulls min/median/max 67/104/369  nulls >= K4 18/40  p = 0.463
+  V2A: K4 and all nulls 0 at L 1..24 (contiguous from 1: True)
+  V2B L21: K4 0  nulls min/median/max 0/0/1  nulls >= K4 40/40  p = 1.000
+  V2B L22: K4 0  nulls min/median/max 0/0/2  nulls >= K4 40/40  p = 1.000
+  V2B L23: K4 0  nulls min/median/max 0/0/6  nulls >= K4 40/40  p = 1.000
+  V2B L24: K4 9  nulls min/median/max 0/2/38  nulls >= K4 6/40  p = 0.171
+  V2B L25: K4 8  nulls min/median/max 0/1/54  nulls >= K4 3/40  p = 0.098
+  V2B L26: K4 12  nulls min/median/max 1/9/33  nulls >= K4 13/40  p = 0.341
+  V2B: K4 and all nulls 0 at L 1..20 (contiguous from 1: True)
+nulls with any periodic fit at L <= 23: 22/40 (one-sided 95% Clopper-Pearson upper bound on the null rate 0.685)
+RK nulls (chunk c0 = 1/16 of family): [(94, 0), (74, 0), (52, 0), (99, 0), (116, 0), (94, 0), (79, 0), (89, 0)]
+K4 chunk c0: survivors 51 rk 0

@@ -1,0 +1,11 @@
+Cycle 170 inputs (2026-11-09, run 02:54-03:02 PDT, box /workspace/k4c170/run)
+all.bin   = /workspace/k4c168/run/all.bin = dec_perm.bin (tools/decimation_gen.py, cycle 59; 159,712 perms) + route_perm.bin (tools/route_gen61.py, cycle 61; 6,070) = 165,782 perms (int16 x 97)
+  sha256 8a9e1b3200cf803cc03fda7f60d0e181dacf479b127077c2632d818a45f9e857
+alpha.bin = /home/box/kryptos_support_backup/alpha.bin, 86,731 keyed alphabets (uint8 x 26; the cycle-137+ alphabet bank)
+  sha256 2b4ffb693ddd62965ba0e30ccf165f63cdc3916c950d8a28370c0ec05113c84b
+texts.txt = /workspace/k4c168/run/texts.txt (tools/cycle168/texts168.py; 36 texts, 3,302,066 letters)
+  sha256 af2228905942f8a3f31c92aa2daabb8a5d96955e6d876677c85bdb303557f9a2
+quadgrams.json = /home/box/kryptos_support_backup/quadgrams.json (English check only)
+Derived orderings: 86,731 x {F: alphabet, E: alphabet[0::2]+alphabet[1::2]} = 173,462, deduplicated 173,431; 69,012 distinct half-splits (a split and its complement are one).
+Run folder check (I-078): out/k4.c0..c15 all end in "PERIODIC V2B" (16/16), nulls/null0..39 40/40, nulls/rk_null0..7 8/8, ctl/ctl0..11 12/12; 0 .tmp files.
+Timing: K4 full pass 02:54:52-~03:00 PDT (16 chunks, running keys dominate); 40 nulls without running keys 5.7 s total; 8 running-key nulls on chunk c0 ~2 min; controls 2.5 min (2 threads).
