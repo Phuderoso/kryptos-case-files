@@ -1,0 +1,54 @@
+# Cycle 185 inputs (md5) and timing (box clock, PT, UTC-7)
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+946402ca9cd1fcb962c51a16a76fef09  all.bin
+3dd34d3cc56297bdd2b8a98d7125ea23  all_s8.bin
+f45bc54b64f691e47d3f3ba927a84321  all_s64.bin
+94a1a6c595377298dfde5fe51c8e0a67  all_s2048.bin
+46533f11baadbdd3ede064983be5671c  all_s20000.bin
+92793b741a19ace55a1e410cd572ab8e  alpha172.txt
+8c579973175223685ab27ff44baa4734  alpha_recount180.txt
+aa0693d997c9f1833c44fcfad5e20c18  slice185.bin
+ef4235a7c39897a455f6ccf99d01bee4  nulls185.txt
+0120f084a98ce28b50e703a4e714216f  lrk185
+d372a4c7695907b422bbb972659a1d43  lrk185safe
+36337da9e1cfca57f1a6dfbc9deee5b2  ctl_rehearsal/plants.json
+2e8fe265660526170ab8815e8bca6ffd  ../../tools/lrk185.c
+build: gcc -O3 -march=native -fopenmp (lrk185), + -DSAFE=1 (lrk185safe)
+smoke/timing on reserved shuffle seed 9185, all_s64, 6 threads, method 1 vocab x vocab: Lmax 1 1.5 s, Lmax 2 6.6 s, Lmax 3 ~37.7 s (Lmax 2 + Lmax 3 runs 44.2 s together); ~52 s in all
+control rehearsal (= registered control run, disclosed) 180 s, before the pre-registration push (12:50-12:53 PT); checker re-run after the push: 14/14
+pre-registration commits a007631, 1c28933, 00bad71, 1a0fd13 (~12:55-12:56 PT)
+main run (run_cycle185.sh, setsid timeout 300) 12:56:27-13:00:27 PT elapsed 240 s; job end times:
+k4.s64L3 12:57:01
+k4.s2k 12:57:03
+n18511.s2k 12:57:04
+n18512.s2k 12:57:06
+n18513.s2k 12:57:07
+n18514.s2k 12:57:09
+n18515.s2k 12:57:11
+n18516.s2k 12:57:12
+n18517.s2k 12:57:14
+n18518.s2k 12:57:16
+n18519.s2k 12:57:17
+n18520.s2k 12:57:19
+n18521.s2k 12:57:20
+n18522.s2k 12:57:22
+n18523.s2k 12:57:23
+n18524.s2k 12:57:25
+n18525.s2k 12:57:27
+n18526.s2k 12:57:28
+n18527.s2k 12:57:30
+n18528.s2k 12:57:31
+n18529.s2k 12:57:33
+k4.s20k 12:57:33
+k4.s20ksafe 12:57:44
+k4.s8L2 12:58:44
+k4.fullL1.c0 12:59:01
+k4.fullL1.c1 12:59:11
+k4.fullL1.c2 12:59:21
+k4.fullL1.c3 12:59:34
+k4.fullL1.c4 12:59:53
+k4.fullL1.c5 13:00:03
+k4.fullL1.c6 13:00:13
+k4.fullL1.c7 13:00:27
+heavy total: 52 + 180 + 240 = 472 s (7.9 min) <= 8 min
+recount (niced, 1 thread, outside the budget) 13:00-13:01 PT

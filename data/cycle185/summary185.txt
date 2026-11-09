@@ -1,0 +1,30 @@
+== K4, one error, vocabulary x vocabulary (352,538,176 ordered pairs x Vig/Beau), method 1
+K4 all_s64 (2,591 perms) L1-3: fits 0 (strict 0, slot fits 0) pass2 150137591 END True bad []
+K4 all_s8 (20,723 perms) L1-2: fits 0 (strict 0, slot fits 0) pass2 294917489 END True bad []
+K4 full set L1: chunks complete 8/8, perms 165782: fits 0 (strict 0, slot fits 0) pass2 511744522
+SAFE audit (method 2, every pair, no prefilter, 13-value loop on every slot) k4 all_s20000 (9 rows) L 1-3 H lines identical: True
+== all_s2048 (81 perms; K4 + 19 nulls), one error, L 1-3
+k4 fits L1-3 0 pass2 L3 3838120
+n18511 fits L1-3 0 pass2 L3 3516529
+n18512 fits L1-3 0 pass2 L3 3434944
+n18513 fits L1-3 0 pass2 L3 3598360
+n18514 fits L1-3 0 pass2 L3 3677279
+n18515 fits L1-3 0 pass2 L3 3455400
+n18516 fits L1-3 0 pass2 L3 3291720
+n18517 fits L1-3 0 pass2 L3 3408818
+n18518 fits L1-3 0 pass2 L3 3333603
+n18519 fits L1-3 0 pass2 L3 3402653
+n18520 fits L1-3 0 pass2 L3 3456170
+n18521 fits L1-3 0 pass2 L3 3472713
+n18522 fits L1-3 0 pass2 L3 3596422
+n18523 fits L1-3 0 pass2 L3 3481108
+n18524 fits L1-3 0 pass2 L3 3611719
+n18525 fits L1-3 0 pass2 L3 3678035
+n18526 fits L1-3 0 pass2 L3 3409595
+n18527 fits L1-3 0 pass2 L3 3594515
+n18528 fits L1-3 0 pass2 L3 3525957
+n18529 fits L1-3 0 pass2 L3 3431656
+== grid (I-152 empirical rank; F = fits L 1-3, scored only if not all-zero; D1 = one-error mod-2 passes at L 3 = every L <= 3 by nesting)
+F: all zero (reported, not scored)
+D1: K4 3838120 nulls 3291720-3678035 mean 3493536.6 p+ 0.05 p- 1.00
+grid p+ 0.05 / p- 1.00  [no multiplicity correction; floor 0.05]

@@ -1,0 +1,83 @@
+== out/k4.fullL1.c0.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 64487143 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 64487143 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 64487143 method 1 safe 0 nW1 146
+END k4 0 20723
+== out/k4.fullL1.c1.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 64507028 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 64507028 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 64507028 method 1 safe 0 nW1 146
+END k4 20723 41446
+== out/k4.fullL1.c2.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 63957209 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 63957209 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 63957209 method 1 safe 0 nW1 146
+END k4 41446 62169
+== out/k4.fullL1.c3.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 63660207 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 63660207 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 63660207 method 1 safe 0 nW1 146
+END k4 62169 82892
+== out/k4.fullL1.c4.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 64103536 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 64103536 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 64103536 method 1 safe 0 nW1 146
+END k4 82892 103615
+== out/k4.fullL1.c5.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 63844057 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 63844057 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 63844057 method 1 safe 0 nW1 146
+END k4 103615 124338
+== out/k4.fullL1.c6.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 63077589 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 63077589 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 63077589 method 1 safe 0 nW1 146
+END k4 124338 145061
+== out/k4.fullL1.c7.txt
+H k4 0 1 q4r vig perms 20721 pairs 352538176 pass2 64107753 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20721 pairs 352538176 pass2 64107753 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 64107753 method 1 safe 0 nW1 146
+END k4 145061 165782
+== out/k4.s20k.txt
+H k4 0 1 q4r vig perms 9 pairs 352538176 pass2 22545 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 9 pairs 352538176 pass2 22545 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r vig perms 9 pairs 352538176 pass2 100187 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r beau perms 9 pairs 352538176 pass2 100187 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r vig perms 9 pairs 352538176 pass2 411359 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r beau perms 9 pairs 352538176 pass2 411359 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 411359 method 1 safe 0 nW1 2062
+END k4 0 9
+== out/k4.s20ksafe.txt
+H k4 0 1 q4r vig perms 9 pairs 352538176 pass2 22545 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 9 pairs 352538176 pass2 22545 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r vig perms 9 pairs 352538176 pass2 100187 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r beau perms 9 pairs 352538176 pass2 100187 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r vig perms 9 pairs 352538176 pass2 411359 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r beau perms 9 pairs 352538176 pass2 411359 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 411359 method 2 safe 1 nW1 2062
+END k4 0 9
+== out/k4.s2k.txt
+H k4 0 1 q4r vig perms 81 pairs 352538176 pass2 311712 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 81 pairs 352538176 pass2 311712 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r vig perms 81 pairs 352538176 pass2 1068400 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r beau perms 81 pairs 352538176 pass2 1068400 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r vig perms 81 pairs 352538176 pass2 3838120 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r beau perms 81 pairs 352538176 pass2 3838120 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 3838120 method 1 safe 0 nW1 2062
+END k4 0 81
+== out/k4.s64L3.txt
+H k4 0 1 q4r vig perms 2591 pairs 352538176 pass2 8168983 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 2591 pairs 352538176 pass2 8168983 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r vig perms 2591 pairs 352538176 pass2 29211294 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r beau perms 2591 pairs 352538176 pass2 29211294 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r vig perms 2591 pairs 352538176 pass2 112757314 fits 0 strict 0 slotfits 0
+H k4 0 3 q4r beau perms 2591 pairs 352538176 pass2 112757314 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 112757314 method 1 safe 0 nW1 2062
+END k4 0 2591
+== out/k4.s8L2.txt
+H k4 0 1 q4r vig perms 20723 pairs 352538176 pass2 64122344 fits 0 strict 0 slotfits 0
+H k4 0 1 q4r beau perms 20723 pairs 352538176 pass2 64122344 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r vig perms 20723 pairs 352538176 pass2 230795145 fits 0 strict 0 slotfits 0
+H k4 0 2 q4r beau perms 20723 pairs 352538176 pass2 230795145 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0 cand 230795145 method 1 safe 0 nW1 530
+END k4 0 20723
