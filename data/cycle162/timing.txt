@@ -1,0 +1,7 @@
+Cycle 162 timing (8 cores, box local time PDT, 2026-11-08)
+timing probes (300 and 3,000 perms, K4)          ~12 s
+planted controls (C) + Python plants              <1 s
+main run (run_cycle162.sh: 9 direct texts x 25 runs; bank K4 + null1 + null2 + mnull01 + mnull02, 40 slices)  282 s wall
+model-X language decode (5 texts, parallel)        3 s
+independent Python recount (23 configurations)    ~5 s
+total heavy compute                               ~5.1 min
