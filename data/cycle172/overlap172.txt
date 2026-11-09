@@ -1,0 +1,2 @@
+all.bin in bank (either dir): 802 of 165782
+identity in all.bin False
