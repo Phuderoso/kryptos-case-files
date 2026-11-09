@@ -1,0 +1,21 @@
+text n mode tests strict eqdrop blockdrop blockpairs under invertible repair_solutions repair_configs best_meanQ
+K4 2 bank 2641040 0 0 0 0 0 0 0 0 -99
+null1 2 bank 2641040 0 0 0 0 0 0 0 0 -99
+null2 2 bank 2641040 0 0 0 0 0 0 0 0 -99
+K4 2 direct 4 0 0 0 0 0 0 0 0 -99
+null1 2 direct 4 0 0 0 0 0 0 0 0 -99
+null2 2 direct 4 0 0 0 0 0 0 0 0 -99
+K4 3 bank 3961560 0 0 0 0 0 0 0 0 -99
+null1 3 bank 3961560 0 0 0 0 0 0 0 0 -99
+null2 3 bank 3961560 0 0 0 0 0 0 0 0 -99
+K4 3 direct 6 0 0 0 0 0 0 0 0 -99
+null1 3 direct 6 0 0 0 0 0 0 0 0 -99
+null2 3 direct 6 0 0 0 0 0 0 0 0 -99
+K4 4 bank 5282080 0 0 164 236 0 5598 0 0 -99
+null1 4 bank 5282080 0 2 132 194 4 4496 0 0 -99
+null2 4 bank 5282080 0 4 136 200 0 5146 4 2 -7.497
+K4 4 direct 8 0 0 0 0 0 0 0 0 -99
+null1 4 direct 8 0 0 0 0 0 0 0 0 -99
+null2 4 direct 8 0 0 0 0 0 0 0 0 -99
+
+B S null2 n=4 perm=118635 dir=0 ix=1 num=1 o=3 dropblk=13 fix@carved58:O->L repairs=1 meanQ=-7.497 VVERMRLMAIDVZMQREBZKMEA..NORTHEASTBZCGHALWIDIIPQGVCBLZYQKCNTPEZBERLI..LOCKYNMV.JVQIFDSNODIGZSTSGG
