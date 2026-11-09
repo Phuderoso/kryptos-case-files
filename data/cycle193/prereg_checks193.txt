@@ -1,0 +1,140 @@
+# Cycle 193 pre-registration checks (before any K4 or registered-null run)
+## I-180 probe: reserved shuffle seed 9191, all_s2048 (81 routes), tab4, 625 pairs, both models: ~0.12 s
+B res 0 276768 62165 250436 276768
+B res 1 119904 1660 3642 4611.69
+B res 2 97792 58 174 144.663
+B res 3 91776 1 1 5.22167
+B res 4 80320 0 0 0.175764
+B res 5 79456 0 0 0.00668744
+B res 6 66240 0 0 0.000214427
+B res 7 62912 0 0 7.83285e-06
+B res 8 50592 0 0 2.42267e-07
+B res 9 48960 0 0 9.0174e-09
+B res 10 37248 0 0 2.63858e-10
+B res 11 33056 0 0 9.00624e-12
+B res 12 29856 0 0 3.12861e-13
+B res 13 26080 0 0 1.05112e-14
+B res 14 22272 0 0 3.45249e-16
+B res 15 18272 0 0 1.0894e-17
+B res 16 14944 0 0 3.42684e-19
+B res 17 11488 0 0 1.01321e-20
+B res 18 8544 0 0 2.89828e-22
+B res 19 5344 0 0 6.97225e-24
+B res 20 2656 0 0 1.33279e-25
+B res 25 435520 435520 435520 435520
+END res perms 0-81 tabpairs 4 pairs 625
+## Meter (I-193), 40 uniform texts seeds 19340-19379, tab4 pooled
+texts 40
+band 0: texts 40 configs 11070720 fits 2491539 sols 1.07718e+07 E 1.10707e+07 z -0.60
+band 1: texts 40 configs 4796160 fits 66155 sols 164615 E 184468 z -1.44
+band 2: texts 40 configs 3911680 fits 2548 sols 6066 E 5786.52 z +0.42
+band 3: texts 40 configs 3671040 fits 96 sols 105 E 208.867 z -10.09
+band 4: texts 40 configs 3212800 fits 4 sols 5 E 7.03056 z -0.79
+band 5: texts 40 configs 3178240 fits 0 sols 0 E 0.267498 z n/a
+band 6: texts 40 configs 2649600 fits 0 sols 0 E 0.00857708 z -49403929259161376.00
+band 7: texts 40 configs 2516480 fits 0 sols 0 E 0.000313314 z n/a
+band 8: texts 40 configs 2023680 fits 0 sols 0 E 9.69068e-06 z n/a
+band 9: texts 40 configs 1958400 fits 0 sols 0 E 3.60696e-07 z n/a
+band 10: texts 40 configs 1489920 fits 0 sols 0 E 1.05543e-08 z n/a
+band 11: texts 40 configs 1322240 fits 0 sols 0 E 3.6025e-10 z n/a
+band 12: texts 40 configs 1194240 fits 0 sols 0 E 1.25144e-11 z n/a
+band 13: texts 40 configs 1043200 fits 0 sols 0 E 4.20448e-13 z n/a
+band 14: texts 40 configs 890880 fits 0 sols 0 E 1.381e-14 z n/a
+band 15: texts 40 configs 730880 fits 0 sols 0 E 4.3576e-16 z n/a
+band 16: texts 40 configs 597760 fits 0 sols 0 E 1.37074e-17 z n/a
+band 17: texts 40 configs 459520 fits 0 sols 0 E 4.05284e-19 z n/a
+band 18: texts 40 configs 341760 fits 0 sols 0 E 1.15931e-20 z n/a
+band 19: texts 40 configs 213760 fits 0 sols 0 E 2.7889e-22 z n/a
+band 20: texts 40 configs 106240 fits 0 sols 0 E 5.33116e-24 z n/a
+band 25: texts 40 configs 17420800 fits 17420800 sols 1.74208e+07 E 1.74208e+07 z n/a
+## Meter split: two-tableau pairs (AZ>KA, KA>AZ), same 40 texts
+texts 40
+band 0: texts 40 configs 5535360 fits 2370167 sols 5.5231e+06 E 5.53536e+06 z -0.20
+band 1: texts 40 configs 2398080 fits 64155 sols 94415 E 92234 z +0.50
+band 2: texts 40 configs 1955840 fits 2428 sols 2946 E 2893.26 z +0.43
+band 3: texts 40 configs 1835520 fits 96 sols 105 E 104.433 z +0.06
+band 4: texts 40 configs 1606400 fits 4 sols 5 E 3.51528 z +0.58
+band 5: texts 40 configs 1589120 fits 0 sols 0 E 0.133749 z n/a
+band 6: texts 40 configs 1324800 fits 0 sols 0 E 0.00428856 z -49404159658920992.00
+band 7: texts 40 configs 1258240 fits 0 sols 0 E 0.000156657 z n/a
+band 8: texts 40 configs 1011840 fits 0 sols 0 E 4.84536e-06 z n/a
+band 9: texts 40 configs 979200 fits 0 sols 0 E 1.80348e-07 z n/a
+band 10: texts 40 configs 744960 fits 0 sols 0 E 5.27716e-09 z n/a
+band 11: texts 40 configs 661120 fits 0 sols 0 E 1.80125e-10 z n/a
+band 12: texts 40 configs 597120 fits 0 sols 0 E 6.25724e-12 z n/a
+band 13: texts 40 configs 521600 fits 0 sols 0 E 2.10225e-13 z n/a
+band 14: texts 40 configs 445440 fits 0 sols 0 E 6.90496e-15 z n/a
+band 15: texts 40 configs 365440 fits 0 sols 0 E 2.17879e-16 z n/a
+band 16: texts 40 configs 298880 fits 0 sols 0 E 6.85368e-18 z n/a
+band 17: texts 40 configs 229760 fits 0 sols 0 E 2.02641e-19 z n/a
+band 18: texts 40 configs 170880 fits 0 sols 0 E 5.79656e-21 z n/a
+band 19: texts 40 configs 106880 fits 0 sols 0 E 1.39445e-22 z n/a
+band 20: texts 40 configs 53120 fits 0 sols 0 E 2.66558e-24 z n/a
+band 25: texts 40 configs 8710400 fits 8710400 sols 8.7104e+06 E 8.7104e+06 z n/a
+## Meter split: one-tableau stacks (AZ>AZ, KA>KA), same 40 texts
+texts 40
+band 0: texts 40 configs 5535360 fits 121372 sols 5.24867e+06 E 5.53536e+06 z -0.58
+band 1: texts 40 configs 2398080 fits 2000 sols 70200 E 92234 z -1.81
+band 2: texts 40 configs 1955840 fits 120 sols 3120 E 2893.26 z +0.35
+band 3: texts 40 configs 1835520 fits 0 sols 0 E 104.433 z n/a
+band 4: texts 40 configs 1606400 fits 0 sols 0 E 3.51528 z n/a
+band 5: texts 40 configs 1589120 fits 0 sols 0 E 0.133749 z n/a
+band 6: texts 40 configs 1324800 fits 0 sols 0 E 0.00428856 z -49404159658920992.00
+band 7: texts 40 configs 1258240 fits 0 sols 0 E 0.000156657 z n/a
+band 8: texts 40 configs 1011840 fits 0 sols 0 E 4.84536e-06 z n/a
+band 9: texts 40 configs 979200 fits 0 sols 0 E 1.80348e-07 z n/a
+band 10: texts 40 configs 744960 fits 0 sols 0 E 5.27716e-09 z n/a
+band 11: texts 40 configs 661120 fits 0 sols 0 E 1.80125e-10 z n/a
+band 12: texts 40 configs 597120 fits 0 sols 0 E 6.25724e-12 z n/a
+band 13: texts 40 configs 521600 fits 0 sols 0 E 2.10225e-13 z n/a
+band 14: texts 40 configs 445440 fits 0 sols 0 E 6.90496e-15 z n/a
+band 15: texts 40 configs 365440 fits 0 sols 0 E 2.17879e-16 z n/a
+band 16: texts 40 configs 298880 fits 0 sols 0 E 6.85368e-18 z n/a
+band 17: texts 40 configs 229760 fits 0 sols 0 E 2.02641e-19 z n/a
+band 18: texts 40 configs 170880 fits 0 sols 0 E 5.79656e-21 z n/a
+band 19: texts 40 configs 106880 fits 0 sols 0 E 1.39445e-22 z n/a
+band 20: texts 40 configs 53120 fits 0 sols 0 E 2.66558e-24 z n/a
+band 25: texts 40 configs 8710400 fits 8710400 sols 8.7104e+06 E 8.7104e+06 z n/a
+## One-tableau stacks, 400 further uniform texts (seeds 19380-19779)
+texts 400
+band 0: texts 400 configs 55353600 fits 1225292 sols 5.0926e+07 E 5.53536e+07 z -2.11
+band 1: texts 400 configs 23980800 fits 20100 sols 962000 E 922340 z +0.28
+band 2: texts 400 configs 19558400 fits 796 sols 25896 E 28932.6 z -0.73
+band 3: texts 400 configs 18355200 fits 24 sols 624 E 1044.33 z -1.44
+band 4: texts 400 configs 16064000 fits 4 sols 104 E 35.1528 z +0.66
+band 5: texts 400 configs 15891200 fits 0 sols 0 E 1.33749 z n/a
+band 6: texts 400 configs 13248000 fits 0 sols 0 E 0.0428856 z n/a
+band 7: texts 400 configs 12582400 fits 0 sols 0 E 0.00156657 z n/a
+band 8: texts 400 configs 10118400 fits 0 sols 0 E 4.84536e-05 z n/a
+band 9: texts 400 configs 9792000 fits 0 sols 0 E 1.80348e-06 z n/a
+band 10: texts 400 configs 7449600 fits 0 sols 0 E 5.27716e-08 z n/a
+band 11: texts 400 configs 6611200 fits 0 sols 0 E 1.80125e-09 z n/a
+band 12: texts 400 configs 5971200 fits 0 sols 0 E 6.25724e-11 z n/a
+band 13: texts 400 configs 5216000 fits 0 sols 0 E 2.10225e-12 z n/a
+band 14: texts 400 configs 4454400 fits 0 sols 0 E 6.90496e-14 z n/a
+band 15: texts 400 configs 3654400 fits 0 sols 0 E 2.17879e-15 z n/a
+band 16: texts 400 configs 2988800 fits 0 sols 0 E 6.85368e-17 z n/a
+band 17: texts 400 configs 2297600 fits 0 sols 0 E 2.02641e-18 z n/a
+band 18: texts 400 configs 1708800 fits 0 sols 0 E 5.79656e-20 z n/a
+band 19: texts 400 configs 1068800 fits 0 sols 0 E 1.39445e-21 z n/a
+band 20: texts 400 configs 531200 fits 0 sols 0 E 2.66558e-23 z -115956990762331312.00
+band 25: texts 400 configs 87104000 fits 87104000 sols 8.7104e+07 E 8.7104e+07 z n/a
+## Controls rehearsal (declared the registered control run)
+P1 AZ>KA_VV_7_11: PASS (hit 1; other low-E fits at row 0: [])
+P2 KA>AZ_BV_5_13: PASS (hit 1; other low-E fits at row 0: [])
+P3 AZ>KA_VB_8_12: PASS (hit 1; other low-E fits at row 0: [])
+P4 KA>AZ_VB_6_19: PASS (hit 1; other low-E fits at row 0: [])
+P5 AZ>KA_VV_10_8: PASS (hit 1; other low-E fits at row 1: ['AZ>KA VV 1 20 8 5.69e-05'])
+P6 AZ>AZ_VV_3_25: PASS (hit 1; other low-E fits at row 3: ['AZ>AZ BB 1 3 25 8.417e-08', 'AZ>AZ VV 2 25 3 8.417e-08', 'AZ>AZ BB 2 25 3 8.417e-08'])
+P7 KA>KA_BB_4_9: PASS (hit 1; other low-E fits at row 39: ['KA>KA VV 1 4 9 1.048e-17', 'KA>KA VV 1 4 18 1.048e-17', 'KA>KA BB 1 4 18 1.048e-17', 'KA>KA VV 1 8 9 4.789e-12'])
+P8 AZ>KA_VB_7_7: PASS (hit 1; other low-E fits at row 3: ['AZ>KA VB 1 7 14 2.188e-06', 'AZ>KA VB 1 14 7 2.188e-06', 'AZ>KA VB 1 21 7 2.188e-06'])
+P9 KA>AZ_BB_6_10: PASS (hit 1; other low-E fits at row 2: ['KA>AZ BB 2 6 20 8.417e-08', 'KA>AZ BB 2 12 10 8.417e-08'])
+N1 three_passes: PASS (low-E fits at row: [])
+N2 random_key: PASS (low-E fits at row: [])
+N4 case-178_compound_key,_both_keys_on_the_plaintext_index: PASS (low-E fits at row: [])
+N3 AZ>KA_VV_7_11_one_wrong_letter_slot3: PASS (low-E fits at row: [])
+controls 13/13
+cmp191 on P1 (row 1): fits E<=1e-4 at row: 0; at AZ>KA VV 7 11 P: 0
+cmp191 on P5 (row 1): fits E<=1e-4 at row: 0; at AZ>KA VV 7 11 P: 0
+cmp191 on P8 (row 2): fits E<=1e-4 at row: 0; at AZ>KA VV 7 11 P: 0
+cmp191 on N4 (row 1): fits E<=1e-4 at row: 1; at AZ>KA VV 7 11 P: 1
