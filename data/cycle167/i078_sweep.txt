@@ -1,0 +1,24 @@
+# I-078 sweep (cycle 167, 2026-11-09 ~01:20 PDT): every "stopped / unfinished / not run / budget" statement in case files
+# 139-154 and journals of cycles 151-166, checked against the run folders on the box (/workspace/k4cNN, support backup).
+# Method: grep of the texts, then for each run folder: finished .txt slices, leftover .tmp, jobs list, done markers, raw result lines.
+
+run-folder inventory (cycles 151-166):
+  151-154: no /workspace run folder; local copies in /home/box/kryptos_support_backup/cycle151_local, cycle152_local, cycle153, cycle154
+           (out/, results.txt present). Their case files (139-142) report no budget stop; "not run" items there are scope limits, not runs.
+  155: /workspace/k4c155 flat (ct_*.txt, all_raw.txt, controls.txt); case 143 reports no stop.
+  156 out/ 675 txt, 0 tmp | 157 run/ 33 txt, 0 tmp | 158 out/ 120 txt, 0 tmp
+  159 run/ 68 txt, 0 tmp, jobs_all 192, jobs_todo 161, kills at 21:24:24 and 21:30:20 PDT
+  160 run/ 66 txt, done | 161 run/ 82 txt, 0 tmp | 162 run/ 56 txt, done | 163 run/ 34 txt, done
+  164 run/ 286 txt, done_K4.txt (already corrected in cycle 165) | 165 run/ 206 txt, 0 tmp | 166 run166/ 414 txt, 385 jobs, done
+
+statements checked:
+  case 147 / cycle 159 "first run (null-major) stopped at 125 s", "full range only for 7 nulls":
+     k4c159/run/results_raw.txt has 122 C (chunk-complete) lines out of 192 (jobs_todo 161 = state at the restart, after the
+     125 s null-major stop); case 147 reports exactly 70 remaining chunks (192 - 122), run in cycle 161 (case 149).
+     The finished chunks are all in the reported lineup. No orphan finished result.
+  case 149 / cycle 161 "L 9 nulls saved but not run": k4c161/run has nulls_r9_161.txt and mknulls9.log but no L 9 result file. Correct as reported.
+  case 145 / cycle 157 "L 9 digits and L 12 ranks not run (out of budget)": no output for those in k4c157/run. Correct.
+  case 152 / cycle 164 "full bank pass stopped unfinished": wrong, corrected in case 153 (cycle 165). Nothing further.
+  cases 141, 142, 143, 148, 150 "not run" items: scope limits stated before running; no folders, nothing to recover.
+
+result: no further orphan finished results. Cycle 164 remains the only case of a run declared unfinished that had finished.
