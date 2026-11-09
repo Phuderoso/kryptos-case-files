@@ -1,0 +1,102 @@
+# independent Python recount (all 24 single drops, BFS propagation) vs gromark1e.c (certificate pruning, union-find)
+K4 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+K4 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null1 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+K4 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null1 P 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null1 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+K4 P 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null1 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+K4 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null2 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+K4 P 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null2 P 3 python (1000, 0, 1, 1) C (1000, 0, 1, 1) MATCH
+null1 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null2 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null2 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null1 P 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null2 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null3 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null3 P 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null2 P 4 python (10000, 0, 1, 2) C (10000, 0, 1, 2) MATCH
+null3 P 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null3 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null3 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null3 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+K4 P 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null4 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null4 P 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+K4 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null4 P 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null4 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null4 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null1 P 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null1 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null5 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null5 P 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null4 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null5 P 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null5 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null5 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null2 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null2 P 5 python (100000, 7, 809, 1420) C (100000, 7, 809, 1420) MATCH
+null6 P 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null6 P 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null5 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null3 P 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null6 G 2 python (100, 0, 0, 0) C (100, 0, 0, 0) MATCH
+null6 G 3 python (1000, 0, 0, 0) C (1000, 0, 0, 0) MATCH
+null6 P 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null6 G 4 python (10000, 0, 0, 0) C (10000, 0, 0, 0) MATCH
+null3 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null4 P 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null4 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null5 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null6 P 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null5 P 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+null6 G 5 python (100000, 0, 0, 0) C (100000, 0, 0, 0) MATCH
+matched 56/56 jobs
+
+# single-primer independent checks (K4 survivors and controls)
+hit K4 908632145217 ABC 1 [7]
+I K4 P L=12 primers=1 strict=0 one=1 pairs=1
+hit K4 11604327859 ABC 1 [16]
+I K4 P L=11 primers=1 strict=0 one=1 pairs=1
+hit K4 09671814325 ABC 1 [2]
+I K4 P L=11 primers=1 strict=0 one=1 pairs=1
+hit K4 13675291084 ABC 0 [13]
+I K4 P L=11 primers=1 strict=0 one=1 pairs=1
+hit K4 203937386 ABC 1 [0, 21]
+I K4 P L=9 primers=1 strict=0 one=1 pairs=2
+hit K4 514187348 ABC 0 [15]
+I K4 P L=9 primers=1 strict=0 one=1 pairs=1
+hit ctl1x 5132467 ABC 0 [17]
+I ctl1x P L=7 primers=1 strict=0 one=1 pairs=1
+I ctl1x G L=7 primers=1 strict=0 one=0 pairs=0
+I ctl1u P L=7 primers=1 strict=1 one=0 pairs=0
+I ctl1u G L=7 primers=1 strict=0 one=0 pairs=0
+hit ctl2x 531246 KRY 0 [12]
+I ctl2x P L=6 primers=1 strict=0 one=1 pairs=1
+I ctl2x G L=6 primers=1 strict=0 one=0 pairs=0
+hit ctl3x 126435 ABC 1 [0]
+I ctl3x P L=6 primers=1 strict=0 one=1 pairs=1
+I ctl3x G L=6 primers=1 strict=0 one=0 pairs=0
+hit ctl4x 2713658904 KRY 1 [20]
+I ctl4x P L=10 primers=1 strict=0 one=1 pairs=1
+I ctl4x G L=10 primers=1 strict=0 one=0 pairs=0
+I ctl4u P L=10 primers=1 strict=1 one=0 pairs=0
+I ctl4u G L=10 primers=1 strict=0 one=0 pairs=0
+hit ctl5x 30218954671 ABC 0 [20]
+I ctl5x P L=11 primers=1 strict=0 one=1 pairs=1
+I ctl5x G L=11 primers=1 strict=0 one=0 pairs=0
+hit ctl2w 531246 KRY 0 [6]
+I ctl2w P L=6 primers=1 strict=0 one=1 pairs=1
+I ctl2w G L=6 primers=1 strict=0 one=0 pairs=0
+I gro1 P L=5 primers=1 strict=1 one=0 pairs=0
+I gro1 G L=5 primers=1 strict=1 one=0 pairs=0
+hit gro2 3141592 KRY 1 [11]
+I gro2 P L=7 primers=1 strict=0 one=1 pairs=1
+hit gro2 3141592 KRY 1 [11]
+I gro2 G L=7 primers=1 strict=0 one=1 pairs=1
+I gro3 P L=8 primers=1 strict=1 one=0 pairs=0
+I gro3 G L=8 primers=1 strict=1 one=0 pairs=0

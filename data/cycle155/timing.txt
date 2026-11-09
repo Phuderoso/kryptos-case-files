@@ -1,0 +1,10 @@
+# Cycle 155 wall-clock (8 processes, box, 2026-11-08 PDT)
+controls (22 jobs, full primer sets)            ~115 s
+stage 1 model P, run 1 (timeout 660 s, 74/176 chunks done, resumed)   660 s
+stage 1 model P, run 2 (resume, remaining 102 chunks)                 270 s
+stage 1 model G (base 10 L 2-8, bases 5-9 L 2-7, 280 jobs)              92 s
+stage 2 any-keyword ACA check (13 primers)                              21 s
+independent Python recount (56 jobs) + single-primer checks            105 s
+total heavy compute                                                   ~1,260 s (about 21 min; over the ~8 min budget:
+  the shuffled null with 19 distinct crib letters (null2) produced ~10^6 one-error survivors at L 8-9 and was slow;
+  the L 9 digit and L 12 rank-primer sets alone are ~4.4e9 primers)

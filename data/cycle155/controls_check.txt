@@ -1,0 +1,49 @@
+# controls: C lines (one-error run over the full primer set of each control's L, models P and G) and the S lines at the true primer
+C ctl1u G L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl1u P L=7 all lo=0 tested=10000000 strict az:vig=1 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl1x G L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl1x P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=1 | dropidx 17:1
+C ctl2w G L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl2w P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=1 | dropidx 6:1
+C ctl2x G L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl2x P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=1 | dropidx 12:1
+C ctl3x G L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl3x P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=5 ka:vig=0 beau=0 | pairs=5 | dropidx 0:1 14:3 19:1
+C ctl4u G L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl4u P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=1 | one az:vig=3 beau=3 ka:vig=4 beau=2 | pairs=17 | dropidx 1:1 4:2 7:1 8:3 10:1 11:1 12:1 15:1 16:3 17:1 22:2
+C ctl4x G L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl4x P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=12 beau=18 ka:vig=5 beau=9 | pairs=56 | dropidx 2:6 4:3 7:1 8:6 10:3 11:1 12:1 15:6 16:6 17:8 20:1 21:6 22:7 23:1
+C ctl5x G L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C ctl5x P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=10 beau=14 ka:vig=20 beau=8 | pairs=74 | dropidx 1:6 2:4 3:2 5:10 7:4 8:2 9:6 10:6 11:2 13:10 15:10 16:4 17:2 20:4 23:2
+C gro1 G L=5 all lo=0 tested=100000 strict az:vig=1 beau=1 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C gro1 P L=5 all lo=0 tested=100000 strict az:vig=1 beau=1 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C gro2 G L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=1 | pairs=2 | dropidx 11:2
+C gro2 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=1 | pairs=2 | dropidx 11:2
+C gro3 G L=8 all lo=0 tested=100000000 strict az:vig=1 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=1 ka:vig=0 beau=0 | pairs=1 | dropidx 15:1
+C gro3 P L=8 all lo=0 tested=100000000 strict az:vig=1 beau=0 ka:vig=0 beau=0 | one az:vig=136 beau=133 ka:vig=0 beau=0 | pairs=398 | dropidx 1:44 2:38 3:3 4:37 5:21 6:20 7:15 8:8 11:54 12:54 15:25 16:21 17:9 18:44 20:1 21:4
+
+== ctl1x L=7 pa=az form=0 primer=5132467 carved-error@67
+S ctl1x P L=7 all pa=az form=vig drop=17(pos67 I) primer=5132467
+== ctl1u L=7 pa=az form=0 primer=5132467 uncorrupted
+== ctl2x L=6 pa=ka form=0 primer=531246 carved-error@33
+S ctl2x P L=6 all pa=ka form=vig drop=12(pos33 T) primer=531246
+== ctl3x L=6 pa=az form=1 primer=126435 carved-error@21
+S ctl3x P L=6 all pa=az form=beau drop=0(pos21 E) primer=126435
+== ctl4x L=10 pa=ka form=2 primer=2713658904 carved-error@70
+S ctl4x P L=10 perm pa=ka form=beau drop=20(pos70 L) primer=2713658904
+== ctl4u L=10 pa=ka form=2 primer=2713658904 uncorrupted
+== ctl5x L=11 pa=az form=0 primer=30218954671 carved-error@70
+S ctl5x P L=11 perm pa=az form=vig drop=20(pos70 L) primer=30218954671
+== ctl2w L=6 pa=ka form=0 primer=531246 wrong-crib-letter@27
+S ctl2w P L=6 all pa=ka form=vig drop=6(pos27 R) primer=531246
+== gro1 L=5 pa=az form=0 primer=26717 carved-error@70
+== gro2 L=7 pa=ka form=1 primer=3141592 carved-error@32
+S gro2 G L=7 all pa=ka form=beau drop=11(pos32 S) primer=3141592
+== gro3 L=8 pa=az form=0 primer=80421635 uncorrupted
+
+# stage 2 (any ACA keyword) on the corrupted keyword controls
+H ctl5x L=11 kw=CUBANSEDGIW ca=aca pa=az form=0 mis=1
+H ctl5x L=11 kw=CUBANSFDGIW ca=aca pa=az form=0 mis=1
+H ctl5x L=11 kw=CUBANSFEGIW ca=aca pa=az form=0 mis=1
+H ctl5x L=11 kw=DUBANSFEGIW ca=aca pa=az form=0 mis=1
+D ctl5x L=11 digits=30218954671 rankperms=2 configs=278141760 hits=4
