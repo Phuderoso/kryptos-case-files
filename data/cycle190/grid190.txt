@@ -1,0 +1,6 @@
+g512 | fits in full-power cells | K4 2 | nulls 0-4, 0.9 +- 0.9 | p+ 0.15 / p- 0.95 (n=19)
+g512 | fits with ex_after >= 3 | K4 14 | nulls 8-25, 13.8 +- 4.3 | p+ 0.50 / p- 0.60 (n=19)
+g512 | all fits | K4 297,653 | nulls 297,483-297,811, 297,651.3 +- 74.2 | p+ 0.40 / p- 0.65 (n=19)
+gdir | fits in full-power cells | K4 0 | nulls 0-4, 0.5 +- 1.1 | p+ 1.00 / p- 0.80 (n=19)
+gdir | fits with ex_after >= 3 | K4 282 | nulls 210-366, 279.1 +- 39.1 | p+ 0.50 / p- 0.55 (n=19)
+gdir | all fits | K4 10,598,838 | nulls 10,598,360-10,601,716, 10,600,012.6 +- 935.8 | p+ 0.90 / p- 0.15 (n=19)
