@@ -1,0 +1,29 @@
+# Equivalence checks q4akb vs q4ak
+cycle-164 1/40 sample (K4, null1, null2), all C/H lines: IDENTICAL to data/cycle164/bank_sample_C_H.txt
+recount mode, 5x5 themed alphabets, entries 100-102 both dirs, L 1-26: IDENTICAL (274 consistent configurations)
+speed probe 128 entries single process: identical output
+C K4 tests 74880 consistent 274 reported 274 pairs 20 (n1 5 n2 5) perms 100..103 step 1 lmax 26 direct 0
+H K4 feed=PT zX vig ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5
+H K4 feed=PT zX vig ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 40
+H K4 feed=PT zX beau ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+H K4 feed=PT zX beau ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 40
+H K4 feed=PT zX var ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 3
+H K4 feed=PT zX var ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 40
+H K4 feed=PT zY vig ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+H K4 feed=PT zY vig ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 40
+H K4 feed=PT zY beau ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+H K4 feed=PT zY beau ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 40
+H K4 feed=PT zY var ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7
+H K4 feed=PT zY var ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 40
+H K4 feed=CT zX vig ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zX vig ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zX beau ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zX beau ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zX var ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zX var ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zY vig ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zY vig ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zY beau ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zY beau ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zY var ix=pt 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+H K4 feed=CT zY var ix=carved 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
