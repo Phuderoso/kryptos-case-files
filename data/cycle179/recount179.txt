@@ -1,0 +1,13 @@
+# Cycle 179 independent recount (recount179.py, numpy brute force: M0 by explicit seed variants + mismatch count <= 1; M1 by every stream; no algebra, no CRT, no wildcard)
+# slice = all.bin[::4000] + planted perms of P6, P7, P11 (45 perms: 0 4000 8000 12000 16000 20000 24000 28000 32000 36000 40000 44000 48000 52000 56000 60000 64000 68000 72000 76000 80000 84000 88000 92000 96000 100000 104000 108000 112000 116000 120000 124000 128000 132000 136000 140000 144000 148000 152000 156000 160000 164000 127628 149921 87229)
+# texts: k4, n17911, n17912, P6, P7, P11; M0 L 1-2 and M1 L 1 for every text, M1 L 2 for P7; lines: R label mode L alphabet form slice-row fitting-slots
+## numpy recount
+R P11 1 1 az vig 44 73
+R P6 0 2 ka beau 42 63
+R P7 1 2 az beau 43 64
+## lr179 on the same slice (same cells), fitting slots per line
+R P11 1 1 az vig 44 73
+R P6 0 2 ka beau 42 63
+R P7 1 2 az beau 43 64
+## comparison: IDENTICAL (3/3 fit lines, same fitting-slot sets; K4 and both nulls 0 fits in both tools)
+# runtime: 6 single-thread processes in parallel, ~11 min (09:21-09:32 PT); a first single-process attempt hit its 25-min timeout with no output and was replaced
