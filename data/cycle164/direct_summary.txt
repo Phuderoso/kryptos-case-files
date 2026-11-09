@@ -1,0 +1,28 @@
+direct PT-feed consistent configurations by lag (CT feed: 0 for every text, every lag 1-26)
+tests per text 609922560
+L 1 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 2 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 3 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 4 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 5 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 6 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 7 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 8 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L 9 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L10 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L11 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L12 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L13 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L14 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L15 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L16 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L17 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L18 K4       0  nulls(22) min 0 median 0 max 1  nulls>=K4 22/22
+L19 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L20 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L21 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L22 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L23 K4       0  nulls(22) min 0 median 0 max 0  nulls>=K4 22/22
+L24 K4       1  nulls(22) min 0 median 0 max 4  nulls>=K4 9/22
+L25 K4     765  nulls(22) min 182 median 683 max 1338  nulls>=K4 7/22
+L26 K4  534341  nulls(22) min 333262 median 450099 max 701676  nulls>=K4 1/22

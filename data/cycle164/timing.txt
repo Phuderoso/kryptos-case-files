@@ -1,0 +1,7 @@
+Cycle 164 heavy compute (8 cores, box clock UTC-7, 2026-11-08/09):
+ direct, 23 texts (K4, null1-2, mnull01-20), themed x vocabulary both ways, L 1-26: 23:52:48-23:53:38 PDT (50 s)
+ bank, K4 full pass, themed x themed: started 23:53:40, STOPPED unfinished at 00:00:14 PDT (6 min 07 s) to keep the ~8-min budget.
+   The tool only writes at the end (no checkpoint), so the full pass left no result; nothing from it is reported.
+   Cause: the pair loop streams 9,506 x 6 tables (38 MB) from memory for every permutation (memory-bound, ~1.4x the cache-hot estimate).
+ bank, every 40th entry (4,127 entries x 2 directions), K4 + null1 + null2: 00:00:23-00:00:50 PDT (27 s)
+ total heavy: ~7.4 min. Controls / recount: < 2 s.
