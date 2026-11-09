@@ -17,17 +17,17 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 ## Summary (top of queue first)
 | ID | Short name | Prio | Status |
 |---|---|---|---|
-| I-001 | Superseded notices for stale strips/transposition and S2/S6 text (case 10, README) | P1 | queued |
+| I-001 | Superseded notices for stale strips/transposition and S2/S6 text (case 10, README) | P1 | tested (done, cycle 151) |
 | I-002 | Provenance of the circled tableau letters and archival carving differences | P1 | blocked (unpublished sources) |
-| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (cycle 151) |
+| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill done in 151; I-007, I-008, I-040, I-041 left) |
 | I-004 | Separate exact / heuristic / low-power results; full-scale nulls for tail claims | P1 | queued |
-| I-005 | Hill n = 2–4 under one carving error (block-drop + exact one-letter repair) | P1 | in progress (cycle 151) |
-| I-006 | Robustness by design: which count-scored families already tolerate one error | P1 | in progress (cycle 151) |
+| I-005 | Hill n = 2–4 under one carving error (block-drop + exact one-letter repair) | P1 | tested — EXACT-EXCL ([case 139](case-file/139-hill-one-carving-error.md)) |
+| I-006 | Robustness by design: which count-scored families already tolerate one error | P1 | tested ([case 139](case-file/139-hill-one-carving-error.md) audit table) |
 | I-007 | Keyword / arbitrary columnar w 9–11 × periodic key under one crib error | P2 | queued |
 | I-008 | Gromark / Periodic Gromark under one crib error | P2 | queued |
 | I-009 | Two-letter differences anchored to the archive charts | P2 | blocked (needs archive data, see I-002) |
 | I-010 | Quagmire IV with two different vocabulary alphabets | P2 | queued |
-| I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P2 | queued (new family) |
+| I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P1 | queued (new family; recommended for cycle 152) |
 | I-012 | Hill with a key on the ciphertext side (`p = D·(c − f)`, non-linear) | P2 | queued (new structure) |
 | I-013 | Key change at a boundary keeping the width-7 phase | P2 | queued |
 | I-014 | CT-autokey with both alphabets free | P2 | queued |
@@ -47,6 +47,9 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-028 | Multi-rotor / Hagelin exact feasibility (CP-SAT) | P3 | queued |
 | I-029 | Better score for weakly constrained solutions (letter likelihood, not partial quadgrams) | P3 | queued (method) |
 | I-030 | Physical measurement of the sculpture (letter spacing, re-cut letters) | P3 | blocked (no access) |
+| I-039 | Hill under a dropped or extra carved letter (alignment-shifting slip) | P2 | queued |
+| I-040 | One-error audit of Hill + key (cycles 143–144) and Hill n = 5 | P2 | queued |
+| I-041 | One-error audit of strict vocabulary families behind the bank (cycles 135–137, 146) | P2 | queued |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -65,7 +68,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Hypothesis / rationale:** [case file 10](case-file/10-style-profile.md) §5 and §7 (S2, S6) and the README cycle-2 status line still read the "scrambled plain text" / "cut into strips" reports as evidence of a cipher transposition. [Case file 12](case-file/12-strips-and-periodic-keys.md) §1 corrected that (the strips were a 1990 disclosure device for the plaintext; S2 was subsumed by the generic periodic test; S6 tested and downgraded). A reader landing on case 10 alone gets the stale reading.
 - **Test / action:** add explicit "superseded — see case 12" notices next to the stale passages, keeping the historical text intact.
 - **Controls:** n/a (documentation). **Cost:** minutes. **Dependencies:** none.
-- **Status:** queued → done when the notices are committed. **Result:** —
+- **Status:** tested (action done in cycle 151). **Result:** superseded notices added at the top of case 10, after its S6 line, in its §7 S2/S6 rows, and on the README cycle-2 status line; historical text kept.
 
 ### I-002 — Provenance of the circled tableau letters and archival carving differences
 - **Date / source:** 2026-11-08, Firefly review (F2); kryptosbot findings page (Sep 2026, secondary) reports "newly documented circled letters on a tableau in the sculptor's working papers (not yet analyzed)" and planned sculpture measurements `[sourced, secondary]`; noted in [case 67](case-file/67-tableau-walk-running-keys.md).
@@ -93,12 +96,12 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Hypothesis:** K4 is a Hill cipher (n 2–4, A–Z or KRYPTOS numbering) directly or around a 165k-bank transposition, with one carved letter wrong. `[speculation]`
 - **Test:** exact: drop all crib equations of one Hill block (a wrong carved letter breaks exactly one block; a wrong crib letter one equation in it), solve each row mod 2 and mod 13, then require an exact one-letter repair of the dropped block.
 - **Controls / nulls:** planted Hill encryptions with one corrupted carved letter under a crib (direct, model Q, carved order) and uncorrupted; two shuffled-K4 nulls at full scale. **Cost:** ~2–4 min on 8 cores. **Dependencies:** bank `perms97.bin`.
-- **Status:** in progress (cycle 151). **Result:** see case 139.
+- **Status:** tested (cycle 151). **Result:** `EXACT-EXCL` — K4 0 survivors for n = 2, 3, 4 under one substituted carved letter (exact repair) and under one wrong crib letter; nulls 0/0 (n 2–3), 0/2 gibberish (n 4); 6/6 corrupted-letter controls recovered with the exact error position. At n = 4 the block-drop screen alone is LOW-POWER (K4 164 vs nulls 132/136); the repair carries the exclusion. [Case 139](case-file/139-hill-one-carving-error.md), [data](data/cycle151/), [tools](tools/cycle151/).
 
 ### I-006 — Which count-scored families already tolerate one error
 - **Date / source:** 2026-11-08, cycle 151. `[repo]`
 - **Rationale:** families scored by "best k of 24 crib letters" (cycles 148, 150, …) report the maximum agreement, so a configuration hit by one wrong letter would still show ≥ 22–23/24. Their exclusions are one-error-robust by construction; strict-consistency families are not.
-- **Test:** read the code and scoring of each family; tabulate robust / not robust / partial. **Controls:** n/a. **Cost:** reading. **Status:** in progress (cycle 151).
+- **Test:** read the code and scoring of each family; tabulate robust / not robust / partial. **Controls:** n/a. **Cost:** reading. **Status:** tested (cycle 151). **Result:** cycles 148 (constant digits) and 150 (zig-zag, incl. ordinary CT/PT autokey on A–Z/KRYPTOS behind the bank) are one-error-robust by design (K4 best 10/24 where ≥ 22 would be needed); strict families listed in [case 139](case-file/139-hill-one-carving-error.md) remain unaudited.
 
 ### I-007 — Columnar w 9–11 (all orders) × periodic key under one crib error
 - **Source:** 2026-11-08, cycle 151 from I-003; strict result in cycles 124/126 ([case 112](case-file/112-all-orders-w9-w10.md), [114](case-file/114-quagmire-w9-10-and-all-w11.md)). `[repo]`
@@ -179,6 +182,17 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 ### I-030 — Physical measurement of the sculpture
 - **Source:** kryptosbot mentions planned measurements `[sourced, secondary]`. **Status:** blocked (no access).
 
+### I-039 — Hill under a dropped or extra carved letter
+- **Date / source:** 2026-11-08, cycle 151 blind spot ([case 139](case-file/139-hill-one-carving-error.md)); K2's dropped S is the precedent `[sourced]`.
+- **Hypothesis:** one carved letter missing or extra shifts the Hill block alignment after the slip. `[speculation]`
+- **Test:** for each slip position d (≈ 98 + 97), rebuild the 96/98-letter stream (unknown letter = free variable in its block), solve rows exactly with a block-drop at the slip; direct first, bank for 96/98-letter permutations (`tools/export_perms_96_98.py`, cycle 24). **Controls:** planted Hill with one dropped / one extra letter. **Nulls:** two shuffles. **Cost:** direct seconds; bank ~200× cycle 151 (~2 h) → direct + model-Q first. **Status:** queued.
+
+### I-040 — One-error audit of Hill + key and Hill n = 5
+- **Source:** cycle 151 audit table. **Test:** add the block-drop + repair step to `hillvk.c` (cycle 144) and `hill5.c` (cycle 141). **Controls:** corrupted-letter plants. **Cost:** ~25× the strict runs (minutes). **Status:** queued.
+
+### I-041 — One-error audit of strict vocabulary families behind the bank
+- **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
+
 ## Tested (historical, with links)
 - **I-031** strip transposition (S6): [case 12](case-file/12-strips-and-periodic-keys.md) — negative; the strips lead itself downgraded.
 - **I-032** one dropped / extra / changed / swapped letter × periodic KA/AZ key, direct and behind 165k transpositions; arbitrary alphabets P ≤ 5: [case 23](case-file/23-one-letter-anomaly.md) — EXACT-EXCL for p ≤ 18 behind the family; P ≥ 6 arbitrary LOW-POWER.
@@ -189,3 +203,4 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ## Log
 - 2026-11-08, cycle 151: file created (38 items: 30 open/blocked/in progress, 8 historical tested).
+- 2026-11-08, cycle 151 end: I-001, I-005, I-006 tested; I-003 still in progress; added I-039–I-041 (41 items). Recommended next: cycle 152 new family I-011 (word-keyed zig-zag autokey) or I-012 (Hill with a key before the matrix); then the one-error audits I-007 / I-040.
