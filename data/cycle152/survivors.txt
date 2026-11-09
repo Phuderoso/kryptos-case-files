@@ -1,0 +1,6 @@
+S K4 feed=PT L=44 d=14 perm=117089 dir=1 ix=0 num=1 s=2 m=9 n=9 forms=---------------BXBBVBBXX
+S K4 feed=PT L=44 d=14 perm=117090 dir=0 ix=0 num=1 s=2 m=9 n=9 forms=---------------BXBBVBBXX
+S null1 feed=PT L=10 d=13 perm=135332 dir=1 ix=1 num=0 s=13 m=9 n=9 forms=BMVXMB------B-N-------X-
+S null1 feed=PT L=10 d=13 perm=135333 dir=0 ix=1 num=0 s=13 m=9 n=9 forms=BMVXMB------B-N-------X-
+S null2 feed=PT L=8 d=6 perm=133564 dir=1 ix=1 num=1 s=24 m=9 n=9 forms=-BBVBXB----V-V-------B--
+S null2 feed=PT L=8 d=6 perm=133565 dir=0 ix=1 num=1 s=24 m=9 n=9 forms=-BBVBXB----V-V-------B--

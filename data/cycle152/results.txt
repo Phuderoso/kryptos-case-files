@@ -1,0 +1,20 @@
+== direct ==
+K4     chunks=1 cfg=5,616 printed=0 CT best m=10 tail(m>=12) 
+       CT m=n (exact, n>=12): none | m=n-1 (n>=12): none | m=n-2 (n>=14): none
+       CT m=n at n 8-11: none | PT m=n (n>=7): none
+null1  chunks=1 cfg=5,616 printed=0 CT best m=10 tail(m>=12) 
+       CT m=n (exact, n>=12): none | m=n-1 (n>=12): none | m=n-2 (n>=14): none
+       CT m=n at n 8-11: none | PT m=n (n>=7): none
+null2  chunks=1 cfg=5,616 printed=0 CT best m=10 tail(m>=12) 
+       CT m=n (exact, n>=12): none | m=n-1 (n>=12): none | m=n-2 (n>=14): none
+       CT m=n at n 8-11: none | PT m=n (n>=7): none
+== behind the 165,065-entry bank (both directions, model Q + carved order) ==
+K4     chunks=8 cfg=4,576,396,656 printed=2 CT best m=15 tail(m>=12) 12:16334 13:1710 14:146 15:16
+       CT m=n (exact, n>=12): none | m=n-1 (n>=12): none | m=n-2 (n>=14): none
+       CT m=n at n 8-11: n8:18 n10:4 | PT m=n (n>=7): n7:172 n8:26 n9:2
+null1  chunks=8 cfg=4,576,396,656 printed=2 CT best m=15 tail(m>=12) 12:16392 13:1678 14:176 15:8
+       CT m=n (exact, n>=12): none | m=n-1 (n>=12): none | m=n-2 (n>=14): none
+       CT m=n at n 8-11: n8:12 n9:6 n10:2 | PT m=n (n>=7): n7:254 n8:18 n9:2
+null2  chunks=8 cfg=4,576,396,656 printed=2 CT best m=15 tail(m>=12) 12:16440 13:1576 14:126 15:10
+       CT m=n (exact, n>=12): none | m=n-1 (n>=12): none | m=n-2 (n>=14): none
+       CT m=n at n 8-11: n8:8 n10:2 | PT m=n (n>=7): n7:324 n8:22 n9:2

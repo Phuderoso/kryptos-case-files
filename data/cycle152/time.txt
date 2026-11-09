@@ -1,0 +1,2 @@
+bank run (K4 + 2 nulls, 27 chunks, 8 workers): start 2026-11-08 17:23:36 PST(UTC-7), last chunk 17:27:34, wall ~4.0 min; 1.37e10 evaluated configurations (4.58e9 per text, n=0 lags skipped)
+controls: ~1 s
