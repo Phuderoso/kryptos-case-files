@@ -1,0 +1,8 @@
+rk_null0(c0) 94 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 256517604 dead_selfmap 6645 dead_oddcycle 3464 surv_perm_mask 37 surv_perm_ordering 94 rk_full 0
+rk_null1(c0) 74 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 250375536 dead_selfmap 6734 dead_oddcycle 3357 surv_perm_mask 41 surv_perm_ordering 74 rk_full 0
+rk_null2(c0) 52 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 244647540 dead_selfmap 6817 dead_oddcycle 3307 surv_perm_mask 31 surv_perm_ordering 52 rk_full 0
+rk_null3(c0) 99 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 252859968 dead_selfmap 6698 dead_oddcycle 3412 surv_perm_mask 45 surv_perm_ordering 99 rk_full 0
+rk_null4(c0) 116 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 252790956 dead_selfmap 6699 dead_oddcycle 3397 surv_perm_mask 44 surv_perm_ordering 116 rk_full 0
+rk_null5(c0) 94 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 255965508 dead_selfmap 6653 dead_oddcycle 3473 surv_perm_mask 38 surv_perm_ordering 94 rk_full 0
+rk_null6(c0) 79 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 253205028 dead_selfmap 6693 dead_oddcycle 3403 surv_perm_mask 38 surv_perm_ordering 79 rk_full 0
+rk_null7(c0) 89 surv SUMMARY perms 10362 masks 69012 orderings 173431 perm_mask_tested 249616404 dead_selfmap 6745 dead_oddcycle 3346 surv_perm_mask 48 surv_perm_ordering 89 rk_full 0
