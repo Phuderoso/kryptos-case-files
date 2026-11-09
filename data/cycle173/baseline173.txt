@@ -1,0 +1,8 @@
+# Known-answer check: anom173 model none, PA=CA only (-DSAME), on all.bin[0:159712] (the cycle-59 decimations) vs case 57 / data/cycle59/results59.txt line 18
+MODEL none n=97 PERMS 0..159712 SLOTS 1 PMAX 26 TESTS 33220096
+HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:20 23:39 24:668 25:516 26:29091
+case 57 (minimal-period counts): p22:20 p23:39 p24:668 p25:516 p26:28910 -> p22-25 identical; p26 differs by the minimal-period convention (configs also consistent at a smaller p are counted once there)
+# all four tableau pairs, dec97 (160,204 = case 57 family incl. the 492 cycle-12 perms):
+MODEL none n=97 PERMS 0..160204 SLOTS 1 PMAX 26 TESTS 66644864
+HIST 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10:0 11:0 12:0 13:0 14:0 15:0 16:0 17:0 18:0 19:0 20:0 21:0 22:31 23:93 24:1349 25:1026 26:58283
+EXPECT 1:7.318e-27 2:1.902e-25 3:4.931e-24 4:1.272e-22 5:3.19e-21 6:8.34e-20 7:2.106e-18 8:5.354e-17 9:1.331e-15 10:3.301e-14 11:8.158e-13 12:2.059e-11 13:4.812e-10 14:3.643e-09 15:2.859e-07 16:7.414e-06 17:0.0001772 18:0.0004873 19:0.005003 20:0.09361 21:0.5494 22:24.11 23:109.2 24:1239 25:1022 26:5.825e+04

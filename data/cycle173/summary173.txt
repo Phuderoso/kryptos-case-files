@@ -1,0 +1,114 @@
+# Cycle 173 summary (I-105): one-letter anomaly behind K3-law decimations, A-Z/KRYPTOS tableaux, Vig/Beau, both frames
+K4 full-family period-level tests: 22,030,673,600
+model p | K4 full configs (distinct perms) | chance expectation | K4 on 1/4 | 19 nulls on 1/4 min/median/max | label
+del 1 | 0 (0) | 5.43e-24 | 0 | 0/0/0 | EXACT-EXCL
+del 2 | 0 (0) | 1.41e-22 | 0 | 0/0/0 | EXACT-EXCL
+del 3 | 0 (0) | 3.66e-21 | 0 | 0/0/0 | EXACT-EXCL
+del 4 | 0 (0) | 9.44e-20 | 0 | 0/0/0 | EXACT-EXCL
+del 5 | 0 (0) | 2.37e-18 | 0 | 0/0/0 | EXACT-EXCL
+del 6 | 0 (0) | 6.18e-17 | 0 | 0/0/0 | EXACT-EXCL
+del 7 | 0 (0) | 1.56e-15 | 0 | 0/0/0 | EXACT-EXCL
+del 8 | 0 (0) | 3.93e-14 | 0 | 0/0/0 | EXACT-EXCL
+del 9 | 0 (0) | 9.83e-13 | 0 | 0/0/0 | EXACT-EXCL
+del 10 | 0 (0) | 2.43e-11 | 0 | 0/0/0 | EXACT-EXCL
+del 11 | 0 (0) | 5.99e-10 | 0 | 0/0/0 | EXACT-EXCL
+del 12 | 0 (0) | 1.43e-08 | 0 | 0/0/0 | EXACT-EXCL
+del 13 | 0 (0) | 3.23e-07 | 0 | 0/0/0 | EXACT-EXCL
+del 14 | 0 (0) | 2.65e-06 | 0 | 0/0/0 | EXACT-EXCL
+del 15 | 0 (0) | 0.000165 | 0 | 0/0/0 | EXACT-EXCL
+del 16 | 0 (0) | 0.00385 | 0 | 0/0/0 | EXACT-EXCL
+del 17 | 0 (0) | 0.0841 | 0 | 0/0/0 | EXACT-EXCL
+del 18 | 0 (0) | 0.236 | 0 | 0/0/0 | EXACT-EXCL
+del 19 | 1 (1) | 1.79 | 0 | 0/0/5 | LOW-POWER
+del 20 | 30 (29) | 36.5 | 3 | 2/6/60 | LOW-POWER
+del 21 | 104 (68) | 124 | 58 | 21/31/86 | LOW-POWER
+del 22 | 5231 (1650) | 5.22e+03 | 680 | 437/666/969 | LOW-POWER
+del 23 | 13839 (1563) | 1.36e+04 | 4843 | 3680/4523/5406 | LOW-POWER
+del 24 | 193333 (6398) | 1.87e+05 | 49467 | 43135/46280/49522 | LOW-POWER
+del 25 | 151863 (13644) | 1.48e+05 | 61699 | 56754/58967/61993 | LOW-POWER
+del 26 | 8786315 (170258) | 8.8e+06 | 2102577 | 2099193/2.10964e+06/2121115 | LOW-POWER
+ins 1 | 0 (0) | 7.48e-25 | 0 | 0/0/0 | EXACT-EXCL
+ins 2 | 0 (0) | 1.94e-23 | 0 | 0/0/0 | EXACT-EXCL
+ins 3 | 0 (0) | 5.03e-22 | 0 | 0/0/0 | EXACT-EXCL
+ins 4 | 0 (0) | 1.3e-20 | 0 | 0/0/0 | EXACT-EXCL
+ins 5 | 0 (0) | 3.24e-19 | 0 | 0/0/0 | EXACT-EXCL
+ins 6 | 0 (0) | 8.55e-18 | 0 | 0/0/0 | EXACT-EXCL
+ins 7 | 0 (0) | 2.15e-16 | 0 | 0/0/0 | EXACT-EXCL
+ins 8 | 0 (0) | 5.56e-15 | 0 | 0/0/0 | EXACT-EXCL
+ins 9 | 0 (0) | 1.35e-13 | 0 | 0/0/0 | EXACT-EXCL
+ins 10 | 0 (0) | 3.39e-12 | 0 | 0/0/0 | EXACT-EXCL
+ins 11 | 0 (0) | 8.32e-11 | 0 | 0/0/0 | EXACT-EXCL
+ins 12 | 0 (0) | 2.17e-09 | 0 | 0/0/0 | EXACT-EXCL
+ins 13 | 0 (0) | 4.96e-08 | 0 | 0/0/0 | EXACT-EXCL
+ins 14 | 0 (0) | 3.55e-07 | 0 | 0/0/0 | EXACT-EXCL
+ins 15 | 0 (0) | 2.9e-05 | 0 | 0/0/0 | EXACT-EXCL
+ins 16 | 0 (0) | 0.000809 | 0 | 0/0/0 | EXACT-EXCL
+ins 17 | 0 (0) | 0.018 | 0 | 0/0/0 | EXACT-EXCL
+ins 18 | 0 (0) | 0.0537 | 0 | 0/0/0 | EXACT-EXCL
+ins 19 | 0 (0) | 0.581 | 0 | 0/0/0 | EXACT-EXCL
+ins 20 | 2 (1) | 9 | 0 | 0/0/5 | LOW-POWER
+ins 21 | 21 (1) | 59.8 | 0 | 0/5/82 | LOW-POWER
+ins 22 | 2269 (114) | 2.71e+03 | 411 | 218/463/677 | LOW-POWER
+ins 23 | 8759 (255) | 9.64e+03 | 2466 | 2370/2756/3742 | LOW-POWER
+ins 24 | 239902 (4095) | 2.24e+05 | 34719 | 32145/34494/37126 | LOW-POWER
+ins 25 | 119896 (1560) | 1.18e+05 | 34830 | 32088/34187/36357 | LOW-POWER
+ins 26 | 6144620 (102751) | 6.13e+06 | 1373635 | 1357180/1.3773e+06/1387810 | LOW-POWER
+chg 1 | 0 (0) | 4.73e-24 | 0 | 0/0/0 | EXACT-EXCL
+chg 2 | 0 (0) | 1.23e-22 | 0 | 0/0/0 | EXACT-EXCL
+chg 3 | 0 (0) | 3.18e-21 | 0 | 0/0/0 | EXACT-EXCL
+chg 4 | 0 (0) | 8.21e-20 | 0 | 0/0/0 | EXACT-EXCL
+chg 5 | 0 (0) | 2.06e-18 | 0 | 0/0/0 | EXACT-EXCL
+chg 6 | 0 (0) | 5.38e-17 | 0 | 0/0/0 | EXACT-EXCL
+chg 7 | 0 (0) | 1.36e-15 | 0 | 0/0/0 | EXACT-EXCL
+chg 8 | 0 (0) | 3.44e-14 | 0 | 0/0/0 | EXACT-EXCL
+chg 9 | 0 (0) | 8.49e-13 | 0 | 0/0/0 | EXACT-EXCL
+chg 10 | 0 (0) | 2.09e-11 | 0 | 0/0/0 | EXACT-EXCL
+chg 11 | 0 (0) | 5.14e-10 | 0 | 0/0/0 | EXACT-EXCL
+chg 12 | 0 (0) | 1.25e-08 | 0 | 0/0/0 | EXACT-EXCL
+chg 13 | 0 (0) | 2.81e-07 | 0 | 0/0/0 | EXACT-EXCL
+chg 14 | 0 (0) | 1.9e-06 | 0 | 0/0/0 | EXACT-EXCL
+chg 15 | 0 (0) | 0.00014 | 0 | 0/0/0 | EXACT-EXCL
+chg 16 | 0 (0) | 0.00325 | 0 | 0/0/0 | EXACT-EXCL
+chg 17 | 0 (0) | 0.0688 | 0 | 0/0/0 | EXACT-EXCL
+chg 18 | 0 (0) | 0.174 | 0 | 0/0/0 | EXACT-EXCL
+chg 19 | 0 (0) | 1.5 | 0 | 0/0/2 | LOW-POWER
+chg 20 | 25 (13) | 23.7 | 8 | 0/6/14 | LOW-POWER
+chg 21 | 143 (58) | 133 | 44 | 20/34/72 | LOW-POWER
+chg 22 | 4161 (1262) | 3.84e+03 | 824 | 629/744/909 | LOW-POWER
+chg 23 | 15459 (1684) | 1.59e+04 | 4200 | 3793/4115/4416 | LOW-POWER
+chg 24 | 89533 (5286) | 8.63e+04 | 20285 | 18609/19758/20836 | LOW-POWER
+chg 25 | 86591 (9650) | 8.7e+04 | 29757 | 28664/29451/30821 | LOW-POWER
+chg 26 | 4095990 (165782) | 4.09e+06 | 996976 | 992718/997674/1004556 | LOW-POWER
+swp 1 | 0 (0) | 7.27e-25 | 0 | 0/0/0 | EXACT-EXCL
+swp 2 | 0 (0) | 1.89e-23 | 0 | 0/0/0 | EXACT-EXCL
+swp 3 | 0 (0) | 4.9e-22 | 0 | 0/0/0 | EXACT-EXCL
+swp 4 | 0 (0) | 1.26e-20 | 0 | 0/0/0 | EXACT-EXCL
+swp 5 | 0 (0) | 3.17e-19 | 0 | 0/0/0 | EXACT-EXCL
+swp 6 | 0 (0) | 8.29e-18 | 0 | 0/0/0 | EXACT-EXCL
+swp 7 | 0 (0) | 2.1e-16 | 0 | 0/0/0 | EXACT-EXCL
+swp 8 | 0 (0) | 5.33e-15 | 0 | 0/0/0 | EXACT-EXCL
+swp 9 | 0 (0) | 1.33e-13 | 0 | 0/0/0 | EXACT-EXCL
+swp 10 | 0 (0) | 3.29e-12 | 0 | 0/0/0 | EXACT-EXCL
+swp 11 | 0 (0) | 8.14e-11 | 0 | 0/0/0 | EXACT-EXCL
+swp 12 | 0 (0) | 2.05e-09 | 0 | 0/0/0 | EXACT-EXCL
+swp 13 | 0 (0) | 4.81e-08 | 0 | 0/0/0 | EXACT-EXCL
+swp 14 | 0 (0) | 3.65e-07 | 0 | 0/0/0 | EXACT-EXCL
+swp 15 | 0 (0) | 2.85e-05 | 0 | 0/0/0 | EXACT-EXCL
+swp 16 | 0 (0) | 0.000739 | 0 | 0/0/0 | EXACT-EXCL
+swp 17 | 0 (0) | 0.0177 | 0 | 0/0/0 | EXACT-EXCL
+swp 18 | 0 (0) | 0.0494 | 0 | 0/0/0 | EXACT-EXCL
+swp 19 | 0 (0) | 0.527 | 0 | 0/0/1 | EXACT-EXCL
+swp 20 | 2 (2) | 10.1 | 1 | 0/0/2 | LOW-POWER
+swp 21 | 95 (8) | 70.2 | 4 | 0/1/89 | LOW-POWER
+swp 22 | 3329 (229) | 2.89e+03 | 587 | 242/473/1018 | LOW-POWER
+swp 23 | 16437 (595) | 1.85e+04 | 4892 | 3578/4500/5521 | LOW-POWER
+swp 24 | 163469 (2711) | 1.5e+05 | 44539 | 38556/42242/46140 | LOW-POWER
+swp 25 | 178478 (2617) | 1.79e+05 | 64898 | 60090/62241/67831 | LOW-POWER
+swp 26 | 5995073 (128748) | 5.98e+06 | 1378448 | 1361161/1.38139e+06/1410787 | LOW-POWER
+BOUND del: K4 0 configs at p 1..18; sum of chance expectation over those p = 0.324; first K4 hit p 19
+BOUND ins: K4 0 configs at p 1..19; sum of chance expectation over those p = 0.654; first K4 hit p 20
+BOUND chg: K4 0 configs at p 1..19; sum of chance expectation over those p = 1.74; first K4 hit p 20
+BOUND swp: K4 0 configs at p 1..19; sum of chance expectation over those p = 0.595; first K4 hit p 20
+I-107 GRID: 104 cells; T(K4) = min cell p = 0.100 at ('del', 24) ; nulls' T: 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.10 0.05 0.05 0.05 0.05 0.10 0.05 0.10 0.05 0.05 0.05 0.10
+I-107 GRID RANK of K4 = 1.000 (#texts with T <= T(K4) / 20; floor 0.05)
+I-107 GRID low tail: T_low(K4) = 0.150, rank 0.900
