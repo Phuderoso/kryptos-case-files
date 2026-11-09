@@ -1,0 +1,15 @@
+946402ca9cd1fcb962c51a16a76fef09  all.bin
+f45bc54b64f691e47d3f3ba927a84321  all_s64.bin
+92793b741a19ace55a1e410cd572ab8e  alpha172.txt
+255a21fad5a8d4e169127f28cf58589e  alpha_themed180.txt
+8c579973175223685ab27ff44baa4734  alpha_recount180.txt
+9e49013cd4f0518426c18efc722966df  quadgrams.json
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+2224e52d23acdb69cf79b8eb5662c1e9  nulls182.txt
+36032661690f105c7a2b9be3fa1581bb  lrk182
+15a899d989f3df1fc04b476b38ce484e  lrk182safe
+c81b43820cecf0bdd38bd06400628757  lrk181
+55e3785cca60daf8039379cac06b8b91  slice182.bin
+main run (run_cycle182.sh) 11:28:23-11:29:41 PDT elapsed 78 s; I-160 run (run_i160_182.sh) 11:29:41-11:32:58 PDT elapsed 197 s; 6 threads, shared box (UTC-7)
+controls registered run 40 s (both directions + SAFE method 2); rehearsal 39 s and smoke/timing ~15 s before the push; recount niced, outside the budget (~4 min)
+gcc -O3 -march=native -fopenmp; gcc (Debian 14.2.0-19) 14.2.0

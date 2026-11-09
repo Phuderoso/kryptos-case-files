@@ -1,0 +1,47 @@
+== K4 full set (165,782 perms; 2,703,744 (A, B) pairs per direction x Vig/Beau)
+K4 f L1-5  fits 0 pass2 48731858 END True bad []
+K4 f L6    fits 0 pass2 146024932 END True bad []
+K4 r L1-5  fits 0 pass2 48699837 END True bad []
+K4 r L6    fits 0 pass2 145856585 END True bad []
+SAFE audit (method 2, no shortcut) k4 f all_s64 H lines identical: True
+SAFE audit (method 2, no shortcut) k4 r all_s64 H lines identical: True
+== all_s64 (K4 + 19 nulls)
+k4 fL1-5: fits 0 pass2 756127 fL6: fits 0 pass2 2279282 rL1-5: fits 0 pass2 759248 rL6: fits 0 pass2 2276735
+n18211 fL1-5: fits 0 pass2 769775 fL6: fits 0 pass2 2283067 rL1-5: fits 0 pass2 762954 rL6: fits 0 pass2 2283701
+n18212 fL1-5: fits 0 pass2 766671 fL6: fits 0 pass2 2287906 rL1-5: fits 0 pass2 761947 rL6: fits 0 pass2 2287734
+n18213 fL1-5: fits 0 pass2 764544 fL6: fits 0 pass2 2278744 rL1-5: fits 0 pass2 769727 rL6: fits 0 pass2 2293291
+n18214 fL1-5: fits 0 pass2 766057 fL6: fits 0 pass2 2292696 rL1-5: fits 0 pass2 768772 rL6: fits 0 pass2 2298656
+n18215 fL1-5: fits 0 pass2 746708 fL6: fits 0 pass2 2276192 rL1-5: fits 0 pass2 757178 rL6: fits 0 pass2 2271369
+n18216 fL1-5: fits 0 pass2 758056 fL6: fits 0 pass2 2281191 rL1-5: fits 0 pass2 769848 rL6: fits 0 pass2 2277792
+n18217 fL1-5: fits 0 pass2 764951 fL6: fits 0 pass2 2280593 rL1-5: fits 0 pass2 767322 rL6: fits 0 pass2 2290827
+n18218 fL1-5: fits 0 pass2 763867 fL6: fits 0 pass2 2276562 rL1-5: fits 0 pass2 771123 rL6: fits 0 pass2 2290788
+n18219 fL1-5: fits 0 pass2 756106 fL6: fits 0 pass2 2274582 rL1-5: fits 0 pass2 773350 rL6: fits 0 pass2 2291036
+n18220 fL1-5: fits 0 pass2 755411 fL6: fits 0 pass2 2273080 rL1-5: fits 0 pass2 761999 rL6: fits 0 pass2 2272096
+n18221 fL1-5: fits 0 pass2 761709 fL6: fits 0 pass2 2279272 rL1-5: fits 0 pass2 753420 rL6: fits 0 pass2 2264891
+n18222 fL1-5: fits 0 pass2 763160 fL6: fits 0 pass2 2285781 rL1-5: fits 0 pass2 767369 rL6: fits 0 pass2 2294052
+n18223 fL1-5: fits 0 pass2 761695 fL6: fits 0 pass2 2270635 rL1-5: fits 0 pass2 766317 rL6: fits 0 pass2 2272563
+n18224 fL1-5: fits 0 pass2 769235 fL6: fits 0 pass2 2291366 rL1-5: fits 0 pass2 752829 rL6: fits 0 pass2 2275303
+n18225 fL1-5: fits 0 pass2 764845 fL6: fits 0 pass2 2287629 rL1-5: fits 0 pass2 766449 rL6: fits 0 pass2 2282123
+n18226 fL1-5: fits 0 pass2 776055 fL6: fits 0 pass2 2290821 rL1-5: fits 0 pass2 763642 rL6: fits 0 pass2 2278304
+n18227 fL1-5: fits 0 pass2 759190 fL6: fits 0 pass2 2275971 rL1-5: fits 0 pass2 752357 rL6: fits 0 pass2 2282567
+n18228 fL1-5: fits 0 pass2 764861 fL6: fits 0 pass2 2289374 rL1-5: fits 0 pass2 747541 rL6: fits 0 pass2 2268158
+n18229 fL1-5: fits 0 pass2 752062 fL6: fits 0 pass2 2269422 rL1-5: fits 0 pass2 761208 rL6: fits 0 pass2 2278415
+== grid (empirical rank among 20 texts; D1 = q4f mod-2 passes at L 6 (all L <= 6 by nesting), D2 = q4r the same; fit cells scored only if not all-zero)
+fL1-5: all zero (reported, not scored)
+fL6: all zero (reported, not scored)
+rL1-5: all zero (reported, not scored)
+rL6: all zero (reported, not scored)
+D1: K4 2279282 nulls 2269422-2292696 mean 2281309.7 p+ 0.55 p- 0.50
+D2: K4 2276735 nulls 2264891-2298656 mean 2281771.9 p+ 0.70 p- 0.35
+grid p+ 0.55 (min over cells) / p- 0.35  [no multiplicity correction; floor 0.05]
+== I-160 replication (case 169 D2 = lrk181 M1 one-error mod-2 passes L 1-3, all_s64, sum over L and types; registered K4 value 18,432)
+K4 recomputed D2 18432 {'q1': 6211, 'q2': 6455, 'q3': 5766} (registered 18,432: same)
+plain fresh shuffles (40): min 14897 max 19437 mean 17218.7 SD 841.4 #>=K4 2 p_F 0.073 z +1.44
+   q1: K4 6211 mean 5757.0 SD 611.0 #>=K4 10
+   q2: K4 6455 mean 5709.1 SD 456.4 #>=K4 3
+   q3: K4 5766 mean 5752.6 SD 213.6 #>=K4 19
+parity-matched shuffles (20): min 16722 max 19622 mean 17533.2 SD 753.4 #>=K4 2 p_F 0.143 z +1.19
+   q1: K4 6211 mean 6211.0 SD 0.0 #>=K4 20
+   q2: K4 6455 mean 5600.6 SD 650.3 #>=K4 2
+   q3: K4 5766 mean 5721.6 SD 213.0 #>=K4 9
+I-160 DECISION: NOT REPLICATED (flag closed)

@@ -1,0 +1,90 @@
+## run/out/k4.f.txt
+H k4 0 1 q4f vig perms 165782 pairs 2703744 pass2 162479 fits 0
+H k4 0 1 q4f beau perms 165782 pairs 2703744 pass2 162479 fits 0
+H k4 0 2 q4f vig perms 165782 pairs 2703744 pass2 585333 fits 0
+H k4 0 2 q4f beau perms 165782 pairs 2703744 pass2 585333 fits 0
+H k4 0 3 q4f vig perms 165782 pairs 2703744 pass2 2303598 fits 0
+H k4 0 3 q4f beau perms 165782 pairs 2703744 pass2 2303598 fits 0
+H k4 0 4 q4f vig perms 165782 pairs 2703744 pass2 9135491 fits 0
+H k4 0 4 q4f beau perms 165782 pairs 2703744 pass2 9135491 fits 0
+H k4 0 5 q4f vig perms 165782 pairs 2703744 pass2 36544957 fits 0
+H k4 0 5 q4f beau perms 165782 pairs 2703744 pass2 36544957 fits 0
+H k4 0 6 q4f vig perms 165782 pairs 2703744 pass2 146024932 fits 0
+H k4 0 6 q4f beau perms 165782 pairs 2703744 pass2 146024932 fits 0
+O k4 overflow 0 mismatch 0 passLmax 146024932 method 0 safe 0 nW 5462
+END k4 0 165782
+## run/out/k4.fs64.txt
+H k4 0 1 q4f vig perms 2591 pairs 2703744 pass2 2611 fits 0
+H k4 0 1 q4f beau perms 2591 pairs 2703744 pass2 2611 fits 0
+H k4 0 2 q4f vig perms 2591 pairs 2703744 pass2 9147 fits 0
+H k4 0 2 q4f beau perms 2591 pairs 2703744 pass2 9147 fits 0
+H k4 0 3 q4f vig perms 2591 pairs 2703744 pass2 35179 fits 0
+H k4 0 3 q4f beau perms 2591 pairs 2703744 pass2 35179 fits 0
+H k4 0 4 q4f vig perms 2591 pairs 2703744 pass2 142274 fits 0
+H k4 0 4 q4f beau perms 2591 pairs 2703744 pass2 142274 fits 0
+H k4 0 5 q4f vig perms 2591 pairs 2703744 pass2 566916 fits 0
+H k4 0 5 q4f beau perms 2591 pairs 2703744 pass2 566916 fits 0
+H k4 0 6 q4f vig perms 2591 pairs 2703744 pass2 2279282 fits 0
+H k4 0 6 q4f beau perms 2591 pairs 2703744 pass2 2279282 fits 0
+O k4 overflow 0 mismatch 0 passLmax 2279282 method 0 safe 0 nW 5462
+END k4 0 2591
+## run/out/k4.fs64safe.txt
+H k4 0 1 q4f vig perms 2591 pairs 2703744 pass2 2611 fits 0
+H k4 0 1 q4f beau perms 2591 pairs 2703744 pass2 2611 fits 0
+H k4 0 2 q4f vig perms 2591 pairs 2703744 pass2 9147 fits 0
+H k4 0 2 q4f beau perms 2591 pairs 2703744 pass2 9147 fits 0
+H k4 0 3 q4f vig perms 2591 pairs 2703744 pass2 35179 fits 0
+H k4 0 3 q4f beau perms 2591 pairs 2703744 pass2 35179 fits 0
+H k4 0 4 q4f vig perms 2591 pairs 2703744 pass2 142274 fits 0
+H k4 0 4 q4f beau perms 2591 pairs 2703744 pass2 142274 fits 0
+H k4 0 5 q4f vig perms 2591 pairs 2703744 pass2 566916 fits 0
+H k4 0 5 q4f beau perms 2591 pairs 2703744 pass2 566916 fits 0
+H k4 0 6 q4f vig perms 2591 pairs 2703744 pass2 2279282 fits 0
+H k4 0 6 q4f beau perms 2591 pairs 2703744 pass2 2279282 fits 0
+O k4 overflow 0 mismatch 0 passLmax 2279282 method 2 safe 1 nW 5462
+END k4 0 2591
+## run/out/k4.r.txt
+H k4 0 1 q4r vig perms 165782 pairs 2703744 pass2 160283 fits 0
+H k4 0 1 q4r beau perms 165782 pairs 2703744 pass2 160283 fits 0
+H k4 0 2 q4r vig perms 165782 pairs 2703744 pass2 586889 fits 0
+H k4 0 2 q4r beau perms 165782 pairs 2703744 pass2 586889 fits 0
+H k4 0 3 q4r vig perms 165782 pairs 2703744 pass2 2294627 fits 0
+H k4 0 3 q4r beau perms 165782 pairs 2703744 pass2 2294627 fits 0
+H k4 0 4 q4r vig perms 165782 pairs 2703744 pass2 9133610 fits 0
+H k4 0 4 q4r beau perms 165782 pairs 2703744 pass2 9133610 fits 0
+H k4 0 5 q4r vig perms 165782 pairs 2703744 pass2 36524428 fits 0
+H k4 0 5 q4r beau perms 165782 pairs 2703744 pass2 36524428 fits 0
+H k4 0 6 q4r vig perms 165782 pairs 2703744 pass2 145856585 fits 0
+H k4 0 6 q4r beau perms 165782 pairs 2703744 pass2 145856585 fits 0
+O k4 overflow 0 mismatch 0 passLmax 145856585 method 1 safe 0 nW 5462
+END k4 0 165782
+## run/out/k4.rs64.txt
+H k4 0 1 q4r vig perms 2591 pairs 2703744 pass2 2322 fits 0
+H k4 0 1 q4r beau perms 2591 pairs 2703744 pass2 2322 fits 0
+H k4 0 2 q4r vig perms 2591 pairs 2703744 pass2 9049 fits 0
+H k4 0 2 q4r beau perms 2591 pairs 2703744 pass2 9049 fits 0
+H k4 0 3 q4r vig perms 2591 pairs 2703744 pass2 35234 fits 0
+H k4 0 3 q4r beau perms 2591 pairs 2703744 pass2 35234 fits 0
+H k4 0 4 q4r vig perms 2591 pairs 2703744 pass2 139497 fits 0
+H k4 0 4 q4r beau perms 2591 pairs 2703744 pass2 139497 fits 0
+H k4 0 5 q4r vig perms 2591 pairs 2703744 pass2 573146 fits 0
+H k4 0 5 q4r beau perms 2591 pairs 2703744 pass2 573146 fits 0
+H k4 0 6 q4r vig perms 2591 pairs 2703744 pass2 2276735 fits 0
+H k4 0 6 q4r beau perms 2591 pairs 2703744 pass2 2276735 fits 0
+O k4 overflow 0 mismatch 0 passLmax 2276735 method 1 safe 0 nW 5462
+END k4 0 2591
+## run/out/k4.rs64safe.txt
+H k4 0 1 q4r vig perms 2591 pairs 2703744 pass2 2322 fits 0
+H k4 0 1 q4r beau perms 2591 pairs 2703744 pass2 2322 fits 0
+H k4 0 2 q4r vig perms 2591 pairs 2703744 pass2 9049 fits 0
+H k4 0 2 q4r beau perms 2591 pairs 2703744 pass2 9049 fits 0
+H k4 0 3 q4r vig perms 2591 pairs 2703744 pass2 35234 fits 0
+H k4 0 3 q4r beau perms 2591 pairs 2703744 pass2 35234 fits 0
+H k4 0 4 q4r vig perms 2591 pairs 2703744 pass2 139497 fits 0
+H k4 0 4 q4r beau perms 2591 pairs 2703744 pass2 139497 fits 0
+H k4 0 5 q4r vig perms 2591 pairs 2703744 pass2 573146 fits 0
+H k4 0 5 q4r beau perms 2591 pairs 2703744 pass2 573146 fits 0
+H k4 0 6 q4r vig perms 2591 pairs 2703744 pass2 2276735 fits 0
+H k4 0 6 q4r beau perms 2591 pairs 2703744 pass2 2276735 fits 0
+O k4 overflow 0 mismatch 0 passLmax 2276735 method 2 safe 1 nW 5462
+END k4 0 2591
