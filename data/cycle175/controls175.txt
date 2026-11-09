@@ -1,0 +1,16 @@
+# Cycle 175 controls: plants tools/plant175.py seed 175175 (+ replay of tools/cycle173/plant173.py seed 173100 ctl10), check tools/checkctl175.py
+ctl0 delx p=7 drop=[20] FOUND key=COMPASS info=1 (1 matching drops) hits_at_p_in_slice=5 -> PASS
+ctl1 delx p=11 drop=[7] FOUND key=U?DERGROUND info=1 (1 matching drops) hits_at_p_in_slice=7 -> PASS
+ctl2 delx p=16 drop=[12] FOUND key=ILLUMINATIONLAMP info=1 (1 matching drops) hits_at_p_in_slice=28 -> PASS
+ctl3 insx p=6 drop=[10] FOUND key=SHADOW info=1 (1 matching drops) hits_at_p_in_slice=2 -> PASS
+ctl4 insx p=13 drop=[20] FOUND key=MAGNETICFIELD info=1 (1 matching drops) hits_at_p_in_slice=24 -> PASS
+ctl5 insx p=10 drop=[16] FOUND key=?ALIMPSEST info=1 (1 matching drops) hits_at_p_in_slice=213 -> PASS
+ctl6 strict p=9 drop=[] FOUND key=ABSCISSAS info=1 (24 matching drops) hits_at_p_in_slice=106 -> PASS
+ctl7 neg p=5 drop=[8, 9] MISSED (expected miss) hits_at_p_in_slice=0 -> PASS
+hctl0 hill n4 aff=0 AZ ix=0 off=0: FOUND, decode = plaintext (1 ? letters), ninv=8, checks=8; K lines in slice 16 -> PASS
+hctl1 hill n4 aff=1 KA ix=1 off=1: FOUND, decode = plaintext (1 ? letters), ninv=48, checks=4; K lines in slice 48 -> PASS
+hctl2 hill n4 aff=0 KA ix=1 off=3: FOUND, decode = plaintext (5 ? letters), ninv=1, checks=8; K lines in slice 25 -> PASS
+hctl3 hill n4 aff=1 AZ ix=0 off=2: FOUND, decode = plaintext (5 ? letters), ninv=1, checks=4; K lines in slice 1 -> PASS
+hctl4 hill n4 aff=0 AZ ix=0 off=1 NEG: MISSED (expected miss); K lines in slice 0 -> PASS
+replay173_ctl10 delx p=7 drop=5 FOUND key=COMPASS -> PASS
+CONTROLS 14/14 PASS

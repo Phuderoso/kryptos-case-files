@@ -1,0 +1,352 @@
+[
+{
+"name": "ctl0",
+"kind": "slip",
+"model": "delx",
+"n": 98,
+"q": 115366,
+"d": 50,
+"drop": [
+20
+],
+"PA": "KA",
+"CA": "KA",
+"mode": "vig",
+"idx": "pt",
+"p": 7,
+"key": "COMPASS"
+},
+{
+"name": "ctl1",
+"kind": "slip",
+"model": "delx",
+"n": 98,
+"q": 131747,
+"d": 69,
+"drop": [
+7
+],
+"PA": "AZ",
+"CA": "KA",
+"mode": "beau",
+"idx": "ct",
+"p": 11,
+"key": "UNDERGROUND"
+},
+{
+"name": "ctl2",
+"kind": "slip",
+"model": "delx",
+"n": 98,
+"q": 82092,
+"d": 23,
+"drop": [
+12
+],
+"PA": "AZ",
+"CA": "AZ",
+"mode": "vig",
+"idx": "pt",
+"p": 16,
+"key": "ILLUMINATIONLAMP"
+},
+{
+"name": "ctl3",
+"kind": "slip",
+"model": "insx",
+"n": 96,
+"q": 31361,
+"d": 14,
+"drop": [
+10
+],
+"PA": "KA",
+"CA": "AZ",
+"mode": "vig",
+"idx": "ct",
+"p": 6,
+"key": "SHADOW"
+},
+{
+"name": "ctl4",
+"kind": "slip",
+"model": "insx",
+"n": 96,
+"q": 132408,
+"d": 9,
+"drop": [
+20
+],
+"PA": "KA",
+"CA": "KA",
+"mode": "beau",
+"idx": "pt",
+"p": 13,
+"key": "MAGNETICFIELD"
+},
+{
+"name": "ctl5",
+"kind": "slip",
+"model": "insx",
+"n": 96,
+"q": 6081,
+"d": 73,
+"drop": [
+16
+],
+"PA": "AZ",
+"CA": "AZ",
+"mode": "vig",
+"idx": "ct",
+"p": 10,
+"key": "PALIMPSEST"
+},
+{
+"name": "ctl6",
+"kind": "slip",
+"model": "strict",
+"n": 98,
+"q": 74625,
+"d": 58,
+"drop": [],
+"PA": "KA",
+"CA": "AZ",
+"mode": "beau",
+"idx": "pt",
+"p": 9,
+"key": "ABSCISSAS"
+},
+{
+"name": "ctl7",
+"kind": "slip",
+"model": "neg",
+"n": 98,
+"q": 3617,
+"d": 52,
+"drop": [
+8,
+9
+],
+"PA": "KA",
+"CA": "KA",
+"mode": "vig",
+"idx": "ct",
+"p": 5,
+"key": "LUCID"
+},
+{
+"name": "hctl0",
+"kind": "hill",
+"neg": false,
+"aff": 0,
+"num": "AZ",
+"ix": 0,
+"off": 0,
+"q": 109854,
+"E": [
+[
+7,
+4,
+12,
+1
+],
+[
+11,
+2,
+23,
+16
+],
+[
+6,
+8,
+3,
+14
+],
+[
+11,
+7,
+13,
+25
+]
+],
+"f": [
+0,
+0,
+0,
+0
+],
+"pt": "ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW"
+},
+{
+"name": "hctl1",
+"kind": "hill",
+"neg": false,
+"aff": 1,
+"num": "KA",
+"ix": 1,
+"off": 1,
+"q": 148224,
+"E": [
+[
+0,
+10,
+17,
+24
+],
+[
+25,
+23,
+8,
+5
+],
+[
+18,
+21,
+19,
+9
+],
+[
+8,
+14,
+25,
+1
+]
+],
+"f": [
+6,
+15,
+19,
+25
+],
+"pt": "ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW"
+},
+{
+"name": "hctl2",
+"kind": "hill",
+"neg": false,
+"aff": 0,
+"num": "KA",
+"ix": 1,
+"off": 3,
+"q": 99389,
+"E": [
+[
+14,
+9,
+3,
+12
+],
+[
+2,
+7,
+5,
+21
+],
+[
+5,
+11,
+13,
+9
+],
+[
+19,
+9,
+2,
+22
+]
+],
+"f": [
+0,
+0,
+0,
+0
+],
+"pt": "ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW"
+},
+{
+"name": "hctl3",
+"kind": "hill",
+"neg": false,
+"aff": 1,
+"num": "AZ",
+"ix": 0,
+"off": 2,
+"q": 146578,
+"E": [
+[
+11,
+13,
+15,
+5
+],
+[
+20,
+6,
+7,
+9
+],
+[
+21,
+12,
+12,
+14
+],
+[
+15,
+16,
+19,
+4
+]
+],
+"f": [
+1,
+5,
+13,
+2
+],
+"pt": "ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW"
+},
+{
+"name": "hctl4",
+"kind": "hill",
+"neg": true,
+"aff": 0,
+"num": "AZ",
+"ix": 0,
+"off": 1,
+"q": 19296,
+"E": [
+[
+11,
+21,
+25,
+15
+],
+[
+12,
+23,
+10,
+8
+],
+[
+15,
+4,
+2,
+15
+],
+[
+11,
+16,
+6,
+16
+]
+],
+"f": [
+0,
+0,
+0,
+0
+],
+"pt": "ACOLDWINDCAMEOVERTHEWEASTNORTHEASTRIDGEANDTHESURVEYORSFOUNDTHEXBERLINCLOCKSTILLRUNNINGBENEATHSNOW"
+}
+]
