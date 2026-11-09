@@ -4,6 +4,9 @@
 bank; `LOW-POWER` at direct PT-fed lags 24–26. The full-bank pass was stopped unfinished at the compute budget, so 39/40 of the
 bank is **not** covered (queued as I-074). **Type:** new family (cycle 163 was an audit). IDEAS **I-015**.
 
+
+> **Correction (cycle 165, 2026-11-09).** The full K4 bank pass did **not** stop unfinished: all 8 slices and the done marker were written by 00:00:04 PDT, before the stop at 00:00:14, and they show **0 consistent configurations** over all 1,205,074,859,520 tests. The stop killed only the null phase. Themed × themed behind the whole bank is therefore `EXACT-EXCL`, re-run independently on 1/8 with nulls 0 in 6 — see [case file 153](153-quagmire-autokey-bank-completion.md).
+
 ## Why I-015 and not I-014
 The queue offered two autokey items. I checked both against the case files first ([`data/cycle164/overlap.txt`](../data/cycle164/overlap.txt)):
 
