@@ -1,0 +1,6 @@
+Cycle 156 timing (8 cores, box, 2026-11-08 PST evening)
+main run (run_cycle156.sh: bank 18 pairs x 3 texts x 4 slices + 459 direct jobs): 108 s wall (time.txt "T 108")
+power / timing probes before the main run: ~195 s wall (single process; incl. one 100 s timed-out n3 k1 6 k2 7 bank probe, not used)
+controls (10 plants + 2 one-error reruns): ~6 s
+independent Python check: ~35 s (run twice, ~70 s)
+heavy compute total ~6.5 min wall

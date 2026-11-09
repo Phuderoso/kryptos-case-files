@@ -1,0 +1,13 @@
+Part A: planted keys and printed keys -> wrong letters vs control plaintext (decided letters only)
+  ctl1 S drop=-1 decided=96 wrong_vs_plain=0 planted-key redecrypt wrong=0 printed-key redecrypt matches=True
+  ctl2 S drop=-1 decided=96 wrong_vs_plain=0
+  ctl3 S drop=-1 decided=96 wrong_vs_plain=0
+  ctl4 S drop=-1 decided=96 wrong_vs_plain=0 planted-key redecrypt wrong=0 printed-key redecrypt matches=True
+  ctl5 S drop=-1 decided=93 wrong_vs_plain=0 planted-key redecrypt wrong=0 printed-key redecrypt matches=True
+  ctl6 S drop=-1 decided=96 wrong_vs_plain=0 planted-key redecrypt wrong=0 printed-key redecrypt matches=True
+  ctl7 X drop=25 decided=96 wrong_vs_plain=2 planted-key redecrypt wrong=2 printed-key redecrypt matches=True
+  ctl8 X drop=66 decided=96 wrong_vs_plain=1 planted-key redecrypt wrong=1 printed-key redecrypt matches=True
+  ctl9 S drop=-1 decided=92 wrong_vs_plain=0 planted-key redecrypt wrong=0 printed-key redecrypt matches=True
+  ctl10 S drop=-1 decided=96 wrong_vs_plain=0
+Part B: per-field counts, f-enumeration (Python) vs hill2s V lines
+  1788/1788 identical (13 non-zero)
