@@ -1,0 +1,28 @@
+P1_f_L1_vig_KA_x_SAINTLY-K: fits_at_q 3 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [3] d 5 seed [25] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P2_f_L2_beau_PALIMPSEST-Z_x_MERCHANT-Z: fits_at_q 2 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [7, 22] d 24 seed [25, 10] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P3_f_L3_vig_BERLINCLOCK-Z_x_NOVEMBER-Z_seedslot: fits_at_q 1 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [2, 8, 15] d 3 seed [1, 16, 15] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P4_f_L3_beau_AZ_x_ITALIAN-K_nonunit: fits_at_q 1 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [21, 15, 24] d 1 seed [2, 16, 12] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P5_r_L1_vig_MEDITERRANEAN-Z_x_ABSCISSA-Z: fits_at_q 3 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [22] d 8 seed [21] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P6_r_L2_beau_OBLIQUE-Z_x_KA: fits_at_q 2 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [9, 18] d 10 seed [13, 22] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P7_r_L3_vig_PLIGHT-K_x_PALIMPSEST-Z_seedslot: fits_at_q 1 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [24, 11, 23] d 1 seed [23, 10, 17] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P8_r_L1_vig_MOUTHS-Z_x_SHADOW-K_progressive: fits_at_q 3 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [1] d 3 seed [11] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P9_f_L2_vig_KA_x_KA_A_eq_B: fits_at_q 2 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [5, 17] d 16 seed [25, 21] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P10_f_L1_vig_LAYERTWO-Z_x_TOMB-Z_recount: fits_at_q 12 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [12] d 19 seed [13] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P11_r_L1_beau_SLOWLY-Z_x_EGYPT-Z_recount: fits_at_q 3 planted_params_listed True decode_matches_plant True END/X/safe ok True -> PASS
+   decoded c [23] d 9 seed [13] THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+N1_P3_one_wrong_carved_letter_slot30: NEG fits_at_q 0 (dirs f,r) END/X/safe ok True -> PASS
+N2_random_key: NEG fits_at_q 0 (dirs f,r) END/X/safe ok True -> PASS
+N3_alphabet_outside_lists_RAND1_x_MERCHANT-Z_L2: NEG fits_at_q 0 (dirs f,r) END/X/safe ok True -> PASS
+N4_order4_outside_L_range: NEG fits_at_q 0 (dirs f,r) END/X/safe ok True -> PASS
+controls 15/15
+rehearsal wall ≈ 13 s (registered control run, PREREG187)

@@ -1,0 +1,37 @@
+# Cycle 187 audit: K4 L 1-3 on all_s20000 (9 rows), main build (method 1) vs SAFE build (method 2); H lines identical in both directions
+## k4.f.s20k.txt
+H k4 1 1 q4f vig perms 9 pairs 2703744 pass2 6 fits 0
+H k4 1 1 q4f beau perms 9 pairs 2703744 pass2 6 fits 0
+H k4 1 2 q4f vig perms 9 pairs 2703744 pass2 17 fits 0
+H k4 1 2 q4f beau perms 9 pairs 2703744 pass2 17 fits 0
+H k4 1 3 q4f vig perms 9 pairs 2703744 pass2 88 fits 0
+H k4 1 3 q4f beau perms 9 pairs 2703744 pass2 88 fits 0
+O k4 mismatch 0 passLmax 88 method 1 safe 0
+END k4 0 9
+## k4.f.s20ksafe.txt
+H k4 1 1 q4f vig perms 9 pairs 2703744 pass2 6 fits 0
+H k4 1 1 q4f beau perms 9 pairs 2703744 pass2 6 fits 0
+H k4 1 2 q4f vig perms 9 pairs 2703744 pass2 17 fits 0
+H k4 1 2 q4f beau perms 9 pairs 2703744 pass2 17 fits 0
+H k4 1 3 q4f vig perms 9 pairs 2703744 pass2 88 fits 0
+H k4 1 3 q4f beau perms 9 pairs 2703744 pass2 88 fits 0
+O k4 mismatch 0 passLmax 88 method 2 safe 1
+END k4 0 9
+## k4.r.s20k.txt
+H k4 1 1 q4r vig perms 9 pairs 2703744 pass2 0 fits 0
+H k4 1 1 q4r beau perms 9 pairs 2703744 pass2 0 fits 0
+H k4 1 2 q4r vig perms 9 pairs 2703744 pass2 29 fits 0
+H k4 1 2 q4r beau perms 9 pairs 2703744 pass2 29 fits 0
+H k4 1 3 q4r vig perms 9 pairs 2703744 pass2 127 fits 0
+H k4 1 3 q4r beau perms 9 pairs 2703744 pass2 127 fits 0
+O k4 mismatch 0 passLmax 127 method 1 safe 0
+END k4 0 9
+## k4.r.s20ksafe.txt
+H k4 1 1 q4r vig perms 9 pairs 2703744 pass2 0 fits 0
+H k4 1 1 q4r beau perms 9 pairs 2703744 pass2 0 fits 0
+H k4 1 2 q4r vig perms 9 pairs 2703744 pass2 29 fits 0
+H k4 1 2 q4r beau perms 9 pairs 2703744 pass2 29 fits 0
+H k4 1 3 q4r vig perms 9 pairs 2703744 pass2 127 fits 0
+H k4 1 3 q4r beau perms 9 pairs 2703744 pass2 127 fits 0
+O k4 mismatch 0 passLmax 127 method 2 safe 1
+END k4 0 9

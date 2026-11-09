@@ -1,0 +1,42 @@
+# Cycle 187 independent recount (recount187.py, order 1, carved index) vs lrk186 (A = B = recount list, L 1) on slice187.bin (44 rows)
+k4: recount fits 0 lrk186 fits 0 done True END True identical True
+P10: recount fits 1 lrk186 fits 1 done True END True identical True
+P11: recount fits 1 lrk186 fits 1 done True END True identical True
+n18711: recount fits 0 lrk186 fits 0 done True END True identical True
+n18712: recount fits 0 lrk186 fits 0 done True END True identical True
+RECOUNT MATCH
+## recount187.txt
+DONE k4
+F P10 42 LAYERTWO/Z TOMB/Z vig
+DONE P10
+F P11 43 SLOWLY/Z EGYPT/Z beau
+DONE P11
+DONE n18711
+DONE n18712
+## c_P10.txt
+M P10 1 1 rc vig 42 LAYERTWO/Z TOMB/Z n2 3 n13c 1 S2 c1s1d0 c0s0d1 c0s1d1 S13 c12x0,6n0
+H P10 1 1 rc vig perms 44 pairs 1089 pass2 1 fits 1
+H P10 1 1 rc beau perms 44 pairs 1089 pass2 1 fits 0
+O P10 mismatch 0 passLmax 1 method 1 safe 0
+END P10 0 44
+## c_P11.txt
+M P11 1 1 rc beau 43 SLOWLY/Z EGYPT/Z n2 1 n13c 1 S2 c1s1d1 S13 c10x0,9n0
+H P11 1 1 rc vig perms 44 pairs 1089 pass2 1 fits 0
+H P11 1 1 rc beau perms 44 pairs 1089 pass2 1 fits 1
+O P11 mismatch 0 passLmax 1 method 1 safe 0
+END P11 0 44
+## c_k4.txt
+H k4 1 1 rc vig perms 44 pairs 1089 pass2 0 fits 0
+H k4 1 1 rc beau perms 44 pairs 1089 pass2 0 fits 0
+O k4 mismatch 0 passLmax 0 method 1 safe 0
+END k4 0 44
+## c_n18711.txt
+H n18711 1 1 rc vig perms 44 pairs 1089 pass2 0 fits 0
+H n18711 1 1 rc beau perms 44 pairs 1089 pass2 0 fits 0
+O n18711 mismatch 0 passLmax 0 method 1 safe 0
+END n18711 0 44
+## c_n18712.txt
+H n18712 1 1 rc vig perms 44 pairs 1089 pass2 0 fits 0
+H n18712 1 1 rc beau perms 44 pairs 1089 pass2 0 fits 0
+O n18712 mismatch 0 passLmax 0 method 1 safe 0
+END n18712 0 44
