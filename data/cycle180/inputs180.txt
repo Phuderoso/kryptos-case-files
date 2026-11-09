@@ -1,0 +1,15 @@
+# Cycle 180 inputs and timing (box clock America/Vancouver, PDT)
+946402ca9cd1fcb962c51a16a76fef09  support/all.bin
+3dd34d3cc56297bdd2b8a98d7125ea23  support/all_s8.bin
+92793b741a19ace55a1e410cd572ab8e  support/alpha172.txt
+255a21fad5a8d4e169127f28cf58589e  support/alpha_themed180.txt
+8c579973175223685ab27ff44baa4734  support/alpha_recount180.txt
+9e49013cd4f0518426c18efc722966df  support/quadgrams.json
+dc4df49dea72039372a86dae4b56fd9e  run/k4.txt
+lrk180 build: gcc -O3 -march=native -fopenmp (8-core box, OMP_NUM_THREADS=6)
+4431095e9805d00b74a5246ce21af8d3  ../repo/tools/cycle180/lrk180.c
+main run (run_cycle180.sh): start 10:08:19 end 10:10:58 PDT, 159 s wall (K4 full M0 L1-7 + M1 L1-3 + M1 L4 themed + both on all_s8; 19 nulls on all_s8 + M1 L4 themed full)
+add-on D2' replication (run_d2rep180.sh, 40 fresh shuffles): 65 s
+controls (run_controls180.sh): 7 s registered run, ~7 s rehearsal; smoke on seed 9180 ~25 s
+heavy total ≈ 4.4 min
+nulls: seeds 18011-18029 (tools/cycle180/nulls180.txt); fresh: 18041-18080; smoke: 9180; plants: 18000

@@ -1,0 +1,26 @@
+== K4 on the full perm set (165,782): fits per L (all types/forms) and mod-2 passes
+  m0: L1 fits 0 pass2 3440  L2 fits 0 pass2 12545  L3 fits 0 pass2 47740  L4 fits 0 pass2 188085  L5 fits 0 pass2 758076  L6 fits 0 pass2 3034424  L7 fits 0 pass2 12125401
+  m1: L1 fits 0 pass2 2700  L2 fits 0 pass2 8282  L3 fits 0 pass2 33978
+  m1t: L4 fits 0 pass2 1036
+== M0 (key on the plaintext index), vocabulary alphabets, all_s8 (every text)
+M0 L1 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 360, null mean 442]
+M0 L2 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 1392, null mean 1571]
+M0 L3 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 5809, null mean 6064]
+M0 L4 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 22717, null mean 23730]
+M0 L5 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 95100, null mean 95346]
+M0 L6 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 377982, null mean 380275]
+M0 L7 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 1508101, null mean 1515034]
+== M1 (key on the carved index), vocabulary alphabets, all_s8
+M1 L1 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 379, null mean 328.9]
+M1 L2 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 1290, null mean 1095.9]
+M1 L3 (1/8): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 4604, null mean 4169.0]
+== M1 L4, themed alphabets (144), full set
+M1 L4 themed (full): K4 0 | nulls min/med/max 0/0/0 | EXACT-EXCL [pass2 K4 1036, null mean 1018.1]
+overflow count (all texts): 0 | table/solve0 mismatch lines: 0
+== grid (leave-one-out Poisson tails, I-120)
+R1 M0 L1-7 fits (1/8): K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+R2 M1 L1-3 fits (1/8): K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+R3 M1 L4 themed fits (full): K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+D1 M0 pass2 L6-7 (1/8): K4 1886083 nulls min/med/max 1885114/1895815/1901768 scored=True K4 p+ 1.000 p- 0.000
+D2 M1 pass2 L1-3 (1/8) + L4 themed: K4 7309 nulls min/med/max 6199/6556/7117 scored=True K4 p+ 0.000 p- 1.000
+G+(K4) 3.43e-12 grid p+ 0.05 ; G-(K4) 9.96e-12 grid p- 0.10 ; best attainable 0.05
