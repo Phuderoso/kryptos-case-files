@@ -1,0 +1,8 @@
+null0 171 best -7.547 -6.858
+null1 129 best -7.521 -6.660
+null2 160 best -7.107 -6.572
+null3 188 best -7.537 -6.664
+null4 159 best -7.512 -6.657
+null5 152 best -7.577 -6.805
+null6 176 best -7.556 -6.860
+null7 170 best -7.511 -6.688
