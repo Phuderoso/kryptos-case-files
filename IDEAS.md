@@ -19,7 +19,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 |---|---|---|---|
 | I-001 | Superseded notices for stale strips/transposition and S2/S6 text (case 10, README) | P1 | tested (done, cycle 151) |
 | I-002 | Provenance of the circled tableau letters and archival carving differences | P1 | blocked (unpublished sources) |
-| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill 151, Hill + key / Hill 5 153, Gromark 155, split period-7 key 163, running keys behind decimations/routes 169; I-007, I-041 left) |
+| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill 151, Hill + key / Hill 5 153, Gromark 155, split period-7 key 163, running keys behind decimations/routes 169, Porta behind decimations/routes + running keys behind the bank 171; I-007, I-041 left) |
 | I-004 | Separate exact / heuristic / low-power results; full-scale nulls for tail claims | P1 | queued |
 | I-005 | Hill n = 2–4 under one carving error (block-drop + exact one-letter repair) | P1 | tested — EXACT-EXCL ([case 139](case-file/139-hill-one-carving-error.md)) |
 | I-006 | Robustness by design: which count-scored families already tolerate one error | P1 | tested ([case 139](case-file/139-hill-one-carving-error.md) audit table) |
@@ -98,13 +98,18 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-088 | Transpose first, then an unnamed English running key (Model B): key letters scattered; decimations put them on a stride-s progression of the key text | P3 | queued (from cycle 168; needs a language-model key prior or two-stream annealing, I-029) |
 | I-089 | Rest of case 57's list behind decimations: Porta, Quagmire IV, one-letter anomaly; running keys on the 98-symbol `?` circle and on 20,946 mixed tableaux | P3 | partly tested (cycle 170, [case 158](case-file/158-porta-behind-decimations-and-routes.md)): **Porta** `EXACT-EXCL` periodic L ≤ 23 + 36 named running keys, arbitrary key `LOW-POWER`; Quagmire IV / anomaly → I-095; `?` circle and mixed-tableau running keys still queued |
 | I-090 | bookrk depth diagnostic counts ≤ 63 tail bits past the last valid offset: mask it, then re-check case files that quote bookrk depths (e.g. case 44's "9 vs nulls 8–10") | P3 | tested (cycle 169, [case 157](case-file/157-one-error-running-keys-behind-decimations.md) §6): masked in `bookrk1e`; every re-cut quoted depth unchanged (case 44 K4 9, nulls 9/10; case 156 K4 9, null max 12); ≈ 15.6 k of 287 M configs drop one level, none above 6; cases 34/35/68/72/77 not re-cut (verdicts rest on 24/24) |
-| I-091 | One-error running keys behind the 165k bank (cycles 34–36 texts) and the 1.87 M rail/Redefence/AMSCO family (cycles 45, 79), K4 first, `bookrk1e` drop-in | P2 | queued (from cycle 169; bank ≈ 7 min, rail/AMSCO ≈ 11× → chunked over cycles) |
+| I-091 | One-error running keys behind the 165k bank (cycles 34–36 texts) and the 1.87 M rail/Redefence/AMSCO family (cycles 45, 79), K4 first, `bookrk1e` drop-in | P2 | in progress — **bank part tested (cycle 171, [case 159](case-file/159-one-error-porta-and-bank-running-keys.md)): `EXACT-EXCL`, K4 0 fits ≥ 23/24 in 2.65 × 10¹³ placements, 0/40 nulls, controls 14/14**; rail/Redefence/AMSCO left (≈ 11× the bank → chunk over cycles) |
 | I-092 | Errata from cycle 169: case 156 "48 texts" → 36, chunk_15 = 4,282 decimations + 6,070 routes; README decimation row | P2 | tested (cycle 169: README fixed, case 157 §8 carries the erratum; case 156 left as published with a pointer) |
 | I-093 | Running keys behind decimations / routes with one dropped or inserted carved letter (key alignment shifts after the indel) | P3 | queued (from cycle 169; drop-aware like I-073: 97 drop / 98 insert positions × split bitsets) |
 | I-094 | Attainable-size note for rank p-values (after Voynich C079): report the p-value floor 1/(N+1) next to every rank-based null comparison | P3 | queued (method, from cycle 169; Voynich C079 journal, unverified as a reply) |
 | I-095 | Quagmire IV (two different keyed alphabets) periodic key behind decimations / routes, and the one-letter anomaly behind decimations (rest of I-089) | P2 | queued (from cycle 170; needs a residue-difference precheck: 69,696 themed pairs × 165,782 perms is ~10¹² raw) |
-| I-096 | Porta behind decimations/routes under one wrong crib/carved letter (23 of 24 pairs cross), on the 98-symbol `?` circle, and with KRYPTOS-row / other half-splits | P3 | queued (from cycle 170) |
+| I-096 | Porta behind decimations/routes under one wrong crib/carved letter (23 of 24 pairs cross), on the 98-symbol `?` circle, and with KRYPTOS-row / other half-splits | P3 | one-error part tested (cycle 171, [case 159](case-file/159-one-error-porta-and-bank-running-keys.md)): periodic `EXACT-EXCL` V1A/V2A L 1–23, V1B/V2B L 1–18; `LOW-POWER` B L 19–23 and L 24–26; running keys `EXACT-EXCL` (error-anywhere survivors full; forced-error survivors on 1/8 → I-098); `?` circle and other splits still queued |
 | I-097 | Known-answer check for every count cell (after Voynich C080): print the analytic chance expectation next to the observed K4/null counts, so the counter itself is checked | P2 | tested (method, cycle 170: model A L 24–26 expected 238 / observed 226; model B 37 / 50) |
+| I-098 | Porta one-error running keys for forced-error survivors on the other 7/8 of the decimations/routes (cycle 171 did the slice p ≡ 0 mod 8) | P3 | queued (from cycle 171; ~32 k orderings × 0.11 s ≈ 7–8 min on 8 free cores, or a bitset version first) |
+| I-099 | Rail/Redefence/AMSCO part of I-091 in checkpointed chunks (1.87 M perms, ~11× the bank) | P2 | queued (from cycle 171; ≈ 3 cycles of ~8 min, or one slot with a 3× faster bookrk1e) |
+| I-100 | Two errors for the strongest strict running-key exclusions (bank, decimations): ≥ 22/24 has chance ≈ 10⁻¹² per config, still near zero | P3 | queued (from cycle 171; count `O2` bitset, ~1.5× bookrk1e) |
+| I-101 | Cluster-aware count cells: report distinct decryptions / distinct permutations next to raw fit counts; a single permutation with many sibling orderings (case 159: 19 of 30 V1B L22 fits) must not read as a tail | P2 | queued (method, from cycle 171) |
+| I-102 | Voynich C081 lesson (unverified, journal only): resampling with replacement + plug-in information is biased upward. Check: the repo has no bootstrap intervals (grep, cycle 171: only the SAT solver's `bootstrap_with`); nulls are shuffles without replacement. Keep the rule for any future CI | P3 | tested (cycle 171, check only) |
 | I-071 | Split period-7 key with a themed / vocabulary alphabet per segment, or Quagmire I/II/IV per segment | P3 | queued (from cycle 162) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
@@ -465,7 +470,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ### I-091 — One-error running keys behind the bank and rail/AMSCO
 - **Date / source:** 2026-11-09, cycle 169. `[repo]` `bookrk1e` is a drop-in for `bookrk`. The strict exclusions of cycles 34–36 (165k bank) and 45/79 (1.87 M rail/Redefence/AMSCO) have the same one-error blind spot that case 157 closed for decimations.
-- **Test:** K4 behind the bank first (cycle 36 texts), checkpointed chunks; 40 nulls on a slice; one-error controls with `ctl169.py`. **Status:** queued.
+- **Test:** K4 behind the bank first (cycle 36 texts), checkpointed chunks; 40 nulls on a slice; one-error controls with `ctl169.py`. **Status:** in progress. Bank part tested in cycle 171 ([case 159](case-file/159-one-error-porta-and-bank-running-keys.md) §4): `EXACT-EXCL`, 0 fits ≥ 23/24 in 2.65 × 10¹³ placements (36 texts), 0/40 nulls, controls 14/14. Rail/AMSCO → I-099.
 
 ### I-092 — Case 156 errata
 - **Date / source:** 2026-11-09, cycle 169. `[repo]` texts.txt holds 36 texts, not 48. chunk_15 is the last 10,352 perms. **Status:** tested (README fixed; case 157 §8).
@@ -485,12 +490,27 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 ### I-096 — Porta behind decimations: one error, `?` circle, other splits
 - **Date / source:** 2026-11-09, cycle 170. `[repo]` Case 158 is strict: one non-crossing crib pair kills a true configuration.
 - **Test:** allow one non-crossing pair (24 leave-one-out graphs per perm), then periodic/running keys at ≥ 23/24; the 154,186 98-symbol decimations
-  (cycle 60 generator); KRYPTOS-tableau-row half-splits. **Status:** queued.
+  (cycle 60 generator); KRYPTOS-tableau-row half-splits. **Status:** one-error part tested in cycle 171 ([case 159](case-file/159-one-error-porta-and-bank-running-keys.md) §2–3); `?` circle and other splits still queued; forced-error running keys on 7/8 → I-098.
 
 ### I-097 — Known-answer check of count cells
 - **Date / source:** 2026-11-09, cycle 170. `[Voynich, unverified]` Their C080 journal says an audit's control needs a known answer and that one run can give
   the measurement and its control. For exact K4 counts the analytic chance expectation (Σ 13^-checks, 26^-checks …) is such an answer.
 - **Test:** report expected vs observed for every count cell. **Status:** tested (case 158 §3: 238 vs 226, 37 vs 50; in range).
+
+### I-098 — Porta one-error running keys, forced-error survivors, rest of the family
+- **Date / source:** 2026-11-09, cycle 171. `[repo]` Case 159 ran running keys on all 1,539 error-anywhere survivors but on only 1/8 of the 36,642 forced-error ones (budget). **Test:** `RKFREE` unset on the other 7/8 (chunks), or a bitset rewrite. Expected 0 (chance < 10⁻¹⁴). **Status:** queued.
+
+### I-099 — One-error running keys behind rail/Redefence/AMSCO
+- **Date / source:** 2026-11-09, cycle 171. `[repo]` Rest of I-091. **Test:** `bookrk1e` on cycle 44's 1,873,954 perms, 16+ checkpointed chunks over several cycles; 40 nulls on a slice; controls from `ctl171b.py` with rail perms. **Status:** queued.
+
+### I-100 — Two errors behind the bank / decimations
+- **Date / source:** 2026-11-09, cycle 171. `[speculation]` Two wrong letters are rarer, but K2 carries one known carving error. **Test:** add a third bitset (≤ 2 misses) to `bookrk1e`; check that the chance count stays ≪ 1. **Status:** queued.
+
+### I-101 — Cluster-aware count cells
+- **Date / source:** 2026-11-09, cycle 171. `[repo]` In case 159 the slice cell V1B L22 had K4 16 vs null median 1 (p 0.049). 19 of K4's 30 fits there come from one permutation and sibling orderings. **Test:** in every count cell, also report distinct decryptions and distinct perms, and rank on those. **Status:** queued (method).
+
+### I-102 — Bootstrap bias check (after Voynich C081)
+- **Date / source:** 2026-11-09, cycle 171. `[Voynich C081 journal, unverified]` Resampling blocks with replacement inflates plug-in mutual information. **Check:** no bootstrap/resampling intervals in the K4 repo (grep); our nulls are permutation shuffles of K4's letters (without replacement), and our verdicts are exact counts. **Status:** tested (check only; rule kept for the future).
 
 ### I-071 — Split period-7 key with a restricted alphabet per segment or Quagmire I/II/IV
 - **Date / source:** 2026-11-08, cycle 162. `[repo]` Model X (any of 86,731 alphabets per segment) was at chance; restricting each segment to themed or vocabulary alphabets sits between Z (exact) and X (no power).
@@ -558,3 +578,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-09, cycle 169 end: I-087 tested (`EXACT-EXCL` under one error, K4 0 fits at ≥ 23/24, controls 18/18, 0/40 nulls); I-090 tested (quoted depths unchanged); found and fixed the case 156 / README "48 texts" slip (I-092). Added I-091–I-094 (94 items). Recommended next: cycle 170 **new family** (169 was an audit/variant): I-089 (Porta / Quagmire IV / one-letter anomaly behind decimations) or I-016; next audit slot: I-091 (one-error running keys behind the bank, ~7 min).
 - 2026-11-09, cycle 170 start: reconciled I-089 (Porta part: never behind decimations/routes, case 31 only behind the cycle-12 family on 20,946 alphabets and first/last halves) vs I-016 (SAT periodic, expected LOW-POWER at P ≥ 8, an extension of case 11). Picked Porta behind the 165,782 decimations/routes as the genuinely different substitution. Voynich: our ~02:40 PDT message (C079 null-size answer, tail-bit lesson) pending; their C080 journal says the known-answer trick is on its way; no message visible.
 - 2026-11-09, cycle 170 end: I-089 Porta part tested (`EXACT-EXCL` periodic L ≤ 23 and 36 named running keys × 16 conventions; arbitrary key `LOW-POWER`, 1,539 survivors at null level; controls 12/12; numpy recount identical). I-097 tested (method). Added I-095–I-097 (97 items). Recommended next: cycle 171 audit/variant: I-091 (one-error running keys behind the bank, ~7 min) or I-096 (one-error Porta, cheap); next new family: I-095 (Quagmire IV behind decimations, with precheck) or I-016.
+- 2026-11-09, cycle 171 start: reconciled I-091 (bank ≈ 3.5 min measured on cycle 169's tool) and I-096 (key-free one-error stage ≈ 1 min for the family): both fit, so did I-096 + the bank part of I-091. Voynich: our 02:40 PDT message still pending; the proposed cycle-170 reply was held (no new substance). Their C081 journal (~03:17 PDT) says they are sending the "resampling with replacement + plug-in information = upward bias" lesson. The message itself is not visible here (→ I-102, check only).
+- 2026-11-09, cycle 171 end: I-096 one-error part tested (periodic `EXACT-EXCL` V1A/V2A L ≤ 23, V1B/V2B L ≤ 18; running keys `EXACT-EXCL`, forced-error part on 1/8; rest `LOW-POWER`). I-091 bank part tested (`EXACT-EXCL`, 0 fits ≥ 23/24, 0/40 nulls). Controls 12/12 + 14/14, recounts identical. Added I-098–I-102 (102 items). Recommended next: cycle 172 **new family** (171 was an audit): I-095 (Quagmire IV behind decimations/routes, with the residue-difference precheck) or I-016; next audit slot: I-099 (rail/AMSCO one-error, chunked) or I-098.
