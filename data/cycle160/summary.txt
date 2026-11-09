@@ -1,0 +1,64 @@
+BANK (165,065 perms x 2 directions = 330,130 per (ix,p)); cells: configs with >=1 QIV pair / QIV pairs
+ix p | K4 | null1 | null2 | null3 | null4
+Q  1 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  2 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  3 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  4 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  5 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  6 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  7 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  8 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q  9 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q 10 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q 11 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q 12 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q 13 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q 14 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+Q 15 | 12/14 | 12/12 | 8/8 | 6/6 | 8/10
+Q 16 | 202/254 | 200/1274 | 286/428 | 306/326 | 252/352
+C  1 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  2 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  3 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  4 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  5 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  6 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  7 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  8 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C  9 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C 10 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C 11 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C 12 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C 13 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C 14 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0
+C 15 | 0/0 | 4/4 | 0/0 | 0/0 | 0/0
+C 16 | 12/18 | 32/42 | 10/10 | 14/16 | 14/18
+configs {'K4': 10564160, 'null1': 10564160, 'null2': 10564160, 'null3': 10564160, 'null4': 10564160} 
+prefilter pass {'K4': 3966460, 'null1': 3974942, 'null2': 3957048, 'null3': 3955698, 'null4': 3623458} 
+joins computed {'K4': 1535195, 'null1': 1541395, 'null2': 1502136, 'null3': 1525662, 'null4': 1434653}
+
+DIRECT (identity), p with >=1 QIV pair: strict | one-error (sum over 24 dropped cribs, configs with >=1 pair)
+K4       strict min p with pairs: 24  pairs p24=13  one-error min p: 24  drops with pairs at p<=16: 0  p17-23: 0
+mnull01  strict min p with pairs: 24  pairs p24=5  one-error min p: 16  drops with pairs at p<=16: 2  p17-23: 14
+mnull02  strict min p with pairs: 25  pairs p24=0  one-error min p: 16  drops with pairs at p<=16: 2  p17-23: 8
+mnull03  strict min p with pairs: 24  pairs p24=22  one-error min p: 17  drops with pairs at p<=16: 0  p17-23: 6
+mnull04  strict min p with pairs: 25  pairs p24=0  one-error min p: 23  drops with pairs at p<=16: 0  p17-23: 6
+mnull05  strict min p with pairs: 24  pairs p24=4  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 2
+mnull06  strict min p with pairs: 24  pairs p24=15  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 6
+mnull07  strict min p with pairs: 24  pairs p24=5  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 18
+mnull08  strict min p with pairs: 25  pairs p24=0  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 8
+mnull09  strict min p with pairs: 24  pairs p24=12  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 6
+mnull10  strict min p with pairs: 24  pairs p24=1  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 8
+mnull11  strict min p with pairs: 24  pairs p24=18  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 6
+mnull12  strict min p with pairs: 24  pairs p24=20  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 18
+mnull13  strict min p with pairs: 17  pairs p24=3  one-error min p: 17  drops with pairs at p<=16: 0  p17-23: 24
+mnull14  strict min p with pairs: 24  pairs p24=15  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 12
+mnull15  strict min p with pairs: 25  pairs p24=0  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 6
+mnull16  strict min p with pairs: 24  pairs p24=9  one-error min p: 17  drops with pairs at p<=16: 0  p17-23: 10
+mnull17  strict min p with pairs: 24  pairs p24=13  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 2
+mnull18  strict min p with pairs: 24  pairs p24=11  one-error min p: 23  drops with pairs at p<=16: 0  p17-23: 2
+mnull19  strict min p with pairs: 24  pairs p24=11  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 20
+mnull20  strict min p with pairs: 23  pairs p24=0  one-error min p: 23  drops with pairs at p<=16: 0  p17-23: 24
+null1    strict min p with pairs: 25  pairs p24=0  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 8
+null2    strict min p with pairs: 24  pairs p24=3  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 6
+null3    strict min p with pairs: 25  pairs p24=0  one-error min p: 18  drops with pairs at p<=16: 0  p17-23: 12
+null4    strict min p with pairs: 25  pairs p24=0  one-error min p: 23  drops with pairs at p<=16: 0  p17-23: 8
