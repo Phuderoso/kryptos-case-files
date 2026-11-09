@@ -1,0 +1,135 @@
+== ctl0.out
+FULL perm=798 model=A mode=21 text=carter1 offset=182208
+SUMMARY perms=2000 best=24 full=1 hist: 0:204692 1:1573114 2:1107463 3:430827 4:131069 5:14998 6:825 7:31 24:1
+== ctl1.out
+FULL perm=768 model=B mode=9 text=kjv_john offset=24383
+FULL perm=768 model=B mode=9 text=kjv_nt offset=286709
+SUMMARY perms=2000 best=24 full=2 hist: 0:202164 1:1579457 2:1097271 3:435900 4:130100 5:14662 6:727 7:36 8:1 24:2
+== ctl10.out
+FULL perm=1016 model=A mode=16 text=kjv_nt_rev offset=655647
+SUMMARY perms=2000 best=24 full=1 hist: 0:211644 1:1589759 2:1085996 3:431497 4:128229 5:14388 6:716 7:29 8:4 9:1 24:1
+== ctl11.out
+FULL perm=1190 model=B mode=7 text=cyc_KAtableau_rows offset=237
+SUMMARY perms=2000 best=24 full=1 hist: 0:205292 1:1630411 2:1079059 3:417865 4:118218 5:12264 6:643 7:22 8:1 24:1
+== ctl2.out
+FULL perm=1805 model=A mode=8 text=cyc_K3pt offset=88
+FULL perm=1805 model=A mode=8 text=cyc_K123pt offset=521
+FULL perm=1805 model=A mode=8 text=cyc_K123pt_K0 offset=602
+CAND depth=15 perm=1805 model=A mode=8 text=carter1
+SUMMARY perms=2000 best=24 full=3 hist: 0:214280 1:1677715 2:1108067 3:374948 4:80813 5:7923 6:537 7:129 10:8 15:1 24:3
+== ctl3.out
+FULL perm=227 model=B mode=20 text=natsec_act_1947_amended offset=414630
+SUMMARY perms=2000 best=24 full=1 hist: 0:225140 1:1628343 2:1073028 3:412343 4:113199 5:11363 6:548 7:27 24:1
+== ctl4.out
+CAND depth=15 perm=659 model=A mode=4 text=carter1_rev
+FULL perm=659 model=A mode=4 text=smith_rev offset=2582
+SUMMARY perms=2000 best=24 full=1 hist: 0:207084 1:1613289 2:1089567 3:420552 4:117384 5:12353 6:634 7:31 15:1 24:1
+== ctl5.out
+FULL perm=597 model=B mode=10 text=kjv_nt offset=154480
+SUMMARY perms=2000 best=24 full=1 hist: 0:219096 1:1641886 2:1063642 3:413732 4:111770 5:11658 6:598 7:25 24:1
+== ctl6.out
+FULL perm=671 model=A mode=22 text=reagan_berlin offset=1187
+SUMMARY perms=2000 best=24 full=1 hist: 0:244002 1:1586082 2:1077899 3:422963 4:119678 5:12861 6:622 7:26 8:2 24:1
+== ctl7.out
+FULL perm=1606 model=B mode=8 text=cyc_K1pt offset=60
+SUMMARY perms=2000 best=24 full=1 hist: 0:212020 1:1589721 2:1096702 3:428444 4:124394 5:13373 6:713 7:25 8:3 24:1
+== ctl8.out
+FULL perm=1836 model=A mode=22 text=carter1_rev offset=57420
+SUMMARY perms=2000 best=24 full=1 hist: 0:210824 1:1622267 2:1073895 3:422376 4:121559 5:13208 6:695 7:24 8:5 10:2 24:1
+== ctl9.out
+FULL perm=432 model=B mode=15 text=cyc_K123pt_K0 offset=66
+SUMMARY perms=2000 best=24 full=1 hist: 0:194262 1:1600496 2:1092968 3:429975 4:128123 5:13566 6:752 7:32 8:1 24:1
+== k4_chunk_00.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1151368 1:8374716 2:5610605 3:2147810 4:593714 5:63177 6:3290 7:162 8:6
+== k4_chunk_01.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1150612 1:8353963 2:5599070 3:2165478 4:607488 5:64935 6:3508 7:151 8:3
+== k4_chunk_02.out
+CAND depth=9 perm=1760 model=B mode=1 text=kjv_nt_rev
+SUMMARY perms=10362 best=9 full=0 hist: 0:1151212 1:8360977 2:5607410 3:2156301 4:602266 5:63881 6:3513 7:144 8:7 9:1
+== k4_chunk_03.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1153196 1:8352933 2:5596493 3:2164926 4:607294 5:65171 6:3322 7:142 8:3
+== k4_chunk_04.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1152668 1:8358393 2:5604898 3:2159898 4:603308 5:64303 6:3396 7:138 8:6
+== k4_chunk_05.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1151672 1:8354705 2:5588272 3:2168390 4:610722 5:64841 6:3484 7:165 8:5
+== k4_chunk_06.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1153064 1:8360427 2:5605664 3:2158494 4:599169 5:64630 6:3362 7:177 8:5
+== k4_chunk_07.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1152904 1:8351938 2:5600227 3:2163810 4:606820 5:64527 6:3257 7:136 8:5
+== k4_chunk_08.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1152820 1:8357132 2:5601454 3:2160083 4:604476 5:63787 6:3362 7:146 8:4
+== k4_chunk_09.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1152596 1:8352408 2:5594224 3:2166824 4:609452 5:65088 6:3329 7:133 8:2
+== k4_chunk_10.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1152600 1:8359798 2:5606704 3:2158871 4:599653 5:63528 6:3382 7:161 8:7
+== k4_chunk_11.out
+SUMMARY perms=10362 best=8 full=0 hist: 0:1152588 1:8352326 2:5601848 3:2164074 4:608607 5:63863 6:3416 7:135 8:7
+== k4_chunk_12.out
+CAND depth=9 perm=5164 model=B mode=1 text=kjv_nt_rev
+SUMMARY perms=10362 best=9 full=0 hist: 0:1152664 1:8359535 2:5609012 3:2158279 4:598968 5:63572 6:3460 7:143 8:6 9:1
+== k4_chunk_13.out
+CAND depth=9 perm=6165 model=B mode=22 text=kjv_nt_rev
+SUMMARY perms=10362 best=9 full=0 hist: 0:1152704 1:8359666 2:5592498 3:2166432 4:607606 5:64338 6:3442 7:171 8:6 9:1
+== k4_chunk_14.out
+CAND depth=9 perm=6511 model=B mode=20 text=natsec_act_1947_amended_rev
+SUMMARY perms=10362 best=9 full=0 hist: 0:1152220 1:8355947 2:5600680 3:2162699 4:604584 5:64001 6:3200 7:143 8:5 9:1
+== k4_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1151764 1:8518243 2:5696168 3:2001813 4:501818 5:51847 6:2711 7:175 8:5
+== null0_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1160328 1:8537737 2:5665049 3:2004498 4:501849 5:52500 6:2892 7:118 8:5
+== null10_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1145296 1:8529226 2:5699123 3:1994661 4:507451 5:52748 6:2940 7:147 8:8
+== null11_chunk_15.out
+CAND depth=9 perm=3392 model=B mode=3 text=smith_rev
+SUMMARY perms=10352 best=9 full=0 hist: 0:1136500 1:8516451 2:5707797 3:2017912 4:498066 5:52348 6:2892 7:133 8:4 9:1
+== null12_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1142160 1:8512442 2:5697089 3:2015687 4:503175 5:54181 6:3030 7:158 8:6
+== null13_chunk_15.out
+CAND depth=9 perm=9605 model=A mode=19 text=kjv_nt
+SUMMARY perms=10352 best=9 full=0 hist: 0:1139824 1:8518151 2:5721306 3:1994815 4:499275 5:52392 6:3058 7:111 8:3 9:1
+== null14_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1133432 1:8522592 2:5704871 3:2011557 4:501674 5:53080 6:2882 7:140 8:4
+== null15_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1161188 1:8515898 2:5712727 3:1985175 4:501085 5:52704 6:2923 7:113 8:3
+== null16_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1163868 1:8530771 2:5681793 3:1996267 4:497709 5:52576 6:2951 7:117 8:4
+== null17_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1124424 1:8549880 2:5681899 3:2012346 4:502186 5:51117 6:2732 7:170 8:6
+== null18_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1165504 1:8522464 2:5694869 3:1981768 4:501701 5:53026 6:2853 7:122 8:5
+== null19_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1145188 1:8557218 2:5682445 3:1991202 4:494866 5:52659 6:2851 7:121 8:10
+== null1_chunk_15.out
+CAND depth=9 perm=8382 model=A mode=8 text=kjv_nt
+SUMMARY perms=10352 best=9 full=0 hist: 0:1166316 1:8521931 2:5686505 3:2000579 4:499140 5:52388 6:2970 7:110 8:4 9:1
+== null20_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1154300 1:8530589 2:5680912 3:2005732 4:500491 5:52238 6:2666 7:133 8:3
+== null21_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1131440 1:8551827 2:5676674 3:2011847 4:500086 5:51535 6:2748 7:112 8:3
+== null22_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1166016 1:8522300 2:5693243 3:1997563 4:493836 5:52316 6:2954 7:122 8:10
+== null23_chunk_15.out
+CAND depth=9 perm=5220 model=B mode=8 text=carter1_rev
+SUMMARY perms=10352 best=9 full=0 hist: 0:1120924 1:8529962 2:5711793 3:1999897 4:506707 5:53314 6:2902 7:120 8:4 9:1
+== null2_chunk_15.out
+CAND depth=9 perm=4246 model=A mode=22 text=kjv_nt
+SUMMARY perms=10352 best=9 full=0 hist: 0:1151532 1:8525806 2:5699900 3:1999538 4:499795 5:51681 6:3199 7:139 8:9 9:1
+== null3_chunk_15.out
+CAND depth=9 perm=4719 model=A mode=5 text=kjv_nt
+SUMMARY perms=10352 best=9 full=0 hist: 0:1157284 1:8506321 2:5685916 3:2015342 4:506205 5:52380 6:2971 7:135 8:5 9:1
+== null4_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1153044 1:8528601 2:5684817 3:2000640 4:499155 5:53243 6:2877 7:144 8:7
+== null5_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1126632 1:8539743 2:5692305 3:2004142 4:506561 5:52401 6:3207 7:123 8:6
+== null6_chunk_15.out
+CAND depth=9 perm=9902 model=A mode=5 text=kjv_john_rev
+CAND depth=9 perm=9903 model=A mode=5 text=kjv_john_rev
+CAND depth=10 perm=9902 model=A mode=5 text=kjv_nt_rev
+CAND depth=12 perm=9903 model=A mode=5 text=kjv_nt_rev
+SUMMARY perms=10352 best=12 full=0 hist: 0:1155308 1:8494834 2:5712125 3:2005294 4:501828 5:52808 6:2884 7:102 8:5 9:2 10:1 12:1
+== null7_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1142308 1:8520893 2:5701730 3:1996596 4:508416 5:54985 6:2996 7:142 8:6
+== null8_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1163100 1:8516426 2:5684175 3:2005575 4:503623 5:53662 6:3157 7:151 8:3
+== null9_chunk_15.out
+SUMMARY perms=10352 best=8 full=0 hist: 0:1131256 1:8503845 2:5714707 3:2017596 4:506446 5:52651 6:3026 7:123 8:6
