@@ -1,0 +1,34 @@
+== K4 (full set: M0 L1-6, M1 L1-2; all_s8: M1 L3)
+K4 M0 L1-5  full fits 0 strict 0 slotfits 0 pass2 24346369 END True bad []
+K4 M0 L6    full fits 0 strict 0 slotfits 0 pass2 72102370 END True bad []
+K4 M1 L1-2  full fits 0 strict 0 slotfits 0 pass2 277429 END True bad []
+K4 M1 L3    s8   fits 0 strict 0 slotfits 0 pass2 107239 END True bad []
+== all_s64 (K4 + 19 nulls)
+k4 M0 L1-5: fits 0 pass2 376786 M0 L6: fits 0 pass2 1121967 M1 L1-2: fits 0 pass2 4903 M1 L3: fits 0 pass2 13529
+n18111 M0 L1-5: fits 0 pass2 382120 M0 L6: fits 0 pass2 1133264 M1 L1-2: fits 0 pass2 4918 M1 L3: fits 0 pass2 13192
+n18112 M0 L1-5: fits 0 pass2 382298 M0 L6: fits 0 pass2 1126164 M1 L1-2: fits 0 pass2 4222 M1 L3: fits 0 pass2 12940
+n18113 M0 L1-5: fits 0 pass2 389614 M0 L6: fits 0 pass2 1137776 M1 L1-2: fits 0 pass2 4206 M1 L3: fits 0 pass2 12126
+n18114 M0 L1-5: fits 0 pass2 377788 M0 L6: fits 0 pass2 1123027 M1 L1-2: fits 0 pass2 3584 M1 L3: fits 0 pass2 12159
+n18115 M0 L1-5: fits 0 pass2 386245 M0 L6: fits 0 pass2 1130172 M1 L1-2: fits 0 pass2 4424 M1 L3: fits 0 pass2 13322
+n18116 M0 L1-5: fits 0 pass2 381520 M0 L6: fits 0 pass2 1130466 M1 L1-2: fits 0 pass2 3921 M1 L3: fits 0 pass2 12666
+n18117 M0 L1-5: fits 0 pass2 376043 M0 L6: fits 0 pass2 1126855 M1 L1-2: fits 0 pass2 4866 M1 L3: fits 0 pass2 12821
+n18118 M0 L1-5: fits 0 pass2 375245 M0 L6: fits 0 pass2 1129723 M1 L1-2: fits 0 pass2 4874 M1 L3: fits 0 pass2 13333
+n18119 M0 L1-5: fits 0 pass2 379707 M0 L6: fits 0 pass2 1126575 M1 L1-2: fits 0 pass2 4100 M1 L3: fits 0 pass2 12453
+n18120 M0 L1-5: fits 0 pass2 375722 M0 L6: fits 0 pass2 1120881 M1 L1-2: fits 0 pass2 4129 M1 L3: fits 0 pass2 11920
+n18121 M0 L1-5: fits 0 pass2 369624 M0 L6: fits 0 pass2 1116881 M1 L1-2: fits 0 pass2 4143 M1 L3: fits 0 pass2 12961
+n18122 M0 L1-5: fits 0 pass2 377811 M0 L6: fits 0 pass2 1132504 M1 L1-2: fits 0 pass2 4309 M1 L3: fits 0 pass2 13098
+n18123 M0 L1-5: fits 0 pass2 377276 M0 L6: fits 0 pass2 1118675 M1 L1-2: fits 0 pass2 4602 M1 L3: fits 0 pass2 12612
+n18124 M0 L1-5: fits 0 pass2 385393 M0 L6: fits 0 pass2 1141189 M1 L1-2: fits 0 pass2 4204 M1 L3: fits 0 pass2 12568
+n18125 M0 L1-5: fits 0 pass2 378664 M0 L6: fits 0 pass2 1122505 M1 L1-2: fits 0 pass2 3942 M1 L3: fits 0 pass2 12828
+n18126 M0 L1-5: fits 0 pass2 378195 M0 L6: fits 0 pass2 1121456 M1 L1-2: fits 0 pass2 3712 M1 L3: fits 0 pass2 11863
+n18127 M0 L1-5: fits 0 pass2 383550 M0 L6: fits 0 pass2 1135997 M1 L1-2: fits 0 pass2 4477 M1 L3: fits 0 pass2 13113
+n18128 M0 L1-5: fits 0 pass2 382951 M0 L6: fits 0 pass2 1132878 M1 L1-2: fits 0 pass2 4382 M1 L3: fits 0 pass2 12931
+n18129 M0 L1-5: fits 0 pass2 380560 M0 L6: fits 0 pass2 1125044 M1 L1-2: fits 0 pass2 4436 M1 L3: fits 0 pass2 13033
+== grid (empirical rank among 20 texts; D1 = M0 one-error mod-2 passes L5-6, D2 = M1 one-error mod-2 passes L1-3; fit cells reported, scored only if not all-zero)
+M0 L1-5: all zero (reported, not scored)
+M0 L6: all zero (reported, not scored)
+M1 L1-2: all zero (reported, not scored)
+M1 L3: all zero (reported, not scored)
+D1: K4 1403785 nulls 1395005-1429960 mean 1412366.1 p+ 0.80 p- 0.25
+D2: K4 18432 nulls 15575-18207 mean 17020.5 p+ 0.05 p- 1.00
+grid p+ 0.05 (min over cells) / p- 0.25  [no multiplicity correction; floor 0.05]

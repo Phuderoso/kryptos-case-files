@@ -1,0 +1,1140 @@
+## out/n18111.m0s64.txt
+H n18111 0 1 q1 vig perms 2591 pairs 56326 pass2 519 fits 0 strict 0 slotfits 0
+H n18111 0 1 q1 beau perms 2591 pairs 56326 pass2 519 fits 0 strict 0 slotfits 0
+H n18111 0 1 q2 vig perms 2591 pairs 56326 pass2 567 fits 0 strict 0 slotfits 0
+H n18111 0 1 q2 beau perms 2591 pairs 56326 pass2 567 fits 0 strict 0 slotfits 0
+H n18111 0 1 q3 vig perms 2591 pairs 56326 pass2 531 fits 0 strict 0 slotfits 0
+H n18111 0 1 q3 beau perms 2591 pairs 56326 pass2 531 fits 0 strict 0 slotfits 0
+H n18111 0 2 q1 vig perms 2591 pairs 56326 pass2 1734 fits 0 strict 0 slotfits 0
+H n18111 0 2 q1 beau perms 2591 pairs 56326 pass2 1734 fits 0 strict 0 slotfits 0
+H n18111 0 2 q2 vig perms 2591 pairs 56326 pass2 1487 fits 0 strict 0 slotfits 0
+H n18111 0 2 q2 beau perms 2591 pairs 56326 pass2 1487 fits 0 strict 0 slotfits 0
+H n18111 0 2 q3 vig perms 2591 pairs 56326 pass2 1560 fits 0 strict 0 slotfits 0
+H n18111 0 2 q3 beau perms 2591 pairs 56326 pass2 1560 fits 0 strict 0 slotfits 0
+H n18111 0 3 q1 vig perms 2591 pairs 56326 pass2 5969 fits 0 strict 0 slotfits 0
+H n18111 0 3 q1 beau perms 2591 pairs 56326 pass2 5969 fits 0 strict 0 slotfits 0
+H n18111 0 3 q2 vig perms 2591 pairs 56326 pass2 6093 fits 0 strict 0 slotfits 0
+H n18111 0 3 q2 beau perms 2591 pairs 56326 pass2 6093 fits 0 strict 0 slotfits 0
+H n18111 0 3 q3 vig perms 2591 pairs 56326 pass2 6064 fits 0 strict 0 slotfits 0
+H n18111 0 3 q3 beau perms 2591 pairs 56326 pass2 6064 fits 0 strict 0 slotfits 0
+H n18111 0 4 q1 vig perms 2591 pairs 56326 pass2 23679 fits 0 strict 0 slotfits 0
+H n18111 0 4 q1 beau perms 2591 pairs 56326 pass2 23679 fits 0 strict 0 slotfits 0
+H n18111 0 4 q2 vig perms 2591 pairs 56326 pass2 23992 fits 0 strict 0 slotfits 0
+H n18111 0 4 q2 beau perms 2591 pairs 56326 pass2 23992 fits 0 strict 0 slotfits 0
+H n18111 0 4 q3 vig perms 2591 pairs 56326 pass2 23743 fits 0 strict 0 slotfits 0
+H n18111 0 4 q3 beau perms 2591 pairs 56326 pass2 23743 fits 0 strict 0 slotfits 0
+H n18111 0 5 q1 vig perms 2591 pairs 56326 pass2 94440 fits 0 strict 0 slotfits 0
+H n18111 0 5 q1 beau perms 2591 pairs 56326 pass2 94440 fits 0 strict 0 slotfits 0
+H n18111 0 5 q2 vig perms 2591 pairs 56326 pass2 96563 fits 0 strict 0 slotfits 0
+H n18111 0 5 q2 beau perms 2591 pairs 56326 pass2 96563 fits 0 strict 0 slotfits 0
+H n18111 0 5 q3 vig perms 2591 pairs 56326 pass2 95179 fits 0 strict 0 slotfits 0
+H n18111 0 5 q3 beau perms 2591 pairs 56326 pass2 95179 fits 0 strict 0 slotfits 0
+H n18111 0 6 q1 vig perms 2591 pairs 56326 pass2 374282 fits 0 strict 0 slotfits 0
+H n18111 0 6 q1 beau perms 2591 pairs 56326 pass2 374282 fits 0 strict 0 slotfits 0
+H n18111 0 6 q2 vig perms 2591 pairs 56326 pass2 380005 fits 0 strict 0 slotfits 0
+H n18111 0 6 q2 beau perms 2591 pairs 56326 pass2 380005 fits 0 strict 0 slotfits 0
+H n18111 0 6 q3 vig perms 2591 pairs 56326 pass2 378977 fits 0 strict 0 slotfits 0
+H n18111 0 6 q3 beau perms 2591 pairs 56326 pass2 378977 fits 0 strict 0 slotfits 0
+O n18111 overflow 0 mismatch 0
+END n18111 0 2591
+## out/n18111.m1s64.txt
+H n18111 1 1 q1 vig perms 2591 pairs 56326 pass2 496 fits 0 strict 0 slotfits 0
+H n18111 1 1 q1 beau perms 2591 pairs 56326 pass2 496 fits 0 strict 0 slotfits 0
+H n18111 1 1 q2 vig perms 2591 pairs 56326 pass2 300 fits 0 strict 0 slotfits 0
+H n18111 1 1 q2 beau perms 2591 pairs 56326 pass2 300 fits 0 strict 0 slotfits 0
+H n18111 1 1 q3 vig perms 2591 pairs 56326 pass2 364 fits 0 strict 0 slotfits 0
+H n18111 1 1 q3 beau perms 2591 pairs 56326 pass2 364 fits 0 strict 0 slotfits 0
+H n18111 1 2 q1 vig perms 2591 pairs 56326 pass2 1476 fits 0 strict 0 slotfits 0
+H n18111 1 2 q1 beau perms 2591 pairs 56326 pass2 1476 fits 0 strict 0 slotfits 0
+H n18111 1 2 q2 vig perms 2591 pairs 56326 pass2 1129 fits 0 strict 0 slotfits 0
+H n18111 1 2 q2 beau perms 2591 pairs 56326 pass2 1129 fits 0 strict 0 slotfits 0
+H n18111 1 2 q3 vig perms 2591 pairs 56326 pass2 1153 fits 0 strict 0 slotfits 0
+H n18111 1 2 q3 beau perms 2591 pairs 56326 pass2 1153 fits 0 strict 0 slotfits 0
+H n18111 1 3 q1 vig perms 2591 pairs 56326 pass2 4539 fits 0 strict 0 slotfits 0
+H n18111 1 3 q1 beau perms 2591 pairs 56326 pass2 4539 fits 0 strict 0 slotfits 0
+H n18111 1 3 q2 vig perms 2591 pairs 56326 pass2 4268 fits 0 strict 0 slotfits 0
+H n18111 1 3 q2 beau perms 2591 pairs 56326 pass2 4268 fits 0 strict 0 slotfits 0
+H n18111 1 3 q3 vig perms 2591 pairs 56326 pass2 4385 fits 0 strict 0 slotfits 0
+H n18111 1 3 q3 beau perms 2591 pairs 56326 pass2 4385 fits 0 strict 0 slotfits 0
+O n18111 overflow 0 mismatch 0
+END n18111 0 2591
+## out/n18112.m0s64.txt
+H n18112 0 1 q1 vig perms 2591 pairs 56326 pass2 525 fits 0 strict 0 slotfits 0
+H n18112 0 1 q1 beau perms 2591 pairs 56326 pass2 525 fits 0 strict 0 slotfits 0
+H n18112 0 1 q2 vig perms 2591 pairs 56326 pass2 398 fits 0 strict 0 slotfits 0
+H n18112 0 1 q2 beau perms 2591 pairs 56326 pass2 398 fits 0 strict 0 slotfits 0
+H n18112 0 1 q3 vig perms 2591 pairs 56326 pass2 456 fits 0 strict 0 slotfits 0
+H n18112 0 1 q3 beau perms 2591 pairs 56326 pass2 456 fits 0 strict 0 slotfits 0
+H n18112 0 2 q1 vig perms 2591 pairs 56326 pass2 1547 fits 0 strict 0 slotfits 0
+H n18112 0 2 q1 beau perms 2591 pairs 56326 pass2 1547 fits 0 strict 0 slotfits 0
+H n18112 0 2 q2 vig perms 2591 pairs 56326 pass2 1386 fits 0 strict 0 slotfits 0
+H n18112 0 2 q2 beau perms 2591 pairs 56326 pass2 1386 fits 0 strict 0 slotfits 0
+H n18112 0 2 q3 vig perms 2591 pairs 56326 pass2 1660 fits 0 strict 0 slotfits 0
+H n18112 0 2 q3 beau perms 2591 pairs 56326 pass2 1660 fits 0 strict 0 slotfits 0
+H n18112 0 3 q1 vig perms 2591 pairs 56326 pass2 5553 fits 0 strict 0 slotfits 0
+H n18112 0 3 q1 beau perms 2591 pairs 56326 pass2 5553 fits 0 strict 0 slotfits 0
+H n18112 0 3 q2 vig perms 2591 pairs 56326 pass2 6107 fits 0 strict 0 slotfits 0
+H n18112 0 3 q2 beau perms 2591 pairs 56326 pass2 6107 fits 0 strict 0 slotfits 0
+H n18112 0 3 q3 vig perms 2591 pairs 56326 pass2 6017 fits 0 strict 0 slotfits 0
+H n18112 0 3 q3 beau perms 2591 pairs 56326 pass2 6017 fits 0 strict 0 slotfits 0
+H n18112 0 4 q1 vig perms 2591 pairs 56326 pass2 25866 fits 0 strict 0 slotfits 0
+H n18112 0 4 q1 beau perms 2591 pairs 56326 pass2 25866 fits 0 strict 0 slotfits 0
+H n18112 0 4 q2 vig perms 2591 pairs 56326 pass2 23145 fits 0 strict 0 slotfits 0
+H n18112 0 4 q2 beau perms 2591 pairs 56326 pass2 23145 fits 0 strict 0 slotfits 0
+H n18112 0 4 q3 vig perms 2591 pairs 56326 pass2 23806 fits 0 strict 0 slotfits 0
+H n18112 0 4 q3 beau perms 2591 pairs 56326 pass2 23806 fits 0 strict 0 slotfits 0
+H n18112 0 5 q1 vig perms 2591 pairs 56326 pass2 98118 fits 0 strict 0 slotfits 0
+H n18112 0 5 q1 beau perms 2591 pairs 56326 pass2 98118 fits 0 strict 0 slotfits 0
+H n18112 0 5 q2 vig perms 2591 pairs 56326 pass2 92555 fits 0 strict 0 slotfits 0
+H n18112 0 5 q2 beau perms 2591 pairs 56326 pass2 92555 fits 0 strict 0 slotfits 0
+H n18112 0 5 q3 vig perms 2591 pairs 56326 pass2 95159 fits 0 strict 0 slotfits 0
+H n18112 0 5 q3 beau perms 2591 pairs 56326 pass2 95159 fits 0 strict 0 slotfits 0
+H n18112 0 6 q1 vig perms 2591 pairs 56326 pass2 380709 fits 0 strict 0 slotfits 0
+H n18112 0 6 q1 beau perms 2591 pairs 56326 pass2 380709 fits 0 strict 0 slotfits 0
+H n18112 0 6 q2 vig perms 2591 pairs 56326 pass2 369815 fits 0 strict 0 slotfits 0
+H n18112 0 6 q2 beau perms 2591 pairs 56326 pass2 369815 fits 0 strict 0 slotfits 0
+H n18112 0 6 q3 vig perms 2591 pairs 56326 pass2 375640 fits 0 strict 0 slotfits 0
+H n18112 0 6 q3 beau perms 2591 pairs 56326 pass2 375640 fits 0 strict 0 slotfits 0
+O n18112 overflow 0 mismatch 0
+END n18112 0 2591
+## out/n18112.m1s64.txt
+H n18112 1 1 q1 vig perms 2591 pairs 56326 pass2 379 fits 0 strict 0 slotfits 0
+H n18112 1 1 q1 beau perms 2591 pairs 56326 pass2 379 fits 0 strict 0 slotfits 0
+H n18112 1 1 q2 vig perms 2591 pairs 56326 pass2 195 fits 0 strict 0 slotfits 0
+H n18112 1 1 q2 beau perms 2591 pairs 56326 pass2 195 fits 0 strict 0 slotfits 0
+H n18112 1 1 q3 vig perms 2591 pairs 56326 pass2 408 fits 0 strict 0 slotfits 0
+H n18112 1 1 q3 beau perms 2591 pairs 56326 pass2 408 fits 0 strict 0 slotfits 0
+H n18112 1 2 q1 vig perms 2591 pairs 56326 pass2 1091 fits 0 strict 0 slotfits 0
+H n18112 1 2 q1 beau perms 2591 pairs 56326 pass2 1091 fits 0 strict 0 slotfits 0
+H n18112 1 2 q2 vig perms 2591 pairs 56326 pass2 898 fits 0 strict 0 slotfits 0
+H n18112 1 2 q2 beau perms 2591 pairs 56326 pass2 898 fits 0 strict 0 slotfits 0
+H n18112 1 2 q3 vig perms 2591 pairs 56326 pass2 1251 fits 0 strict 0 slotfits 0
+H n18112 1 2 q3 beau perms 2591 pairs 56326 pass2 1251 fits 0 strict 0 slotfits 0
+H n18112 1 3 q1 vig perms 2591 pairs 56326 pass2 4265 fits 0 strict 0 slotfits 0
+H n18112 1 3 q1 beau perms 2591 pairs 56326 pass2 4265 fits 0 strict 0 slotfits 0
+H n18112 1 3 q2 vig perms 2591 pairs 56326 pass2 4296 fits 0 strict 0 slotfits 0
+H n18112 1 3 q2 beau perms 2591 pairs 56326 pass2 4296 fits 0 strict 0 slotfits 0
+H n18112 1 3 q3 vig perms 2591 pairs 56326 pass2 4379 fits 0 strict 0 slotfits 0
+H n18112 1 3 q3 beau perms 2591 pairs 56326 pass2 4379 fits 0 strict 0 slotfits 0
+O n18112 overflow 0 mismatch 0
+END n18112 0 2591
+## out/n18113.m0s64.txt
+H n18113 0 1 q1 vig perms 2591 pairs 56326 pass2 340 fits 0 strict 0 slotfits 0
+H n18113 0 1 q1 beau perms 2591 pairs 56326 pass2 340 fits 0 strict 0 slotfits 0
+H n18113 0 1 q2 vig perms 2591 pairs 56326 pass2 448 fits 0 strict 0 slotfits 0
+H n18113 0 1 q2 beau perms 2591 pairs 56326 pass2 448 fits 0 strict 0 slotfits 0
+H n18113 0 1 q3 vig perms 2591 pairs 56326 pass2 400 fits 0 strict 0 slotfits 0
+H n18113 0 1 q3 beau perms 2591 pairs 56326 pass2 400 fits 0 strict 0 slotfits 0
+H n18113 0 2 q1 vig perms 2591 pairs 56326 pass2 1668 fits 0 strict 0 slotfits 0
+H n18113 0 2 q1 beau perms 2591 pairs 56326 pass2 1668 fits 0 strict 0 slotfits 0
+H n18113 0 2 q2 vig perms 2591 pairs 56326 pass2 1544 fits 0 strict 0 slotfits 0
+H n18113 0 2 q2 beau perms 2591 pairs 56326 pass2 1544 fits 0 strict 0 slotfits 0
+H n18113 0 2 q3 vig perms 2591 pairs 56326 pass2 1584 fits 0 strict 0 slotfits 0
+H n18113 0 2 q3 beau perms 2591 pairs 56326 pass2 1584 fits 0 strict 0 slotfits 0
+H n18113 0 3 q1 vig perms 2591 pairs 56326 pass2 6802 fits 0 strict 0 slotfits 0
+H n18113 0 3 q1 beau perms 2591 pairs 56326 pass2 6802 fits 0 strict 0 slotfits 0
+H n18113 0 3 q2 vig perms 2591 pairs 56326 pass2 5867 fits 0 strict 0 slotfits 0
+H n18113 0 3 q2 beau perms 2591 pairs 56326 pass2 5867 fits 0 strict 0 slotfits 0
+H n18113 0 3 q3 vig perms 2591 pairs 56326 pass2 6264 fits 0 strict 0 slotfits 0
+H n18113 0 3 q3 beau perms 2591 pairs 56326 pass2 6264 fits 0 strict 0 slotfits 0
+H n18113 0 4 q1 vig perms 2591 pairs 56326 pass2 24884 fits 0 strict 0 slotfits 0
+H n18113 0 4 q1 beau perms 2591 pairs 56326 pass2 24884 fits 0 strict 0 slotfits 0
+H n18113 0 4 q2 vig perms 2591 pairs 56326 pass2 23505 fits 0 strict 0 slotfits 0
+H n18113 0 4 q2 beau perms 2591 pairs 56326 pass2 23505 fits 0 strict 0 slotfits 0
+H n18113 0 4 q3 vig perms 2591 pairs 56326 pass2 24124 fits 0 strict 0 slotfits 0
+H n18113 0 4 q3 beau perms 2591 pairs 56326 pass2 24124 fits 0 strict 0 slotfits 0
+H n18113 0 5 q1 vig perms 2591 pairs 56326 pass2 99222 fits 0 strict 0 slotfits 0
+H n18113 0 5 q1 beau perms 2591 pairs 56326 pass2 99222 fits 0 strict 0 slotfits 0
+H n18113 0 5 q2 vig perms 2591 pairs 56326 pass2 97025 fits 0 strict 0 slotfits 0
+H n18113 0 5 q2 beau perms 2591 pairs 56326 pass2 97025 fits 0 strict 0 slotfits 0
+H n18113 0 5 q3 vig perms 2591 pairs 56326 pass2 95937 fits 0 strict 0 slotfits 0
+H n18113 0 5 q3 beau perms 2591 pairs 56326 pass2 95937 fits 0 strict 0 slotfits 0
+H n18113 0 6 q1 vig perms 2591 pairs 56326 pass2 382592 fits 0 strict 0 slotfits 0
+H n18113 0 6 q1 beau perms 2591 pairs 56326 pass2 382592 fits 0 strict 0 slotfits 0
+H n18113 0 6 q2 vig perms 2591 pairs 56326 pass2 377958 fits 0 strict 0 slotfits 0
+H n18113 0 6 q2 beau perms 2591 pairs 56326 pass2 377958 fits 0 strict 0 slotfits 0
+H n18113 0 6 q3 vig perms 2591 pairs 56326 pass2 377226 fits 0 strict 0 slotfits 0
+H n18113 0 6 q3 beau perms 2591 pairs 56326 pass2 377226 fits 0 strict 0 slotfits 0
+O n18113 overflow 0 mismatch 0
+END n18113 0 2591
+## out/n18113.m1s64.txt
+H n18113 1 1 q1 vig perms 2591 pairs 56326 pass2 142 fits 0 strict 0 slotfits 0
+H n18113 1 1 q1 beau perms 2591 pairs 56326 pass2 142 fits 0 strict 0 slotfits 0
+H n18113 1 1 q2 vig perms 2591 pairs 56326 pass2 386 fits 0 strict 0 slotfits 0
+H n18113 1 1 q2 beau perms 2591 pairs 56326 pass2 386 fits 0 strict 0 slotfits 0
+H n18113 1 1 q3 vig perms 2591 pairs 56326 pass2 370 fits 0 strict 0 slotfits 0
+H n18113 1 1 q3 beau perms 2591 pairs 56326 pass2 370 fits 0 strict 0 slotfits 0
+H n18113 1 2 q1 vig perms 2591 pairs 56326 pass2 1032 fits 0 strict 0 slotfits 0
+H n18113 1 2 q1 beau perms 2591 pairs 56326 pass2 1032 fits 0 strict 0 slotfits 0
+H n18113 1 2 q2 vig perms 2591 pairs 56326 pass2 1094 fits 0 strict 0 slotfits 0
+H n18113 1 2 q2 beau perms 2591 pairs 56326 pass2 1094 fits 0 strict 0 slotfits 0
+H n18113 1 2 q3 vig perms 2591 pairs 56326 pass2 1182 fits 0 strict 0 slotfits 0
+H n18113 1 2 q3 beau perms 2591 pairs 56326 pass2 1182 fits 0 strict 0 slotfits 0
+H n18113 1 3 q1 vig perms 2591 pairs 56326 pass2 3681 fits 0 strict 0 slotfits 0
+H n18113 1 3 q1 beau perms 2591 pairs 56326 pass2 3681 fits 0 strict 0 slotfits 0
+H n18113 1 3 q2 vig perms 2591 pairs 56326 pass2 4159 fits 0 strict 0 slotfits 0
+H n18113 1 3 q2 beau perms 2591 pairs 56326 pass2 4159 fits 0 strict 0 slotfits 0
+H n18113 1 3 q3 vig perms 2591 pairs 56326 pass2 4286 fits 0 strict 0 slotfits 0
+H n18113 1 3 q3 beau perms 2591 pairs 56326 pass2 4286 fits 0 strict 0 slotfits 0
+O n18113 overflow 0 mismatch 0
+END n18113 0 2591
+## out/n18114.m0s64.txt
+H n18114 0 1 q1 vig perms 2591 pairs 56326 pass2 401 fits 0 strict 0 slotfits 0
+H n18114 0 1 q1 beau perms 2591 pairs 56326 pass2 401 fits 0 strict 0 slotfits 0
+H n18114 0 1 q2 vig perms 2591 pairs 56326 pass2 369 fits 0 strict 0 slotfits 0
+H n18114 0 1 q2 beau perms 2591 pairs 56326 pass2 369 fits 0 strict 0 slotfits 0
+H n18114 0 1 q3 vig perms 2591 pairs 56326 pass2 436 fits 0 strict 0 slotfits 0
+H n18114 0 1 q3 beau perms 2591 pairs 56326 pass2 436 fits 0 strict 0 slotfits 0
+H n18114 0 2 q1 vig perms 2591 pairs 56326 pass2 1424 fits 0 strict 0 slotfits 0
+H n18114 0 2 q1 beau perms 2591 pairs 56326 pass2 1424 fits 0 strict 0 slotfits 0
+H n18114 0 2 q2 vig perms 2591 pairs 56326 pass2 1494 fits 0 strict 0 slotfits 0
+H n18114 0 2 q2 beau perms 2591 pairs 56326 pass2 1494 fits 0 strict 0 slotfits 0
+H n18114 0 2 q3 vig perms 2591 pairs 56326 pass2 1520 fits 0 strict 0 slotfits 0
+H n18114 0 2 q3 beau perms 2591 pairs 56326 pass2 1520 fits 0 strict 0 slotfits 0
+H n18114 0 3 q1 vig perms 2591 pairs 56326 pass2 5737 fits 0 strict 0 slotfits 0
+H n18114 0 3 q1 beau perms 2591 pairs 56326 pass2 5737 fits 0 strict 0 slotfits 0
+H n18114 0 3 q2 vig perms 2591 pairs 56326 pass2 6896 fits 0 strict 0 slotfits 0
+H n18114 0 3 q2 beau perms 2591 pairs 56326 pass2 6896 fits 0 strict 0 slotfits 0
+H n18114 0 3 q3 vig perms 2591 pairs 56326 pass2 6093 fits 0 strict 0 slotfits 0
+H n18114 0 3 q3 beau perms 2591 pairs 56326 pass2 6093 fits 0 strict 0 slotfits 0
+H n18114 0 4 q1 vig perms 2591 pairs 56326 pass2 23023 fits 0 strict 0 slotfits 0
+H n18114 0 4 q1 beau perms 2591 pairs 56326 pass2 23023 fits 0 strict 0 slotfits 0
+H n18114 0 4 q2 vig perms 2591 pairs 56326 pass2 23965 fits 0 strict 0 slotfits 0
+H n18114 0 4 q2 beau perms 2591 pairs 56326 pass2 23965 fits 0 strict 0 slotfits 0
+H n18114 0 4 q3 vig perms 2591 pairs 56326 pass2 23871 fits 0 strict 0 slotfits 0
+H n18114 0 4 q3 beau perms 2591 pairs 56326 pass2 23871 fits 0 strict 0 slotfits 0
+H n18114 0 5 q1 vig perms 2591 pairs 56326 pass2 95248 fits 0 strict 0 slotfits 0
+H n18114 0 5 q1 beau perms 2591 pairs 56326 pass2 95248 fits 0 strict 0 slotfits 0
+H n18114 0 5 q2 vig perms 2591 pairs 56326 pass2 92207 fits 0 strict 0 slotfits 0
+H n18114 0 5 q2 beau perms 2591 pairs 56326 pass2 92207 fits 0 strict 0 slotfits 0
+H n18114 0 5 q3 vig perms 2591 pairs 56326 pass2 95104 fits 0 strict 0 slotfits 0
+H n18114 0 5 q3 beau perms 2591 pairs 56326 pass2 95104 fits 0 strict 0 slotfits 0
+H n18114 0 6 q1 vig perms 2591 pairs 56326 pass2 373081 fits 0 strict 0 slotfits 0
+H n18114 0 6 q1 beau perms 2591 pairs 56326 pass2 373081 fits 0 strict 0 slotfits 0
+H n18114 0 6 q2 vig perms 2591 pairs 56326 pass2 372966 fits 0 strict 0 slotfits 0
+H n18114 0 6 q2 beau perms 2591 pairs 56326 pass2 372966 fits 0 strict 0 slotfits 0
+H n18114 0 6 q3 vig perms 2591 pairs 56326 pass2 376980 fits 0 strict 0 slotfits 0
+H n18114 0 6 q3 beau perms 2591 pairs 56326 pass2 376980 fits 0 strict 0 slotfits 0
+O n18114 overflow 0 mismatch 0
+END n18114 0 2591
+## out/n18114.m1s64.txt
+H n18114 1 1 q1 vig perms 2591 pairs 56326 pass2 122 fits 0 strict 0 slotfits 0
+H n18114 1 1 q1 beau perms 2591 pairs 56326 pass2 122 fits 0 strict 0 slotfits 0
+H n18114 1 1 q2 vig perms 2591 pairs 56326 pass2 232 fits 0 strict 0 slotfits 0
+H n18114 1 1 q2 beau perms 2591 pairs 56326 pass2 232 fits 0 strict 0 slotfits 0
+H n18114 1 1 q3 vig perms 2591 pairs 56326 pass2 271 fits 0 strict 0 slotfits 0
+H n18114 1 1 q3 beau perms 2591 pairs 56326 pass2 271 fits 0 strict 0 slotfits 0
+H n18114 1 2 q1 vig perms 2591 pairs 56326 pass2 911 fits 0 strict 0 slotfits 0
+H n18114 1 2 q1 beau perms 2591 pairs 56326 pass2 911 fits 0 strict 0 slotfits 0
+H n18114 1 2 q2 vig perms 2591 pairs 56326 pass2 979 fits 0 strict 0 slotfits 0
+H n18114 1 2 q2 beau perms 2591 pairs 56326 pass2 979 fits 0 strict 0 slotfits 0
+H n18114 1 2 q3 vig perms 2591 pairs 56326 pass2 1069 fits 0 strict 0 slotfits 0
+H n18114 1 2 q3 beau perms 2591 pairs 56326 pass2 1069 fits 0 strict 0 slotfits 0
+H n18114 1 3 q1 vig perms 2591 pairs 56326 pass2 3973 fits 0 strict 0 slotfits 0
+H n18114 1 3 q1 beau perms 2591 pairs 56326 pass2 3973 fits 0 strict 0 slotfits 0
+H n18114 1 3 q2 vig perms 2591 pairs 56326 pass2 3985 fits 0 strict 0 slotfits 0
+H n18114 1 3 q2 beau perms 2591 pairs 56326 pass2 3985 fits 0 strict 0 slotfits 0
+H n18114 1 3 q3 vig perms 2591 pairs 56326 pass2 4201 fits 0 strict 0 slotfits 0
+H n18114 1 3 q3 beau perms 2591 pairs 56326 pass2 4201 fits 0 strict 0 slotfits 0
+O n18114 overflow 0 mismatch 0
+END n18114 0 2591
+## out/n18115.m0s64.txt
+H n18115 0 1 q1 vig perms 2591 pairs 56326 pass2 408 fits 0 strict 0 slotfits 0
+H n18115 0 1 q1 beau perms 2591 pairs 56326 pass2 408 fits 0 strict 0 slotfits 0
+H n18115 0 1 q2 vig perms 2591 pairs 56326 pass2 497 fits 0 strict 0 slotfits 0
+H n18115 0 1 q2 beau perms 2591 pairs 56326 pass2 497 fits 0 strict 0 slotfits 0
+H n18115 0 1 q3 vig perms 2591 pairs 56326 pass2 440 fits 0 strict 0 slotfits 0
+H n18115 0 1 q3 beau perms 2591 pairs 56326 pass2 440 fits 0 strict 0 slotfits 0
+H n18115 0 2 q1 vig perms 2591 pairs 56326 pass2 1618 fits 0 strict 0 slotfits 0
+H n18115 0 2 q1 beau perms 2591 pairs 56326 pass2 1618 fits 0 strict 0 slotfits 0
+H n18115 0 2 q2 vig perms 2591 pairs 56326 pass2 1497 fits 0 strict 0 slotfits 0
+H n18115 0 2 q2 beau perms 2591 pairs 56326 pass2 1497 fits 0 strict 0 slotfits 0
+H n18115 0 2 q3 vig perms 2591 pairs 56326 pass2 1528 fits 0 strict 0 slotfits 0
+H n18115 0 2 q3 beau perms 2591 pairs 56326 pass2 1528 fits 0 strict 0 slotfits 0
+H n18115 0 3 q1 vig perms 2591 pairs 56326 pass2 6168 fits 0 strict 0 slotfits 0
+H n18115 0 3 q1 beau perms 2591 pairs 56326 pass2 6168 fits 0 strict 0 slotfits 0
+H n18115 0 3 q2 vig perms 2591 pairs 56326 pass2 6273 fits 0 strict 0 slotfits 0
+H n18115 0 3 q2 beau perms 2591 pairs 56326 pass2 6273 fits 0 strict 0 slotfits 0
+H n18115 0 3 q3 vig perms 2591 pairs 56326 pass2 5995 fits 0 strict 0 slotfits 0
+H n18115 0 3 q3 beau perms 2591 pairs 56326 pass2 5995 fits 0 strict 0 slotfits 0
+H n18115 0 4 q1 vig perms 2591 pairs 56326 pass2 25751 fits 0 strict 0 slotfits 0
+H n18115 0 4 q1 beau perms 2591 pairs 56326 pass2 25751 fits 0 strict 0 slotfits 0
+H n18115 0 4 q2 vig perms 2591 pairs 56326 pass2 24448 fits 0 strict 0 slotfits 0
+H n18115 0 4 q2 beau perms 2591 pairs 56326 pass2 24448 fits 0 strict 0 slotfits 0
+H n18115 0 4 q3 vig perms 2591 pairs 56326 pass2 23835 fits 0 strict 0 slotfits 0
+H n18115 0 4 q3 beau perms 2591 pairs 56326 pass2 23835 fits 0 strict 0 slotfits 0
+H n18115 0 5 q1 vig perms 2591 pairs 56326 pass2 95506 fits 0 strict 0 slotfits 0
+H n18115 0 5 q1 beau perms 2591 pairs 56326 pass2 95506 fits 0 strict 0 slotfits 0
+H n18115 0 5 q2 vig perms 2591 pairs 56326 pass2 97626 fits 0 strict 0 slotfits 0
+H n18115 0 5 q2 beau perms 2591 pairs 56326 pass2 97626 fits 0 strict 0 slotfits 0
+H n18115 0 5 q3 vig perms 2591 pairs 56326 pass2 94655 fits 0 strict 0 slotfits 0
+H n18115 0 5 q3 beau perms 2591 pairs 56326 pass2 94655 fits 0 strict 0 slotfits 0
+H n18115 0 6 q1 vig perms 2591 pairs 56326 pass2 375630 fits 0 strict 0 slotfits 0
+H n18115 0 6 q1 beau perms 2591 pairs 56326 pass2 375630 fits 0 strict 0 slotfits 0
+H n18115 0 6 q2 vig perms 2591 pairs 56326 pass2 378292 fits 0 strict 0 slotfits 0
+H n18115 0 6 q2 beau perms 2591 pairs 56326 pass2 378292 fits 0 strict 0 slotfits 0
+H n18115 0 6 q3 vig perms 2591 pairs 56326 pass2 376250 fits 0 strict 0 slotfits 0
+H n18115 0 6 q3 beau perms 2591 pairs 56326 pass2 376250 fits 0 strict 0 slotfits 0
+O n18115 overflow 0 mismatch 0
+END n18115 0 2591
+## out/n18115.m1s64.txt
+H n18115 1 1 q1 vig perms 2591 pairs 56326 pass2 421 fits 0 strict 0 slotfits 0
+H n18115 1 1 q1 beau perms 2591 pairs 56326 pass2 421 fits 0 strict 0 slotfits 0
+H n18115 1 1 q2 vig perms 2591 pairs 56326 pass2 263 fits 0 strict 0 slotfits 0
+H n18115 1 1 q2 beau perms 2591 pairs 56326 pass2 263 fits 0 strict 0 slotfits 0
+H n18115 1 1 q3 vig perms 2591 pairs 56326 pass2 302 fits 0 strict 0 slotfits 0
+H n18115 1 1 q3 beau perms 2591 pairs 56326 pass2 302 fits 0 strict 0 slotfits 0
+H n18115 1 2 q1 vig perms 2591 pairs 56326 pass2 1302 fits 0 strict 0 slotfits 0
+H n18115 1 2 q1 beau perms 2591 pairs 56326 pass2 1302 fits 0 strict 0 slotfits 0
+H n18115 1 2 q2 vig perms 2591 pairs 56326 pass2 1057 fits 0 strict 0 slotfits 0
+H n18115 1 2 q2 beau perms 2591 pairs 56326 pass2 1057 fits 0 strict 0 slotfits 0
+H n18115 1 2 q3 vig perms 2591 pairs 56326 pass2 1079 fits 0 strict 0 slotfits 0
+H n18115 1 2 q3 beau perms 2591 pairs 56326 pass2 1079 fits 0 strict 0 slotfits 0
+H n18115 1 3 q1 vig perms 2591 pairs 56326 pass2 4486 fits 0 strict 0 slotfits 0
+H n18115 1 3 q1 beau perms 2591 pairs 56326 pass2 4486 fits 0 strict 0 slotfits 0
+H n18115 1 3 q2 vig perms 2591 pairs 56326 pass2 4493 fits 0 strict 0 slotfits 0
+H n18115 1 3 q2 beau perms 2591 pairs 56326 pass2 4493 fits 0 strict 0 slotfits 0
+H n18115 1 3 q3 vig perms 2591 pairs 56326 pass2 4343 fits 0 strict 0 slotfits 0
+H n18115 1 3 q3 beau perms 2591 pairs 56326 pass2 4343 fits 0 strict 0 slotfits 0
+O n18115 overflow 0 mismatch 0
+END n18115 0 2591
+## out/n18116.m0s64.txt
+H n18116 0 1 q1 vig perms 2591 pairs 56326 pass2 314 fits 0 strict 0 slotfits 0
+H n18116 0 1 q1 beau perms 2591 pairs 56326 pass2 314 fits 0 strict 0 slotfits 0
+H n18116 0 1 q2 vig perms 2591 pairs 56326 pass2 370 fits 0 strict 0 slotfits 0
+H n18116 0 1 q2 beau perms 2591 pairs 56326 pass2 370 fits 0 strict 0 slotfits 0
+H n18116 0 1 q3 vig perms 2591 pairs 56326 pass2 401 fits 0 strict 0 slotfits 0
+H n18116 0 1 q3 beau perms 2591 pairs 56326 pass2 401 fits 0 strict 0 slotfits 0
+H n18116 0 2 q1 vig perms 2591 pairs 56326 pass2 1683 fits 0 strict 0 slotfits 0
+H n18116 0 2 q1 beau perms 2591 pairs 56326 pass2 1683 fits 0 strict 0 slotfits 0
+H n18116 0 2 q2 vig perms 2591 pairs 56326 pass2 1395 fits 0 strict 0 slotfits 0
+H n18116 0 2 q2 beau perms 2591 pairs 56326 pass2 1395 fits 0 strict 0 slotfits 0
+H n18116 0 2 q3 vig perms 2591 pairs 56326 pass2 1488 fits 0 strict 0 slotfits 0
+H n18116 0 2 q3 beau perms 2591 pairs 56326 pass2 1488 fits 0 strict 0 slotfits 0
+H n18116 0 3 q1 vig perms 2591 pairs 56326 pass2 6517 fits 0 strict 0 slotfits 0
+H n18116 0 3 q1 beau perms 2591 pairs 56326 pass2 6517 fits 0 strict 0 slotfits 0
+H n18116 0 3 q2 vig perms 2591 pairs 56326 pass2 6223 fits 0 strict 0 slotfits 0
+H n18116 0 3 q2 beau perms 2591 pairs 56326 pass2 6223 fits 0 strict 0 slotfits 0
+H n18116 0 3 q3 vig perms 2591 pairs 56326 pass2 5988 fits 0 strict 0 slotfits 0
+H n18116 0 3 q3 beau perms 2591 pairs 56326 pass2 5988 fits 0 strict 0 slotfits 0
+H n18116 0 4 q1 vig perms 2591 pairs 56326 pass2 23899 fits 0 strict 0 slotfits 0
+H n18116 0 4 q1 beau perms 2591 pairs 56326 pass2 23899 fits 0 strict 0 slotfits 0
+H n18116 0 4 q2 vig perms 2591 pairs 56326 pass2 23480 fits 0 strict 0 slotfits 0
+H n18116 0 4 q2 beau perms 2591 pairs 56326 pass2 23480 fits 0 strict 0 slotfits 0
+H n18116 0 4 q3 vig perms 2591 pairs 56326 pass2 24085 fits 0 strict 0 slotfits 0
+H n18116 0 4 q3 beau perms 2591 pairs 56326 pass2 24085 fits 0 strict 0 slotfits 0
+H n18116 0 5 q1 vig perms 2591 pairs 56326 pass2 95619 fits 0 strict 0 slotfits 0
+H n18116 0 5 q1 beau perms 2591 pairs 56326 pass2 95619 fits 0 strict 0 slotfits 0
+H n18116 0 5 q2 vig perms 2591 pairs 56326 pass2 94549 fits 0 strict 0 slotfits 0
+H n18116 0 5 q2 beau perms 2591 pairs 56326 pass2 94549 fits 0 strict 0 slotfits 0
+H n18116 0 5 q3 vig perms 2591 pairs 56326 pass2 95509 fits 0 strict 0 slotfits 0
+H n18116 0 5 q3 beau perms 2591 pairs 56326 pass2 95509 fits 0 strict 0 slotfits 0
+H n18116 0 6 q1 vig perms 2591 pairs 56326 pass2 378122 fits 0 strict 0 slotfits 0
+H n18116 0 6 q1 beau perms 2591 pairs 56326 pass2 378122 fits 0 strict 0 slotfits 0
+H n18116 0 6 q2 vig perms 2591 pairs 56326 pass2 376264 fits 0 strict 0 slotfits 0
+H n18116 0 6 q2 beau perms 2591 pairs 56326 pass2 376264 fits 0 strict 0 slotfits 0
+H n18116 0 6 q3 vig perms 2591 pairs 56326 pass2 376080 fits 0 strict 0 slotfits 0
+H n18116 0 6 q3 beau perms 2591 pairs 56326 pass2 376080 fits 0 strict 0 slotfits 0
+O n18116 overflow 0 mismatch 0
+END n18116 0 2591
+## out/n18116.m1s64.txt
+H n18116 1 1 q1 vig perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H n18116 1 1 q1 beau perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H n18116 1 1 q2 vig perms 2591 pairs 56326 pass2 275 fits 0 strict 0 slotfits 0
+H n18116 1 1 q2 beau perms 2591 pairs 56326 pass2 275 fits 0 strict 0 slotfits 0
+H n18116 1 1 q3 vig perms 2591 pairs 56326 pass2 266 fits 0 strict 0 slotfits 0
+H n18116 1 1 q3 beau perms 2591 pairs 56326 pass2 266 fits 0 strict 0 slotfits 0
+H n18116 1 2 q1 vig perms 2591 pairs 56326 pass2 1022 fits 0 strict 0 slotfits 0
+H n18116 1 2 q1 beau perms 2591 pairs 56326 pass2 1022 fits 0 strict 0 slotfits 0
+H n18116 1 2 q2 vig perms 2591 pairs 56326 pass2 1030 fits 0 strict 0 slotfits 0
+H n18116 1 2 q2 beau perms 2591 pairs 56326 pass2 1030 fits 0 strict 0 slotfits 0
+H n18116 1 2 q3 vig perms 2591 pairs 56326 pass2 1009 fits 0 strict 0 slotfits 0
+H n18116 1 2 q3 beau perms 2591 pairs 56326 pass2 1009 fits 0 strict 0 slotfits 0
+H n18116 1 3 q1 vig perms 2591 pairs 56326 pass2 4385 fits 0 strict 0 slotfits 0
+H n18116 1 3 q1 beau perms 2591 pairs 56326 pass2 4385 fits 0 strict 0 slotfits 0
+H n18116 1 3 q2 vig perms 2591 pairs 56326 pass2 4152 fits 0 strict 0 slotfits 0
+H n18116 1 3 q2 beau perms 2591 pairs 56326 pass2 4152 fits 0 strict 0 slotfits 0
+H n18116 1 3 q3 vig perms 2591 pairs 56326 pass2 4129 fits 0 strict 0 slotfits 0
+H n18116 1 3 q3 beau perms 2591 pairs 56326 pass2 4129 fits 0 strict 0 slotfits 0
+O n18116 overflow 0 mismatch 0
+END n18116 0 2591
+## out/n18117.m0s64.txt
+H n18117 0 1 q1 vig perms 2591 pairs 56326 pass2 376 fits 0 strict 0 slotfits 0
+H n18117 0 1 q1 beau perms 2591 pairs 56326 pass2 376 fits 0 strict 0 slotfits 0
+H n18117 0 1 q2 vig perms 2591 pairs 56326 pass2 443 fits 0 strict 0 slotfits 0
+H n18117 0 1 q2 beau perms 2591 pairs 56326 pass2 443 fits 0 strict 0 slotfits 0
+H n18117 0 1 q3 vig perms 2591 pairs 56326 pass2 423 fits 0 strict 0 slotfits 0
+H n18117 0 1 q3 beau perms 2591 pairs 56326 pass2 423 fits 0 strict 0 slotfits 0
+H n18117 0 2 q1 vig perms 2591 pairs 56326 pass2 1246 fits 0 strict 0 slotfits 0
+H n18117 0 2 q1 beau perms 2591 pairs 56326 pass2 1246 fits 0 strict 0 slotfits 0
+H n18117 0 2 q2 vig perms 2591 pairs 56326 pass2 1653 fits 0 strict 0 slotfits 0
+H n18117 0 2 q2 beau perms 2591 pairs 56326 pass2 1653 fits 0 strict 0 slotfits 0
+H n18117 0 2 q3 vig perms 2591 pairs 56326 pass2 1544 fits 0 strict 0 slotfits 0
+H n18117 0 2 q3 beau perms 2591 pairs 56326 pass2 1544 fits 0 strict 0 slotfits 0
+H n18117 0 3 q1 vig perms 2591 pairs 56326 pass2 5192 fits 0 strict 0 slotfits 0
+H n18117 0 3 q1 beau perms 2591 pairs 56326 pass2 5192 fits 0 strict 0 slotfits 0
+H n18117 0 3 q2 vig perms 2591 pairs 56326 pass2 6279 fits 0 strict 0 slotfits 0
+H n18117 0 3 q2 beau perms 2591 pairs 56326 pass2 6279 fits 0 strict 0 slotfits 0
+H n18117 0 3 q3 vig perms 2591 pairs 56326 pass2 6194 fits 0 strict 0 slotfits 0
+H n18117 0 3 q3 beau perms 2591 pairs 56326 pass2 6194 fits 0 strict 0 slotfits 0
+H n18117 0 4 q1 vig perms 2591 pairs 56326 pass2 22648 fits 0 strict 0 slotfits 0
+H n18117 0 4 q1 beau perms 2591 pairs 56326 pass2 22648 fits 0 strict 0 slotfits 0
+H n18117 0 4 q2 vig perms 2591 pairs 56326 pass2 24061 fits 0 strict 0 slotfits 0
+H n18117 0 4 q2 beau perms 2591 pairs 56326 pass2 24061 fits 0 strict 0 slotfits 0
+H n18117 0 4 q3 vig perms 2591 pairs 56326 pass2 23729 fits 0 strict 0 slotfits 0
+H n18117 0 4 q3 beau perms 2591 pairs 56326 pass2 23729 fits 0 strict 0 slotfits 0
+H n18117 0 5 q1 vig perms 2591 pairs 56326 pass2 92547 fits 0 strict 0 slotfits 0
+H n18117 0 5 q1 beau perms 2591 pairs 56326 pass2 92547 fits 0 strict 0 slotfits 0
+H n18117 0 5 q2 vig perms 2591 pairs 56326 pass2 94866 fits 0 strict 0 slotfits 0
+H n18117 0 5 q2 beau perms 2591 pairs 56326 pass2 94866 fits 0 strict 0 slotfits 0
+H n18117 0 5 q3 vig perms 2591 pairs 56326 pass2 94842 fits 0 strict 0 slotfits 0
+H n18117 0 5 q3 beau perms 2591 pairs 56326 pass2 94842 fits 0 strict 0 slotfits 0
+H n18117 0 6 q1 vig perms 2591 pairs 56326 pass2 372851 fits 0 strict 0 slotfits 0
+H n18117 0 6 q1 beau perms 2591 pairs 56326 pass2 372851 fits 0 strict 0 slotfits 0
+H n18117 0 6 q2 vig perms 2591 pairs 56326 pass2 379594 fits 0 strict 0 slotfits 0
+H n18117 0 6 q2 beau perms 2591 pairs 56326 pass2 379594 fits 0 strict 0 slotfits 0
+H n18117 0 6 q3 vig perms 2591 pairs 56326 pass2 374410 fits 0 strict 0 slotfits 0
+H n18117 0 6 q3 beau perms 2591 pairs 56326 pass2 374410 fits 0 strict 0 slotfits 0
+O n18117 overflow 0 mismatch 0
+END n18117 0 2591
+## out/n18117.m1s64.txt
+H n18117 1 1 q1 vig perms 2591 pairs 56326 pass2 470 fits 0 strict 0 slotfits 0
+H n18117 1 1 q1 beau perms 2591 pairs 56326 pass2 470 fits 0 strict 0 slotfits 0
+H n18117 1 1 q2 vig perms 2591 pairs 56326 pass2 499 fits 0 strict 0 slotfits 0
+H n18117 1 1 q2 beau perms 2591 pairs 56326 pass2 499 fits 0 strict 0 slotfits 0
+H n18117 1 1 q3 vig perms 2591 pairs 56326 pass2 311 fits 0 strict 0 slotfits 0
+H n18117 1 1 q3 beau perms 2591 pairs 56326 pass2 311 fits 0 strict 0 slotfits 0
+H n18117 1 2 q1 vig perms 2591 pairs 56326 pass2 1025 fits 0 strict 0 slotfits 0
+H n18117 1 2 q1 beau perms 2591 pairs 56326 pass2 1025 fits 0 strict 0 slotfits 0
+H n18117 1 2 q2 vig perms 2591 pairs 56326 pass2 1375 fits 0 strict 0 slotfits 0
+H n18117 1 2 q2 beau perms 2591 pairs 56326 pass2 1375 fits 0 strict 0 slotfits 0
+H n18117 1 2 q3 vig perms 2591 pairs 56326 pass2 1186 fits 0 strict 0 slotfits 0
+H n18117 1 2 q3 beau perms 2591 pairs 56326 pass2 1186 fits 0 strict 0 slotfits 0
+H n18117 1 3 q1 vig perms 2591 pairs 56326 pass2 3864 fits 0 strict 0 slotfits 0
+H n18117 1 3 q1 beau perms 2591 pairs 56326 pass2 3864 fits 0 strict 0 slotfits 0
+H n18117 1 3 q2 vig perms 2591 pairs 56326 pass2 4593 fits 0 strict 0 slotfits 0
+H n18117 1 3 q2 beau perms 2591 pairs 56326 pass2 4593 fits 0 strict 0 slotfits 0
+H n18117 1 3 q3 vig perms 2591 pairs 56326 pass2 4364 fits 0 strict 0 slotfits 0
+H n18117 1 3 q3 beau perms 2591 pairs 56326 pass2 4364 fits 0 strict 0 slotfits 0
+O n18117 overflow 0 mismatch 0
+END n18117 0 2591
+## out/n18118.m0s64.txt
+H n18118 0 1 q1 vig perms 2591 pairs 56326 pass2 564 fits 0 strict 0 slotfits 0
+H n18118 0 1 q1 beau perms 2591 pairs 56326 pass2 564 fits 0 strict 0 slotfits 0
+H n18118 0 1 q2 vig perms 2591 pairs 56326 pass2 502 fits 0 strict 0 slotfits 0
+H n18118 0 1 q2 beau perms 2591 pairs 56326 pass2 502 fits 0 strict 0 slotfits 0
+H n18118 0 1 q3 vig perms 2591 pairs 56326 pass2 399 fits 0 strict 0 slotfits 0
+H n18118 0 1 q3 beau perms 2591 pairs 56326 pass2 399 fits 0 strict 0 slotfits 0
+H n18118 0 2 q1 vig perms 2591 pairs 56326 pass2 1533 fits 0 strict 0 slotfits 0
+H n18118 0 2 q1 beau perms 2591 pairs 56326 pass2 1533 fits 0 strict 0 slotfits 0
+H n18118 0 2 q2 vig perms 2591 pairs 56326 pass2 1490 fits 0 strict 0 slotfits 0
+H n18118 0 2 q2 beau perms 2591 pairs 56326 pass2 1490 fits 0 strict 0 slotfits 0
+H n18118 0 2 q3 vig perms 2591 pairs 56326 pass2 1468 fits 0 strict 0 slotfits 0
+H n18118 0 2 q3 beau perms 2591 pairs 56326 pass2 1468 fits 0 strict 0 slotfits 0
+H n18118 0 3 q1 vig perms 2591 pairs 56326 pass2 5148 fits 0 strict 0 slotfits 0
+H n18118 0 3 q1 beau perms 2591 pairs 56326 pass2 5148 fits 0 strict 0 slotfits 0
+H n18118 0 3 q2 vig perms 2591 pairs 56326 pass2 6571 fits 0 strict 0 slotfits 0
+H n18118 0 3 q2 beau perms 2591 pairs 56326 pass2 6571 fits 0 strict 0 slotfits 0
+H n18118 0 3 q3 vig perms 2591 pairs 56326 pass2 5846 fits 0 strict 0 slotfits 0
+H n18118 0 3 q3 beau perms 2591 pairs 56326 pass2 5846 fits 0 strict 0 slotfits 0
+H n18118 0 4 q1 vig perms 2591 pairs 56326 pass2 22540 fits 0 strict 0 slotfits 0
+H n18118 0 4 q1 beau perms 2591 pairs 56326 pass2 22540 fits 0 strict 0 slotfits 0
+H n18118 0 4 q2 vig perms 2591 pairs 56326 pass2 24101 fits 0 strict 0 slotfits 0
+H n18118 0 4 q2 beau perms 2591 pairs 56326 pass2 24101 fits 0 strict 0 slotfits 0
+H n18118 0 4 q3 vig perms 2591 pairs 56326 pass2 23637 fits 0 strict 0 slotfits 0
+H n18118 0 4 q3 beau perms 2591 pairs 56326 pass2 23637 fits 0 strict 0 slotfits 0
+H n18118 0 5 q1 vig perms 2591 pairs 56326 pass2 92568 fits 0 strict 0 slotfits 0
+H n18118 0 5 q1 beau perms 2591 pairs 56326 pass2 92568 fits 0 strict 0 slotfits 0
+H n18118 0 5 q2 vig perms 2591 pairs 56326 pass2 94113 fits 0 strict 0 slotfits 0
+H n18118 0 5 q2 beau perms 2591 pairs 56326 pass2 94113 fits 0 strict 0 slotfits 0
+H n18118 0 5 q3 vig perms 2591 pairs 56326 pass2 94765 fits 0 strict 0 slotfits 0
+H n18118 0 5 q3 beau perms 2591 pairs 56326 pass2 94765 fits 0 strict 0 slotfits 0
+H n18118 0 6 q1 vig perms 2591 pairs 56326 pass2 372634 fits 0 strict 0 slotfits 0
+H n18118 0 6 q1 beau perms 2591 pairs 56326 pass2 372634 fits 0 strict 0 slotfits 0
+H n18118 0 6 q2 vig perms 2591 pairs 56326 pass2 380165 fits 0 strict 0 slotfits 0
+H n18118 0 6 q2 beau perms 2591 pairs 56326 pass2 380165 fits 0 strict 0 slotfits 0
+H n18118 0 6 q3 vig perms 2591 pairs 56326 pass2 376924 fits 0 strict 0 slotfits 0
+H n18118 0 6 q3 beau perms 2591 pairs 56326 pass2 376924 fits 0 strict 0 slotfits 0
+O n18118 overflow 0 mismatch 0
+END n18118 0 2591
+## out/n18118.m1s64.txt
+H n18118 1 1 q1 vig perms 2591 pairs 56326 pass2 481 fits 0 strict 0 slotfits 0
+H n18118 1 1 q1 beau perms 2591 pairs 56326 pass2 481 fits 0 strict 0 slotfits 0
+H n18118 1 1 q2 vig perms 2591 pairs 56326 pass2 278 fits 0 strict 0 slotfits 0
+H n18118 1 1 q2 beau perms 2591 pairs 56326 pass2 278 fits 0 strict 0 slotfits 0
+H n18118 1 1 q3 vig perms 2591 pairs 56326 pass2 366 fits 0 strict 0 slotfits 0
+H n18118 1 1 q3 beau perms 2591 pairs 56326 pass2 366 fits 0 strict 0 slotfits 0
+H n18118 1 2 q1 vig perms 2591 pairs 56326 pass2 1217 fits 0 strict 0 slotfits 0
+H n18118 1 2 q1 beau perms 2591 pairs 56326 pass2 1217 fits 0 strict 0 slotfits 0
+H n18118 1 2 q2 vig perms 2591 pairs 56326 pass2 1203 fits 0 strict 0 slotfits 0
+H n18118 1 2 q2 beau perms 2591 pairs 56326 pass2 1203 fits 0 strict 0 slotfits 0
+H n18118 1 2 q3 vig perms 2591 pairs 56326 pass2 1329 fits 0 strict 0 slotfits 0
+H n18118 1 2 q3 beau perms 2591 pairs 56326 pass2 1329 fits 0 strict 0 slotfits 0
+H n18118 1 3 q1 vig perms 2591 pairs 56326 pass2 4584 fits 0 strict 0 slotfits 0
+H n18118 1 3 q1 beau perms 2591 pairs 56326 pass2 4584 fits 0 strict 0 slotfits 0
+H n18118 1 3 q2 vig perms 2591 pairs 56326 pass2 4232 fits 0 strict 0 slotfits 0
+H n18118 1 3 q2 beau perms 2591 pairs 56326 pass2 4232 fits 0 strict 0 slotfits 0
+H n18118 1 3 q3 vig perms 2591 pairs 56326 pass2 4517 fits 0 strict 0 slotfits 0
+H n18118 1 3 q3 beau perms 2591 pairs 56326 pass2 4517 fits 0 strict 0 slotfits 0
+O n18118 overflow 0 mismatch 0
+END n18118 0 2591
+## out/n18119.m0s64.txt
+H n18119 0 1 q1 vig perms 2591 pairs 56326 pass2 413 fits 0 strict 0 slotfits 0
+H n18119 0 1 q1 beau perms 2591 pairs 56326 pass2 413 fits 0 strict 0 slotfits 0
+H n18119 0 1 q2 vig perms 2591 pairs 56326 pass2 589 fits 0 strict 0 slotfits 0
+H n18119 0 1 q2 beau perms 2591 pairs 56326 pass2 589 fits 0 strict 0 slotfits 0
+H n18119 0 1 q3 vig perms 2591 pairs 56326 pass2 390 fits 0 strict 0 slotfits 0
+H n18119 0 1 q3 beau perms 2591 pairs 56326 pass2 390 fits 0 strict 0 slotfits 0
+H n18119 0 2 q1 vig perms 2591 pairs 56326 pass2 1343 fits 0 strict 0 slotfits 0
+H n18119 0 2 q1 beau perms 2591 pairs 56326 pass2 1343 fits 0 strict 0 slotfits 0
+H n18119 0 2 q2 vig perms 2591 pairs 56326 pass2 1711 fits 0 strict 0 slotfits 0
+H n18119 0 2 q2 beau perms 2591 pairs 56326 pass2 1711 fits 0 strict 0 slotfits 0
+H n18119 0 2 q3 vig perms 2591 pairs 56326 pass2 1472 fits 0 strict 0 slotfits 0
+H n18119 0 2 q3 beau perms 2591 pairs 56326 pass2 1472 fits 0 strict 0 slotfits 0
+H n18119 0 3 q1 vig perms 2591 pairs 56326 pass2 5552 fits 0 strict 0 slotfits 0
+H n18119 0 3 q1 beau perms 2591 pairs 56326 pass2 5552 fits 0 strict 0 slotfits 0
+H n18119 0 3 q2 vig perms 2591 pairs 56326 pass2 5926 fits 0 strict 0 slotfits 0
+H n18119 0 3 q2 beau perms 2591 pairs 56326 pass2 5926 fits 0 strict 0 slotfits 0
+H n18119 0 3 q3 vig perms 2591 pairs 56326 pass2 6101 fits 0 strict 0 slotfits 0
+H n18119 0 3 q3 beau perms 2591 pairs 56326 pass2 6101 fits 0 strict 0 slotfits 0
+H n18119 0 4 q1 vig perms 2591 pairs 56326 pass2 23031 fits 0 strict 0 slotfits 0
+H n18119 0 4 q1 beau perms 2591 pairs 56326 pass2 23031 fits 0 strict 0 slotfits 0
+H n18119 0 4 q2 vig perms 2591 pairs 56326 pass2 24961 fits 0 strict 0 slotfits 0
+H n18119 0 4 q2 beau perms 2591 pairs 56326 pass2 24961 fits 0 strict 0 slotfits 0
+H n18119 0 4 q3 vig perms 2591 pairs 56326 pass2 23706 fits 0 strict 0 slotfits 0
+H n18119 0 4 q3 beau perms 2591 pairs 56326 pass2 23706 fits 0 strict 0 slotfits 0
+H n18119 0 5 q1 vig perms 2591 pairs 56326 pass2 92082 fits 0 strict 0 slotfits 0
+H n18119 0 5 q1 beau perms 2591 pairs 56326 pass2 92082 fits 0 strict 0 slotfits 0
+H n18119 0 5 q2 vig perms 2591 pairs 56326 pass2 98584 fits 0 strict 0 slotfits 0
+H n18119 0 5 q2 beau perms 2591 pairs 56326 pass2 98584 fits 0 strict 0 slotfits 0
+H n18119 0 5 q3 vig perms 2591 pairs 56326 pass2 93846 fits 0 strict 0 slotfits 0
+H n18119 0 5 q3 beau perms 2591 pairs 56326 pass2 93846 fits 0 strict 0 slotfits 0
+H n18119 0 6 q1 vig perms 2591 pairs 56326 pass2 372621 fits 0 strict 0 slotfits 0
+H n18119 0 6 q1 beau perms 2591 pairs 56326 pass2 372621 fits 0 strict 0 slotfits 0
+H n18119 0 6 q2 vig perms 2591 pairs 56326 pass2 378232 fits 0 strict 0 slotfits 0
+H n18119 0 6 q2 beau perms 2591 pairs 56326 pass2 378232 fits 0 strict 0 slotfits 0
+H n18119 0 6 q3 vig perms 2591 pairs 56326 pass2 375722 fits 0 strict 0 slotfits 0
+H n18119 0 6 q3 beau perms 2591 pairs 56326 pass2 375722 fits 0 strict 0 slotfits 0
+O n18119 overflow 0 mismatch 0
+END n18119 0 2591
+## out/n18119.m1s64.txt
+H n18119 1 1 q1 vig perms 2591 pairs 56326 pass2 217 fits 0 strict 0 slotfits 0
+H n18119 1 1 q1 beau perms 2591 pairs 56326 pass2 217 fits 0 strict 0 slotfits 0
+H n18119 1 1 q2 vig perms 2591 pairs 56326 pass2 433 fits 0 strict 0 slotfits 0
+H n18119 1 1 q2 beau perms 2591 pairs 56326 pass2 433 fits 0 strict 0 slotfits 0
+H n18119 1 1 q3 vig perms 2591 pairs 56326 pass2 291 fits 0 strict 0 slotfits 0
+H n18119 1 1 q3 beau perms 2591 pairs 56326 pass2 291 fits 0 strict 0 slotfits 0
+H n18119 1 2 q1 vig perms 2591 pairs 56326 pass2 927 fits 0 strict 0 slotfits 0
+H n18119 1 2 q1 beau perms 2591 pairs 56326 pass2 927 fits 0 strict 0 slotfits 0
+H n18119 1 2 q2 vig perms 2591 pairs 56326 pass2 1283 fits 0 strict 0 slotfits 0
+H n18119 1 2 q2 beau perms 2591 pairs 56326 pass2 1283 fits 0 strict 0 slotfits 0
+H n18119 1 2 q3 vig perms 2591 pairs 56326 pass2 949 fits 0 strict 0 slotfits 0
+H n18119 1 2 q3 beau perms 2591 pairs 56326 pass2 949 fits 0 strict 0 slotfits 0
+H n18119 1 3 q1 vig perms 2591 pairs 56326 pass2 3989 fits 0 strict 0 slotfits 0
+H n18119 1 3 q1 beau perms 2591 pairs 56326 pass2 3989 fits 0 strict 0 slotfits 0
+H n18119 1 3 q2 vig perms 2591 pairs 56326 pass2 4288 fits 0 strict 0 slotfits 0
+H n18119 1 3 q2 beau perms 2591 pairs 56326 pass2 4288 fits 0 strict 0 slotfits 0
+H n18119 1 3 q3 vig perms 2591 pairs 56326 pass2 4176 fits 0 strict 0 slotfits 0
+H n18119 1 3 q3 beau perms 2591 pairs 56326 pass2 4176 fits 0 strict 0 slotfits 0
+O n18119 overflow 0 mismatch 0
+END n18119 0 2591
+## out/n18120.m0s64.txt
+H n18120 0 1 q1 vig perms 2591 pairs 56326 pass2 392 fits 0 strict 0 slotfits 0
+H n18120 0 1 q1 beau perms 2591 pairs 56326 pass2 392 fits 0 strict 0 slotfits 0
+H n18120 0 1 q2 vig perms 2591 pairs 56326 pass2 318 fits 0 strict 0 slotfits 0
+H n18120 0 1 q2 beau perms 2591 pairs 56326 pass2 318 fits 0 strict 0 slotfits 0
+H n18120 0 1 q3 vig perms 2591 pairs 56326 pass2 388 fits 0 strict 0 slotfits 0
+H n18120 0 1 q3 beau perms 2591 pairs 56326 pass2 388 fits 0 strict 0 slotfits 0
+H n18120 0 2 q1 vig perms 2591 pairs 56326 pass2 1163 fits 0 strict 0 slotfits 0
+H n18120 0 2 q1 beau perms 2591 pairs 56326 pass2 1163 fits 0 strict 0 slotfits 0
+H n18120 0 2 q2 vig perms 2591 pairs 56326 pass2 1505 fits 0 strict 0 slotfits 0
+H n18120 0 2 q2 beau perms 2591 pairs 56326 pass2 1505 fits 0 strict 0 slotfits 0
+H n18120 0 2 q3 vig perms 2591 pairs 56326 pass2 1386 fits 0 strict 0 slotfits 0
+H n18120 0 2 q3 beau perms 2591 pairs 56326 pass2 1386 fits 0 strict 0 slotfits 0
+H n18120 0 3 q1 vig perms 2591 pairs 56326 pass2 5682 fits 0 strict 0 slotfits 0
+H n18120 0 3 q1 beau perms 2591 pairs 56326 pass2 5682 fits 0 strict 0 slotfits 0
+H n18120 0 3 q2 vig perms 2591 pairs 56326 pass2 6413 fits 0 strict 0 slotfits 0
+H n18120 0 3 q2 beau perms 2591 pairs 56326 pass2 6413 fits 0 strict 0 slotfits 0
+H n18120 0 3 q3 vig perms 2591 pairs 56326 pass2 5822 fits 0 strict 0 slotfits 0
+H n18120 0 3 q3 beau perms 2591 pairs 56326 pass2 5822 fits 0 strict 0 slotfits 0
+H n18120 0 4 q1 vig perms 2591 pairs 56326 pass2 23713 fits 0 strict 0 slotfits 0
+H n18120 0 4 q1 beau perms 2591 pairs 56326 pass2 23713 fits 0 strict 0 slotfits 0
+H n18120 0 4 q2 vig perms 2591 pairs 56326 pass2 24491 fits 0 strict 0 slotfits 0
+H n18120 0 4 q2 beau perms 2591 pairs 56326 pass2 24491 fits 0 strict 0 slotfits 0
+H n18120 0 4 q3 vig perms 2591 pairs 56326 pass2 23509 fits 0 strict 0 slotfits 0
+H n18120 0 4 q3 beau perms 2591 pairs 56326 pass2 23509 fits 0 strict 0 slotfits 0
+H n18120 0 5 q1 vig perms 2591 pairs 56326 pass2 91736 fits 0 strict 0 slotfits 0
+H n18120 0 5 q1 beau perms 2591 pairs 56326 pass2 91736 fits 0 strict 0 slotfits 0
+H n18120 0 5 q2 vig perms 2591 pairs 56326 pass2 94300 fits 0 strict 0 slotfits 0
+H n18120 0 5 q2 beau perms 2591 pairs 56326 pass2 94300 fits 0 strict 0 slotfits 0
+H n18120 0 5 q3 vig perms 2591 pairs 56326 pass2 94904 fits 0 strict 0 slotfits 0
+H n18120 0 5 q3 beau perms 2591 pairs 56326 pass2 94904 fits 0 strict 0 slotfits 0
+H n18120 0 6 q1 vig perms 2591 pairs 56326 pass2 370207 fits 0 strict 0 slotfits 0
+H n18120 0 6 q1 beau perms 2591 pairs 56326 pass2 370207 fits 0 strict 0 slotfits 0
+H n18120 0 6 q2 vig perms 2591 pairs 56326 pass2 374102 fits 0 strict 0 slotfits 0
+H n18120 0 6 q2 beau perms 2591 pairs 56326 pass2 374102 fits 0 strict 0 slotfits 0
+H n18120 0 6 q3 vig perms 2591 pairs 56326 pass2 376572 fits 0 strict 0 slotfits 0
+H n18120 0 6 q3 beau perms 2591 pairs 56326 pass2 376572 fits 0 strict 0 slotfits 0
+O n18120 overflow 0 mismatch 0
+END n18120 0 2591
+## out/n18120.m1s64.txt
+H n18120 1 1 q1 vig perms 2591 pairs 56326 pass2 309 fits 0 strict 0 slotfits 0
+H n18120 1 1 q1 beau perms 2591 pairs 56326 pass2 309 fits 0 strict 0 slotfits 0
+H n18120 1 1 q2 vig perms 2591 pairs 56326 pass2 252 fits 0 strict 0 slotfits 0
+H n18120 1 1 q2 beau perms 2591 pairs 56326 pass2 252 fits 0 strict 0 slotfits 0
+H n18120 1 1 q3 vig perms 2591 pairs 56326 pass2 292 fits 0 strict 0 slotfits 0
+H n18120 1 1 q3 beau perms 2591 pairs 56326 pass2 292 fits 0 strict 0 slotfits 0
+H n18120 1 2 q1 vig perms 2591 pairs 56326 pass2 1123 fits 0 strict 0 slotfits 0
+H n18120 1 2 q1 beau perms 2591 pairs 56326 pass2 1123 fits 0 strict 0 slotfits 0
+H n18120 1 2 q2 vig perms 2591 pairs 56326 pass2 1047 fits 0 strict 0 slotfits 0
+H n18120 1 2 q2 beau perms 2591 pairs 56326 pass2 1047 fits 0 strict 0 slotfits 0
+H n18120 1 2 q3 vig perms 2591 pairs 56326 pass2 1106 fits 0 strict 0 slotfits 0
+H n18120 1 2 q3 beau perms 2591 pairs 56326 pass2 1106 fits 0 strict 0 slotfits 0
+H n18120 1 3 q1 vig perms 2591 pairs 56326 pass2 3622 fits 0 strict 0 slotfits 0
+H n18120 1 3 q1 beau perms 2591 pairs 56326 pass2 3622 fits 0 strict 0 slotfits 0
+H n18120 1 3 q2 vig perms 2591 pairs 56326 pass2 3915 fits 0 strict 0 slotfits 0
+H n18120 1 3 q2 beau perms 2591 pairs 56326 pass2 3915 fits 0 strict 0 slotfits 0
+H n18120 1 3 q3 vig perms 2591 pairs 56326 pass2 4383 fits 0 strict 0 slotfits 0
+H n18120 1 3 q3 beau perms 2591 pairs 56326 pass2 4383 fits 0 strict 0 slotfits 0
+O n18120 overflow 0 mismatch 0
+END n18120 0 2591
+## out/n18121.m0s64.txt
+H n18121 0 1 q1 vig perms 2591 pairs 56326 pass2 380 fits 0 strict 0 slotfits 0
+H n18121 0 1 q1 beau perms 2591 pairs 56326 pass2 380 fits 0 strict 0 slotfits 0
+H n18121 0 1 q2 vig perms 2591 pairs 56326 pass2 348 fits 0 strict 0 slotfits 0
+H n18121 0 1 q2 beau perms 2591 pairs 56326 pass2 348 fits 0 strict 0 slotfits 0
+H n18121 0 1 q3 vig perms 2591 pairs 56326 pass2 432 fits 0 strict 0 slotfits 0
+H n18121 0 1 q3 beau perms 2591 pairs 56326 pass2 432 fits 0 strict 0 slotfits 0
+H n18121 0 2 q1 vig perms 2591 pairs 56326 pass2 1506 fits 0 strict 0 slotfits 0
+H n18121 0 2 q1 beau perms 2591 pairs 56326 pass2 1506 fits 0 strict 0 slotfits 0
+H n18121 0 2 q2 vig perms 2591 pairs 56326 pass2 1438 fits 0 strict 0 slotfits 0
+H n18121 0 2 q2 beau perms 2591 pairs 56326 pass2 1438 fits 0 strict 0 slotfits 0
+H n18121 0 2 q3 vig perms 2591 pairs 56326 pass2 1499 fits 0 strict 0 slotfits 0
+H n18121 0 2 q3 beau perms 2591 pairs 56326 pass2 1499 fits 0 strict 0 slotfits 0
+H n18121 0 3 q1 vig perms 2591 pairs 56326 pass2 5743 fits 0 strict 0 slotfits 0
+H n18121 0 3 q1 beau perms 2591 pairs 56326 pass2 5743 fits 0 strict 0 slotfits 0
+H n18121 0 3 q2 vig perms 2591 pairs 56326 pass2 5647 fits 0 strict 0 slotfits 0
+H n18121 0 3 q2 beau perms 2591 pairs 56326 pass2 5647 fits 0 strict 0 slotfits 0
+H n18121 0 3 q3 vig perms 2591 pairs 56326 pass2 6007 fits 0 strict 0 slotfits 0
+H n18121 0 3 q3 beau perms 2591 pairs 56326 pass2 6007 fits 0 strict 0 slotfits 0
+H n18121 0 4 q1 vig perms 2591 pairs 56326 pass2 22925 fits 0 strict 0 slotfits 0
+H n18121 0 4 q1 beau perms 2591 pairs 56326 pass2 22925 fits 0 strict 0 slotfits 0
+H n18121 0 4 q2 vig perms 2591 pairs 56326 pass2 22070 fits 0 strict 0 slotfits 0
+H n18121 0 4 q2 beau perms 2591 pairs 56326 pass2 22070 fits 0 strict 0 slotfits 0
+H n18121 0 4 q3 vig perms 2591 pairs 56326 pass2 23505 fits 0 strict 0 slotfits 0
+H n18121 0 4 q3 beau perms 2591 pairs 56326 pass2 23505 fits 0 strict 0 slotfits 0
+H n18121 0 5 q1 vig perms 2591 pairs 56326 pass2 90918 fits 0 strict 0 slotfits 0
+H n18121 0 5 q1 beau perms 2591 pairs 56326 pass2 90918 fits 0 strict 0 slotfits 0
+H n18121 0 5 q2 vig perms 2591 pairs 56326 pass2 92783 fits 0 strict 0 slotfits 0
+H n18121 0 5 q2 beau perms 2591 pairs 56326 pass2 92783 fits 0 strict 0 slotfits 0
+H n18121 0 5 q3 vig perms 2591 pairs 56326 pass2 94423 fits 0 strict 0 slotfits 0
+H n18121 0 5 q3 beau perms 2591 pairs 56326 pass2 94423 fits 0 strict 0 slotfits 0
+H n18121 0 6 q1 vig perms 2591 pairs 56326 pass2 370403 fits 0 strict 0 slotfits 0
+H n18121 0 6 q1 beau perms 2591 pairs 56326 pass2 370403 fits 0 strict 0 slotfits 0
+H n18121 0 6 q2 vig perms 2591 pairs 56326 pass2 374142 fits 0 strict 0 slotfits 0
+H n18121 0 6 q2 beau perms 2591 pairs 56326 pass2 374142 fits 0 strict 0 slotfits 0
+H n18121 0 6 q3 vig perms 2591 pairs 56326 pass2 372336 fits 0 strict 0 slotfits 0
+H n18121 0 6 q3 beau perms 2591 pairs 56326 pass2 372336 fits 0 strict 0 slotfits 0
+O n18121 overflow 0 mismatch 0
+END n18121 0 2591
+## out/n18121.m1s64.txt
+H n18121 1 1 q1 vig perms 2591 pairs 56326 pass2 249 fits 0 strict 0 slotfits 0
+H n18121 1 1 q1 beau perms 2591 pairs 56326 pass2 249 fits 0 strict 0 slotfits 0
+H n18121 1 1 q2 vig perms 2591 pairs 56326 pass2 220 fits 0 strict 0 slotfits 0
+H n18121 1 1 q2 beau perms 2591 pairs 56326 pass2 220 fits 0 strict 0 slotfits 0
+H n18121 1 1 q3 vig perms 2591 pairs 56326 pass2 386 fits 0 strict 0 slotfits 0
+H n18121 1 1 q3 beau perms 2591 pairs 56326 pass2 386 fits 0 strict 0 slotfits 0
+H n18121 1 2 q1 vig perms 2591 pairs 56326 pass2 996 fits 0 strict 0 slotfits 0
+H n18121 1 2 q1 beau perms 2591 pairs 56326 pass2 996 fits 0 strict 0 slotfits 0
+H n18121 1 2 q2 vig perms 2591 pairs 56326 pass2 1084 fits 0 strict 0 slotfits 0
+H n18121 1 2 q2 beau perms 2591 pairs 56326 pass2 1084 fits 0 strict 0 slotfits 0
+H n18121 1 2 q3 vig perms 2591 pairs 56326 pass2 1208 fits 0 strict 0 slotfits 0
+H n18121 1 2 q3 beau perms 2591 pairs 56326 pass2 1208 fits 0 strict 0 slotfits 0
+H n18121 1 3 q1 vig perms 2591 pairs 56326 pass2 4519 fits 0 strict 0 slotfits 0
+H n18121 1 3 q1 beau perms 2591 pairs 56326 pass2 4519 fits 0 strict 0 slotfits 0
+H n18121 1 3 q2 vig perms 2591 pairs 56326 pass2 3984 fits 0 strict 0 slotfits 0
+H n18121 1 3 q2 beau perms 2591 pairs 56326 pass2 3984 fits 0 strict 0 slotfits 0
+H n18121 1 3 q3 vig perms 2591 pairs 56326 pass2 4458 fits 0 strict 0 slotfits 0
+H n18121 1 3 q3 beau perms 2591 pairs 56326 pass2 4458 fits 0 strict 0 slotfits 0
+O n18121 overflow 0 mismatch 0
+END n18121 0 2591
+## out/n18122.m0s64.txt
+H n18122 0 1 q1 vig perms 2591 pairs 56326 pass2 472 fits 0 strict 0 slotfits 0
+H n18122 0 1 q1 beau perms 2591 pairs 56326 pass2 472 fits 0 strict 0 slotfits 0
+H n18122 0 1 q2 vig perms 2591 pairs 56326 pass2 523 fits 0 strict 0 slotfits 0
+H n18122 0 1 q2 beau perms 2591 pairs 56326 pass2 523 fits 0 strict 0 slotfits 0
+H n18122 0 1 q3 vig perms 2591 pairs 56326 pass2 423 fits 0 strict 0 slotfits 0
+H n18122 0 1 q3 beau perms 2591 pairs 56326 pass2 423 fits 0 strict 0 slotfits 0
+H n18122 0 2 q1 vig perms 2591 pairs 56326 pass2 1688 fits 0 strict 0 slotfits 0
+H n18122 0 2 q1 beau perms 2591 pairs 56326 pass2 1688 fits 0 strict 0 slotfits 0
+H n18122 0 2 q2 vig perms 2591 pairs 56326 pass2 1542 fits 0 strict 0 slotfits 0
+H n18122 0 2 q2 beau perms 2591 pairs 56326 pass2 1542 fits 0 strict 0 slotfits 0
+H n18122 0 2 q3 vig perms 2591 pairs 56326 pass2 1480 fits 0 strict 0 slotfits 0
+H n18122 0 2 q3 beau perms 2591 pairs 56326 pass2 1480 fits 0 strict 0 slotfits 0
+H n18122 0 3 q1 vig perms 2591 pairs 56326 pass2 6263 fits 0 strict 0 slotfits 0
+H n18122 0 3 q1 beau perms 2591 pairs 56326 pass2 6263 fits 0 strict 0 slotfits 0
+H n18122 0 3 q2 vig perms 2591 pairs 56326 pass2 5894 fits 0 strict 0 slotfits 0
+H n18122 0 3 q2 beau perms 2591 pairs 56326 pass2 5894 fits 0 strict 0 slotfits 0
+H n18122 0 3 q3 vig perms 2591 pairs 56326 pass2 5846 fits 0 strict 0 slotfits 0
+H n18122 0 3 q3 beau perms 2591 pairs 56326 pass2 5846 fits 0 strict 0 slotfits 0
+H n18122 0 4 q1 vig perms 2591 pairs 56326 pass2 24038 fits 0 strict 0 slotfits 0
+H n18122 0 4 q1 beau perms 2591 pairs 56326 pass2 24038 fits 0 strict 0 slotfits 0
+H n18122 0 4 q2 vig perms 2591 pairs 56326 pass2 23084 fits 0 strict 0 slotfits 0
+H n18122 0 4 q2 beau perms 2591 pairs 56326 pass2 23084 fits 0 strict 0 slotfits 0
+H n18122 0 4 q3 vig perms 2591 pairs 56326 pass2 23879 fits 0 strict 0 slotfits 0
+H n18122 0 4 q3 beau perms 2591 pairs 56326 pass2 23879 fits 0 strict 0 slotfits 0
+H n18122 0 5 q1 vig perms 2591 pairs 56326 pass2 96131 fits 0 strict 0 slotfits 0
+H n18122 0 5 q1 beau perms 2591 pairs 56326 pass2 96131 fits 0 strict 0 slotfits 0
+H n18122 0 5 q2 vig perms 2591 pairs 56326 pass2 91266 fits 0 strict 0 slotfits 0
+H n18122 0 5 q2 beau perms 2591 pairs 56326 pass2 91266 fits 0 strict 0 slotfits 0
+H n18122 0 5 q3 vig perms 2591 pairs 56326 pass2 95282 fits 0 strict 0 slotfits 0
+H n18122 0 5 q3 beau perms 2591 pairs 56326 pass2 95282 fits 0 strict 0 slotfits 0
+H n18122 0 6 q1 vig perms 2591 pairs 56326 pass2 384171 fits 0 strict 0 slotfits 0
+H n18122 0 6 q1 beau perms 2591 pairs 56326 pass2 384171 fits 0 strict 0 slotfits 0
+H n18122 0 6 q2 vig perms 2591 pairs 56326 pass2 372349 fits 0 strict 0 slotfits 0
+H n18122 0 6 q2 beau perms 2591 pairs 56326 pass2 372349 fits 0 strict 0 slotfits 0
+H n18122 0 6 q3 vig perms 2591 pairs 56326 pass2 375984 fits 0 strict 0 slotfits 0
+H n18122 0 6 q3 beau perms 2591 pairs 56326 pass2 375984 fits 0 strict 0 slotfits 0
+O n18122 overflow 0 mismatch 0
+END n18122 0 2591
+## out/n18122.m1s64.txt
+H n18122 1 1 q1 vig perms 2591 pairs 56326 pass2 307 fits 0 strict 0 slotfits 0
+H n18122 1 1 q1 beau perms 2591 pairs 56326 pass2 307 fits 0 strict 0 slotfits 0
+H n18122 1 1 q2 vig perms 2591 pairs 56326 pass2 368 fits 0 strict 0 slotfits 0
+H n18122 1 1 q2 beau perms 2591 pairs 56326 pass2 368 fits 0 strict 0 slotfits 0
+H n18122 1 1 q3 vig perms 2591 pairs 56326 pass2 354 fits 0 strict 0 slotfits 0
+H n18122 1 1 q3 beau perms 2591 pairs 56326 pass2 354 fits 0 strict 0 slotfits 0
+H n18122 1 2 q1 vig perms 2591 pairs 56326 pass2 1110 fits 0 strict 0 slotfits 0
+H n18122 1 2 q1 beau perms 2591 pairs 56326 pass2 1110 fits 0 strict 0 slotfits 0
+H n18122 1 2 q2 vig perms 2591 pairs 56326 pass2 1025 fits 0 strict 0 slotfits 0
+H n18122 1 2 q2 beau perms 2591 pairs 56326 pass2 1025 fits 0 strict 0 slotfits 0
+H n18122 1 2 q3 vig perms 2591 pairs 56326 pass2 1145 fits 0 strict 0 slotfits 0
+H n18122 1 2 q3 beau perms 2591 pairs 56326 pass2 1145 fits 0 strict 0 slotfits 0
+H n18122 1 3 q1 vig perms 2591 pairs 56326 pass2 4593 fits 0 strict 0 slotfits 0
+H n18122 1 3 q1 beau perms 2591 pairs 56326 pass2 4593 fits 0 strict 0 slotfits 0
+H n18122 1 3 q2 vig perms 2591 pairs 56326 pass2 4187 fits 0 strict 0 slotfits 0
+H n18122 1 3 q2 beau perms 2591 pairs 56326 pass2 4187 fits 0 strict 0 slotfits 0
+H n18122 1 3 q3 vig perms 2591 pairs 56326 pass2 4318 fits 0 strict 0 slotfits 0
+H n18122 1 3 q3 beau perms 2591 pairs 56326 pass2 4318 fits 0 strict 0 slotfits 0
+O n18122 overflow 0 mismatch 0
+END n18122 0 2591
+## out/n18123.m0s64.txt
+H n18123 0 1 q1 vig perms 2591 pairs 56326 pass2 445 fits 0 strict 0 slotfits 0
+H n18123 0 1 q1 beau perms 2591 pairs 56326 pass2 445 fits 0 strict 0 slotfits 0
+H n18123 0 1 q2 vig perms 2591 pairs 56326 pass2 421 fits 0 strict 0 slotfits 0
+H n18123 0 1 q2 beau perms 2591 pairs 56326 pass2 421 fits 0 strict 0 slotfits 0
+H n18123 0 1 q3 vig perms 2591 pairs 56326 pass2 458 fits 0 strict 0 slotfits 0
+H n18123 0 1 q3 beau perms 2591 pairs 56326 pass2 458 fits 0 strict 0 slotfits 0
+H n18123 0 2 q1 vig perms 2591 pairs 56326 pass2 1371 fits 0 strict 0 slotfits 0
+H n18123 0 2 q1 beau perms 2591 pairs 56326 pass2 1371 fits 0 strict 0 slotfits 0
+H n18123 0 2 q2 vig perms 2591 pairs 56326 pass2 1445 fits 0 strict 0 slotfits 0
+H n18123 0 2 q2 beau perms 2591 pairs 56326 pass2 1445 fits 0 strict 0 slotfits 0
+H n18123 0 2 q3 vig perms 2591 pairs 56326 pass2 1528 fits 0 strict 0 slotfits 0
+H n18123 0 2 q3 beau perms 2591 pairs 56326 pass2 1528 fits 0 strict 0 slotfits 0
+H n18123 0 3 q1 vig perms 2591 pairs 56326 pass2 5814 fits 0 strict 0 slotfits 0
+H n18123 0 3 q1 beau perms 2591 pairs 56326 pass2 5814 fits 0 strict 0 slotfits 0
+H n18123 0 3 q2 vig perms 2591 pairs 56326 pass2 6117 fits 0 strict 0 slotfits 0
+H n18123 0 3 q2 beau perms 2591 pairs 56326 pass2 6117 fits 0 strict 0 slotfits 0
+H n18123 0 3 q3 vig perms 2591 pairs 56326 pass2 5800 fits 0 strict 0 slotfits 0
+H n18123 0 3 q3 beau perms 2591 pairs 56326 pass2 5800 fits 0 strict 0 slotfits 0
+H n18123 0 4 q1 vig perms 2591 pairs 56326 pass2 24494 fits 0 strict 0 slotfits 0
+H n18123 0 4 q1 beau perms 2591 pairs 56326 pass2 24494 fits 0 strict 0 slotfits 0
+H n18123 0 4 q2 vig perms 2591 pairs 56326 pass2 23572 fits 0 strict 0 slotfits 0
+H n18123 0 4 q2 beau perms 2591 pairs 56326 pass2 23572 fits 0 strict 0 slotfits 0
+H n18123 0 4 q3 vig perms 2591 pairs 56326 pass2 23566 fits 0 strict 0 slotfits 0
+H n18123 0 4 q3 beau perms 2591 pairs 56326 pass2 23566 fits 0 strict 0 slotfits 0
+H n18123 0 5 q1 vig perms 2591 pairs 56326 pass2 95163 fits 0 strict 0 slotfits 0
+H n18123 0 5 q1 beau perms 2591 pairs 56326 pass2 95163 fits 0 strict 0 slotfits 0
+H n18123 0 5 q2 vig perms 2591 pairs 56326 pass2 93515 fits 0 strict 0 slotfits 0
+H n18123 0 5 q2 beau perms 2591 pairs 56326 pass2 93515 fits 0 strict 0 slotfits 0
+H n18123 0 5 q3 vig perms 2591 pairs 56326 pass2 93567 fits 0 strict 0 slotfits 0
+H n18123 0 5 q3 beau perms 2591 pairs 56326 pass2 93567 fits 0 strict 0 slotfits 0
+H n18123 0 6 q1 vig perms 2591 pairs 56326 pass2 370841 fits 0 strict 0 slotfits 0
+H n18123 0 6 q1 beau perms 2591 pairs 56326 pass2 370841 fits 0 strict 0 slotfits 0
+H n18123 0 6 q2 vig perms 2591 pairs 56326 pass2 376849 fits 0 strict 0 slotfits 0
+H n18123 0 6 q2 beau perms 2591 pairs 56326 pass2 376849 fits 0 strict 0 slotfits 0
+H n18123 0 6 q3 vig perms 2591 pairs 56326 pass2 370985 fits 0 strict 0 slotfits 0
+H n18123 0 6 q3 beau perms 2591 pairs 56326 pass2 370985 fits 0 strict 0 slotfits 0
+O n18123 overflow 0 mismatch 0
+END n18123 0 2591
+## out/n18123.m1s64.txt
+H n18123 1 1 q1 vig perms 2591 pairs 56326 pass2 327 fits 0 strict 0 slotfits 0
+H n18123 1 1 q1 beau perms 2591 pairs 56326 pass2 327 fits 0 strict 0 slotfits 0
+H n18123 1 1 q2 vig perms 2591 pairs 56326 pass2 411 fits 0 strict 0 slotfits 0
+H n18123 1 1 q2 beau perms 2591 pairs 56326 pass2 411 fits 0 strict 0 slotfits 0
+H n18123 1 1 q3 vig perms 2591 pairs 56326 pass2 330 fits 0 strict 0 slotfits 0
+H n18123 1 1 q3 beau perms 2591 pairs 56326 pass2 330 fits 0 strict 0 slotfits 0
+H n18123 1 2 q1 vig perms 2591 pairs 56326 pass2 1327 fits 0 strict 0 slotfits 0
+H n18123 1 2 q1 beau perms 2591 pairs 56326 pass2 1327 fits 0 strict 0 slotfits 0
+H n18123 1 2 q2 vig perms 2591 pairs 56326 pass2 1186 fits 0 strict 0 slotfits 0
+H n18123 1 2 q2 beau perms 2591 pairs 56326 pass2 1186 fits 0 strict 0 slotfits 0
+H n18123 1 2 q3 vig perms 2591 pairs 56326 pass2 1021 fits 0 strict 0 slotfits 0
+H n18123 1 2 q3 beau perms 2591 pairs 56326 pass2 1021 fits 0 strict 0 slotfits 0
+H n18123 1 3 q1 vig perms 2591 pairs 56326 pass2 4127 fits 0 strict 0 slotfits 0
+H n18123 1 3 q1 beau perms 2591 pairs 56326 pass2 4127 fits 0 strict 0 slotfits 0
+H n18123 1 3 q2 vig perms 2591 pairs 56326 pass2 4153 fits 0 strict 0 slotfits 0
+H n18123 1 3 q2 beau perms 2591 pairs 56326 pass2 4153 fits 0 strict 0 slotfits 0
+H n18123 1 3 q3 vig perms 2591 pairs 56326 pass2 4332 fits 0 strict 0 slotfits 0
+H n18123 1 3 q3 beau perms 2591 pairs 56326 pass2 4332 fits 0 strict 0 slotfits 0
+O n18123 overflow 0 mismatch 0
+END n18123 0 2591
+## out/n18124.m0s64.txt
+H n18124 0 1 q1 vig perms 2591 pairs 56326 pass2 508 fits 0 strict 0 slotfits 0
+H n18124 0 1 q1 beau perms 2591 pairs 56326 pass2 508 fits 0 strict 0 slotfits 0
+H n18124 0 1 q2 vig perms 2591 pairs 56326 pass2 488 fits 0 strict 0 slotfits 0
+H n18124 0 1 q2 beau perms 2591 pairs 56326 pass2 488 fits 0 strict 0 slotfits 0
+H n18124 0 1 q3 vig perms 2591 pairs 56326 pass2 511 fits 0 strict 0 slotfits 0
+H n18124 0 1 q3 beau perms 2591 pairs 56326 pass2 511 fits 0 strict 0 slotfits 0
+H n18124 0 2 q1 vig perms 2591 pairs 56326 pass2 1659 fits 0 strict 0 slotfits 0
+H n18124 0 2 q1 beau perms 2591 pairs 56326 pass2 1659 fits 0 strict 0 slotfits 0
+H n18124 0 2 q2 vig perms 2591 pairs 56326 pass2 1793 fits 0 strict 0 slotfits 0
+H n18124 0 2 q2 beau perms 2591 pairs 56326 pass2 1793 fits 0 strict 0 slotfits 0
+H n18124 0 2 q3 vig perms 2591 pairs 56326 pass2 1634 fits 0 strict 0 slotfits 0
+H n18124 0 2 q3 beau perms 2591 pairs 56326 pass2 1634 fits 0 strict 0 slotfits 0
+H n18124 0 3 q1 vig perms 2591 pairs 56326 pass2 6343 fits 0 strict 0 slotfits 0
+H n18124 0 3 q1 beau perms 2591 pairs 56326 pass2 6343 fits 0 strict 0 slotfits 0
+H n18124 0 3 q2 vig perms 2591 pairs 56326 pass2 6332 fits 0 strict 0 slotfits 0
+H n18124 0 3 q2 beau perms 2591 pairs 56326 pass2 6332 fits 0 strict 0 slotfits 0
+H n18124 0 3 q3 vig perms 2591 pairs 56326 pass2 5969 fits 0 strict 0 slotfits 0
+H n18124 0 3 q3 beau perms 2591 pairs 56326 pass2 5969 fits 0 strict 0 slotfits 0
+H n18124 0 4 q1 vig perms 2591 pairs 56326 pass2 25049 fits 0 strict 0 slotfits 0
+H n18124 0 4 q1 beau perms 2591 pairs 56326 pass2 25049 fits 0 strict 0 slotfits 0
+H n18124 0 4 q2 vig perms 2591 pairs 56326 pass2 24129 fits 0 strict 0 slotfits 0
+H n18124 0 4 q2 beau perms 2591 pairs 56326 pass2 24129 fits 0 strict 0 slotfits 0
+H n18124 0 4 q3 vig perms 2591 pairs 56326 pass2 23833 fits 0 strict 0 slotfits 0
+H n18124 0 4 q3 beau perms 2591 pairs 56326 pass2 23833 fits 0 strict 0 slotfits 0
+H n18124 0 5 q1 vig perms 2591 pairs 56326 pass2 94432 fits 0 strict 0 slotfits 0
+H n18124 0 5 q1 beau perms 2591 pairs 56326 pass2 94432 fits 0 strict 0 slotfits 0
+H n18124 0 5 q2 vig perms 2591 pairs 56326 pass2 98163 fits 0 strict 0 slotfits 0
+H n18124 0 5 q2 beau perms 2591 pairs 56326 pass2 98163 fits 0 strict 0 slotfits 0
+H n18124 0 5 q3 vig perms 2591 pairs 56326 pass2 94550 fits 0 strict 0 slotfits 0
+H n18124 0 5 q3 beau perms 2591 pairs 56326 pass2 94550 fits 0 strict 0 slotfits 0
+H n18124 0 6 q1 vig perms 2591 pairs 56326 pass2 381731 fits 0 strict 0 slotfits 0
+H n18124 0 6 q1 beau perms 2591 pairs 56326 pass2 381731 fits 0 strict 0 slotfits 0
+H n18124 0 6 q2 vig perms 2591 pairs 56326 pass2 384159 fits 0 strict 0 slotfits 0
+H n18124 0 6 q2 beau perms 2591 pairs 56326 pass2 384159 fits 0 strict 0 slotfits 0
+H n18124 0 6 q3 vig perms 2591 pairs 56326 pass2 375299 fits 0 strict 0 slotfits 0
+H n18124 0 6 q3 beau perms 2591 pairs 56326 pass2 375299 fits 0 strict 0 slotfits 0
+O n18124 overflow 0 mismatch 0
+END n18124 0 2591
+## out/n18124.m1s64.txt
+H n18124 1 1 q1 vig perms 2591 pairs 56326 pass2 364 fits 0 strict 0 slotfits 0
+H n18124 1 1 q1 beau perms 2591 pairs 56326 pass2 364 fits 0 strict 0 slotfits 0
+H n18124 1 1 q2 vig perms 2591 pairs 56326 pass2 366 fits 0 strict 0 slotfits 0
+H n18124 1 1 q2 beau perms 2591 pairs 56326 pass2 366 fits 0 strict 0 slotfits 0
+H n18124 1 1 q3 vig perms 2591 pairs 56326 pass2 271 fits 0 strict 0 slotfits 0
+H n18124 1 1 q3 beau perms 2591 pairs 56326 pass2 271 fits 0 strict 0 slotfits 0
+H n18124 1 2 q1 vig perms 2591 pairs 56326 pass2 1054 fits 0 strict 0 slotfits 0
+H n18124 1 2 q1 beau perms 2591 pairs 56326 pass2 1054 fits 0 strict 0 slotfits 0
+H n18124 1 2 q2 vig perms 2591 pairs 56326 pass2 1085 fits 0 strict 0 slotfits 0
+H n18124 1 2 q2 beau perms 2591 pairs 56326 pass2 1085 fits 0 strict 0 slotfits 0
+H n18124 1 2 q3 vig perms 2591 pairs 56326 pass2 1064 fits 0 strict 0 slotfits 0
+H n18124 1 2 q3 beau perms 2591 pairs 56326 pass2 1064 fits 0 strict 0 slotfits 0
+H n18124 1 3 q1 vig perms 2591 pairs 56326 pass2 3828 fits 0 strict 0 slotfits 0
+H n18124 1 3 q1 beau perms 2591 pairs 56326 pass2 3828 fits 0 strict 0 slotfits 0
+H n18124 1 3 q2 vig perms 2591 pairs 56326 pass2 4275 fits 0 strict 0 slotfits 0
+H n18124 1 3 q2 beau perms 2591 pairs 56326 pass2 4275 fits 0 strict 0 slotfits 0
+H n18124 1 3 q3 vig perms 2591 pairs 56326 pass2 4465 fits 0 strict 0 slotfits 0
+H n18124 1 3 q3 beau perms 2591 pairs 56326 pass2 4465 fits 0 strict 0 slotfits 0
+O n18124 overflow 0 mismatch 0
+END n18124 0 2591
+## out/n18125.m0s64.txt
+H n18125 0 1 q1 vig perms 2591 pairs 56326 pass2 411 fits 0 strict 0 slotfits 0
+H n18125 0 1 q1 beau perms 2591 pairs 56326 pass2 411 fits 0 strict 0 slotfits 0
+H n18125 0 1 q2 vig perms 2591 pairs 56326 pass2 289 fits 0 strict 0 slotfits 0
+H n18125 0 1 q2 beau perms 2591 pairs 56326 pass2 289 fits 0 strict 0 slotfits 0
+H n18125 0 1 q3 vig perms 2591 pairs 56326 pass2 373 fits 0 strict 0 slotfits 0
+H n18125 0 1 q3 beau perms 2591 pairs 56326 pass2 373 fits 0 strict 0 slotfits 0
+H n18125 0 2 q1 vig perms 2591 pairs 56326 pass2 1682 fits 0 strict 0 slotfits 0
+H n18125 0 2 q1 beau perms 2591 pairs 56326 pass2 1682 fits 0 strict 0 slotfits 0
+H n18125 0 2 q2 vig perms 2591 pairs 56326 pass2 1191 fits 0 strict 0 slotfits 0
+H n18125 0 2 q2 beau perms 2591 pairs 56326 pass2 1191 fits 0 strict 0 slotfits 0
+H n18125 0 2 q3 vig perms 2591 pairs 56326 pass2 1480 fits 0 strict 0 slotfits 0
+H n18125 0 2 q3 beau perms 2591 pairs 56326 pass2 1480 fits 0 strict 0 slotfits 0
+H n18125 0 3 q1 vig perms 2591 pairs 56326 pass2 6053 fits 0 strict 0 slotfits 0
+H n18125 0 3 q1 beau perms 2591 pairs 56326 pass2 6053 fits 0 strict 0 slotfits 0
+H n18125 0 3 q2 vig perms 2591 pairs 56326 pass2 5929 fits 0 strict 0 slotfits 0
+H n18125 0 3 q2 beau perms 2591 pairs 56326 pass2 5929 fits 0 strict 0 slotfits 0
+H n18125 0 3 q3 vig perms 2591 pairs 56326 pass2 6228 fits 0 strict 0 slotfits 0
+H n18125 0 3 q3 beau perms 2591 pairs 56326 pass2 6228 fits 0 strict 0 slotfits 0
+H n18125 0 4 q1 vig perms 2591 pairs 56326 pass2 23860 fits 0 strict 0 slotfits 0
+H n18125 0 4 q1 beau perms 2591 pairs 56326 pass2 23860 fits 0 strict 0 slotfits 0
+H n18125 0 4 q2 vig perms 2591 pairs 56326 pass2 23529 fits 0 strict 0 slotfits 0
+H n18125 0 4 q2 beau perms 2591 pairs 56326 pass2 23529 fits 0 strict 0 slotfits 0
+H n18125 0 4 q3 vig perms 2591 pairs 56326 pass2 24302 fits 0 strict 0 slotfits 0
+H n18125 0 4 q3 beau perms 2591 pairs 56326 pass2 24302 fits 0 strict 0 slotfits 0
+H n18125 0 5 q1 vig perms 2591 pairs 56326 pass2 94214 fits 0 strict 0 slotfits 0
+H n18125 0 5 q1 beau perms 2591 pairs 56326 pass2 94214 fits 0 strict 0 slotfits 0
+H n18125 0 5 q2 vig perms 2591 pairs 56326 pass2 94488 fits 0 strict 0 slotfits 0
+H n18125 0 5 q2 beau perms 2591 pairs 56326 pass2 94488 fits 0 strict 0 slotfits 0
+H n18125 0 5 q3 vig perms 2591 pairs 56326 pass2 94635 fits 0 strict 0 slotfits 0
+H n18125 0 5 q3 beau perms 2591 pairs 56326 pass2 94635 fits 0 strict 0 slotfits 0
+H n18125 0 6 q1 vig perms 2591 pairs 56326 pass2 374024 fits 0 strict 0 slotfits 0
+H n18125 0 6 q1 beau perms 2591 pairs 56326 pass2 374024 fits 0 strict 0 slotfits 0
+H n18125 0 6 q2 vig perms 2591 pairs 56326 pass2 375116 fits 0 strict 0 slotfits 0
+H n18125 0 6 q2 beau perms 2591 pairs 56326 pass2 375116 fits 0 strict 0 slotfits 0
+H n18125 0 6 q3 vig perms 2591 pairs 56326 pass2 373365 fits 0 strict 0 slotfits 0
+H n18125 0 6 q3 beau perms 2591 pairs 56326 pass2 373365 fits 0 strict 0 slotfits 0
+O n18125 overflow 0 mismatch 0
+END n18125 0 2591
+## out/n18125.m1s64.txt
+H n18125 1 1 q1 vig perms 2591 pairs 56326 pass2 385 fits 0 strict 0 slotfits 0
+H n18125 1 1 q1 beau perms 2591 pairs 56326 pass2 385 fits 0 strict 0 slotfits 0
+H n18125 1 1 q2 vig perms 2591 pairs 56326 pass2 218 fits 0 strict 0 slotfits 0
+H n18125 1 1 q2 beau perms 2591 pairs 56326 pass2 218 fits 0 strict 0 slotfits 0
+H n18125 1 1 q3 vig perms 2591 pairs 56326 pass2 298 fits 0 strict 0 slotfits 0
+H n18125 1 1 q3 beau perms 2591 pairs 56326 pass2 298 fits 0 strict 0 slotfits 0
+H n18125 1 2 q1 vig perms 2591 pairs 56326 pass2 954 fits 0 strict 0 slotfits 0
+H n18125 1 2 q1 beau perms 2591 pairs 56326 pass2 954 fits 0 strict 0 slotfits 0
+H n18125 1 2 q2 vig perms 2591 pairs 56326 pass2 1063 fits 0 strict 0 slotfits 0
+H n18125 1 2 q2 beau perms 2591 pairs 56326 pass2 1063 fits 0 strict 0 slotfits 0
+H n18125 1 2 q3 vig perms 2591 pairs 56326 pass2 1024 fits 0 strict 0 slotfits 0
+H n18125 1 2 q3 beau perms 2591 pairs 56326 pass2 1024 fits 0 strict 0 slotfits 0
+H n18125 1 3 q1 vig perms 2591 pairs 56326 pass2 4248 fits 0 strict 0 slotfits 0
+H n18125 1 3 q1 beau perms 2591 pairs 56326 pass2 4248 fits 0 strict 0 slotfits 0
+H n18125 1 3 q2 vig perms 2591 pairs 56326 pass2 4371 fits 0 strict 0 slotfits 0
+H n18125 1 3 q2 beau perms 2591 pairs 56326 pass2 4371 fits 0 strict 0 slotfits 0
+H n18125 1 3 q3 vig perms 2591 pairs 56326 pass2 4209 fits 0 strict 0 slotfits 0
+H n18125 1 3 q3 beau perms 2591 pairs 56326 pass2 4209 fits 0 strict 0 slotfits 0
+O n18125 overflow 0 mismatch 0
+END n18125 0 2591
+## out/n18126.m0s64.txt
+H n18126 0 1 q1 vig perms 2591 pairs 56326 pass2 390 fits 0 strict 0 slotfits 0
+H n18126 0 1 q1 beau perms 2591 pairs 56326 pass2 390 fits 0 strict 0 slotfits 0
+H n18126 0 1 q2 vig perms 2591 pairs 56326 pass2 377 fits 0 strict 0 slotfits 0
+H n18126 0 1 q2 beau perms 2591 pairs 56326 pass2 377 fits 0 strict 0 slotfits 0
+H n18126 0 1 q3 vig perms 2591 pairs 56326 pass2 419 fits 0 strict 0 slotfits 0
+H n18126 0 1 q3 beau perms 2591 pairs 56326 pass2 419 fits 0 strict 0 slotfits 0
+H n18126 0 2 q1 vig perms 2591 pairs 56326 pass2 1719 fits 0 strict 0 slotfits 0
+H n18126 0 2 q1 beau perms 2591 pairs 56326 pass2 1719 fits 0 strict 0 slotfits 0
+H n18126 0 2 q2 vig perms 2591 pairs 56326 pass2 1685 fits 0 strict 0 slotfits 0
+H n18126 0 2 q2 beau perms 2591 pairs 56326 pass2 1685 fits 0 strict 0 slotfits 0
+H n18126 0 2 q3 vig perms 2591 pairs 56326 pass2 1556 fits 0 strict 0 slotfits 0
+H n18126 0 2 q3 beau perms 2591 pairs 56326 pass2 1556 fits 0 strict 0 slotfits 0
+H n18126 0 3 q1 vig perms 2591 pairs 56326 pass2 6653 fits 0 strict 0 slotfits 0
+H n18126 0 3 q1 beau perms 2591 pairs 56326 pass2 6653 fits 0 strict 0 slotfits 0
+H n18126 0 3 q2 vig perms 2591 pairs 56326 pass2 6273 fits 0 strict 0 slotfits 0
+H n18126 0 3 q2 beau perms 2591 pairs 56326 pass2 6273 fits 0 strict 0 slotfits 0
+H n18126 0 3 q3 vig perms 2591 pairs 56326 pass2 5906 fits 0 strict 0 slotfits 0
+H n18126 0 3 q3 beau perms 2591 pairs 56326 pass2 5906 fits 0 strict 0 slotfits 0
+H n18126 0 4 q1 vig perms 2591 pairs 56326 pass2 23963 fits 0 strict 0 slotfits 0
+H n18126 0 4 q1 beau perms 2591 pairs 56326 pass2 23963 fits 0 strict 0 slotfits 0
+H n18126 0 4 q2 vig perms 2591 pairs 56326 pass2 24236 fits 0 strict 0 slotfits 0
+H n18126 0 4 q2 beau perms 2591 pairs 56326 pass2 24236 fits 0 strict 0 slotfits 0
+H n18126 0 4 q3 vig perms 2591 pairs 56326 pass2 23613 fits 0 strict 0 slotfits 0
+H n18126 0 4 q3 beau perms 2591 pairs 56326 pass2 23613 fits 0 strict 0 slotfits 0
+H n18126 0 5 q1 vig perms 2591 pairs 56326 pass2 92437 fits 0 strict 0 slotfits 0
+H n18126 0 5 q1 beau perms 2591 pairs 56326 pass2 92437 fits 0 strict 0 slotfits 0
+H n18126 0 5 q2 vig perms 2591 pairs 56326 pass2 93526 fits 0 strict 0 slotfits 0
+H n18126 0 5 q2 beau perms 2591 pairs 56326 pass2 93526 fits 0 strict 0 slotfits 0
+H n18126 0 5 q3 vig perms 2591 pairs 56326 pass2 95442 fits 0 strict 0 slotfits 0
+H n18126 0 5 q3 beau perms 2591 pairs 56326 pass2 95442 fits 0 strict 0 slotfits 0
+H n18126 0 6 q1 vig perms 2591 pairs 56326 pass2 370623 fits 0 strict 0 slotfits 0
+H n18126 0 6 q1 beau perms 2591 pairs 56326 pass2 370623 fits 0 strict 0 slotfits 0
+H n18126 0 6 q2 vig perms 2591 pairs 56326 pass2 375635 fits 0 strict 0 slotfits 0
+H n18126 0 6 q2 beau perms 2591 pairs 56326 pass2 375635 fits 0 strict 0 slotfits 0
+H n18126 0 6 q3 vig perms 2591 pairs 56326 pass2 375198 fits 0 strict 0 slotfits 0
+H n18126 0 6 q3 beau perms 2591 pairs 56326 pass2 375198 fits 0 strict 0 slotfits 0
+O n18126 overflow 0 mismatch 0
+END n18126 0 2591
+## out/n18126.m1s64.txt
+H n18126 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H n18126 1 1 q1 beau perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H n18126 1 1 q2 vig perms 2591 pairs 56326 pass2 294 fits 0 strict 0 slotfits 0
+H n18126 1 1 q2 beau perms 2591 pairs 56326 pass2 294 fits 0 strict 0 slotfits 0
+H n18126 1 1 q3 vig perms 2591 pairs 56326 pass2 291 fits 0 strict 0 slotfits 0
+H n18126 1 1 q3 beau perms 2591 pairs 56326 pass2 291 fits 0 strict 0 slotfits 0
+H n18126 1 2 q1 vig perms 2591 pairs 56326 pass2 811 fits 0 strict 0 slotfits 0
+H n18126 1 2 q1 beau perms 2591 pairs 56326 pass2 811 fits 0 strict 0 slotfits 0
+H n18126 1 2 q2 vig perms 2591 pairs 56326 pass2 1104 fits 0 strict 0 slotfits 0
+H n18126 1 2 q2 beau perms 2591 pairs 56326 pass2 1104 fits 0 strict 0 slotfits 0
+H n18126 1 2 q3 vig perms 2591 pairs 56326 pass2 974 fits 0 strict 0 slotfits 0
+H n18126 1 2 q3 beau perms 2591 pairs 56326 pass2 974 fits 0 strict 0 slotfits 0
+H n18126 1 3 q1 vig perms 2591 pairs 56326 pass2 3301 fits 0 strict 0 slotfits 0
+H n18126 1 3 q1 beau perms 2591 pairs 56326 pass2 3301 fits 0 strict 0 slotfits 0
+H n18126 1 3 q2 vig perms 2591 pairs 56326 pass2 4527 fits 0 strict 0 slotfits 0
+H n18126 1 3 q2 beau perms 2591 pairs 56326 pass2 4527 fits 0 strict 0 slotfits 0
+H n18126 1 3 q3 vig perms 2591 pairs 56326 pass2 4035 fits 0 strict 0 slotfits 0
+H n18126 1 3 q3 beau perms 2591 pairs 56326 pass2 4035 fits 0 strict 0 slotfits 0
+O n18126 overflow 0 mismatch 0
+END n18126 0 2591
+## out/n18127.m0s64.txt
+H n18127 0 1 q1 vig perms 2591 pairs 56326 pass2 367 fits 0 strict 0 slotfits 0
+H n18127 0 1 q1 beau perms 2591 pairs 56326 pass2 367 fits 0 strict 0 slotfits 0
+H n18127 0 1 q2 vig perms 2591 pairs 56326 pass2 431 fits 0 strict 0 slotfits 0
+H n18127 0 1 q2 beau perms 2591 pairs 56326 pass2 431 fits 0 strict 0 slotfits 0
+H n18127 0 1 q3 vig perms 2591 pairs 56326 pass2 379 fits 0 strict 0 slotfits 0
+H n18127 0 1 q3 beau perms 2591 pairs 56326 pass2 379 fits 0 strict 0 slotfits 0
+H n18127 0 2 q1 vig perms 2591 pairs 56326 pass2 1547 fits 0 strict 0 slotfits 0
+H n18127 0 2 q1 beau perms 2591 pairs 56326 pass2 1547 fits 0 strict 0 slotfits 0
+H n18127 0 2 q2 vig perms 2591 pairs 56326 pass2 1505 fits 0 strict 0 slotfits 0
+H n18127 0 2 q2 beau perms 2591 pairs 56326 pass2 1505 fits 0 strict 0 slotfits 0
+H n18127 0 2 q3 vig perms 2591 pairs 56326 pass2 1446 fits 0 strict 0 slotfits 0
+H n18127 0 2 q3 beau perms 2591 pairs 56326 pass2 1446 fits 0 strict 0 slotfits 0
+H n18127 0 3 q1 vig perms 2591 pairs 56326 pass2 6303 fits 0 strict 0 slotfits 0
+H n18127 0 3 q1 beau perms 2591 pairs 56326 pass2 6303 fits 0 strict 0 slotfits 0
+H n18127 0 3 q2 vig perms 2591 pairs 56326 pass2 6259 fits 0 strict 0 slotfits 0
+H n18127 0 3 q2 beau perms 2591 pairs 56326 pass2 6259 fits 0 strict 0 slotfits 0
+H n18127 0 3 q3 vig perms 2591 pairs 56326 pass2 5845 fits 0 strict 0 slotfits 0
+H n18127 0 3 q3 beau perms 2591 pairs 56326 pass2 5845 fits 0 strict 0 slotfits 0
+H n18127 0 4 q1 vig perms 2591 pairs 56326 pass2 24078 fits 0 strict 0 slotfits 0
+H n18127 0 4 q1 beau perms 2591 pairs 56326 pass2 24078 fits 0 strict 0 slotfits 0
+H n18127 0 4 q2 vig perms 2591 pairs 56326 pass2 24297 fits 0 strict 0 slotfits 0
+H n18127 0 4 q2 beau perms 2591 pairs 56326 pass2 24297 fits 0 strict 0 slotfits 0
+H n18127 0 4 q3 vig perms 2591 pairs 56326 pass2 24308 fits 0 strict 0 slotfits 0
+H n18127 0 4 q3 beau perms 2591 pairs 56326 pass2 24308 fits 0 strict 0 slotfits 0
+H n18127 0 5 q1 vig perms 2591 pairs 56326 pass2 96013 fits 0 strict 0 slotfits 0
+H n18127 0 5 q1 beau perms 2591 pairs 56326 pass2 96013 fits 0 strict 0 slotfits 0
+H n18127 0 5 q2 vig perms 2591 pairs 56326 pass2 94711 fits 0 strict 0 slotfits 0
+H n18127 0 5 q2 beau perms 2591 pairs 56326 pass2 94711 fits 0 strict 0 slotfits 0
+H n18127 0 5 q3 vig perms 2591 pairs 56326 pass2 96061 fits 0 strict 0 slotfits 0
+H n18127 0 5 q3 beau perms 2591 pairs 56326 pass2 96061 fits 0 strict 0 slotfits 0
+H n18127 0 6 q1 vig perms 2591 pairs 56326 pass2 377383 fits 0 strict 0 slotfits 0
+H n18127 0 6 q1 beau perms 2591 pairs 56326 pass2 377383 fits 0 strict 0 slotfits 0
+H n18127 0 6 q2 vig perms 2591 pairs 56326 pass2 380977 fits 0 strict 0 slotfits 0
+H n18127 0 6 q2 beau perms 2591 pairs 56326 pass2 380977 fits 0 strict 0 slotfits 0
+H n18127 0 6 q3 vig perms 2591 pairs 56326 pass2 377637 fits 0 strict 0 slotfits 0
+H n18127 0 6 q3 beau perms 2591 pairs 56326 pass2 377637 fits 0 strict 0 slotfits 0
+O n18127 overflow 0 mismatch 0
+END n18127 0 2591
+## out/n18127.m1s64.txt
+H n18127 1 1 q1 vig perms 2591 pairs 56326 pass2 324 fits 0 strict 0 slotfits 0
+H n18127 1 1 q1 beau perms 2591 pairs 56326 pass2 324 fits 0 strict 0 slotfits 0
+H n18127 1 1 q2 vig perms 2591 pairs 56326 pass2 314 fits 0 strict 0 slotfits 0
+H n18127 1 1 q2 beau perms 2591 pairs 56326 pass2 314 fits 0 strict 0 slotfits 0
+H n18127 1 1 q3 vig perms 2591 pairs 56326 pass2 293 fits 0 strict 0 slotfits 0
+H n18127 1 1 q3 beau perms 2591 pairs 56326 pass2 293 fits 0 strict 0 slotfits 0
+H n18127 1 2 q1 vig perms 2591 pairs 56326 pass2 1302 fits 0 strict 0 slotfits 0
+H n18127 1 2 q1 beau perms 2591 pairs 56326 pass2 1302 fits 0 strict 0 slotfits 0
+H n18127 1 2 q2 vig perms 2591 pairs 56326 pass2 1121 fits 0 strict 0 slotfits 0
+H n18127 1 2 q2 beau perms 2591 pairs 56326 pass2 1121 fits 0 strict 0 slotfits 0
+H n18127 1 2 q3 vig perms 2591 pairs 56326 pass2 1123 fits 0 strict 0 slotfits 0
+H n18127 1 2 q3 beau perms 2591 pairs 56326 pass2 1123 fits 0 strict 0 slotfits 0
+H n18127 1 3 q1 vig perms 2591 pairs 56326 pass2 4949 fits 0 strict 0 slotfits 0
+H n18127 1 3 q1 beau perms 2591 pairs 56326 pass2 4949 fits 0 strict 0 slotfits 0
+H n18127 1 3 q2 vig perms 2591 pairs 56326 pass2 3921 fits 0 strict 0 slotfits 0
+H n18127 1 3 q2 beau perms 2591 pairs 56326 pass2 3921 fits 0 strict 0 slotfits 0
+H n18127 1 3 q3 vig perms 2591 pairs 56326 pass2 4243 fits 0 strict 0 slotfits 0
+H n18127 1 3 q3 beau perms 2591 pairs 56326 pass2 4243 fits 0 strict 0 slotfits 0
+O n18127 overflow 0 mismatch 0
+END n18127 0 2591
+## out/n18128.m0s64.txt
+H n18128 0 1 q1 vig perms 2591 pairs 56326 pass2 656 fits 0 strict 0 slotfits 0
+H n18128 0 1 q1 beau perms 2591 pairs 56326 pass2 656 fits 0 strict 0 slotfits 0
+H n18128 0 1 q2 vig perms 2591 pairs 56326 pass2 344 fits 0 strict 0 slotfits 0
+H n18128 0 1 q2 beau perms 2591 pairs 56326 pass2 344 fits 0 strict 0 slotfits 0
+H n18128 0 1 q3 vig perms 2591 pairs 56326 pass2 522 fits 0 strict 0 slotfits 0
+H n18128 0 1 q3 beau perms 2591 pairs 56326 pass2 522 fits 0 strict 0 slotfits 0
+H n18128 0 2 q1 vig perms 2591 pairs 56326 pass2 1767 fits 0 strict 0 slotfits 0
+H n18128 0 2 q1 beau perms 2591 pairs 56326 pass2 1767 fits 0 strict 0 slotfits 0
+H n18128 0 2 q2 vig perms 2591 pairs 56326 pass2 1529 fits 0 strict 0 slotfits 0
+H n18128 0 2 q2 beau perms 2591 pairs 56326 pass2 1529 fits 0 strict 0 slotfits 0
+H n18128 0 2 q3 vig perms 2591 pairs 56326 pass2 1721 fits 0 strict 0 slotfits 0
+H n18128 0 2 q3 beau perms 2591 pairs 56326 pass2 1721 fits 0 strict 0 slotfits 0
+H n18128 0 3 q1 vig perms 2591 pairs 56326 pass2 6247 fits 0 strict 0 slotfits 0
+H n18128 0 3 q1 beau perms 2591 pairs 56326 pass2 6247 fits 0 strict 0 slotfits 0
+H n18128 0 3 q2 vig perms 2591 pairs 56326 pass2 6062 fits 0 strict 0 slotfits 0
+H n18128 0 3 q2 beau perms 2591 pairs 56326 pass2 6062 fits 0 strict 0 slotfits 0
+H n18128 0 3 q3 vig perms 2591 pairs 56326 pass2 6202 fits 0 strict 0 slotfits 0
+H n18128 0 3 q3 beau perms 2591 pairs 56326 pass2 6202 fits 0 strict 0 slotfits 0
+H n18128 0 4 q1 vig perms 2591 pairs 56326 pass2 23647 fits 0 strict 0 slotfits 0
+H n18128 0 4 q1 beau perms 2591 pairs 56326 pass2 23647 fits 0 strict 0 slotfits 0
+H n18128 0 4 q2 vig perms 2591 pairs 56326 pass2 23240 fits 0 strict 0 slotfits 0
+H n18128 0 4 q2 beau perms 2591 pairs 56326 pass2 23240 fits 0 strict 0 slotfits 0
+H n18128 0 4 q3 vig perms 2591 pairs 56326 pass2 24391 fits 0 strict 0 slotfits 0
+H n18128 0 4 q3 beau perms 2591 pairs 56326 pass2 24391 fits 0 strict 0 slotfits 0
+H n18128 0 5 q1 vig perms 2591 pairs 56326 pass2 93738 fits 0 strict 0 slotfits 0
+H n18128 0 5 q1 beau perms 2591 pairs 56326 pass2 93738 fits 0 strict 0 slotfits 0
+H n18128 0 5 q2 vig perms 2591 pairs 56326 pass2 96424 fits 0 strict 0 slotfits 0
+H n18128 0 5 q2 beau perms 2591 pairs 56326 pass2 96424 fits 0 strict 0 slotfits 0
+H n18128 0 5 q3 vig perms 2591 pairs 56326 pass2 96461 fits 0 strict 0 slotfits 0
+H n18128 0 5 q3 beau perms 2591 pairs 56326 pass2 96461 fits 0 strict 0 slotfits 0
+H n18128 0 6 q1 vig perms 2591 pairs 56326 pass2 376850 fits 0 strict 0 slotfits 0
+H n18128 0 6 q1 beau perms 2591 pairs 56326 pass2 376850 fits 0 strict 0 slotfits 0
+H n18128 0 6 q2 vig perms 2591 pairs 56326 pass2 376649 fits 0 strict 0 slotfits 0
+H n18128 0 6 q2 beau perms 2591 pairs 56326 pass2 376649 fits 0 strict 0 slotfits 0
+H n18128 0 6 q3 vig perms 2591 pairs 56326 pass2 379379 fits 0 strict 0 slotfits 0
+H n18128 0 6 q3 beau perms 2591 pairs 56326 pass2 379379 fits 0 strict 0 slotfits 0
+O n18128 overflow 0 mismatch 0
+END n18128 0 2591
+## out/n18128.m1s64.txt
+H n18128 1 1 q1 vig perms 2591 pairs 56326 pass2 267 fits 0 strict 0 slotfits 0
+H n18128 1 1 q1 beau perms 2591 pairs 56326 pass2 267 fits 0 strict 0 slotfits 0
+H n18128 1 1 q2 vig perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H n18128 1 1 q2 beau perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H n18128 1 1 q3 vig perms 2591 pairs 56326 pass2 400 fits 0 strict 0 slotfits 0
+H n18128 1 1 q3 beau perms 2591 pairs 56326 pass2 400 fits 0 strict 0 slotfits 0
+H n18128 1 2 q1 vig perms 2591 pairs 56326 pass2 1139 fits 0 strict 0 slotfits 0
+H n18128 1 2 q1 beau perms 2591 pairs 56326 pass2 1139 fits 0 strict 0 slotfits 0
+H n18128 1 2 q2 vig perms 2591 pairs 56326 pass2 1067 fits 0 strict 0 slotfits 0
+H n18128 1 2 q2 beau perms 2591 pairs 56326 pass2 1067 fits 0 strict 0 slotfits 0
+H n18128 1 2 q3 vig perms 2591 pairs 56326 pass2 1190 fits 0 strict 0 slotfits 0
+H n18128 1 2 q3 beau perms 2591 pairs 56326 pass2 1190 fits 0 strict 0 slotfits 0
+H n18128 1 3 q1 vig perms 2591 pairs 56326 pass2 4302 fits 0 strict 0 slotfits 0
+H n18128 1 3 q1 beau perms 2591 pairs 56326 pass2 4302 fits 0 strict 0 slotfits 0
+H n18128 1 3 q2 vig perms 2591 pairs 56326 pass2 4260 fits 0 strict 0 slotfits 0
+H n18128 1 3 q2 beau perms 2591 pairs 56326 pass2 4260 fits 0 strict 0 slotfits 0
+H n18128 1 3 q3 vig perms 2591 pairs 56326 pass2 4369 fits 0 strict 0 slotfits 0
+H n18128 1 3 q3 beau perms 2591 pairs 56326 pass2 4369 fits 0 strict 0 slotfits 0
+O n18128 overflow 0 mismatch 0
+END n18128 0 2591
+## out/n18129.m0s64.txt
+H n18129 0 1 q1 vig perms 2591 pairs 56326 pass2 476 fits 0 strict 0 slotfits 0
+H n18129 0 1 q1 beau perms 2591 pairs 56326 pass2 476 fits 0 strict 0 slotfits 0
+H n18129 0 1 q2 vig perms 2591 pairs 56326 pass2 403 fits 0 strict 0 slotfits 0
+H n18129 0 1 q2 beau perms 2591 pairs 56326 pass2 403 fits 0 strict 0 slotfits 0
+H n18129 0 1 q3 vig perms 2591 pairs 56326 pass2 312 fits 0 strict 0 slotfits 0
+H n18129 0 1 q3 beau perms 2591 pairs 56326 pass2 312 fits 0 strict 0 slotfits 0
+H n18129 0 2 q1 vig perms 2591 pairs 56326 pass2 1588 fits 0 strict 0 slotfits 0
+H n18129 0 2 q1 beau perms 2591 pairs 56326 pass2 1588 fits 0 strict 0 slotfits 0
+H n18129 0 2 q2 vig perms 2591 pairs 56326 pass2 1528 fits 0 strict 0 slotfits 0
+H n18129 0 2 q2 beau perms 2591 pairs 56326 pass2 1528 fits 0 strict 0 slotfits 0
+H n18129 0 2 q3 vig perms 2591 pairs 56326 pass2 1513 fits 0 strict 0 slotfits 0
+H n18129 0 2 q3 beau perms 2591 pairs 56326 pass2 1513 fits 0 strict 0 slotfits 0
+H n18129 0 3 q1 vig perms 2591 pairs 56326 pass2 6144 fits 0 strict 0 slotfits 0
+H n18129 0 3 q1 beau perms 2591 pairs 56326 pass2 6144 fits 0 strict 0 slotfits 0
+H n18129 0 3 q2 vig perms 2591 pairs 56326 pass2 6592 fits 0 strict 0 slotfits 0
+H n18129 0 3 q2 beau perms 2591 pairs 56326 pass2 6592 fits 0 strict 0 slotfits 0
+H n18129 0 3 q3 vig perms 2591 pairs 56326 pass2 5751 fits 0 strict 0 slotfits 0
+H n18129 0 3 q3 beau perms 2591 pairs 56326 pass2 5751 fits 0 strict 0 slotfits 0
+H n18129 0 4 q1 vig perms 2591 pairs 56326 pass2 22601 fits 0 strict 0 slotfits 0
+H n18129 0 4 q1 beau perms 2591 pairs 56326 pass2 22601 fits 0 strict 0 slotfits 0
+H n18129 0 4 q2 vig perms 2591 pairs 56326 pass2 24636 fits 0 strict 0 slotfits 0
+H n18129 0 4 q2 beau perms 2591 pairs 56326 pass2 24636 fits 0 strict 0 slotfits 0
+H n18129 0 4 q3 vig perms 2591 pairs 56326 pass2 23809 fits 0 strict 0 slotfits 0
+H n18129 0 4 q3 beau perms 2591 pairs 56326 pass2 23809 fits 0 strict 0 slotfits 0
+H n18129 0 5 q1 vig perms 2591 pairs 56326 pass2 94651 fits 0 strict 0 slotfits 0
+H n18129 0 5 q1 beau perms 2591 pairs 56326 pass2 94651 fits 0 strict 0 slotfits 0
+H n18129 0 5 q2 vig perms 2591 pairs 56326 pass2 96009 fits 0 strict 0 slotfits 0
+H n18129 0 5 q2 beau perms 2591 pairs 56326 pass2 96009 fits 0 strict 0 slotfits 0
+H n18129 0 5 q3 vig perms 2591 pairs 56326 pass2 94547 fits 0 strict 0 slotfits 0
+H n18129 0 5 q3 beau perms 2591 pairs 56326 pass2 94547 fits 0 strict 0 slotfits 0
+H n18129 0 6 q1 vig perms 2591 pairs 56326 pass2 373309 fits 0 strict 0 slotfits 0
+H n18129 0 6 q1 beau perms 2591 pairs 56326 pass2 373309 fits 0 strict 0 slotfits 0
+H n18129 0 6 q2 vig perms 2591 pairs 56326 pass2 374984 fits 0 strict 0 slotfits 0
+H n18129 0 6 q2 beau perms 2591 pairs 56326 pass2 374984 fits 0 strict 0 slotfits 0
+H n18129 0 6 q3 vig perms 2591 pairs 56326 pass2 376751 fits 0 strict 0 slotfits 0
+H n18129 0 6 q3 beau perms 2591 pairs 56326 pass2 376751 fits 0 strict 0 slotfits 0
+O n18129 overflow 0 mismatch 0
+END n18129 0 2591
+## out/n18129.m1s64.txt
+H n18129 1 1 q1 vig perms 2591 pairs 56326 pass2 371 fits 0 strict 0 slotfits 0
+H n18129 1 1 q1 beau perms 2591 pairs 56326 pass2 371 fits 0 strict 0 slotfits 0
+H n18129 1 1 q2 vig perms 2591 pairs 56326 pass2 341 fits 0 strict 0 slotfits 0
+H n18129 1 1 q2 beau perms 2591 pairs 56326 pass2 341 fits 0 strict 0 slotfits 0
+H n18129 1 1 q3 vig perms 2591 pairs 56326 pass2 261 fits 0 strict 0 slotfits 0
+H n18129 1 1 q3 beau perms 2591 pairs 56326 pass2 261 fits 0 strict 0 slotfits 0
+H n18129 1 2 q1 vig perms 2591 pairs 56326 pass2 1204 fits 0 strict 0 slotfits 0
+H n18129 1 2 q1 beau perms 2591 pairs 56326 pass2 1204 fits 0 strict 0 slotfits 0
+H n18129 1 2 q2 vig perms 2591 pairs 56326 pass2 1191 fits 0 strict 0 slotfits 0
+H n18129 1 2 q2 beau perms 2591 pairs 56326 pass2 1191 fits 0 strict 0 slotfits 0
+H n18129 1 2 q3 vig perms 2591 pairs 56326 pass2 1068 fits 0 strict 0 slotfits 0
+H n18129 1 2 q3 beau perms 2591 pairs 56326 pass2 1068 fits 0 strict 0 slotfits 0
+H n18129 1 3 q1 vig perms 2591 pairs 56326 pass2 4589 fits 0 strict 0 slotfits 0
+H n18129 1 3 q1 beau perms 2591 pairs 56326 pass2 4589 fits 0 strict 0 slotfits 0
+H n18129 1 3 q2 vig perms 2591 pairs 56326 pass2 4151 fits 0 strict 0 slotfits 0
+H n18129 1 3 q2 beau perms 2591 pairs 56326 pass2 4151 fits 0 strict 0 slotfits 0
+H n18129 1 3 q3 vig perms 2591 pairs 56326 pass2 4293 fits 0 strict 0 slotfits 0
+H n18129 1 3 q3 beau perms 2591 pairs 56326 pass2 4293 fits 0 strict 0 slotfits 0
+O n18129 overflow 0 mismatch 0
+END n18129 0 2591

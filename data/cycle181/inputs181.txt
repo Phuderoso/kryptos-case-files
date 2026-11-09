@@ -1,0 +1,12 @@
+946402ca9cd1fcb962c51a16a76fef09  all.bin
+3dd34d3cc56297bdd2b8a98d7125ea23  all_s8.bin
+f45bc54b64f691e47d3f3ba927a84321  all_s64.bin
+92793b741a19ace55a1e410cd572ab8e  alpha172.txt
+8c579973175223685ab27ff44baa4734  alpha_recount180.txt
+9e49013cd4f0518426c18efc722966df  quadgrams.json
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+41f85205d1a2bec6737139a216d7b2f4  nulls181.txt
+c81b43820cecf0bdd38bd06400628757  lrk181
+main run start Mon Nov  9 11:02:13 MST 2026 end Mon Nov  9 11:09:30 MST 2026 elapsed 437 s, 6 threads (UTC-7)
+controls registered run 24 s; SAFE audit 13 s; rehearsal (both builds) ~91 s and smoke ~47 s before the push; recount niced single-core ~2-10 min per text, outside the budget
+gcc -O3 -march=native -fopenmp; gcc (Debian 14.2.0-19) 14.2.0
