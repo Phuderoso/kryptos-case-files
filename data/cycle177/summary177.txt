@@ -1,0 +1,71 @@
+== G1 one-error-only, ix 0 (full perms)   [strict fits in brackets]
+G1 ix0 L2: K4 0 [strict 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+G1 ix0 L3: K4 0 [strict 0] nulls n=19 min/med/max 0/0/1 mean 0.11 ge_K4 19 -> EXACT-EXCL (weak power)
+G1 ix0 L4: K4 2 [strict 0] nulls n=19 min/med/max 0/1/6 mean 1.89 ge_K4 9 -> LOW-POWER
+G1 ix0 L5: K4 23 [strict 0] nulls n=19 min/med/max 13/22/32 mean 21.79 ge_K4 9 -> LOW-POWER
+G1 ix0 L6: K4 230 [strict 1] nulls n=19 min/med/max 154/194/218 mean 191.47 ge_K4 0 -> FLAG above all nulls
+== G1 one-error-only, ix 1 (1/8 perms; K4 full in brackets)
+G1 ix1 L2: K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+G1 ix1 L3: K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+G1 ix1 L4: K4 0 [K4 full 5] nulls n=19 min/med/max 0/0/3 mean 0.32 ge_K4 19 -> EXACT-EXCL (weak power)
+G1 ix1 L5: K4 6 [K4 full 26] nulls n=19 min/med/max 0/3/8 mean 2.95 ge_K4 1 -> LOW-POWER
+== named primers, one-error-only
+W ix0 (full): K4 3 nulls n=19 min/med/max 1/4/10 mean 4.68 ge_K4 16 -> LOW-POWER
+W ix1 (1/8): K4 1 [K4 full 6] nulls n=19 min/med/max 0/0/3 mean 0.58 ge_K4 8 -> LOW-POWER
+== PG1 one-error-only (>= 23/24, not 24)
+PG1 ix0: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+PG1 ix1: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+== GB strict, bases 5-9
+GB b5 ix0 L2: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix0 L3: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix0 L4: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix0 L5: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix0 L6: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix0 L7: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix1 L2 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix1 L3 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b5 ix1 L4 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix0 L2: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix0 L3: K4 0 nulls n=19 min/med/max 0/0/1 mean 0.05 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix0 L4: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix0 L5: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix0 L6: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix0 L7: K4 0 nulls n=19 min/med/max 0/0/2 mean 0.21 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix1 L2 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix1 L3 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b6 ix1 L4 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix0 L2: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix0 L3: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix0 L4: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix0 L5: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix0 L6: K4 0 nulls n=19 min/med/max 0/0/1 mean 0.05 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix0 L7: K4 0 nulls n=19 min/med/max 0/1/4 mean 0.95 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix1 L2 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix1 L3 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b7 ix1 L4 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix0 L2: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix0 L3: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix0 L4: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix0 L5: K4 0 nulls n=19 min/med/max 0/0/1 mean 0.05 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix0 L6: K4 0 nulls n=19 min/med/max 0/0/2 mean 0.32 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix0 L7: K4 1 nulls n=19 min/med/max 0/2/4 mean 1.79 ge_K4 16 -> LOW-POWER
+GB b8 ix1 L2 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix1 L3 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b8 ix1 L4 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix0 L2: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix0 L3: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix0 L4: K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix0 L5: K4 0 nulls n=19 min/med/max 0/0/1 mean 0.11 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix0 L6: K4 1 nulls n=19 min/med/max 0/0/1 mean 0.47 ge_K4 9 -> LOW-POWER
+GB b9 ix0 L7: K4 5 nulls n=19 min/med/max 2/4/13 mean 5.32 ge_K4 9 -> LOW-POWER
+GB b9 ix1 L2 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix1 L3 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+GB b9 ix1 L4 (1/8): K4 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19 -> EXACT-EXCL (weak power)
+== grid (leave-one-out Poisson tails, I-120)
+C1 G1 ix0 L2-5: K4 25 nulls min/med/max 16/23/34 scored=True K4 p+ 0.429 p- 0.648
+C2 G1 ix0 L6: K4 230 nulls min/med/max 154/194/218 scored=True K4 p+ 0.004 p- 0.997
+C3 G1 ix1 L2-5 (1/8): K4 6 nulls min/med/max 0/3/8 scored=True K4 p+ 0.113 p- 0.951
+C4 named G1 ix0+ix1(1/8): K4 4 nulls min/med/max 2/5/11 scored=True K4 p+ 0.770 p- 0.396
+C5 PG1 both ix: K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+C6 GB ix0 L2-7 + ix1 L2-4 (1/8): K4 7 nulls min/med/max 4/8/16 scored=True K4 p+ 0.820 p- 0.288
+G+(K4) 0.00373 grid p+ 0.05 ; G-(K4) 0.288 grid p- 0.90 ; best attainable 0.05

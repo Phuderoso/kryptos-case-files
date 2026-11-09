@@ -1,0 +1,30 @@
+k4      b0   n=   1 best=-7.640 median=-7.640 fixed 18-18
+k4      g0e  n= 256 best=-7.084 median=-7.695 fixed 17-22
+k4      g1e  n=  31 best=-7.110 median=-7.584 fixed 17-22
+k4      w0e  n=   3 best=-7.563 median=-7.640 fixed 19-21
+k4      w1e  n=   6 best=-7.047 median=-7.611 fixed 18-20
+n17711  g0e  n= 241 best=-6.979 median=-7.694 fixed 16-23
+n17711  w0e  n=   9 best=-7.313 median=-7.679 fixed 19-21
+n17711  w1e  n=   1 best=-7.897 median=-7.897 fixed 21-21
+n17712  b0   n=   2 best=-7.761 median=-7.780 fixed 19-21
+n17712  g0e  n= 237 best=-7.046 median=-7.708 fixed 17-22
+n17712  g1e  n=   8 best=-7.268 median=-7.901 fixed 18-21
+n17712  w0e  n=   2 best=-7.825 median=-7.868 fixed 20-21
+n17712  w1e  n=   1 best=-7.518 median=-7.518 fixed 19-19
+n17713  g0e  n= 186 best=-6.955 median=-7.617 fixed 16-22
+n17713  g1e  n=   2 best=-7.045 median=-8.066 fixed 20-22
+n17713  w0e  n=   5 best=-7.420 median=-7.628 fixed 18-21
+n17714  g0e  n= 205 best=-7.003 median=-7.677 fixed 15-23
+n17714  g1e  n=   8 best=-7.724 median=-7.846 fixed 19-20
+n17714  w0e  n=   4 best=-7.410 median=-7.623 fixed 19-20
+n17715  b0   n=   2 best=-7.415 median=-7.756 fixed 19-20
+n17715  g0e  n= 211 best=-6.941 median=-7.701 fixed 16-22
+n17715  g1e  n=   2 best=-7.428 median=-7.439 fixed 16-17
+n17715  w0e  n=   3 best=-7.666 median=-7.712 fixed 17-21
+== per-text best
+n17715  -6.941  G n17715 ix0 L6 az vig b10 q157350 660025  mask=000004 drop=2 fixed=20 score=-6.941 FOORGGNAFFTSXTMUMBLNVEAWTNORTHEASTGVAASONHABETERCWSYTESSGURRENYBERLINCLOCKPPSYOGAYKGZWJODBBTKOPWU
+n17713  -6.955  G n17713 ix0 L6 az vig b10 q44068 823431  mask=080000 drop=19 fixed=17 score=-6.955 WSLIABRKHERVGMBTSVIQZEASTNORTHEASTOHTASNPLAYOFLFGROVWOPHFUNDYABBERLINKLOCKXCCKEREFQGAELKXCATFHENZ
+n17711  -6.979  G n17711 ix0 L6 az beau b10 q149374 919371  mask=00c000 drop=15 fixed=18 score=-6.979 HBWPAGLSOUVBMDENDENTAEASTNORTHEASTNUOWMRBTHSSJEKUMPTDPNVNUTSCFRBEALINCLOCKEPVOUTQHPYSARVEOFIENGQT
+n17714  -7.003  G n17714 ix0 L6 az beau b10 q88689 708765  mask=080000 drop=19 fixed=18 score=-7.003 MEOCHADOIPRESCURINFKLEASTNORTHEASTQDJZUJPNUNQPJLSBJPHUTSDHJYFKXBERLINPLOCKZAJPMXQKOUPASPLEDBLSCOT
+n17712  -7.046  G n17712 ix0 L6 az beau b10 q157321 779375  mask=c00000 drop=23 fixed=19 score=-7.046 CGHLYITNLHQHFRBTWOCEAEASTNORTHEASTZWDVBYWDQJEGDIMISTSIMDARKMTNZBERLINCLOCANUMXJIYNMLAAJROMYCLERUF
+k4      -7.047  G k4 ix1 L15 az beau b10 q140820 035376842191254 PETRIFIEDCOPPER/r mask=002010 drop=13 fixed=19 score=-7.047 LVZESIYIAIDDIROLSWRGWEASTNORTHEASTETRXFWQYEGGTRYDMRKOFIXWOBDLGAMERLINCLOCKGRATANCOUVGSBNKIJ
