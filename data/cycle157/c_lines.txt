@@ -1,0 +1,283 @@
+C K4 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=4 ka:vig=0 beau=0 | pairs=6 | dropidx 2:2 13:2 16:2
+C K4 P L=8 all lo=0 tested=50000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=7 beau=3 ka:vig=0 beau=0 | pairs=14 | dropidx 3:2 7:2 10:1 15:3 16:2 21:2 22:1 23:1
+C K4 P L=8 all lo=50000000 tested=50000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=11 beau=7 ka:vig=0 beau=0 | pairs=28 | dropidx 0:4 2:3 3:1 4:3 7:4 15:4 16:1 21:4 22:2 23:2
+C mnull01 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=2 | pairs=4 | dropidx 3:2 20:2
+C mnull01 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=2 ka:vig=5 beau=8 | pairs=21 | dropidx 0:2 1:1 2:1 3:4 4:3 5:2 14:1 16:3 17:1 19:3
+C mnull01 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=3 ka:vig=12 beau=6 | pairs=33 | dropidx 0:1 1:3 2:1 3:8 5:2 7:2 11:1 12:1 14:2 15:2 17:1 19:3 20:6
+C mnull01 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=8 ka:vig=11 beau=7 | pairs=33 | dropidx 1:3 2:2 3:5 4:2 5:3 7:4 14:3 15:1 16:1 17:2 19:2 20:5
+C mnull01 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=2 ka:vig=10 beau=7 | pairs=32 | dropidx 0:1 1:1 2:1 3:7 4:3 5:3 7:1 10:2 11:2 12:2 15:2 16:1 17:1 19:1 20:4
+C mnull01 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull01 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=12 beau=9 ka:vig=1 beau=0 | pairs=28 | dropidx 0:6 1:2 2:1 4:3 5:1 7:1 15:3 16:2 17:8 19:1
+C mnull02 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=17 beau=13 ka:vig=0 beau=1 | pairs=45 | dropidx 0:8 1:4 2:1 3:2 4:5 5:3 6:1 7:1 8:2 9:1 14:1 15:1 16:3 17:9 18:1 19:1 20:1
+C mnull02 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=1 ka:vig=0 beau=0 | one az:vig=5 beau=12 ka:vig=3 beau=0 | pairs=26 | dropidx 0:2 2:1 3:5 4:5 5:4 8:3 15:1 16:2 17:3
+C mnull02 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=10 beau=14 ka:vig=2 beau=0 | pairs=34 | dropidx 0:1 1:4 3:5 4:7 5:1 7:2 8:2 9:2 14:1 15:1 16:4 17:4
+C mnull02 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull02 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=6 ka:vig=0 beau=0 | pairs=18 | dropidx 1:6 9:2 14:6 15:4
+C mnull03 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=12 beau=12 ka:vig=0 beau=1 | pairs=33 | dropidx 1:2 2:4 3:7 4:1 8:2 9:4 15:6 16:3 19:1 21:3
+C mnull03 P L=8 all lo=25000000 tested=25000000 strict az:vig=1 beau=0 ka:vig=0 beau=0 | one az:vig=20 beau=16 ka:vig=1 beau=0 | pairs=47 | dropidx 0:1 1:7 2:2 3:4 4:4 9:9 10:2 14:6 15:3 16:1 17:3 19:2 21:3
+C mnull03 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=12 beau=18 ka:vig=0 beau=0 | pairs=43 | dropidx 0:1 1:4 2:5 3:2 4:2 5:1 9:5 10:1 14:4 15:6 16:1 17:2 18:1 19:2 21:4 22:1 23:1
+C mnull03 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=11 beau=9 ka:vig=1 beau=0 | pairs=27 | dropidx 0:3 1:1 2:2 3:2 4:1 5:1 8:1 9:4 14:1 15:6 16:3 19:2
+C mnull03 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull03 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=2 ka:vig=10 beau=12 | pairs=35 | dropidx 4:20 10:15
+C mnull04 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=0 ka:vig=6 beau=8 | pairs=23 | dropidx 4:11 10:12
+C mnull04 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=2 ka:vig=5 beau=4 | pairs=15 | dropidx 4:8 10:7
+C mnull04 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=5 beau=7 | pairs=14 | dropidx 4:6 10:8
+C mnull04 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull04 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=1 | dropidx 18:1
+C mnull05 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=2 | dropidx 18:1 21:1
+C mnull05 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull05 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=6 beau=0 ka:vig=2 beau=2 | pairs=14 | dropidx 5:4 6:2 20:8
+C mnull06 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=8 all lo=0 tested=25000000 strict az:vig=1 beau=0 ka:vig=0 beau=0 | one az:vig=28 beau=31 ka:vig=30 beau=25 | pairs=184 | dropidx 0:18 1:19 3:6 4:1 5:10 6:14 7:3 9:15 10:10 11:10 12:10 14:8 15:7 16:1 19:11 20:9 21:6 22:13 23:13
+C mnull06 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=42 beau=31 ka:vig=15 beau=17 | pairs=167 | dropidx 0:13 1:6 2:2 3:2 5:10 6:18 7:2 8:1 9:8 10:7 11:9 12:9 14:12 15:1 16:2 17:1 19:8 20:10 21:12 22:17 23:17
+C mnull06 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=26 beau=19 ka:vig=18 beau=20 | pairs=122 | dropidx 0:15 1:8 3:5 5:3 6:6 7:3 9:8 10:5 11:10 12:10 14:7 15:4 19:8 20:5 21:7 22:9 23:9
+C mnull06 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=24 beau=36 ka:vig=9 beau=26 | pairs=152 | dropidx 0:10 1:11 3:2 5:6 6:11 7:2 8:1 9:10 10:9 11:10 12:10 14:12 15:3 16:1 19:9 20:9 21:8 22:14 23:14
+C mnull06 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull06 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull07 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=4 ka:vig=0 beau=2 | pairs=11 | dropidx 5:4 10:5 16:1 21:1
+C mnull07 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=5 beau=4 ka:vig=5 beau=4 | pairs=20 | dropidx 5:7 10:4 16:6 21:3
+C mnull07 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=3 ka:vig=2 beau=4 | pairs=13 | dropidx 5:3 10:4 16:5 21:1
+C mnull07 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=4 beau=4 ka:vig=7 beau=4 | pairs=21 | dropidx 5:3 10:7 16:9 21:2
+C mnull07 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=1 | dropidx 21:1
+C mnull07 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=23 beau=24 ka:vig=41 beau=47 | pairs=201 | dropidx 0:1 1:1 2:2 3:4 4:13 5:18 6:18 7:2 8:1 9:8 10:9 11:2 12:2 14:3 15:15 16:21 17:7 18:2 19:7 20:14 21:15 22:18 23:18
+C mnull08 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=1 ka:vig=1 beau=0 | one az:vig=28 beau=22 ka:vig=42 beau=40 | pairs=201 | dropidx 0:1 2:1 4:13 5:16 6:21 7:3 9:7 10:3 15:7 16:26 17:10 18:2 19:13 20:11 21:7 22:30 23:30
+C mnull08 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=1 beau=1 | one az:vig=24 beau=22 ka:vig=58 beau=50 | pairs=229 | dropidx 0:1 1:2 2:2 3:1 4:21 5:13 6:16 7:1 9:22 10:5 11:1 12:1 14:2 15:14 16:15 17:23 18:2 19:11 20:17 21:19 22:20 23:20
+C mnull08 P L=8 all lo=75000000 tested=25000000 strict az:vig=1 beau=0 ka:vig=1 beau=1 | one az:vig=23 beau=24 ka:vig=59 beau=59 | pairs=238 | dropidx 0:1 1:1 2:2 3:2 4:20 5:13 6:20 7:1 8:2 9:11 10:13 11:2 12:2 15:14 16:24 17:13 18:2 19:10 20:17 21:16 22:26 23:26
+C mnull08 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull08 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=1 | pairs=1 | dropidx 18:1
+C mnull09 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=1 | pairs=1 | dropidx 18:1
+C mnull09 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull09 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=1 beau=0 | pairs=1 | dropidx 19:1
+C mnull10 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull10 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=2 beau=0 | pairs=2 | dropidx 11:2
+C mnull11 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=7 beau=6 ka:vig=9 beau=10 | pairs=52 | dropidx 0:2 2:5 4:3 6:2 7:1 8:1 9:2 11:3 12:3 14:5 16:5 17:1 18:4 19:3 22:6 23:6
+C mnull11 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=8 beau=5 ka:vig=4 beau=9 | pairs=40 | dropidx 0:3 2:3 4:4 6:1 8:3 9:2 11:1 12:1 14:1 17:2 18:5 19:3 20:2 21:1 22:4 23:4
+C mnull11 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=10 beau=5 ka:vig=7 beau=12 | pairs=55 | dropidx 0:5 2:7 4:3 6:7 10:1 11:2 12:2 14:3 15:1 16:4 17:1 18:4 19:2 20:1 22:6 23:6
+C mnull11 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=5 beau=9 ka:vig=5 beau=14 | pairs=59 | dropidx 0:4 2:5 4:1 6:3 8:5 9:2 11:3 12:3 14:3 16:3 17:2 18:2 19:4 20:1 22:9 23:9
+C mnull11 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull11 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=2 | dropidx 5:1 10:1
+C mnull12 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=1 ka:vig=0 beau=0 | pairs=1 | dropidx 5:1
+C mnull12 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull12 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=0 ka:vig=0 beau=0 | pairs=3 | dropidx 9:3
+C mnull13 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=2 ka:vig=0 beau=0 | pairs=5 | dropidx 15:2 17:2 18:1
+C mnull13 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=5 ka:vig=1 beau=0 | pairs=9 | dropidx 6:1 7:1 9:1 15:3 17:3
+C mnull13 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=2 | pairs=3 | dropidx 9:1 15:1 17:1
+C mnull13 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull13 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=9 beau=4 ka:vig=0 beau=1 | pairs=24 | dropidx 4:1 9:1 11:3 12:3 14:2 15:1 16:1 18:6 20:1 21:1 22:2 23:2
+C mnull14 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=6 beau=15 ka:vig=0 beau=0 | pairs=44 | dropidx 6:2 9:2 11:4 12:4 14:4 15:2 17:1 18:6 19:3 20:3 21:5 22:4 23:4
+C mnull14 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=1 ka:vig=0 beau=0 | one az:vig=2 beau=10 ka:vig=0 beau=1 | pairs=16 | dropidx 6:2 10:1 14:2 15:2 16:4 18:5
+C mnull14 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=13 ka:vig=0 beau=2 | pairs=29 | dropidx 0:1 1:1 3:1 4:2 7:1 11:3 12:3 14:3 15:2 18:5 19:1 20:1 21:1 22:2 23:2
+C mnull14 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull14 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=1 | pairs=1 | dropidx 8:1
+C mnull15 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=1 | pairs=1 | dropidx 8:1
+C mnull15 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull15 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=0 ka:vig=0 beau=0 | pairs=4 | dropidx 14:2 15:2
+C mnull16 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=1 | dropidx 14:1
+C mnull16 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=0 beau=0 | pairs=1 | dropidx 14:1
+C mnull16 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull16 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=2 ka:vig=19 beau=24 | pairs=69 | dropidx 0:2 2:5 3:5 4:3 5:4 6:1 7:20 10:2 16:3 17:1 18:2 19:15 22:3 23:3
+C mnull17 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=2 beau=2 ka:vig=15 beau=16 | pairs=51 | dropidx 0:2 1:1 2:4 3:1 4:3 5:3 7:12 9:1 10:4 15:1 16:1 17:3 19:9 20:2 22:2 23:2
+C mnull17 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=1 ka:vig=12 beau=18 | pairs=43 | dropidx 0:1 2:1 3:1 4:4 5:1 7:7 9:3 10:3 11:2 12:2 15:2 16:1 17:2 19:9 22:2 23:2
+C mnull17 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=1 beau=0 ka:vig=19 beau=20 | pairs=52 | dropidx 0:4 2:1 3:2 4:1 7:19 10:2 16:4 17:1 18:1 19:14 20:1 22:1 23:1
+C mnull17 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull17 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=3 beau=5 ka:vig=3 beau=8 | pairs=23 | dropidx 1:1 2:1 3:6 6:1 9:1 10:1 14:1 15:4 17:1 18:4 21:2
+C mnull18 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=6 beau=11 ka:vig=1 beau=6 | pairs=31 | dropidx 1:1 2:2 3:3 6:1 7:2 9:4 10:2 14:4 15:5 16:1 18:5 21:1
+C mnull18 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=6 beau=8 ka:vig=5 beau=11 | pairs=33 | dropidx 1:1 2:1 3:5 6:1 9:5 10:1 14:4 15:7 16:1 17:1 18:5 21:1
+C mnull18 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=7 beau=4 ka:vig=5 beau=4 | pairs=28 | dropidx 1:3 2:1 3:3 7:1 9:5 14:2 15:3 16:1 17:1 18:6 21:2
+C mnull18 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull18 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull19 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=10 perm lo=0 tested=3628800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=11 perm lo=0 tested=39916800 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=2 all lo=0 tested=100 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=3 all lo=0 tested=1000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=4 all lo=0 tested=10000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=5 all lo=0 tested=100000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=6 all lo=0 tested=1000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=7 all lo=0 tested=10000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=8 all lo=0 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=8 all lo=25000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=8 all lo=50000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=8 all lo=75000000 tested=25000000 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=8 perm lo=0 tested=40320 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
+C mnull20 P L=9 perm lo=0 tested=362880 strict az:vig=0 beau=0 ka:vig=0 beau=0 | one az:vig=0 beau=0 ka:vig=0 beau=0 | pairs=0 | dropidx
