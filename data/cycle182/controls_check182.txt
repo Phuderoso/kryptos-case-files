@@ -1,0 +1,25 @@
+P1_f_L1_vig_KA_x_SHADOW-Z: fits_at_q 6 (other dir 12) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -4.204 c=[9] d=7 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P2_f_L3_beau_PALIMPSEST-K_x_BERLIN-Z: fits_at_q 5 (other dir 5) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[9, 11, 0] d=20 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P3_f_L5_vig_IQLUSION-Z_x_LODESTONE-K: fits_at_q 2 (other dir 2) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[19, 21, 15, 1, 16] d=22 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P4_f_L6_beau_ABSCISSA-Z_x_COMPASS-K_nonunit: fits_at_q 1 (other dir 1) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[1, 15, 2, 17, 9, 24] d=21 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P5_f_L2_vig_SHADOW-K_x_LODESTONE-K: fits_at_q 5 (other dir 5) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[15, 18] d=9 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P6_f_L1_vig_BERLINCLOCK-K_x_MAGNETIC-Z_progressive: fits_at_q 6 (other dir 6) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -4.204 c=[1] d=3 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P7_r_L2_beau_MAGNETIC-Z_x_KA: fits_at_q 5 (other dir 5) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[5, 24] d=11 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P8_r_L4_vig_LODESTONE-Z_x_UNDERGRUUND-K: fits_at_q 3 (other dir 0) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[6, 5, 8, 2] d=10 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P9_r_L6_beau_CARTER-Z_x_PALIMPSEST-K: fits_at_q 1 (other dir 1) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -4.204 c=[8, 17, 25, 6, 3, 7] d=17 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P10_r_L1_vig_AZ_x_KA: fits_at_q 12 (other dir 18) planted_params_listed True decode_matches_plant True safe_H_same True -> PASS
+   decode score -3.907 c=[16] d=16 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+N1_P2_one_wrong_carved_letter_slot30: NEG fits_at_q f 0 r 0 safe_H_same True -> PASS
+N2_f_random_key: NEG fits_at_q f 0 r 0 safe_H_same True -> PASS
+N3_pair_outside_scope_TOMB-Z_x_SLOWLY-Z_L3: NEG fits_at_q f 0 r 0 safe_H_same True -> PASS
+N4_r_order7_outside_L_range: NEG fits_at_q f 0 r 0 safe_H_same True -> PASS
+controls 14/14

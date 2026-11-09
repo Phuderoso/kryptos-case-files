@@ -1,0 +1,18 @@
+# recount182.py F lines (numpy brute force) on slice all.bin[::4000] + planted perms of P1, P5, P7 (45 rows, md5 55e3785c...); A, B in alpha_recount180.txt (33 x 33); L1 everywhere, L2 at P5:43:SHADOW/K and P7:44:MAGNETIC/Z
+DONE k4
+DONE n18211
+DONE n18212
+F P1 1 42 KA SHADOW/Z vig
+DONE P1
+F P5 2 43 SHADOW/K LODESTONE/K vig
+DONE P5
+F P7 2 44 MAGNETIC/Z KA beau
+DONE P7
+# cmprecount182.py vs lrk182safe (method 2, same lists, L 1-2)
+k4: recount 0 (L1 0, L2 0) C 0 done True identical True
+n18211: recount 0 (L1 0, L2 0) C 0 done True identical True
+n18212: recount 0 (L1 0, L2 0) C 0 done True identical True
+P1: recount 1 (L1 1, L2 0) C 1 done True identical True
+P5: recount 1 (L1 0, L2 1) C 1 done True identical True
+P7: recount 1 (L1 0, L2 1) C 1 done True identical True
+RECOUNT MATCH

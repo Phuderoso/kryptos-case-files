@@ -1,0 +1,794 @@
+## run/i160/f18241.txt
+H f18241 1 1 q1 vig perms 2591 pairs 56326 pass2 490 fits 0 strict 0 slotfits 0
+H f18241 1 1 q2 vig perms 2591 pairs 56326 pass2 325 fits 0 strict 0 slotfits 0
+H f18241 1 1 q3 vig perms 2591 pairs 56326 pass2 318 fits 0 strict 0 slotfits 0
+H f18241 1 2 q1 vig perms 2591 pairs 56326 pass2 1274 fits 0 strict 0 slotfits 0
+H f18241 1 2 q2 vig perms 2591 pairs 56326 pass2 1333 fits 0 strict 0 slotfits 0
+H f18241 1 2 q3 vig perms 2591 pairs 56326 pass2 1186 fits 0 strict 0 slotfits 0
+H f18241 1 3 q1 vig perms 2591 pairs 56326 pass2 5044 fits 0 strict 0 slotfits 0
+H f18241 1 3 q2 vig perms 2591 pairs 56326 pass2 4267 fits 0 strict 0 slotfits 0
+H f18241 1 3 q3 vig perms 2591 pairs 56326 pass2 4553 fits 0 strict 0 slotfits 0
+O f18241 overflow 0 mismatch 0
+END f18241 0 2591
+## run/i160/f18242.txt
+H f18242 1 1 q1 vig perms 2591 pairs 56326 pass2 302 fits 0 strict 0 slotfits 0
+H f18242 1 1 q2 vig perms 2591 pairs 56326 pass2 304 fits 0 strict 0 slotfits 0
+H f18242 1 1 q3 vig perms 2591 pairs 56326 pass2 302 fits 0 strict 0 slotfits 0
+H f18242 1 2 q1 vig perms 2591 pairs 56326 pass2 1263 fits 0 strict 0 slotfits 0
+H f18242 1 2 q2 vig perms 2591 pairs 56326 pass2 1019 fits 0 strict 0 slotfits 0
+H f18242 1 2 q3 vig perms 2591 pairs 56326 pass2 1054 fits 0 strict 0 slotfits 0
+H f18242 1 3 q1 vig perms 2591 pairs 56326 pass2 4540 fits 0 strict 0 slotfits 0
+H f18242 1 3 q2 vig perms 2591 pairs 56326 pass2 4020 fits 0 strict 0 slotfits 0
+H f18242 1 3 q3 vig perms 2591 pairs 56326 pass2 4488 fits 0 strict 0 slotfits 0
+O f18242 overflow 0 mismatch 0
+END f18242 0 2591
+## run/i160/f18243.txt
+H f18243 1 1 q1 vig perms 2591 pairs 56326 pass2 321 fits 0 strict 0 slotfits 0
+H f18243 1 1 q2 vig perms 2591 pairs 56326 pass2 331 fits 0 strict 0 slotfits 0
+H f18243 1 1 q3 vig perms 2591 pairs 56326 pass2 305 fits 0 strict 0 slotfits 0
+H f18243 1 2 q1 vig perms 2591 pairs 56326 pass2 1115 fits 0 strict 0 slotfits 0
+H f18243 1 2 q2 vig perms 2591 pairs 56326 pass2 1008 fits 0 strict 0 slotfits 0
+H f18243 1 2 q3 vig perms 2591 pairs 56326 pass2 1000 fits 0 strict 0 slotfits 0
+H f18243 1 3 q1 vig perms 2591 pairs 56326 pass2 4231 fits 0 strict 0 slotfits 0
+H f18243 1 3 q2 vig perms 2591 pairs 56326 pass2 3841 fits 0 strict 0 slotfits 0
+H f18243 1 3 q3 vig perms 2591 pairs 56326 pass2 4199 fits 0 strict 0 slotfits 0
+O f18243 overflow 0 mismatch 0
+END f18243 0 2591
+## run/i160/f18244.txt
+H f18244 1 1 q1 vig perms 2591 pairs 56326 pass2 441 fits 0 strict 0 slotfits 0
+H f18244 1 1 q2 vig perms 2591 pairs 56326 pass2 450 fits 0 strict 0 slotfits 0
+H f18244 1 1 q3 vig perms 2591 pairs 56326 pass2 333 fits 0 strict 0 slotfits 0
+H f18244 1 2 q1 vig perms 2591 pairs 56326 pass2 1549 fits 0 strict 0 slotfits 0
+H f18244 1 2 q2 vig perms 2591 pairs 56326 pass2 1055 fits 0 strict 0 slotfits 0
+H f18244 1 2 q3 vig perms 2591 pairs 56326 pass2 1122 fits 0 strict 0 slotfits 0
+H f18244 1 3 q1 vig perms 2591 pairs 56326 pass2 4453 fits 0 strict 0 slotfits 0
+H f18244 1 3 q2 vig perms 2591 pairs 56326 pass2 4468 fits 0 strict 0 slotfits 0
+H f18244 1 3 q3 vig perms 2591 pairs 56326 pass2 4122 fits 0 strict 0 slotfits 0
+O f18244 overflow 0 mismatch 0
+END f18244 0 2591
+## run/i160/f18245.txt
+H f18245 1 1 q1 vig perms 2591 pairs 56326 pass2 329 fits 0 strict 0 slotfits 0
+H f18245 1 1 q2 vig perms 2591 pairs 56326 pass2 279 fits 0 strict 0 slotfits 0
+H f18245 1 1 q3 vig perms 2591 pairs 56326 pass2 357 fits 0 strict 0 slotfits 0
+H f18245 1 2 q1 vig perms 2591 pairs 56326 pass2 1316 fits 0 strict 0 slotfits 0
+H f18245 1 2 q2 vig perms 2591 pairs 56326 pass2 973 fits 0 strict 0 slotfits 0
+H f18245 1 2 q3 vig perms 2591 pairs 56326 pass2 1157 fits 0 strict 0 slotfits 0
+H f18245 1 3 q1 vig perms 2591 pairs 56326 pass2 4713 fits 0 strict 0 slotfits 0
+H f18245 1 3 q2 vig perms 2591 pairs 56326 pass2 4324 fits 0 strict 0 slotfits 0
+H f18245 1 3 q3 vig perms 2591 pairs 56326 pass2 4365 fits 0 strict 0 slotfits 0
+O f18245 overflow 0 mismatch 0
+END f18245 0 2591
+## run/i160/f18246.txt
+H f18246 1 1 q1 vig perms 2591 pairs 56326 pass2 384 fits 0 strict 0 slotfits 0
+H f18246 1 1 q2 vig perms 2591 pairs 56326 pass2 284 fits 0 strict 0 slotfits 0
+H f18246 1 1 q3 vig perms 2591 pairs 56326 pass2 392 fits 0 strict 0 slotfits 0
+H f18246 1 2 q1 vig perms 2591 pairs 56326 pass2 1149 fits 0 strict 0 slotfits 0
+H f18246 1 2 q2 vig perms 2591 pairs 56326 pass2 1011 fits 0 strict 0 slotfits 0
+H f18246 1 2 q3 vig perms 2591 pairs 56326 pass2 1275 fits 0 strict 0 slotfits 0
+H f18246 1 3 q1 vig perms 2591 pairs 56326 pass2 4486 fits 0 strict 0 slotfits 0
+H f18246 1 3 q2 vig perms 2591 pairs 56326 pass2 4345 fits 0 strict 0 slotfits 0
+H f18246 1 3 q3 vig perms 2591 pairs 56326 pass2 4387 fits 0 strict 0 slotfits 0
+O f18246 overflow 0 mismatch 0
+END f18246 0 2591
+## run/i160/f18247.txt
+H f18247 1 1 q1 vig perms 2591 pairs 56326 pass2 371 fits 0 strict 0 slotfits 0
+H f18247 1 1 q2 vig perms 2591 pairs 56326 pass2 297 fits 0 strict 0 slotfits 0
+H f18247 1 1 q3 vig perms 2591 pairs 56326 pass2 294 fits 0 strict 0 slotfits 0
+H f18247 1 2 q1 vig perms 2591 pairs 56326 pass2 1060 fits 0 strict 0 slotfits 0
+H f18247 1 2 q2 vig perms 2591 pairs 56326 pass2 1185 fits 0 strict 0 slotfits 0
+H f18247 1 2 q3 vig perms 2591 pairs 56326 pass2 1036 fits 0 strict 0 slotfits 0
+H f18247 1 3 q1 vig perms 2591 pairs 56326 pass2 4875 fits 0 strict 0 slotfits 0
+H f18247 1 3 q2 vig perms 2591 pairs 56326 pass2 4567 fits 0 strict 0 slotfits 0
+H f18247 1 3 q3 vig perms 2591 pairs 56326 pass2 4146 fits 0 strict 0 slotfits 0
+O f18247 overflow 0 mismatch 0
+END f18247 0 2591
+## run/i160/f18248.txt
+H f18248 1 1 q1 vig perms 2591 pairs 56326 pass2 150 fits 0 strict 0 slotfits 0
+H f18248 1 1 q2 vig perms 2591 pairs 56326 pass2 224 fits 0 strict 0 slotfits 0
+H f18248 1 1 q3 vig perms 2591 pairs 56326 pass2 323 fits 0 strict 0 slotfits 0
+H f18248 1 2 q1 vig perms 2591 pairs 56326 pass2 770 fits 0 strict 0 slotfits 0
+H f18248 1 2 q2 vig perms 2591 pairs 56326 pass2 893 fits 0 strict 0 slotfits 0
+H f18248 1 2 q3 vig perms 2591 pairs 56326 pass2 1198 fits 0 strict 0 slotfits 0
+H f18248 1 3 q1 vig perms 2591 pairs 56326 pass2 3852 fits 0 strict 0 slotfits 0
+H f18248 1 3 q2 vig perms 2591 pairs 56326 pass2 4211 fits 0 strict 0 slotfits 0
+H f18248 1 3 q3 vig perms 2591 pairs 56326 pass2 4249 fits 0 strict 0 slotfits 0
+O f18248 overflow 0 mismatch 0
+END f18248 0 2591
+## run/i160/f18249.txt
+H f18249 1 1 q1 vig perms 2591 pairs 56326 pass2 448 fits 0 strict 0 slotfits 0
+H f18249 1 1 q2 vig perms 2591 pairs 56326 pass2 352 fits 0 strict 0 slotfits 0
+H f18249 1 1 q3 vig perms 2591 pairs 56326 pass2 294 fits 0 strict 0 slotfits 0
+H f18249 1 2 q1 vig perms 2591 pairs 56326 pass2 1252 fits 0 strict 0 slotfits 0
+H f18249 1 2 q2 vig perms 2591 pairs 56326 pass2 1285 fits 0 strict 0 slotfits 0
+H f18249 1 2 q3 vig perms 2591 pairs 56326 pass2 1106 fits 0 strict 0 slotfits 0
+H f18249 1 3 q1 vig perms 2591 pairs 56326 pass2 5089 fits 0 strict 0 slotfits 0
+H f18249 1 3 q2 vig perms 2591 pairs 56326 pass2 5317 fits 0 strict 0 slotfits 0
+H f18249 1 3 q3 vig perms 2591 pairs 56326 pass2 4294 fits 0 strict 0 slotfits 0
+O f18249 overflow 0 mismatch 0
+END f18249 0 2591
+## run/i160/f18250.txt
+H f18250 1 1 q1 vig perms 2591 pairs 56326 pass2 345 fits 0 strict 0 slotfits 0
+H f18250 1 1 q2 vig perms 2591 pairs 56326 pass2 346 fits 0 strict 0 slotfits 0
+H f18250 1 1 q3 vig perms 2591 pairs 56326 pass2 295 fits 0 strict 0 slotfits 0
+H f18250 1 2 q1 vig perms 2591 pairs 56326 pass2 1133 fits 0 strict 0 slotfits 0
+H f18250 1 2 q2 vig perms 2591 pairs 56326 pass2 1231 fits 0 strict 0 slotfits 0
+H f18250 1 2 q3 vig perms 2591 pairs 56326 pass2 1099 fits 0 strict 0 slotfits 0
+H f18250 1 3 q1 vig perms 2591 pairs 56326 pass2 3936 fits 0 strict 0 slotfits 0
+H f18250 1 3 q2 vig perms 2591 pairs 56326 pass2 4905 fits 0 strict 0 slotfits 0
+H f18250 1 3 q3 vig perms 2591 pairs 56326 pass2 4346 fits 0 strict 0 slotfits 0
+O f18250 overflow 0 mismatch 0
+END f18250 0 2591
+## run/i160/f18251.txt
+H f18251 1 1 q1 vig perms 2591 pairs 56326 pass2 484 fits 0 strict 0 slotfits 0
+H f18251 1 1 q2 vig perms 2591 pairs 56326 pass2 387 fits 0 strict 0 slotfits 0
+H f18251 1 1 q3 vig perms 2591 pairs 56326 pass2 329 fits 0 strict 0 slotfits 0
+H f18251 1 2 q1 vig perms 2591 pairs 56326 pass2 1292 fits 0 strict 0 slotfits 0
+H f18251 1 2 q2 vig perms 2591 pairs 56326 pass2 1175 fits 0 strict 0 slotfits 0
+H f18251 1 2 q3 vig perms 2591 pairs 56326 pass2 1033 fits 0 strict 0 slotfits 0
+H f18251 1 3 q1 vig perms 2591 pairs 56326 pass2 4081 fits 0 strict 0 slotfits 0
+H f18251 1 3 q2 vig perms 2591 pairs 56326 pass2 4233 fits 0 strict 0 slotfits 0
+H f18251 1 3 q3 vig perms 2591 pairs 56326 pass2 4009 fits 0 strict 0 slotfits 0
+O f18251 overflow 0 mismatch 0
+END f18251 0 2591
+## run/i160/f18252.txt
+H f18252 1 1 q1 vig perms 2591 pairs 56326 pass2 242 fits 0 strict 0 slotfits 0
+H f18252 1 1 q2 vig perms 2591 pairs 56326 pass2 354 fits 0 strict 0 slotfits 0
+H f18252 1 1 q3 vig perms 2591 pairs 56326 pass2 323 fits 0 strict 0 slotfits 0
+H f18252 1 2 q1 vig perms 2591 pairs 56326 pass2 1005 fits 0 strict 0 slotfits 0
+H f18252 1 2 q2 vig perms 2591 pairs 56326 pass2 1077 fits 0 strict 0 slotfits 0
+H f18252 1 2 q3 vig perms 2591 pairs 56326 pass2 1096 fits 0 strict 0 slotfits 0
+H f18252 1 3 q1 vig perms 2591 pairs 56326 pass2 3716 fits 0 strict 0 slotfits 0
+H f18252 1 3 q2 vig perms 2591 pairs 56326 pass2 4038 fits 0 strict 0 slotfits 0
+H f18252 1 3 q3 vig perms 2591 pairs 56326 pass2 4411 fits 0 strict 0 slotfits 0
+O f18252 overflow 0 mismatch 0
+END f18252 0 2591
+## run/i160/f18253.txt
+H f18253 1 1 q1 vig perms 2591 pairs 56326 pass2 413 fits 0 strict 0 slotfits 0
+H f18253 1 1 q2 vig perms 2591 pairs 56326 pass2 263 fits 0 strict 0 slotfits 0
+H f18253 1 1 q3 vig perms 2591 pairs 56326 pass2 362 fits 0 strict 0 slotfits 0
+H f18253 1 2 q1 vig perms 2591 pairs 56326 pass2 1172 fits 0 strict 0 slotfits 0
+H f18253 1 2 q2 vig perms 2591 pairs 56326 pass2 1216 fits 0 strict 0 slotfits 0
+H f18253 1 2 q3 vig perms 2591 pairs 56326 pass2 1168 fits 0 strict 0 slotfits 0
+H f18253 1 3 q1 vig perms 2591 pairs 56326 pass2 4840 fits 0 strict 0 slotfits 0
+H f18253 1 3 q2 vig perms 2591 pairs 56326 pass2 4015 fits 0 strict 0 slotfits 0
+H f18253 1 3 q3 vig perms 2591 pairs 56326 pass2 4332 fits 0 strict 0 slotfits 0
+O f18253 overflow 0 mismatch 0
+END f18253 0 2591
+## run/i160/f18254.txt
+H f18254 1 1 q1 vig perms 2591 pairs 56326 pass2 389 fits 0 strict 0 slotfits 0
+H f18254 1 1 q2 vig perms 2591 pairs 56326 pass2 257 fits 0 strict 0 slotfits 0
+H f18254 1 1 q3 vig perms 2591 pairs 56326 pass2 298 fits 0 strict 0 slotfits 0
+H f18254 1 2 q1 vig perms 2591 pairs 56326 pass2 1234 fits 0 strict 0 slotfits 0
+H f18254 1 2 q2 vig perms 2591 pairs 56326 pass2 1178 fits 0 strict 0 slotfits 0
+H f18254 1 2 q3 vig perms 2591 pairs 56326 pass2 1113 fits 0 strict 0 slotfits 0
+H f18254 1 3 q1 vig perms 2591 pairs 56326 pass2 4203 fits 0 strict 0 slotfits 0
+H f18254 1 3 q2 vig perms 2591 pairs 56326 pass2 4472 fits 0 strict 0 slotfits 0
+H f18254 1 3 q3 vig perms 2591 pairs 56326 pass2 4173 fits 0 strict 0 slotfits 0
+O f18254 overflow 0 mismatch 0
+END f18254 0 2591
+## run/i160/f18255.txt
+H f18255 1 1 q1 vig perms 2591 pairs 56326 pass2 346 fits 0 strict 0 slotfits 0
+H f18255 1 1 q2 vig perms 2591 pairs 56326 pass2 366 fits 0 strict 0 slotfits 0
+H f18255 1 1 q3 vig perms 2591 pairs 56326 pass2 315 fits 0 strict 0 slotfits 0
+H f18255 1 2 q1 vig perms 2591 pairs 56326 pass2 1462 fits 0 strict 0 slotfits 0
+H f18255 1 2 q2 vig perms 2591 pairs 56326 pass2 1247 fits 0 strict 0 slotfits 0
+H f18255 1 2 q3 vig perms 2591 pairs 56326 pass2 1235 fits 0 strict 0 slotfits 0
+H f18255 1 3 q1 vig perms 2591 pairs 56326 pass2 4666 fits 0 strict 0 slotfits 0
+H f18255 1 3 q2 vig perms 2591 pairs 56326 pass2 3874 fits 0 strict 0 slotfits 0
+H f18255 1 3 q3 vig perms 2591 pairs 56326 pass2 4084 fits 0 strict 0 slotfits 0
+O f18255 overflow 0 mismatch 0
+END f18255 0 2591
+## run/i160/f18256.txt
+H f18256 1 1 q1 vig perms 2591 pairs 56326 pass2 294 fits 0 strict 0 slotfits 0
+H f18256 1 1 q2 vig perms 2591 pairs 56326 pass2 256 fits 0 strict 0 slotfits 0
+H f18256 1 1 q3 vig perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H f18256 1 2 q1 vig perms 2591 pairs 56326 pass2 994 fits 0 strict 0 slotfits 0
+H f18256 1 2 q2 vig perms 2591 pairs 56326 pass2 1065 fits 0 strict 0 slotfits 0
+H f18256 1 2 q3 vig perms 2591 pairs 56326 pass2 1126 fits 0 strict 0 slotfits 0
+H f18256 1 3 q1 vig perms 2591 pairs 56326 pass2 4279 fits 0 strict 0 slotfits 0
+H f18256 1 3 q2 vig perms 2591 pairs 56326 pass2 3910 fits 0 strict 0 slotfits 0
+H f18256 1 3 q3 vig perms 2591 pairs 56326 pass2 4375 fits 0 strict 0 slotfits 0
+O f18256 overflow 0 mismatch 0
+END f18256 0 2591
+## run/i160/f18257.txt
+H f18257 1 1 q1 vig perms 2591 pairs 56326 pass2 636 fits 0 strict 0 slotfits 0
+H f18257 1 1 q2 vig perms 2591 pairs 56326 pass2 329 fits 0 strict 0 slotfits 0
+H f18257 1 1 q3 vig perms 2591 pairs 56326 pass2 380 fits 0 strict 0 slotfits 0
+H f18257 1 2 q1 vig perms 2591 pairs 56326 pass2 1551 fits 0 strict 0 slotfits 0
+H f18257 1 2 q2 vig perms 2591 pairs 56326 pass2 1076 fits 0 strict 0 slotfits 0
+H f18257 1 2 q3 vig perms 2591 pairs 56326 pass2 1256 fits 0 strict 0 slotfits 0
+H f18257 1 3 q1 vig perms 2591 pairs 56326 pass2 4691 fits 0 strict 0 slotfits 0
+H f18257 1 3 q2 vig perms 2591 pairs 56326 pass2 3854 fits 0 strict 0 slotfits 0
+H f18257 1 3 q3 vig perms 2591 pairs 56326 pass2 4539 fits 0 strict 0 slotfits 0
+O f18257 overflow 0 mismatch 0
+END f18257 0 2591
+## run/i160/f18258.txt
+H f18258 1 1 q1 vig perms 2591 pairs 56326 pass2 293 fits 0 strict 0 slotfits 0
+H f18258 1 1 q2 vig perms 2591 pairs 56326 pass2 450 fits 0 strict 0 slotfits 0
+H f18258 1 1 q3 vig perms 2591 pairs 56326 pass2 341 fits 0 strict 0 slotfits 0
+H f18258 1 2 q1 vig perms 2591 pairs 56326 pass2 1169 fits 0 strict 0 slotfits 0
+H f18258 1 2 q2 vig perms 2591 pairs 56326 pass2 1270 fits 0 strict 0 slotfits 0
+H f18258 1 2 q3 vig perms 2591 pairs 56326 pass2 1105 fits 0 strict 0 slotfits 0
+H f18258 1 3 q1 vig perms 2591 pairs 56326 pass2 4193 fits 0 strict 0 slotfits 0
+H f18258 1 3 q2 vig perms 2591 pairs 56326 pass2 4508 fits 0 strict 0 slotfits 0
+H f18258 1 3 q3 vig perms 2591 pairs 56326 pass2 4452 fits 0 strict 0 slotfits 0
+O f18258 overflow 0 mismatch 0
+END f18258 0 2591
+## run/i160/f18259.txt
+H f18259 1 1 q1 vig perms 2591 pairs 56326 pass2 251 fits 0 strict 0 slotfits 0
+H f18259 1 1 q2 vig perms 2591 pairs 56326 pass2 397 fits 0 strict 0 slotfits 0
+H f18259 1 1 q3 vig perms 2591 pairs 56326 pass2 285 fits 0 strict 0 slotfits 0
+H f18259 1 2 q1 vig perms 2591 pairs 56326 pass2 798 fits 0 strict 0 slotfits 0
+H f18259 1 2 q2 vig perms 2591 pairs 56326 pass2 1165 fits 0 strict 0 slotfits 0
+H f18259 1 2 q3 vig perms 2591 pairs 56326 pass2 1124 fits 0 strict 0 slotfits 0
+H f18259 1 3 q1 vig perms 2591 pairs 56326 pass2 4340 fits 0 strict 0 slotfits 0
+H f18259 1 3 q2 vig perms 2591 pairs 56326 pass2 4714 fits 0 strict 0 slotfits 0
+H f18259 1 3 q3 vig perms 2591 pairs 56326 pass2 4251 fits 0 strict 0 slotfits 0
+O f18259 overflow 0 mismatch 0
+END f18259 0 2591
+## run/i160/f18260.txt
+H f18260 1 1 q1 vig perms 2591 pairs 56326 pass2 436 fits 0 strict 0 slotfits 0
+H f18260 1 1 q2 vig perms 2591 pairs 56326 pass2 325 fits 0 strict 0 slotfits 0
+H f18260 1 1 q3 vig perms 2591 pairs 56326 pass2 415 fits 0 strict 0 slotfits 0
+H f18260 1 2 q1 vig perms 2591 pairs 56326 pass2 1046 fits 0 strict 0 slotfits 0
+H f18260 1 2 q2 vig perms 2591 pairs 56326 pass2 898 fits 0 strict 0 slotfits 0
+H f18260 1 2 q3 vig perms 2591 pairs 56326 pass2 1283 fits 0 strict 0 slotfits 0
+H f18260 1 3 q1 vig perms 2591 pairs 56326 pass2 4388 fits 0 strict 0 slotfits 0
+H f18260 1 3 q2 vig perms 2591 pairs 56326 pass2 3976 fits 0 strict 0 slotfits 0
+H f18260 1 3 q3 vig perms 2591 pairs 56326 pass2 4381 fits 0 strict 0 slotfits 0
+O f18260 overflow 0 mismatch 0
+END f18260 0 2591
+## run/i160/f18261.txt
+H f18261 1 1 q1 vig perms 2591 pairs 56326 pass2 354 fits 0 strict 0 slotfits 0
+H f18261 1 1 q2 vig perms 2591 pairs 56326 pass2 271 fits 0 strict 0 slotfits 0
+H f18261 1 1 q3 vig perms 2591 pairs 56326 pass2 344 fits 0 strict 0 slotfits 0
+H f18261 1 2 q1 vig perms 2591 pairs 56326 pass2 1176 fits 0 strict 0 slotfits 0
+H f18261 1 2 q2 vig perms 2591 pairs 56326 pass2 1226 fits 0 strict 0 slotfits 0
+H f18261 1 2 q3 vig perms 2591 pairs 56326 pass2 1246 fits 0 strict 0 slotfits 0
+H f18261 1 3 q1 vig perms 2591 pairs 56326 pass2 4396 fits 0 strict 0 slotfits 0
+H f18261 1 3 q2 vig perms 2591 pairs 56326 pass2 4288 fits 0 strict 0 slotfits 0
+H f18261 1 3 q3 vig perms 2591 pairs 56326 pass2 4508 fits 0 strict 0 slotfits 0
+O f18261 overflow 0 mismatch 0
+END f18261 0 2591
+## run/i160/f18262.txt
+H f18262 1 1 q1 vig perms 2591 pairs 56326 pass2 422 fits 0 strict 0 slotfits 0
+H f18262 1 1 q2 vig perms 2591 pairs 56326 pass2 289 fits 0 strict 0 slotfits 0
+H f18262 1 1 q3 vig perms 2591 pairs 56326 pass2 298 fits 0 strict 0 slotfits 0
+H f18262 1 2 q1 vig perms 2591 pairs 56326 pass2 908 fits 0 strict 0 slotfits 0
+H f18262 1 2 q2 vig perms 2591 pairs 56326 pass2 1186 fits 0 strict 0 slotfits 0
+H f18262 1 2 q3 vig perms 2591 pairs 56326 pass2 959 fits 0 strict 0 slotfits 0
+H f18262 1 3 q1 vig perms 2591 pairs 56326 pass2 3706 fits 0 strict 0 slotfits 0
+H f18262 1 3 q2 vig perms 2591 pairs 56326 pass2 4240 fits 0 strict 0 slotfits 0
+H f18262 1 3 q3 vig perms 2591 pairs 56326 pass2 4182 fits 0 strict 0 slotfits 0
+O f18262 overflow 0 mismatch 0
+END f18262 0 2591
+## run/i160/f18263.txt
+H f18263 1 1 q1 vig perms 2591 pairs 56326 pass2 106 fits 0 strict 0 slotfits 0
+H f18263 1 1 q2 vig perms 2591 pairs 56326 pass2 288 fits 0 strict 0 slotfits 0
+H f18263 1 1 q3 vig perms 2591 pairs 56326 pass2 315 fits 0 strict 0 slotfits 0
+H f18263 1 2 q1 vig perms 2591 pairs 56326 pass2 849 fits 0 strict 0 slotfits 0
+H f18263 1 2 q2 vig perms 2591 pairs 56326 pass2 1185 fits 0 strict 0 slotfits 0
+H f18263 1 2 q3 vig perms 2591 pairs 56326 pass2 1214 fits 0 strict 0 slotfits 0
+H f18263 1 3 q1 vig perms 2591 pairs 56326 pass2 3673 fits 0 strict 0 slotfits 0
+H f18263 1 3 q2 vig perms 2591 pairs 56326 pass2 4368 fits 0 strict 0 slotfits 0
+H f18263 1 3 q3 vig perms 2591 pairs 56326 pass2 4455 fits 0 strict 0 slotfits 0
+O f18263 overflow 0 mismatch 0
+END f18263 0 2591
+## run/i160/f18264.txt
+H f18264 1 1 q1 vig perms 2591 pairs 56326 pass2 149 fits 0 strict 0 slotfits 0
+H f18264 1 1 q2 vig perms 2591 pairs 56326 pass2 458 fits 0 strict 0 slotfits 0
+H f18264 1 1 q3 vig perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H f18264 1 2 q1 vig perms 2591 pairs 56326 pass2 884 fits 0 strict 0 slotfits 0
+H f18264 1 2 q2 vig perms 2591 pairs 56326 pass2 1329 fits 0 strict 0 slotfits 0
+H f18264 1 2 q3 vig perms 2591 pairs 56326 pass2 1160 fits 0 strict 0 slotfits 0
+H f18264 1 3 q1 vig perms 2591 pairs 56326 pass2 4134 fits 0 strict 0 slotfits 0
+H f18264 1 3 q2 vig perms 2591 pairs 56326 pass2 5234 fits 0 strict 0 slotfits 0
+H f18264 1 3 q3 vig perms 2591 pairs 56326 pass2 4547 fits 0 strict 0 slotfits 0
+O f18264 overflow 0 mismatch 0
+END f18264 0 2591
+## run/i160/f18265.txt
+H f18265 1 1 q1 vig perms 2591 pairs 56326 pass2 363 fits 0 strict 0 slotfits 0
+H f18265 1 1 q2 vig perms 2591 pairs 56326 pass2 399 fits 0 strict 0 slotfits 0
+H f18265 1 1 q3 vig perms 2591 pairs 56326 pass2 311 fits 0 strict 0 slotfits 0
+H f18265 1 2 q1 vig perms 2591 pairs 56326 pass2 1026 fits 0 strict 0 slotfits 0
+H f18265 1 2 q2 vig perms 2591 pairs 56326 pass2 1130 fits 0 strict 0 slotfits 0
+H f18265 1 2 q3 vig perms 2591 pairs 56326 pass2 1107 fits 0 strict 0 slotfits 0
+H f18265 1 3 q1 vig perms 2591 pairs 56326 pass2 3736 fits 0 strict 0 slotfits 0
+H f18265 1 3 q2 vig perms 2591 pairs 56326 pass2 4029 fits 0 strict 0 slotfits 0
+H f18265 1 3 q3 vig perms 2591 pairs 56326 pass2 4397 fits 0 strict 0 slotfits 0
+O f18265 overflow 0 mismatch 0
+END f18265 0 2591
+## run/i160/f18266.txt
+H f18266 1 1 q1 vig perms 2591 pairs 56326 pass2 206 fits 0 strict 0 slotfits 0
+H f18266 1 1 q2 vig perms 2591 pairs 56326 pass2 178 fits 0 strict 0 slotfits 0
+H f18266 1 1 q3 vig perms 2591 pairs 56326 pass2 329 fits 0 strict 0 slotfits 0
+H f18266 1 2 q1 vig perms 2591 pairs 56326 pass2 947 fits 0 strict 0 slotfits 0
+H f18266 1 2 q2 vig perms 2591 pairs 56326 pass2 1052 fits 0 strict 0 slotfits 0
+H f18266 1 2 q3 vig perms 2591 pairs 56326 pass2 1106 fits 0 strict 0 slotfits 0
+H f18266 1 3 q1 vig perms 2591 pairs 56326 pass2 4525 fits 0 strict 0 slotfits 0
+H f18266 1 3 q2 vig perms 2591 pairs 56326 pass2 4551 fits 0 strict 0 slotfits 0
+H f18266 1 3 q3 vig perms 2591 pairs 56326 pass2 4120 fits 0 strict 0 slotfits 0
+O f18266 overflow 0 mismatch 0
+END f18266 0 2591
+## run/i160/f18267.txt
+H f18267 1 1 q1 vig perms 2591 pairs 56326 pass2 365 fits 0 strict 0 slotfits 0
+H f18267 1 1 q2 vig perms 2591 pairs 56326 pass2 365 fits 0 strict 0 slotfits 0
+H f18267 1 1 q3 vig perms 2591 pairs 56326 pass2 326 fits 0 strict 0 slotfits 0
+H f18267 1 2 q1 vig perms 2591 pairs 56326 pass2 1042 fits 0 strict 0 slotfits 0
+H f18267 1 2 q2 vig perms 2591 pairs 56326 pass2 1237 fits 0 strict 0 slotfits 0
+H f18267 1 2 q3 vig perms 2591 pairs 56326 pass2 1131 fits 0 strict 0 slotfits 0
+H f18267 1 3 q1 vig perms 2591 pairs 56326 pass2 4219 fits 0 strict 0 slotfits 0
+H f18267 1 3 q2 vig perms 2591 pairs 56326 pass2 4318 fits 0 strict 0 slotfits 0
+H f18267 1 3 q3 vig perms 2591 pairs 56326 pass2 4212 fits 0 strict 0 slotfits 0
+O f18267 overflow 0 mismatch 0
+END f18267 0 2591
+## run/i160/f18268.txt
+H f18268 1 1 q1 vig perms 2591 pairs 56326 pass2 304 fits 0 strict 0 slotfits 0
+H f18268 1 1 q2 vig perms 2591 pairs 56326 pass2 287 fits 0 strict 0 slotfits 0
+H f18268 1 1 q3 vig perms 2591 pairs 56326 pass2 293 fits 0 strict 0 slotfits 0
+H f18268 1 2 q1 vig perms 2591 pairs 56326 pass2 1081 fits 0 strict 0 slotfits 0
+H f18268 1 2 q2 vig perms 2591 pairs 56326 pass2 1033 fits 0 strict 0 slotfits 0
+H f18268 1 2 q3 vig perms 2591 pairs 56326 pass2 1047 fits 0 strict 0 slotfits 0
+H f18268 1 3 q1 vig perms 2591 pairs 56326 pass2 4149 fits 0 strict 0 slotfits 0
+H f18268 1 3 q2 vig perms 2591 pairs 56326 pass2 4295 fits 0 strict 0 slotfits 0
+H f18268 1 3 q3 vig perms 2591 pairs 56326 pass2 4318 fits 0 strict 0 slotfits 0
+O f18268 overflow 0 mismatch 0
+END f18268 0 2591
+## run/i160/f18269.txt
+H f18269 1 1 q1 vig perms 2591 pairs 56326 pass2 319 fits 0 strict 0 slotfits 0
+H f18269 1 1 q2 vig perms 2591 pairs 56326 pass2 275 fits 0 strict 0 slotfits 0
+H f18269 1 1 q3 vig perms 2591 pairs 56326 pass2 391 fits 0 strict 0 slotfits 0
+H f18269 1 2 q1 vig perms 2591 pairs 56326 pass2 1120 fits 0 strict 0 slotfits 0
+H f18269 1 2 q2 vig perms 2591 pairs 56326 pass2 1006 fits 0 strict 0 slotfits 0
+H f18269 1 2 q3 vig perms 2591 pairs 56326 pass2 1167 fits 0 strict 0 slotfits 0
+H f18269 1 3 q1 vig perms 2591 pairs 56326 pass2 4064 fits 0 strict 0 slotfits 0
+H f18269 1 3 q2 vig perms 2591 pairs 56326 pass2 4508 fits 0 strict 0 slotfits 0
+H f18269 1 3 q3 vig perms 2591 pairs 56326 pass2 4319 fits 0 strict 0 slotfits 0
+O f18269 overflow 0 mismatch 0
+END f18269 0 2591
+## run/i160/f18270.txt
+H f18270 1 1 q1 vig perms 2591 pairs 56326 pass2 291 fits 0 strict 0 slotfits 0
+H f18270 1 1 q2 vig perms 2591 pairs 56326 pass2 210 fits 0 strict 0 slotfits 0
+H f18270 1 1 q3 vig perms 2591 pairs 56326 pass2 337 fits 0 strict 0 slotfits 0
+H f18270 1 2 q1 vig perms 2591 pairs 56326 pass2 1215 fits 0 strict 0 slotfits 0
+H f18270 1 2 q2 vig perms 2591 pairs 56326 pass2 1142 fits 0 strict 0 slotfits 0
+H f18270 1 2 q3 vig perms 2591 pairs 56326 pass2 1223 fits 0 strict 0 slotfits 0
+H f18270 1 3 q1 vig perms 2591 pairs 56326 pass2 4541 fits 0 strict 0 slotfits 0
+H f18270 1 3 q2 vig perms 2591 pairs 56326 pass2 3906 fits 0 strict 0 slotfits 0
+H f18270 1 3 q3 vig perms 2591 pairs 56326 pass2 4347 fits 0 strict 0 slotfits 0
+O f18270 overflow 0 mismatch 0
+END f18270 0 2591
+## run/i160/f18271.txt
+H f18271 1 1 q1 vig perms 2591 pairs 56326 pass2 228 fits 0 strict 0 slotfits 0
+H f18271 1 1 q2 vig perms 2591 pairs 56326 pass2 247 fits 0 strict 0 slotfits 0
+H f18271 1 1 q3 vig perms 2591 pairs 56326 pass2 329 fits 0 strict 0 slotfits 0
+H f18271 1 2 q1 vig perms 2591 pairs 56326 pass2 932 fits 0 strict 0 slotfits 0
+H f18271 1 2 q2 vig perms 2591 pairs 56326 pass2 939 fits 0 strict 0 slotfits 0
+H f18271 1 2 q3 vig perms 2591 pairs 56326 pass2 1064 fits 0 strict 0 slotfits 0
+H f18271 1 3 q1 vig perms 2591 pairs 56326 pass2 3856 fits 0 strict 0 slotfits 0
+H f18271 1 3 q2 vig perms 2591 pairs 56326 pass2 4101 fits 0 strict 0 slotfits 0
+H f18271 1 3 q3 vig perms 2591 pairs 56326 pass2 4313 fits 0 strict 0 slotfits 0
+O f18271 overflow 0 mismatch 0
+END f18271 0 2591
+## run/i160/f18272.txt
+H f18272 1 1 q1 vig perms 2591 pairs 56326 pass2 401 fits 0 strict 0 slotfits 0
+H f18272 1 1 q2 vig perms 2591 pairs 56326 pass2 302 fits 0 strict 0 slotfits 0
+H f18272 1 1 q3 vig perms 2591 pairs 56326 pass2 297 fits 0 strict 0 slotfits 0
+H f18272 1 2 q1 vig perms 2591 pairs 56326 pass2 1433 fits 0 strict 0 slotfits 0
+H f18272 1 2 q2 vig perms 2591 pairs 56326 pass2 1088 fits 0 strict 0 slotfits 0
+H f18272 1 2 q3 vig perms 2591 pairs 56326 pass2 1027 fits 0 strict 0 slotfits 0
+H f18272 1 3 q1 vig perms 2591 pairs 56326 pass2 4639 fits 0 strict 0 slotfits 0
+H f18272 1 3 q2 vig perms 2591 pairs 56326 pass2 4173 fits 0 strict 0 slotfits 0
+H f18272 1 3 q3 vig perms 2591 pairs 56326 pass2 4236 fits 0 strict 0 slotfits 0
+O f18272 overflow 0 mismatch 0
+END f18272 0 2591
+## run/i160/f18273.txt
+H f18273 1 1 q1 vig perms 2591 pairs 56326 pass2 422 fits 0 strict 0 slotfits 0
+H f18273 1 1 q2 vig perms 2591 pairs 56326 pass2 424 fits 0 strict 0 slotfits 0
+H f18273 1 1 q3 vig perms 2591 pairs 56326 pass2 339 fits 0 strict 0 slotfits 0
+H f18273 1 2 q1 vig perms 2591 pairs 56326 pass2 1213 fits 0 strict 0 slotfits 0
+H f18273 1 2 q2 vig perms 2591 pairs 56326 pass2 1187 fits 0 strict 0 slotfits 0
+H f18273 1 2 q3 vig perms 2591 pairs 56326 pass2 1152 fits 0 strict 0 slotfits 0
+H f18273 1 3 q1 vig perms 2591 pairs 56326 pass2 4766 fits 0 strict 0 slotfits 0
+H f18273 1 3 q2 vig perms 2591 pairs 56326 pass2 4046 fits 0 strict 0 slotfits 0
+H f18273 1 3 q3 vig perms 2591 pairs 56326 pass2 4273 fits 0 strict 0 slotfits 0
+O f18273 overflow 0 mismatch 0
+END f18273 0 2591
+## run/i160/f18274.txt
+H f18274 1 1 q1 vig perms 2591 pairs 56326 pass2 265 fits 0 strict 0 slotfits 0
+H f18274 1 1 q2 vig perms 2591 pairs 56326 pass2 365 fits 0 strict 0 slotfits 0
+H f18274 1 1 q3 vig perms 2591 pairs 56326 pass2 281 fits 0 strict 0 slotfits 0
+H f18274 1 2 q1 vig perms 2591 pairs 56326 pass2 853 fits 0 strict 0 slotfits 0
+H f18274 1 2 q2 vig perms 2591 pairs 56326 pass2 1046 fits 0 strict 0 slotfits 0
+H f18274 1 2 q3 vig perms 2591 pairs 56326 pass2 909 fits 0 strict 0 slotfits 0
+H f18274 1 3 q1 vig perms 2591 pairs 56326 pass2 3501 fits 0 strict 0 slotfits 0
+H f18274 1 3 q2 vig perms 2591 pairs 56326 pass2 3615 fits 0 strict 0 slotfits 0
+H f18274 1 3 q3 vig perms 2591 pairs 56326 pass2 4062 fits 0 strict 0 slotfits 0
+O f18274 overflow 0 mismatch 0
+END f18274 0 2591
+## run/i160/f18275.txt
+H f18275 1 1 q1 vig perms 2591 pairs 56326 pass2 384 fits 0 strict 0 slotfits 0
+H f18275 1 1 q2 vig perms 2591 pairs 56326 pass2 317 fits 0 strict 0 slotfits 0
+H f18275 1 1 q3 vig perms 2591 pairs 56326 pass2 258 fits 0 strict 0 slotfits 0
+H f18275 1 2 q1 vig perms 2591 pairs 56326 pass2 1080 fits 0 strict 0 slotfits 0
+H f18275 1 2 q2 vig perms 2591 pairs 56326 pass2 1243 fits 0 strict 0 slotfits 0
+H f18275 1 2 q3 vig perms 2591 pairs 56326 pass2 1020 fits 0 strict 0 slotfits 0
+H f18275 1 3 q1 vig perms 2591 pairs 56326 pass2 4322 fits 0 strict 0 slotfits 0
+H f18275 1 3 q2 vig perms 2591 pairs 56326 pass2 4781 fits 0 strict 0 slotfits 0
+H f18275 1 3 q3 vig perms 2591 pairs 56326 pass2 4159 fits 0 strict 0 slotfits 0
+O f18275 overflow 0 mismatch 0
+END f18275 0 2591
+## run/i160/f18276.txt
+H f18276 1 1 q1 vig perms 2591 pairs 56326 pass2 368 fits 0 strict 0 slotfits 0
+H f18276 1 1 q2 vig perms 2591 pairs 56326 pass2 240 fits 0 strict 0 slotfits 0
+H f18276 1 1 q3 vig perms 2591 pairs 56326 pass2 339 fits 0 strict 0 slotfits 0
+H f18276 1 2 q1 vig perms 2591 pairs 56326 pass2 941 fits 0 strict 0 slotfits 0
+H f18276 1 2 q2 vig perms 2591 pairs 56326 pass2 1045 fits 0 strict 0 slotfits 0
+H f18276 1 2 q3 vig perms 2591 pairs 56326 pass2 1103 fits 0 strict 0 slotfits 0
+H f18276 1 3 q1 vig perms 2591 pairs 56326 pass2 3977 fits 0 strict 0 slotfits 0
+H f18276 1 3 q2 vig perms 2591 pairs 56326 pass2 4065 fits 0 strict 0 slotfits 0
+H f18276 1 3 q3 vig perms 2591 pairs 56326 pass2 4316 fits 0 strict 0 slotfits 0
+O f18276 overflow 0 mismatch 0
+END f18276 0 2591
+## run/i160/f18277.txt
+H f18277 1 1 q1 vig perms 2591 pairs 56326 pass2 464 fits 0 strict 0 slotfits 0
+H f18277 1 1 q2 vig perms 2591 pairs 56326 pass2 313 fits 0 strict 0 slotfits 0
+H f18277 1 1 q3 vig perms 2591 pairs 56326 pass2 320 fits 0 strict 0 slotfits 0
+H f18277 1 2 q1 vig perms 2591 pairs 56326 pass2 1150 fits 0 strict 0 slotfits 0
+H f18277 1 2 q2 vig perms 2591 pairs 56326 pass2 1116 fits 0 strict 0 slotfits 0
+H f18277 1 2 q3 vig perms 2591 pairs 56326 pass2 1121 fits 0 strict 0 slotfits 0
+H f18277 1 3 q1 vig perms 2591 pairs 56326 pass2 4317 fits 0 strict 0 slotfits 0
+H f18277 1 3 q2 vig perms 2591 pairs 56326 pass2 4113 fits 0 strict 0 slotfits 0
+H f18277 1 3 q3 vig perms 2591 pairs 56326 pass2 4248 fits 0 strict 0 slotfits 0
+O f18277 overflow 0 mismatch 0
+END f18277 0 2591
+## run/i160/f18278.txt
+H f18278 1 1 q1 vig perms 2591 pairs 56326 pass2 212 fits 0 strict 0 slotfits 0
+H f18278 1 1 q2 vig perms 2591 pairs 56326 pass2 336 fits 0 strict 0 slotfits 0
+H f18278 1 1 q3 vig perms 2591 pairs 56326 pass2 302 fits 0 strict 0 slotfits 0
+H f18278 1 2 q1 vig perms 2591 pairs 56326 pass2 656 fits 0 strict 0 slotfits 0
+H f18278 1 2 q2 vig perms 2591 pairs 56326 pass2 1149 fits 0 strict 0 slotfits 0
+H f18278 1 2 q3 vig perms 2591 pairs 56326 pass2 1070 fits 0 strict 0 slotfits 0
+H f18278 1 3 q1 vig perms 2591 pairs 56326 pass2 3936 fits 0 strict 0 slotfits 0
+H f18278 1 3 q2 vig perms 2591 pairs 56326 pass2 4252 fits 0 strict 0 slotfits 0
+H f18278 1 3 q3 vig perms 2591 pairs 56326 pass2 4491 fits 0 strict 0 slotfits 0
+O f18278 overflow 0 mismatch 0
+END f18278 0 2591
+## run/i160/f18279.txt
+H f18279 1 1 q1 vig perms 2591 pairs 56326 pass2 446 fits 0 strict 0 slotfits 0
+H f18279 1 1 q2 vig perms 2591 pairs 56326 pass2 174 fits 0 strict 0 slotfits 0
+H f18279 1 1 q3 vig perms 2591 pairs 56326 pass2 349 fits 0 strict 0 slotfits 0
+H f18279 1 2 q1 vig perms 2591 pairs 56326 pass2 1426 fits 0 strict 0 slotfits 0
+H f18279 1 2 q2 vig perms 2591 pairs 56326 pass2 1003 fits 0 strict 0 slotfits 0
+H f18279 1 2 q3 vig perms 2591 pairs 56326 pass2 1178 fits 0 strict 0 slotfits 0
+H f18279 1 3 q1 vig perms 2591 pairs 56326 pass2 4262 fits 0 strict 0 slotfits 0
+H f18279 1 3 q2 vig perms 2591 pairs 56326 pass2 3884 fits 0 strict 0 slotfits 0
+H f18279 1 3 q3 vig perms 2591 pairs 56326 pass2 4348 fits 0 strict 0 slotfits 0
+O f18279 overflow 0 mismatch 0
+END f18279 0 2591
+## run/i160/f18280.txt
+H f18280 1 1 q1 vig perms 2591 pairs 56326 pass2 334 fits 0 strict 0 slotfits 0
+H f18280 1 1 q2 vig perms 2591 pairs 56326 pass2 244 fits 0 strict 0 slotfits 0
+H f18280 1 1 q3 vig perms 2591 pairs 56326 pass2 359 fits 0 strict 0 slotfits 0
+H f18280 1 2 q1 vig perms 2591 pairs 56326 pass2 1262 fits 0 strict 0 slotfits 0
+H f18280 1 2 q2 vig perms 2591 pairs 56326 pass2 1164 fits 0 strict 0 slotfits 0
+H f18280 1 2 q3 vig perms 2591 pairs 56326 pass2 1084 fits 0 strict 0 slotfits 0
+H f18280 1 3 q1 vig perms 2591 pairs 56326 pass2 4379 fits 0 strict 0 slotfits 0
+H f18280 1 3 q2 vig perms 2591 pairs 56326 pass2 4312 fits 0 strict 0 slotfits 0
+H f18280 1 3 q3 vig perms 2591 pairs 56326 pass2 4223 fits 0 strict 0 slotfits 0
+O f18280 overflow 0 mismatch 0
+END f18280 0 2591
+## run/i160/k4.txt
+H k4 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H k4 1 1 q2 vig perms 2591 pairs 56326 pass2 620 fits 0 strict 0 slotfits 0
+H k4 1 1 q3 vig perms 2591 pairs 56326 pass2 327 fits 0 strict 0 slotfits 0
+H k4 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H k4 1 2 q2 vig perms 2591 pairs 56326 pass2 1328 fits 0 strict 0 slotfits 0
+H k4 1 2 q3 vig perms 2591 pairs 56326 pass2 1149 fits 0 strict 0 slotfits 0
+H k4 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H k4 1 3 q2 vig perms 2591 pairs 56326 pass2 4507 fits 0 strict 0 slotfits 0
+H k4 1 3 q3 vig perms 2591 pairs 56326 pass2 4290 fits 0 strict 0 slotfits 0
+O k4 overflow 0 mismatch 0
+END k4 0 2591
+## run/i160/m18281.txt
+H m18281 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18281 1 1 q2 vig perms 2591 pairs 56326 pass2 148 fits 0 strict 0 slotfits 0
+H m18281 1 1 q3 vig perms 2591 pairs 56326 pass2 344 fits 0 strict 0 slotfits 0
+H m18281 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18281 1 2 q2 vig perms 2591 pairs 56326 pass2 893 fits 0 strict 0 slotfits 0
+H m18281 1 2 q3 vig perms 2591 pairs 56326 pass2 1077 fits 0 strict 0 slotfits 0
+H m18281 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18281 1 3 q2 vig perms 2591 pairs 56326 pass2 3879 fits 0 strict 0 slotfits 0
+H m18281 1 3 q3 vig perms 2591 pairs 56326 pass2 4192 fits 0 strict 0 slotfits 0
+O m18281 overflow 0 mismatch 0
+END m18281 0 2591
+## run/i160/m18282.txt
+H m18282 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18282 1 1 q2 vig perms 2591 pairs 56326 pass2 301 fits 0 strict 0 slotfits 0
+H m18282 1 1 q3 vig perms 2591 pairs 56326 pass2 300 fits 0 strict 0 slotfits 0
+H m18282 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18282 1 2 q2 vig perms 2591 pairs 56326 pass2 1090 fits 0 strict 0 slotfits 0
+H m18282 1 2 q3 vig perms 2591 pairs 56326 pass2 1095 fits 0 strict 0 slotfits 0
+H m18282 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18282 1 3 q2 vig perms 2591 pairs 56326 pass2 4237 fits 0 strict 0 slotfits 0
+H m18282 1 3 q3 vig perms 2591 pairs 56326 pass2 4303 fits 0 strict 0 slotfits 0
+O m18282 overflow 0 mismatch 0
+END m18282 0 2591
+## run/i160/m18283.txt
+H m18283 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18283 1 1 q2 vig perms 2591 pairs 56326 pass2 237 fits 0 strict 0 slotfits 0
+H m18283 1 1 q3 vig perms 2591 pairs 56326 pass2 314 fits 0 strict 0 slotfits 0
+H m18283 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18283 1 2 q2 vig perms 2591 pairs 56326 pass2 769 fits 0 strict 0 slotfits 0
+H m18283 1 2 q3 vig perms 2591 pairs 56326 pass2 1149 fits 0 strict 0 slotfits 0
+H m18283 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18283 1 3 q2 vig perms 2591 pairs 56326 pass2 3916 fits 0 strict 0 slotfits 0
+H m18283 1 3 q3 vig perms 2591 pairs 56326 pass2 4126 fits 0 strict 0 slotfits 0
+O m18283 overflow 0 mismatch 0
+END m18283 0 2591
+## run/i160/m18284.txt
+H m18284 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18284 1 1 q2 vig perms 2591 pairs 56326 pass2 293 fits 0 strict 0 slotfits 0
+H m18284 1 1 q3 vig perms 2591 pairs 56326 pass2 353 fits 0 strict 0 slotfits 0
+H m18284 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18284 1 2 q2 vig perms 2591 pairs 56326 pass2 1017 fits 0 strict 0 slotfits 0
+H m18284 1 2 q3 vig perms 2591 pairs 56326 pass2 1220 fits 0 strict 0 slotfits 0
+H m18284 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18284 1 3 q2 vig perms 2591 pairs 56326 pass2 3830 fits 0 strict 0 slotfits 0
+H m18284 1 3 q3 vig perms 2591 pairs 56326 pass2 4331 fits 0 strict 0 slotfits 0
+O m18284 overflow 0 mismatch 0
+END m18284 0 2591
+## run/i160/m18285.txt
+H m18285 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18285 1 1 q2 vig perms 2591 pairs 56326 pass2 291 fits 0 strict 0 slotfits 0
+H m18285 1 1 q3 vig perms 2591 pairs 56326 pass2 266 fits 0 strict 0 slotfits 0
+H m18285 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18285 1 2 q2 vig perms 2591 pairs 56326 pass2 1006 fits 0 strict 0 slotfits 0
+H m18285 1 2 q3 vig perms 2591 pairs 56326 pass2 1001 fits 0 strict 0 slotfits 0
+H m18285 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18285 1 3 q2 vig perms 2591 pairs 56326 pass2 4092 fits 0 strict 0 slotfits 0
+H m18285 1 3 q3 vig perms 2591 pairs 56326 pass2 4079 fits 0 strict 0 slotfits 0
+O m18285 overflow 0 mismatch 0
+END m18285 0 2591
+## run/i160/m18286.txt
+H m18286 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18286 1 1 q2 vig perms 2591 pairs 56326 pass2 402 fits 0 strict 0 slotfits 0
+H m18286 1 1 q3 vig perms 2591 pairs 56326 pass2 324 fits 0 strict 0 slotfits 0
+H m18286 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18286 1 2 q2 vig perms 2591 pairs 56326 pass2 1286 fits 0 strict 0 slotfits 0
+H m18286 1 2 q3 vig perms 2591 pairs 56326 pass2 1148 fits 0 strict 0 slotfits 0
+H m18286 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18286 1 3 q2 vig perms 2591 pairs 56326 pass2 4422 fits 0 strict 0 slotfits 0
+H m18286 1 3 q3 vig perms 2591 pairs 56326 pass2 4414 fits 0 strict 0 slotfits 0
+O m18286 overflow 0 mismatch 0
+END m18286 0 2591
+## run/i160/m18287.txt
+H m18287 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18287 1 1 q2 vig perms 2591 pairs 56326 pass2 452 fits 0 strict 0 slotfits 0
+H m18287 1 1 q3 vig perms 2591 pairs 56326 pass2 306 fits 0 strict 0 slotfits 0
+H m18287 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18287 1 2 q2 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18287 1 2 q3 vig perms 2591 pairs 56326 pass2 1156 fits 0 strict 0 slotfits 0
+H m18287 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18287 1 3 q2 vig perms 2591 pairs 56326 pass2 4356 fits 0 strict 0 slotfits 0
+H m18287 1 3 q3 vig perms 2591 pairs 56326 pass2 4458 fits 0 strict 0 slotfits 0
+O m18287 overflow 0 mismatch 0
+END m18287 0 2591
+## run/i160/m18288.txt
+H m18288 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18288 1 1 q2 vig perms 2591 pairs 56326 pass2 433 fits 0 strict 0 slotfits 0
+H m18288 1 1 q3 vig perms 2591 pairs 56326 pass2 324 fits 0 strict 0 slotfits 0
+H m18288 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18288 1 2 q2 vig perms 2591 pairs 56326 pass2 1224 fits 0 strict 0 slotfits 0
+H m18288 1 2 q3 vig perms 2591 pairs 56326 pass2 1086 fits 0 strict 0 slotfits 0
+H m18288 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18288 1 3 q2 vig perms 2591 pairs 56326 pass2 4187 fits 0 strict 0 slotfits 0
+H m18288 1 3 q3 vig perms 2591 pairs 56326 pass2 4134 fits 0 strict 0 slotfits 0
+O m18288 overflow 0 mismatch 0
+END m18288 0 2591
+## run/i160/m18289.txt
+H m18289 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18289 1 1 q2 vig perms 2591 pairs 56326 pass2 168 fits 0 strict 0 slotfits 0
+H m18289 1 1 q3 vig perms 2591 pairs 56326 pass2 305 fits 0 strict 0 slotfits 0
+H m18289 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18289 1 2 q2 vig perms 2591 pairs 56326 pass2 772 fits 0 strict 0 slotfits 0
+H m18289 1 2 q3 vig perms 2591 pairs 56326 pass2 1074 fits 0 strict 0 slotfits 0
+H m18289 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18289 1 3 q2 vig perms 2591 pairs 56326 pass2 3902 fits 0 strict 0 slotfits 0
+H m18289 1 3 q3 vig perms 2591 pairs 56326 pass2 4505 fits 0 strict 0 slotfits 0
+O m18289 overflow 0 mismatch 0
+END m18289 0 2591
+## run/i160/m18290.txt
+H m18290 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18290 1 1 q2 vig perms 2591 pairs 56326 pass2 421 fits 0 strict 0 slotfits 0
+H m18290 1 1 q3 vig perms 2591 pairs 56326 pass2 288 fits 0 strict 0 slotfits 0
+H m18290 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18290 1 2 q2 vig perms 2591 pairs 56326 pass2 1233 fits 0 strict 0 slotfits 0
+H m18290 1 2 q3 vig perms 2591 pairs 56326 pass2 1033 fits 0 strict 0 slotfits 0
+H m18290 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18290 1 3 q2 vig perms 2591 pairs 56326 pass2 3708 fits 0 strict 0 slotfits 0
+H m18290 1 3 q3 vig perms 2591 pairs 56326 pass2 4407 fits 0 strict 0 slotfits 0
+O m18290 overflow 0 mismatch 0
+END m18290 0 2591
+## run/i160/m18291.txt
+H m18291 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18291 1 1 q2 vig perms 2591 pairs 56326 pass2 253 fits 0 strict 0 slotfits 0
+H m18291 1 1 q3 vig perms 2591 pairs 56326 pass2 339 fits 0 strict 0 slotfits 0
+H m18291 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18291 1 2 q2 vig perms 2591 pairs 56326 pass2 860 fits 0 strict 0 slotfits 0
+H m18291 1 2 q3 vig perms 2591 pairs 56326 pass2 1157 fits 0 strict 0 slotfits 0
+H m18291 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18291 1 3 q2 vig perms 2591 pairs 56326 pass2 3713 fits 0 strict 0 slotfits 0
+H m18291 1 3 q3 vig perms 2591 pairs 56326 pass2 4281 fits 0 strict 0 slotfits 0
+O m18291 overflow 0 mismatch 0
+END m18291 0 2591
+## run/i160/m18292.txt
+H m18292 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18292 1 1 q2 vig perms 2591 pairs 56326 pass2 703 fits 0 strict 0 slotfits 0
+H m18292 1 1 q3 vig perms 2591 pairs 56326 pass2 435 fits 0 strict 0 slotfits 0
+H m18292 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18292 1 2 q2 vig perms 2591 pairs 56326 pass2 1768 fits 0 strict 0 slotfits 0
+H m18292 1 2 q3 vig perms 2591 pairs 56326 pass2 1212 fits 0 strict 0 slotfits 0
+H m18292 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18292 1 3 q2 vig perms 2591 pairs 56326 pass2 4965 fits 0 strict 0 slotfits 0
+H m18292 1 3 q3 vig perms 2591 pairs 56326 pass2 4328 fits 0 strict 0 slotfits 0
+O m18292 overflow 0 mismatch 0
+END m18292 0 2591
+## run/i160/m18293.txt
+H m18293 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18293 1 1 q2 vig perms 2591 pairs 56326 pass2 344 fits 0 strict 0 slotfits 0
+H m18293 1 1 q3 vig perms 2591 pairs 56326 pass2 389 fits 0 strict 0 slotfits 0
+H m18293 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18293 1 2 q2 vig perms 2591 pairs 56326 pass2 1078 fits 0 strict 0 slotfits 0
+H m18293 1 2 q3 vig perms 2591 pairs 56326 pass2 1219 fits 0 strict 0 slotfits 0
+H m18293 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18293 1 3 q2 vig perms 2591 pairs 56326 pass2 4093 fits 0 strict 0 slotfits 0
+H m18293 1 3 q3 vig perms 2591 pairs 56326 pass2 4395 fits 0 strict 0 slotfits 0
+O m18293 overflow 0 mismatch 0
+END m18293 0 2591
+## run/i160/m18294.txt
+H m18294 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18294 1 1 q2 vig perms 2591 pairs 56326 pass2 242 fits 0 strict 0 slotfits 0
+H m18294 1 1 q3 vig perms 2591 pairs 56326 pass2 320 fits 0 strict 0 slotfits 0
+H m18294 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18294 1 2 q2 vig perms 2591 pairs 56326 pass2 899 fits 0 strict 0 slotfits 0
+H m18294 1 2 q3 vig perms 2591 pairs 56326 pass2 1029 fits 0 strict 0 slotfits 0
+H m18294 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18294 1 3 q2 vig perms 2591 pairs 56326 pass2 4467 fits 0 strict 0 slotfits 0
+H m18294 1 3 q3 vig perms 2591 pairs 56326 pass2 4254 fits 0 strict 0 slotfits 0
+O m18294 overflow 0 mismatch 0
+END m18294 0 2591
+## run/i160/m18295.txt
+H m18295 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18295 1 1 q2 vig perms 2591 pairs 56326 pass2 333 fits 0 strict 0 slotfits 0
+H m18295 1 1 q3 vig perms 2591 pairs 56326 pass2 327 fits 0 strict 0 slotfits 0
+H m18295 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18295 1 2 q2 vig perms 2591 pairs 56326 pass2 1142 fits 0 strict 0 slotfits 0
+H m18295 1 2 q3 vig perms 2591 pairs 56326 pass2 1161 fits 0 strict 0 slotfits 0
+H m18295 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18295 1 3 q2 vig perms 2591 pairs 56326 pass2 4497 fits 0 strict 0 slotfits 0
+H m18295 1 3 q3 vig perms 2591 pairs 56326 pass2 4448 fits 0 strict 0 slotfits 0
+O m18295 overflow 0 mismatch 0
+END m18295 0 2591
+## run/i160/m18296.txt
+H m18296 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18296 1 1 q2 vig perms 2591 pairs 56326 pass2 326 fits 0 strict 0 slotfits 0
+H m18296 1 1 q3 vig perms 2591 pairs 56326 pass2 282 fits 0 strict 0 slotfits 0
+H m18296 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18296 1 2 q2 vig perms 2591 pairs 56326 pass2 1045 fits 0 strict 0 slotfits 0
+H m18296 1 2 q3 vig perms 2591 pairs 56326 pass2 1083 fits 0 strict 0 slotfits 0
+H m18296 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18296 1 3 q2 vig perms 2591 pairs 56326 pass2 3962 fits 0 strict 0 slotfits 0
+H m18296 1 3 q3 vig perms 2591 pairs 56326 pass2 4171 fits 0 strict 0 slotfits 0
+O m18296 overflow 0 mismatch 0
+END m18296 0 2591
+## run/i160/m18297.txt
+H m18297 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18297 1 1 q2 vig perms 2591 pairs 56326 pass2 266 fits 0 strict 0 slotfits 0
+H m18297 1 1 q3 vig perms 2591 pairs 56326 pass2 255 fits 0 strict 0 slotfits 0
+H m18297 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18297 1 2 q2 vig perms 2591 pairs 56326 pass2 1102 fits 0 strict 0 slotfits 0
+H m18297 1 2 q3 vig perms 2591 pairs 56326 pass2 903 fits 0 strict 0 slotfits 0
+H m18297 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18297 1 3 q2 vig perms 2591 pairs 56326 pass2 4067 fits 0 strict 0 slotfits 0
+H m18297 1 3 q3 vig perms 2591 pairs 56326 pass2 4043 fits 0 strict 0 slotfits 0
+O m18297 overflow 0 mismatch 0
+END m18297 0 2591
+## run/i160/m18298.txt
+H m18298 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18298 1 1 q2 vig perms 2591 pairs 56326 pass2 265 fits 0 strict 0 slotfits 0
+H m18298 1 1 q3 vig perms 2591 pairs 56326 pass2 314 fits 0 strict 0 slotfits 0
+H m18298 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18298 1 2 q2 vig perms 2591 pairs 56326 pass2 1171 fits 0 strict 0 slotfits 0
+H m18298 1 2 q3 vig perms 2591 pairs 56326 pass2 1056 fits 0 strict 0 slotfits 0
+H m18298 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18298 1 3 q2 vig perms 2591 pairs 56326 pass2 4085 fits 0 strict 0 slotfits 0
+H m18298 1 3 q3 vig perms 2591 pairs 56326 pass2 4316 fits 0 strict 0 slotfits 0
+O m18298 overflow 0 mismatch 0
+END m18298 0 2591
+## run/i160/m18299.txt
+H m18299 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18299 1 1 q2 vig perms 2591 pairs 56326 pass2 539 fits 0 strict 0 slotfits 0
+H m18299 1 1 q3 vig perms 2591 pairs 56326 pass2 380 fits 0 strict 0 slotfits 0
+H m18299 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18299 1 2 q2 vig perms 2591 pairs 56326 pass2 1504 fits 0 strict 0 slotfits 0
+H m18299 1 2 q3 vig perms 2591 pairs 56326 pass2 1105 fits 0 strict 0 slotfits 0
+H m18299 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18299 1 3 q2 vig perms 2591 pairs 56326 pass2 4752 fits 0 strict 0 slotfits 0
+H m18299 1 3 q3 vig perms 2591 pairs 56326 pass2 4378 fits 0 strict 0 slotfits 0
+O m18299 overflow 0 mismatch 0
+END m18299 0 2591
+## run/i160/m18300.txt
+H m18300 1 1 q1 vig perms 2591 pairs 56326 pass2 238 fits 0 strict 0 slotfits 0
+H m18300 1 1 q2 vig perms 2591 pairs 56326 pass2 301 fits 0 strict 0 slotfits 0
+H m18300 1 1 q3 vig perms 2591 pairs 56326 pass2 303 fits 0 strict 0 slotfits 0
+H m18300 1 2 q1 vig perms 2591 pairs 56326 pass2 1241 fits 0 strict 0 slotfits 0
+H m18300 1 2 q2 vig perms 2591 pairs 56326 pass2 929 fits 0 strict 0 slotfits 0
+H m18300 1 2 q3 vig perms 2591 pairs 56326 pass2 1160 fits 0 strict 0 slotfits 0
+H m18300 1 3 q1 vig perms 2591 pairs 56326 pass2 4732 fits 0 strict 0 slotfits 0
+H m18300 1 3 q2 vig perms 2591 pairs 56326 pass2 4136 fits 0 strict 0 slotfits 0
+H m18300 1 3 q3 vig perms 2591 pairs 56326 pass2 4277 fits 0 strict 0 slotfits 0
+O m18300 overflow 0 mismatch 0
+END m18300 0 2591
+## texts
+f18241 RTSKJMKOZVSKKNWZGXTKKBQHIFGQSULIDFAGAHSJIUBCPOIPUEQEOKBTKNQORPDWWLUATWYDCSLLSVGFAZZUOFBTWRTXBUNJR
+f18242 FZSOROLUSVWBTFBIJKDQKHNYQTSLEPWPTNUANGSSBJWOSAICUGQXTORVOHRUJKQGLTKWKMFEKKUUCADDXPKAZBTZLWIRIZBFG
+f18243 GKATFWLIILVQKJOOMZYLUZSQUUWCTOBXDRBVGABULRPUNGENKFSDGZCUWQTQHWRIKKJRTPTSENFPSHJOKSKDKIBWBZTSAOFXA
+f18244 TIJUJBAAGKQTWNQFZKGWBFSPFKHASBZSTLANQSVTIGRXUKUBOZGOSDDWORKCWRZOKKQPLVDWJUNSTLIOIMHERXBCUTYELFKPU
+f18245 LBUPKZJODABNTWVLUWOIUTKGGYAVPWFDRSRZZMSHSROSQOKJCIKBUEHZXKFNAENPBGIIUKTKRQJBSCTTQFFGXDTALUOWQKSWL
+f18246 AEKIZZIRWITDQRQGGZNOGFTWBHXQFDFJQASBBUNITECKRLBKLSOCJYHSNRUOSMKTTPPFTZWUPXJVKOOKKWLWVSDAULKBUGSAU
+f18247 USJZQUOEGFIWGMDRCPZBUYSKNSKILREOTFWOWGTSKBUICLSVSFKQRDIGLKHZJTAPAOTTRNUKDBZVATBOJPFNWQKKXAUHQLXBW
+f18248 SVZSIDUIUUBLDVBWTWZKOHGKNIGCOKKWWRIFBRJXFXMTWKDKSRQPQNTNLOASBGOLPRCAYKKJAFQSGHSPEFTTJAZUQZUELUTOB
+f18249 VSGTNLGOIROJQNMSIDHFWGOWTBWTLBLRKAOHNBZVDQSFPDSSBKRRTOQFZKSZJGUZCTECPXAJUXIWUAFQTUKBPKUKUKEKIYWLA
+f18250 PJUKOWYITZBBRZVUDFKRWDXKZTKGJLWIQJRURNGKLOTUSTIAKLNCFFXCEBUNSBAWPIBSWSGFAUOQDHOPASHTESQGLZKTOKQMV
+f18251 GUANOSIAMUKPZUFIGLJOSDRJDNBFSXBBOKZTTQECPBJUZRGKESPWARWIKVCBWKRLVZUKTYLKHFAXQIFHLTDTWSQWTGONOKQUS
+f18252 KZJILFKOSAGABLXKVKQZNTQNIZBHIGQDCZVRPORKUSFGSJUTTBWFCPRPATFIBHDBDOSKSSUJETNRUTOKAGUWWXEUYQLLWOMKW
+f18253 CKEZXWRKDKLAUSJGTQVUUYIIFOORNGPGRSKQBTPBMHATABTNZXWAIVPZUBSHCZTSKBUKRNFGFLWOLJTQKSDODQUOSLKEJWIWF
+f18254 LGPNMFCWSERSGKQSQIBTTYDBZALTDATWUKCIHBJSRGOFEWUZXDJBGTFBWKRUNZVRZIQLOAQVKFXTJUIAKKSWNPLHOOSKPKUOU
+f18255 KONQAXRTBXKGFAWVQZKOSSRGZUULWDAIKSSHJFTIPLBKYPGEMQZTULCOFCRKNGWOBIWJUZKTOSWUJABVTHLTNRKUFQDSDIPEB
+f18256 DRUULISKCPLVZUPXGKFABRBHVUITBTRKQHZYAGNDOARLQKKOQFTTJTISMKUEOKFZOWUPWNTGWJGXCBWEWLZQSSIOSSFNAKBDJ
+f18257 TRIKFTOCUSROABUOQOPEAWLWRPZKKXISIFQTGJXTJNOHSGATDTLQNDZUBSWZJWSYPKUZEVLUBGGKMQWULNFSIHBKVDAKCBRKF
+f18258 UUDQSKGLBZUTVIKGFXVOSHUIYPWBIDWEKRRSBLTFKSPXFNOWJZTJSCKZBGNIQTAKAOTLLQKOQEGWFPZWBNDMSATKJOHRAUURC
+f18259 OBOVUABFBTRTSBWHCKXRKLGWFRKKOPIGNUKOSAUOQZJVFWRKWZSISDSLJHDUYEAQDMIANXQTGJTPUBNWILPUSTELGCZTQFKZK
+f18260 OINFCKLISFKBTAWOXAFJAISQUKMXTAZJQSVZWQSTKBQYGRDDGDVOUOSRLKPKZUWBKTECTBFLPNULWKZPWSGEBRUINGTRUHJOH
+f18261 SIKQNGTSFERBRIFHTPKLPLZWWWUFOXKLSJZAUNCTJGSNIRUROLQBODKPHZOUJASTYCQUWUXKGIBKBQSWZMKGEATFBDADTOKVV
+f18262 QRBKKUWNCWWLAUSCSBRFSDNIGLZJUTKFJWXGKAROSDFTSQUILIMOKTIOBQBPPPDQNXLKJZOVABWKUTFRVYSTHAGZTGEOKUZHE
+f18263 TKGILEMFRXOTKGBGUNYPKUSSITOWKOQHDZKPKFAVLEQAAZBBTCZWOSLBCDXWSWQBJQJRAFKNUIUFILPJTRZRSUDWUVOGNSTHK
+f18264 KQZOAMOUSTUFESBRYIZLLZJLLSKNHTQITWIQTUWWJNPIXBPKBFRSGGKPTDKNOFBFEDGQTGKSWZUKVAAUUXHODWSKORRVCACBJ
+f18265 PPUEBLIUKPKTHOKSEVKYQDJJLCNWSOFAKBTWKSVLKIUZIUUWGZSTTAFOQOODXHNJQLTRATIZBASZGFBRGNUWQFWXBMGSCRRKD
+f18266 PXCNWBSTAZTEKFUDJWEPIQRLQZDNOGRUBTFLMSGARKWAWOKLHHKVDTNSKPKGOBJOZALFSSUUZOBVKWXBGTTQJCURUKQYIIIFS
+f18267 AOWZWIWUESSKFKAKIDTCJBBQCGPGINOKPVZWQNRTSDZGSDRRUIFUBXTVETUASMQKKLGFWJJLOFSLKBQZOBHLNHTUYUPXRAOKT
+f18268 LBONUJAJZUNKKRDTWZIGFHHPSZGJFYVSRISEOOQGVDKTWPFCUBTUKRGLEWDBMUXKTQWBBTLKLTQZWSARPAUFXOCISNOKIQSAK
+f18269 XSPZXKRHSDVTFEUQLTZGUBUPTKJHOSGDQKBCRBDIIBKOAFEPWLUSUCWZLQMWBQWOOSNTTVFGTRZUKNROAIJKLAWIKJKNYFSAG
+f18270 AZIGTSQEKHUFRUVQLRDBJWAUBAQISTWVOPWZUGCSBEBOOLAJSGGHIZTKNBIPXUFTKDKCKOSKDYWRNNPQKFTLLTXSMOUWFZJKR
+f18271 KBYHLSOFSPBPSBKOTSQJOWNIZDLBZOKTFEMXAURVXGISKRQKUTHWNKTNOUWGIDWFGRUQELWUUSAZVCAJIZTGPCLBKKQDFJTRA
+f18272 SYCMROZSBKGKDEFGOSBBATTOLKLWLDNOFFSQZRKKEXBTSUIGFUDZALTPKZIQXVIWHWJASRJPTITVPWJCUHNUKUQOAGKQUWNRB
+f18273 LSBGKYOANSTELUQBOIWCRKCVOAZJKPZSAXTUKFSMSUAKKBWQJKXIVFRGZWFPUBIUELHPIGRNJWHTDTODKBONFQTGWRDLTSQZU
+f18274 KUNIOAUDWBQTTDUXPFBERQKJAVLTTMGIBWPKYDOTEZWLGAUQOWHSNFCTISKZFONRGFKSKSBZQRWVBALGXUOKSIZRHUCKJSPLJ
+f18275 TWUGSYAUWWHGKRKOCFZQJNJIPRPXRBIJLBLAWXTCTPZKNBUOQESBHGUKOZVSTEIIUDAKLWDAGFNMKKTLVORSFUQZSQOBDTKFS
+f18276 OZLINDWIKHBLGVNISKQWTSIWRUEZGKJQVAZKSDBSGAPOJKTRWTESJLDZUCQWUPOABFRCAGHUOMKTBFSURPKLTNXFFTQYKUXBO
+f18277 JNGFXQBZCJLJKTNMLWPUWIKUAIUZZUDYKQSBAROIKTDPHOVLALQSZSTIRKRTWTBOTSSQUDFOBHEGFOPKEFASNVBWWUGGKCRKX
+f18278 KFKRSNKAKBWSENFRGAUWJZLKXOABOWROCBFLFUTIRSXDDHOTPSKQTGZVBTVAGGUJQOETNJMUKSILWTKLBDHYIZPQZCPIWUUQS
+f18279 RLZOILKMXQRCTDNAKTGSUJBBNKSHVJFITBUGBKPVRGPEAUXFTKDAWWIEIWKPUKQFOZQSLGNRZOWHBZUTUOLOFSQASSTJDKWCY
+f18280 SJZZJBWKUERGFIWTLKKCUZXVKIWKROPYTFNIODQTBQPLUGTVFPASALMGGSKNOJRBTSSODBWXHWUKUUEOLQAIQFHDTRSZBACKN
+m18281 GFEZAEDCKNQFDWWDWJBXKVRTZKGFBPQWGQKTITOORKSSCUXTWGZNUVMRUQSKPNBFIPJTHSBLRAAOJSLBLLUZSUAKTIIOYOUKH
+m18282 KHOZOUFEOTWBTQOHADBTWBNFTUKRZJSIQYWPAFOENCSCUSLRKGXDGXAJUKKSVLDZKTNPRSPLBAKWJQLZRVITUWMUFGKQSIGIB
+m18283 APODGQTIKJUZRIEDQFVJODNZBSKJFNUACQKRATOYNGIUOWRZSETBKHOFGKWCRPPVSTBBBUXLZKMQLUHTLFWXWSGSTSUIWKKAL
+m18284 KTOPGARESNUNRUSFITXLKJTLBUUTDZQAKQKFCBSUPGWUMWFZSOHLGVKJYIAKBBVZWDXPTGNRJKOARIHDFTWLQOEWZISQCOSKB
+m18285 EHKHOKVEYBUXBUSJOTNNIVTLPCONDBAUOWMTGLGURSICQKFJKGRXSPSBOGKSRFTZQLPZFKBLDAKWRADJTZQFKIUWTUQISWAWZ
+m18286 QFODQGNWULATZQWZKXTROTJRBAORLZIKSSKFOTAILSYGUKBDSULPUDEJEQWCZBNHKHXNTOFFTKIUBMBPPJAVWSGSVGUCWIKKR
+m18287 AZKJKIZUQVOPJGALUBZFWTZFDSQTBDSKKSUNOPQUHKEAGGBBSKTNWHALUYSMFXDREPVRRQTJLUIWXIRTTFCLOWCKNIWOKSGOB
+m18288 OBGZAUJGCLOFZESTKNBBSVTRJEKTHPUWSKKBQRQSJIKWWKTVOIDBQXQLGSSURTPNGTNLFIZLDIWCZYXFRFUDMUAWHAKUAOKOP
+m18289 IDANKGTSOJCDPIIRYNTBKZVHRWWLFDWAEKQJQFSUXUQOUKNFAOPLOLSHOSQSTRZXWTBBBARTVUIKTSZBZFUPWMEKLGCGUGKKJ
+m18290 CXUBQKXWERSTZGSFIDTTUFDBTOGPJPKOOGABSVAQNWAWCKFJAINJKFQZOSSUZLTLODNRHKBRPKUULUBLTZSRWIMKVEIWKGYQH
+m18291 KBSTGQDCWZWBLIWLKPNRAZZVDMSLFPYOQUCRGTSKXQOSUSJNGWXDGFKTOAKWRTBFAHJTBSNPRUKKJOFBTZIHUUKILOEIAUEQV
+m18292 KHWRSWNUCPUNFIADOFDRIZTPTEYBLZOKIUQJQVGKPKEQOSBRUSJBSNUVGKAATFXFWBDLTORTLGWITSJZLHKXMKGOBACUQKWSZ
+m18293 OHKLQOBQANITXKGFUPZBSTBJDASHNTUKIAUTSJWQLUKGAQNPCSFJGZKZIOWSVBLROZXRFYDDPEWETKLBTRUVKCSKRMUWGIOWF
+m18294 ITALOSTKIHSBLOSLWZTVKBZDPWGJNTQWAKARUTMKPGYESUBLKUXZIRSVGWUQFJNFKFBZBORDPKEQTKNHJDARUCGOXQUSIOWCF
+m18295 UZGRQUROGBABTWSJCFFPQFTXHIKTVJQAGGONQTEWNISYCSRTSKBBOBKLSSKKDDTPKZDXVKFZPWWULOLNJHALIKOURMEUAIWUZ
+m18296 QTOLWOZYSHSNTKKTAXTDOFXZFUQRNLOQOSSBEZWWRKIUCCLPWUPVKZQPUMIARRVDAJBJBKNTLUKIBETFHFSBAKSWJGGGGUKID
+m18297 EXARKOTUKNSDFOEPALNFQPLBTUUJBVKUWYIROTSIVWKCQWPLOKXDCDWZIUSGBJJTKHTRBUZFLKSSZANZBHKFOGQGRQMWASGIT
+m18298 YRETOUTIWLCZXEKJKBZHWHBDBQSLLFQUGSWPSLKAXUKAWORTUSDBKTSPUIAMJNTNWTPFDONVVKQIROFJZFOBAUSIZKCGGGKQR
+m18299 ILEXKUZSQTWBDKUTANDVQXHRJOURNBGGIGAJMLSCTAYIUSBHQUPRCFKDWQWEBBVPKZJTPKLNTAOULKTFZFSRGIWSZSKOKOOWF
+m18300 WDKRCKLQEFKZJSUFKPTHOVBBPYQTFNAWKQKVILUGTUSEAIJZWCFRQRWLISOMNTXNSXTDBADHLUAOJUPZRZUBGKSOBWSIOKGGT
+k4 OBKRUOXOGHULBSOLIFBBWFLRVQQPRNGKSSOTWTQSJQSSEKZZWATJKLUDIAWINFBNYPVTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR
