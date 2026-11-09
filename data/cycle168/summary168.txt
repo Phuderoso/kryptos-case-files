@@ -1,0 +1,45 @@
+PROVENANCE outputs=52 finished=52 tmp=0
+PART-A K4 chunks=16/16 configs=287096544 full=0 best_depth=9 hist=0:18436652 1:133883107 2:89715227 3:34424182 4:9565945 5:1015489 6:53434 7:2422 8:82 9:4
+  k4_chunk_02.out CAND depth=9 perm=1760 model=B mode=1 text=kjv_nt_rev
+  k4_chunk_12.out CAND depth=9 perm=5164 model=B mode=1 text=kjv_nt_rev
+  k4_chunk_13.out CAND depth=9 perm=6165 model=B mode=22 text=kjv_nt_rev
+  k4_chunk_14.out CAND depth=9 perm=6511 model=B mode=20 text=natsec_act_1947_amended_rev
+PART-A chunk_15 (10,352 decimations incl. all 6,070 routes): K4 best=8 full=0 depth>=8 configs=5
+  nulls=24 full_total=0 best depths: 8 9 9 9 8 8 12 8 8 8 8 9 8 9 8 8 8 8 8 8 8 8 8 9
+  nulls with best >= K4's 8: 24/24; depth>=8 counts: 5 5 10 6 7 6 9 6 3 6 8 5 6 4 4 3 4 6 5 10 3 3 10 5
+  CONTROL-A ctl0: planted perm 82929 model A mode 21 carter1@182208: RECOVERED; FULL lines 1
+  CONTROL-A ctl1: planted perm 115071 model B mode 9 kjv_john@24383: RECOVERED; FULL lines 2
+  CONTROL-A ctl2: planted perm 165587 model A mode 8 cyc_K3pt@88: RECOVERED; FULL lines 3
+  CONTROL-A ctl3: planted perm 24166 model B mode 20 natsec_act_1947_amended@414630: RECOVERED; FULL lines 1
+  CONTROL-A ctl4: planted perm 126254 model A mode 4 smith_rev@2582: RECOVERED; FULL lines 1
+  CONTROL-A ctl5: planted perm 23578 model B mode 10 kjv_nt@154480: RECOVERED; FULL lines 1
+  CONTROL-A ctl6: planted perm 14502 model A mode 22 reagan_berlin@1187: RECOVERED; FULL lines 1
+  CONTROL-A ctl7: planted perm 97143 model B mode 8 cyc_K1pt@60: RECOVERED; FULL lines 1
+  CONTROL-A ctl8: planted perm 100133 model A mode 22 carter1_rev@57420: RECOVERED; FULL lines 1
+  CONTROL-A ctl9: planted perm 61033 model B mode 15 cyc_K123pt_K0@66: RECOVERED; FULL lines 1
+  CONTROL-A ctl10: planted perm 71593 model A mode 16 kjv_nt_rev@655647: RECOVERED; FULL lines 1
+  CONTROL-A ctl11: planted perm 117178 model B mode 7 cyc_KAtableau_rows@237: RECOVERED; FULL lines 1
+PART-A controls recovered 12/12
+PART-B K4 best=-5.117 ['AZ', 'var', 77474, 'EFSTMELFILTAN', 'FTHAMEITLOU']; nulls n=48 min=-5.616 median=-5.283 max=-4.677; nulls >= K4: 8/48
+PART-B controls rank1 19/20; true-fragment top scores > null max: 19/20
+  CONTROL-B ctl0 AZ var CHHADPASSEDBE/ITSOMEGREAT rank 1 best -4.013
+  CONTROL-B ctl1 KA vig HEYHADTOKEEPO/HTTHEMATTER rank 1 best -3.896
+  CONTROL-B ctl2 AZ beau THEMRAWPMIGAV/ENOUGHTOMAK rank 2 best -5.301
+  CONTROL-B ctl3 AZ var ANDIHADTOPUTA/FYOUMAYTELL rank 1 best -4.210
+  CONTROL-B ctl4 KA vig FTERMAKINGOUR/ESHALLDECID rank 1 best -4.139
+  CONTROL-B ctl5 AZ beau FAACROSSTHERO/JOYTOMYHEAR rank 1 best -4.435
+  CONTROL-B ctl6 AZ var EREQUIREDANDW/OTICETHATTH rank 1 best -3.708
+  CONTROL-B ctl7 KA beau GARMENTSALLWA/HORSESWHINN rank 1 best -4.280
+  CONTROL-B ctl8 KA var HITWERETHEEND/ATHISTIMESH rank 1 best -3.678
+  CONTROL-B ctl9 KA vig WNTHEFORWARDH/NDITSNOUSEM rank 1 best -3.985
+  CONTROL-B ctl10 KA var TOHIMTHENWECA/PEACEMYMIND rank 1 best -4.230
+  CONTROL-B ctl11 AZ vig ERMURDEREDBYP/LTWHENICAME rank 1 best -4.158
+  CONTROL-B ctl0 KA vig HETHICKETANDI/ERETURNSNOT rank 1 best -4.016
+  CONTROL-B ctl1 KA beau MEHOWEVERATTA/YLONGERUNEA rank 1 best -4.104
+  CONTROL-B ctl2 AZ var EFULLYSEARCHE/IMNEYSTHEHO rank 1 best -4.208
+  CONTROL-B ctl3 KA vig STHEPAPAVERRH/RANDTHESHAP rank 1 best -4.094
+  CONTROL-B ctl4 KA var RIENDTHESIGNO/NGTHEEARTHH rank 1 best -3.684
+  CONTROL-B ctl5 AZ beau ECTGUTENBERGE/LSHARTWASTH rank 1 best -3.946
+  CONTROL-B ctl6 AZ vig GBUTWHATMAINL/ISHMENTWAST rank 1 best -3.968
+  CONTROL-B ctl7 AZ var FELLWITHINTHE/DAGLAREFROM rank 1 best -3.956
+BOUND placements ~ 9615356 configs/text-set x 3302066 offsets = 3.175e+13; expected chance 24/24 fits ~ 3.5e-21 (26^-24 per placement)

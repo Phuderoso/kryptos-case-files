@@ -1,0 +1,6 @@
+== recount40_bookrk.txt
+SUMMARY perms=40 best=7 full=0 hist: 0:5028 1:32362 2:20946 3:8303 4:2233 5:239 6:8 7:1
+== recount40_tail.txt
+PYDEPTH additive-only hist: 0:5028 1:32362 2:20946 3:8303 4:2233 5:239 6:8 7:1
+== recount40_exact.txt
+PYDEPTH additive-only hist: 0:5028 1:32363 2:20947 3:8301 4:2233 5:239 6:8 7:1
