@@ -1,0 +1,3 @@
+2seg: boundary classes 25, min checks 10, classes at min 11, union-bound chance per alphabet 3.14e-13, x86731 = 2.72e-08, x2 (AZ/KA) = 6.28e-13
+T: boundary classes 325, min checks 4, classes at min 20, union-bound chance per alphabet 0.000364, x86731 = 31.6, x2 (AZ/KA) = 0.000729
+R: boundary classes 325, min checks 10, classes at min 104, union-bound chance per alphabet 3e-12, x86731 = 2.61e-07, x2 (AZ/KA) = 6.01e-12

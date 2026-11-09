@@ -1,0 +1,24 @@
+pT0 model=T layer=direct q=-1 dir=0 alpha=0 b=45,80 forms=101 drop=-1 recovered=YES truehits=5 allhits_this_config=375 
+pT1 model=T layer=Q q=122400 dir=1 alpha=22715 b=61,68 forms=000 drop=-1 recovered=YES truehits=4 allhits_this_config=40 
+pT2 model=T layer=carved q=87800 dir=0 alpha=0 b=26,66 forms=011 drop=-1 recovered=YES truehits=1 allhits_this_config=108 
+pT3 model=T layer=direct q=-1 dir=0 alpha=24968 b=47,87 forms=101 drop=-1 recovered=YES truehits=5 allhits_this_config=26 
+pT4 model=T layer=Q q=152000 dir=1 alpha=1 b=66,68 forms=101 drop=-1 recovered=YES truehits=4 allhits_this_config=1052 
+pT5 model=T layer=carved q=1800 dir=0 alpha=86437 b=61,81 forms=001 drop=-1 recovered=YES truehits=2 allhits_this_config=24 
+pT6 model=T layer=direct q=-1 dir=0 alpha=0 b=49,73 forms=011 drop=-1 recovered=YES truehits=4 allhits_this_config=32 
+pT7 model=T layer=Q q=25800 dir=0 alpha=71545 b=33,70 forms=111 drop=-1 recovered=YES truehits=4 allhits_this_config=1435 
+pT8 model=T layer=carved q=129000 dir=0 alpha=1 b=28,65 forms=001 drop=-1 recovered=YES truehits=1 allhits_this_config=25 
+pT9 model=T layer=direct q=-1 dir=0 alpha=36333 b=28,64 forms=010 drop=-1 recovered=YES truehits=2 allhits_this_config=10 
+pR0 model=R layer=direct q=-1 dir=0 alpha=1 b=68,75 forms=000 drop=-1 recovered=YES truehits=1 allhits_this_config=6 
+pR1 model=R layer=Q q=47200 dir=1 alpha=65960 b=33,51 forms=000 drop=-1 recovered=YES truehits=1 allhits_this_config=4 
+pR2 model=R layer=carved q=24600 dir=0 alpha=0 b=65,67 forms=000 drop=-1 recovered=YES truehits=1 allhits_this_config=6 
+pR3 model=R layer=direct q=-1 dir=0 alpha=64944 b=66,77 forms=101 drop=-1 recovered=YES truehits=1 allhits_this_config=10 
+pR4 model=R layer=Q q=137400 dir=1 alpha=0 b=39,64 forms=010 drop=-1 recovered=YES truehits=1 allhits_this_config=8 
+pR5 model=R layer=carved q=108200 dir=0 alpha=42032 b=42,76 forms=010 drop=-1 recovered=YES truehits=1 allhits_this_config=2 
+pR6 model=R layer=direct q=-1 dir=0 alpha=1 b=37,65 forms=101 drop=-1 recovered=YES truehits=1 allhits_this_config=8 
+pR7 model=R layer=Q q=106800 dir=1 alpha=45592 b=66,70 forms=101 drop=-1 recovered=YES truehits=1 allhits_this_config=4 
+pR8 model=R layer=carved q=35400 dir=0 alpha=0 b=27,82 forms=101 drop=-1 recovered=YES truehits=1 allhits_this_config=6 
+pR9 model=R layer=direct q=-1 dir=0 alpha=47573 b=65,78 forms=000 drop=-1 recovered=YES truehits=1 allhits_this_config=1 
+eR0 model=R layer=direct q=-1 dir=0 alpha=1 b=30,60 forms=111 drop=7 recovered=YES truehits=1 allhits_this_config=4 strict_true_alpha_hits=2
+eR1 model=R layer=direct q=-1 dir=0 alpha=20000 b=30,60 forms=010 drop=16 recovered=YES truehits=1 allhits_this_config=2 strict_true_alpha_hits=0
+eT2 model=T layer=direct q=-1 dir=0 alpha=0 b=27,66 forms=101 drop=20 recovered=YES truehits=2 allhits_this_config=201 strict_true_alpha_hits=2
+eT3 model=T layer=direct q=-1 dir=0 alpha=1 b=27,66 forms=110 drop=3 recovered=YES truehits=2 allhits_this_config=12 strict_true_alpha_hits=2
