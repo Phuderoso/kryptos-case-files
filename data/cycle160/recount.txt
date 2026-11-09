@@ -1,0 +1,25 @@
+K4 q 94599 dir 1 ix 0 p 15: C vig/beau 1/0  python 1/0  OK
+K4 q 96952 dir 0 ix 0 p 15: C vig/beau 1/0  python 1/0  OK
+K4 q 144990 dir 0 ix 0 p 15: C vig/beau 1/0  python 1/0  OK
+K4 q 68156 dir 0 ix 0 p 16: C vig/beau 0/1  python 0/1  OK
+K4 q 89864 dir 0 ix 0 p 16: C vig/beau 0/1  python 0/1  OK
+K4 q 143947 dir 1 ix 1 p 16: C vig/beau 0/3  python 0/3  OK
+K4 q 145345 dir 1 ix 1 p 16: C vig/beau 1/0  python 1/0  OK
+null3 q 28288 dir 0 ix 0 p 16: C vig/beau 1/0  python 1/0  OK
+null3 q 87512 dir 0 ix 0 p 16: C vig/beau 1/0  python 1/0  OK
+null3 q 133968 dir 1 ix 0 p 16: C vig/beau 0/1  python 0/1  OK
+null1 q 88885 dir 0 ix 0 p 16: C vig/beau 43/(total, >40 listed as S)  python 43/0  OK
+ctl1 q 4242 dir 0 ix 1 p 6: C vig/beau 1/0  python 1/0  OK
+ctl2 q 99999 dir 1 ix 0 p 7: C vig/beau 0/1  python 0/1  OK
+ctl4 q 120000 dir 1 ix 1 p 13: C vig/beau 0/8  python 0/8  OK
+K4 q 32802 dir 0 ix 1 p 14: C vig/beau 0/0  python 0/0  OK
+K4 q 143350 dir 1 ix 0 p 3: C vig/beau 0/0  python 0/0  OK
+K4 q 131432 dir 1 ix 0 p 13: C vig/beau 0/0  python 0/0  OK
+K4 q 33921 dir 0 ix 1 p 10: C vig/beau 0/0  python 0/0  OK
+K4 q 137144 dir 1 ix 1 p 11: C vig/beau 0/0  python 0/0  OK
+K4 q 111919 dir 1 ix 1 p 10: C vig/beau 0/0  python 0/0  OK
+K4 direct p 24: C 13 python 13 OK
+K4 direct p 8: C 0 python 0 OK
+K4 direct p 16: C 0 python 0 OK
+ctl3 direct p 8: C 1 python 1/0
+agreement 24/24

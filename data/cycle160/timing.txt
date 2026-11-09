@@ -1,0 +1,6 @@
+Cycle 160 heavy compute (8 cores, box clock UTC-7, 2026-11-08)
+planted controls (q4v on +-500-perm slices, direct, 24 drops)   ~7 s
+main run run_cycle160.sh (direct 25 texts strict + 24 drops; bank K4 + 4 nulls, 40 slices)  21:45:27 -> 21:49:48  = 261 s
+independent recount (recount160.py, 24 configs brute force)  70 s
+decode/score of all survivors (decode160.py)   ~2 s
+total ~5.7 min (budget 8 min)

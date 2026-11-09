@@ -1,0 +1,5 @@
+vocabulary words 10056, unique keyed alphabets 9394, ordered pairs with PA != CA 88,237,842
+themed (cycle 28) alphabets among them: 94; pairs covered behind the bank: 8,742 (0.00991%)
+phrase-set (cycle 11b) alphabets among them: 209; direct pairs with >=1 phrase side: 3,882,802 (4.400%)
+direct p 1-7, 9-12, 14, 15: covered for ALL pairs by cycle 11b SAT; p 8, 13, 16: new for 95.600% of pairs (cycle 11b SAT left these periods open)
+=> bank p 1-16: 99.9901% of ordered pairs x every permutation is new; direct: only p 8, 13, 16 (and 17-26) are new
