@@ -1,0 +1,5 @@
+SUMMARY perms 1658 masks 69012 orderings 173431 perm_mask_tested 38025612 dead_selfmap 1107 dead_oddcycle 507 surv_perm_mask 9 surv_perm_ordering 25 rk_full 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
