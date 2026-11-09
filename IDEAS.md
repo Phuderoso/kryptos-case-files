@@ -19,7 +19,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 |---|---|---|---|
 | I-001 | Superseded notices for stale strips/transposition and S2/S6 text (case 10, README) | P1 | tested (done, cycle 151) |
 | I-002 | Provenance of the circled tableau letters and archival carving differences | P1 | blocked (unpublished sources) |
-| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill done in 151; I-007, I-008, I-040, I-041 left) |
+| I-003 | One-error robustness audit of high-impact exact exclusions | P1 | in progress (Hill 151, Hill + key / Hill 5 153; I-007, I-008, I-041 left) |
 | I-004 | Separate exact / heuristic / low-power results; full-scale nulls for tail claims | P1 | queued |
 | I-005 | Hill n = 2–4 under one carving error (block-drop + exact one-letter repair) | P1 | tested — EXACT-EXCL ([case 139](case-file/139-hill-one-carving-error.md)) |
 | I-006 | Robustness by design: which count-scored families already tolerate one error | P1 | tested ([case 139](case-file/139-hill-one-carving-error.md) audit table) |
@@ -48,12 +48,14 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-029 | Better score for weakly constrained solutions (letter likelihood, not partial quadgrams) | P3 | queued (method) |
 | I-030 | Physical measurement of the sculpture (letter spacing, re-cut letters) | P3 | blocked (no access) |
 | I-039 | Hill under a dropped or extra carved letter (alignment-shifting slip) | P2 | queued |
-| I-040 | One-error audit of Hill + key (cycles 143–144) and Hill n = 5 | P2 | in progress (cycle 153) |
+| I-040 | One-error audit of Hill + key (cycles 143–144) and Hill n = 5 | P2 | tested — EXACT-EXCL (n 2, n 3 k ≤ 7) / NO-SIGNAL exhaustive (n 3 k 8–10, n 4, Hill 5 direct) / LOW-POWER (Hill 5 bank) ([case 141](case-file/141-hill-key-and-hill5-one-carving-error.md)) |
 | I-041 | One-error audit of strict vocabulary families behind the bank (cycles 135–137, 146) | P2 | queued |
 | I-042 | Zig-zag over keyed (Quagmire) or affine alphabets | P3 | queued |
 | I-043 | Zig-zag autokey + periodic key (form free, shift periodic) | P3 | queued (power check first) |
 | I-044 | Free-choice superset for other per-letter choices (AZ vs KRYPTOS tableau per letter; free Vig/Beau per letter on periodic keys behind other transposition families) | P2 | queued (method from cycle 152) |
 | I-045 | Language-scored PT-feed / long-lag zig-zag (the LOW-POWER part of I-011) | P3 | queued (needs I-029) |
+| I-046 | Decode the Hill one-error blind spots: Hill 5 behind the bank (LOW-POWER, count-only), n 4 k 4 undecoded sets, affine Hill n = 5 | P3 | queued (from cycle 153) |
+| I-047 | Syndrome block-drop + linear repair method for other strict linear families (Gromark I-008, periodic Quagmire with known alphabets, linear-recurrence keys) | P2 | queued (method from cycle 153) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -86,7 +88,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Hypothesis:** if one carved letter or one crib letter is wrong, a strict "all 24 cribs must agree" test rejects the true configuration. Every high-impact `EXACT-EXCL` claim should state whether it survives one error. `[repo]`
 - **Test:** per family, rerun with (a) leave-one-crib-out and (b) one carved-letter substitution, counting survivors; planted controls with one corrupted letter must be recovered; shuffled nulls at the same tolerance.
 - **Controls / nulls:** planted control with one corrupted letter (must be recovered) and without (must still be recovered); ≥ 2 shuffled-K4 nulls at full scale. **Cost:** family-dependent, usually ≤ 25× the strict run. **Dependencies:** I-004 labels.
-- **Status:** in progress. Done before: periodic KA/AZ ([case 23](case-file/23-one-letter-anomaly.md)), two letters direct ([case 24](case-file/24-two-letter-anomalies.md)), stepping disk ([107](case-file/107-stepping-disk-one-crib-error.md)), Quagmire I–III ([108](case-file/108-quagmire-one-crib-error.md)), Kryha ([110](case-file/110-kryha-one-crib-error.md)). Cycle 151: Hill (I-005) and the design audit (I-006). Remaining: I-007, I-008, I-040, I-041 (reconciled in cycle 153: the summary row already listed all four).
+- **Status:** in progress. Done before: periodic KA/AZ ([case 23](case-file/23-one-letter-anomaly.md)), two letters direct ([case 24](case-file/24-two-letter-anomalies.md)), stepping disk ([107](case-file/107-stepping-disk-one-crib-error.md)), Quagmire I–III ([108](case-file/108-quagmire-one-crib-error.md)), Kryha ([110](case-file/110-kryha-one-crib-error.md)). Cycle 151: Hill (I-005) and the design audit (I-006). Cycle 153: Hill + key and Hill 5 (I-040, [case 141](case-file/141-hill-key-and-hill5-one-carving-error.md)). Remaining: I-007, I-008, I-041 (I-003 detail reconciled with its summary row in cycle 153).
 
 ### I-004 — Separate exact, heuristic and low-power results
 - **Date / source:** 2026-11-08, Firefly review (F4). `[repo]`
@@ -193,7 +195,14 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Test:** for each slip position d (≈ 98 + 97), rebuild the 96/98-letter stream (unknown letter = free variable in its block), solve rows exactly with a block-drop at the slip; direct first, bank for 96/98-letter permutations (`tools/export_perms_96_98.py`, cycle 24). **Controls:** planted Hill with one dropped / one extra letter. **Nulls:** two shuffles. **Cost:** direct seconds; bank ~200× cycle 151 (~2 h) → direct + model-Q first. **Status:** queued.
 
 ### I-040 — One-error audit of Hill + key and Hill n = 5
-- **Source:** cycle 151 audit table. **Test:** add the block-drop + repair step to `hillvk.c` (cycle 144) and `hill5.c` (cycle 141). **Controls:** corrupted-letter plants. **Cost:** ~25× the strict runs (minutes). **Status:** in progress (cycle 153, started 2026-11-08).
+- **Source:** cycle 151 audit table. **Test:** add the block-drop + repair step to `hillvk.c` (cycle 144) and `hill5.c` (cycle 141). **Controls:** corrupted-letter plants. **Cost:** ~25× the strict runs (minutes). **Status:** tested (cycle 153).
+- **Result (cycle 153):** new exact method (`tools/cycle153/hillk1e.c`): per configuration one syndrome reduction per field; a block can be dropped iff the syndrome lies in the span of its columns; the one-letter repair of the dropped block is a linear system in the remaining freedom, checked exactly for every (letter, shift). Hill + key n 2 k 1–14, n 3 k 1–10, n 4 k 1–4 (affine Hill = k n), direct + 165k bank both orders, A–Z/KRYPTOS; Hill 5 direct exhaustive, bank 1/20 count-only; K4 + 2 full-scale nulls, 494 s. **n 2 all k, n 3 k ≤ 7: K4 0 repairable configs → `EXACT-EXCL`** under one wrong carved or crib letter. n 3 k 8–10 and n 4: screen LOW-POWER (K4 inside null range), all consistent invertible solutions decoded: K4 best −6.75, nulls −6.87 / −6.79 → `NO-SIGNAL` (exhaustive; blind spot: 212 + 90 undecoded K4 sets at n 4 k 4). Hill 5 direct `NO-SIGNAL` (−6.94 vs −7.10 / −7.07). Hill 5 bank `LOW-POWER` (~46 % of configs repairable for every text, not decoded → I-046). Controls 11/11 (9 corrupted-letter plants with exact position, 1 clean, 1 wrong crib), independent Python repair-and-resolve recount 94/94 identical. [Case 141](case-file/141-hill-key-and-hill5-one-carving-error.md), [data](data/cycle153/), [tools](tools/cycle153/).
+
+### I-046 — Decode the Hill one-error blind spots
+- **Source:** cycle 153 blind spots ([case 141](case-file/141-hill-key-and-hill5-one-carving-error.md)). `[repo]` **Test:** enumerate the repairable Hill 5 bank configurations (full bank, not 1/20) with a language score (I-029) and a larger cap; decode the 212 + 90 capped K4 sets at n 4 k 4; run affine Hill n = 5 under one error. **Controls:** cycle 153 plants ctl8/ctl9 behind a bank entry. **Nulls:** 2 full-scale. **Cost:** Hill 5 bank ~20× the 1/20 count (~25 min CPU) plus decoding. **Expected label:** NO-SIGNAL at best. **Status:** queued.
+
+### I-047 — Syndrome block-drop + linear repair for other strict linear families
+- **Source:** cycle 153 method. `[repo]` **Rationale:** for any family that is linear in its unknowns once the frame is fixed (Gromark / Periodic Gromark with known alphabet, linear-recurrence keys, periodic keys on known alphabets behind the bank), one reduction per configuration answers "consistent after dropping any one block / equation", and a one-letter repair is linear. Makes I-008 and parts of I-041 cheap. **Controls:** corrupted-letter plants. **Status:** queued.
 
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
@@ -223,3 +232,4 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 151 end: I-001, I-005, I-006 tested; I-003 still in progress; added I-039–I-041 (41 items). Recommended next: cycle 152 new family I-011 (word-keyed zig-zag autokey) or I-012 (Hill with a key before the matrix); then the one-error audits I-007 / I-040.
 - 2026-11-08, cycle 152: I-011 in progress at start, then tested (EXACT-EXCL for CT feed n ≥ 12, one-error tolerant; LOW-POWER for PT feed / long lags). Added I-042–I-045 (45 items). Recommended next: cycle 153 variant/audit — I-040 (one-error Hill + key / Hill 5) or I-007 (columnar w 9–10 × periodic key, one crib error); then new family I-012 or I-044.
 - 2026-11-08, cycle 153 start: reconciled I-003 detail with its summary row (remaining I-007, I-008, I-040, I-041); I-040 marked in progress (Hill + key and Hill 5 under one carving error). Cycle 152 was a new family, so 153 is a variant/audit and 154 must be a new family.
+- 2026-11-08, cycle 153 end: I-040 tested (EXACT-EXCL n 2 / n 3 k ≤ 7; NO-SIGNAL exhaustive n 3 k 8–10, n 4, Hill 5 direct; LOW-POWER Hill 5 bank). Added I-046, I-047 (47 items). Recommended next: cycle 154 **new family** — I-012 (Hill with the key on the ciphertext side, `p = D·(c − f)`); alternatives I-044 or I-013. Next audit after that: I-008 via the I-047 method.
