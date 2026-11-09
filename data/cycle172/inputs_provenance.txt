@@ -1,0 +1,15 @@
+Cycle 172 inputs (2026-11-09, K4 + null run 04:24:31-04:31:50 PDT, box /workspace/k4c172, 8 cores, no other heavy job)
+all.bin    = /workspace/k4c168/run/all.bin (cycle 168; 159,712 K3-law decimations, tools/decimation_gen.py cycle 59, + 6,070 routes,
+             tools/route_gen61.py cycle 61; perm and inverse are separate entries) = 165,782 perms (int16 x 97)
+             sha256 8a9e1b3200cf803cc03fda7f60d0e181dacf479b127077c2632d818a45f9e857 (same file as cycles 168-171)
+all_s4.bin = every 4th entry of all.bin (q % 4 == 0; 41,446 perms), used for the 8 shuffled nulls
+             sha256 05a82c26d20c058b634ab06f0832f754fc94df7125f02c468285064a9b8359c5
+alpha172.txt = tools/cycle172/mkalpha172.py data/cycle158/vocabulary_all.txt: 18,776 distinct alphabets
+             (9,393 vocabulary words keyed on A-Z "/Z", 9,381 keyed on the KRYPTOS order "/K", + AZ, KA)
+             sha256 5d16b12637a2ce1d891d846af9e2844f8e428f6240e3ad3c314b941e2f11b757
+vocabulary_all.txt sha256 cd03bfa2889ca4679246b134e8f4aa3a370b2dd5da6e54b15ef97fd9647a40a3
+quadgrams.json = /home/box/kryptos_support_backup/quadgrams.json (English check only)
+Overlap (data/cycle172/overlap172.txt): 802 of the 165,782 perms are also in the 165,065-entry bank (either direction); identity not included.
+Run folder check (I-078): k4.c0..c15 16/16 end with END; null0..7 x c0..c3 32/32 end with END; 0 .tmp files.
+Controls: 9 plants (run/ctl), 200-perm slices, p 1-16, ~12 s total. Recount: 30 configurations, 77 s on 6 cores.
+Timing: K4 full family 04:24:31-~04:27:50 (16 chunks on 8 cores, ~3.3 min); 8 nulls on 1/4 of the family ~04:27:50-04:31:50.
