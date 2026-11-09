@@ -1,0 +1,14 @@
+ctl1 G ix0 L4 az vig b10 q12345 7426 err-slots 4 fits_in_run 3 masks ['000011'] PASS
+ctl2 G ix1 L4 ka beau b10 q98765 3141 err-slots 19 fits_in_run 1 masks ['080000'] PASS
+ctl3 G ix0 L5 ka vig b10 q162000 27182 err-slots 20 fits_in_run 17 masks ['100000'] PASS
+ctl4 G ix1 L7 az vig b10 q163500 1473625 err-slots 0 fits_in_run 1 masks ['000001'] PASS
+ctl5 G ix1 L5 az var b10 q54321 90210 err-slots 2 fits_in_run 1 masks ['000004'] PASS
+ctl6 PG ix1 L8 az vig b10 q777 PALIMPSEST/aca/az err-slots 0 fits_in_run 1 miss [0] PASS
+ctl7 PG ix0 L6 ka beau b10 q40000 SHADOW/kmix/ka err-slots 5 fits_in_run 1 miss [5] PASS
+ctl8 PG ix1 L6 az beau b10 q88888 ILLUSION/mix/az err-slots 17 fits_in_run 1 miss [17] PASS
+ctl9 G ix0 L6 az vig b7 q120000 314156 err-slots - fits_in_run 1 full mask PASS
+ctl10 G ix1 L4 ka beau b5 q777 2413 err-slots - fits_in_run 1 full mask PASS
+ctl11 G ix0 L5 az vig b10 q12345 74269 err-slots - fits_in_run 13 full mask PASS
+neg1 G ix0 L4 az vig b10 q12345 7426 err-slots 4,16 fits_in_run 1 0 lines at planted config PASS
+neg2 PG ix1 L8 az vig b10 q777 PALIMPSEST/aca/az err-slots 0,9 fits_in_run 0 0 lines at planted config PASS
+controls 13/13

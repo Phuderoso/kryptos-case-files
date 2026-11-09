@@ -1,0 +1,15 @@
+ctl1 numpy 2 C 2 identical
+ctl2 numpy 1 C 1 identical
+ctl6 numpy 1 C 1 identical
+ctl9 numpy 0 C 0 identical
+k4 numpy 0 C 0 identical
+n17711 numpy 0 C 0 identical
+n17712 numpy 0 C 0 identical
+ALL IDENTICAL 4 4
+k4s5_0 numpy 10 C 10 identical
+k4s5_1 numpy 8 C 8 identical
+k4s5_2 numpy 7 C 7 identical
+k4s5_3 numpy 8 C 8 identical
+k4s5_4 numpy 7 C 7 identical
+k4s5_5 numpy 9 C 9 identical
+ALL IDENTICAL 49 49
