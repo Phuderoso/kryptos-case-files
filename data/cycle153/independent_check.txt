@@ -1,0 +1,191 @@
+# Cycle 153 independent check: pure-Python repair-and-resolve (check.py --counts) vs hillk1e C lines on the same ranges
+# direct: all (n,k) for K4, null1, null2; bank: 7 K4 slices incl. the entries of the best survivors
+PY DK4 n=2 k=10 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=10 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=11 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=11 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=12 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=12 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=13 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=13 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=14 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=14 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=2 k=14 tests=80 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C K4 n=2 k=14 tests=80 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=1 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=1 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=2 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=2 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=3 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=3 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=4 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=4 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=5 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=5 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=6 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=6 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=7 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=7 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=8 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=8 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=2 k=9 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=2 k=9 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=10 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=10 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=3 k=10 tests=72 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C K4 n=3 k=10 tests=72 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=3 k=10 tests=24 strict=0 eqdrop_cfg=2 blockpairs=17 repair_cons=53 repair_cons_cfg=2
+C K4 n=3 k=10 tests=24 strict=0 eqdrop_cfg=2 eq_inv=26 eq_under=0 blockdrop_cfg=2 blockpairs=17 repair_cons=53 repair_cons_cfg=2 repair_inv=62 repair_inv_cfg=2 repair_under=0 best=-7.147 eqbest=-7.163
+PY DK4 n=3 k=1 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=1 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=2 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=2 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=3 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=3 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=4 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=4 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=5 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=5 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=6 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=6 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=7 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=7 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=3 k=8 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=8 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=3 k=8 tests=24 strict=0 eqdrop_cfg=1 blockpairs=3 repair_cons=4 repair_cons_cfg=2
+C K4 n=3 k=8 tests=24 strict=0 eqdrop_cfg=1 eq_inv=1 eq_under=0 blockdrop_cfg=2 blockpairs=3 repair_cons=4 repair_cons_cfg=2 repair_inv=3 repair_inv_cfg=1 repair_under=0 best=-8.194 eqbest=-8.194
+PY DK4 n=3 k=9 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=3 k=9 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=4 k=1 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=4 k=1 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=4 k=1 tests=32 strict=0 eqdrop_cfg=1 blockpairs=1 repair_cons=2 repair_cons_cfg=1
+C K4 n=4 k=1 tests=32 strict=0 eqdrop_cfg=1 eq_inv=2 eq_under=0 blockdrop_cfg=1 blockpairs=1 repair_cons=2 repair_cons_cfg=1 repair_inv=4 repair_inv_cfg=1 repair_under=0 best=-7.786 eqbest=-7.786
+PY DK4 n=4 k=2 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=4 k=2 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=4 k=3 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=4 k=3 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=4 k=3 tests=32 strict=0 eqdrop_cfg=6 blockpairs=21 repair_cons=159 repair_cons_cfg=6
+C K4 n=4 k=3 tests=32 strict=0 eqdrop_cfg=6 eq_inv=504 eq_under=0 blockdrop_cfg=9 blockpairs=21 repair_cons=159 repair_cons_cfg=6 repair_inv=872 repair_inv_cfg=4 repair_under=0 best=-6.757 eqbest=-7.4
+PY DK4 n=4 k=4 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C DK4 n=4 k=4 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY K4 n=4 k=4 tests=96 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C K4 n=4 k=4 tests=96 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY DK4 n=5 k=0 tests=10 strict=0 eqdrop_cfg=3 blockpairs=26 repair_cons=91 repair_cons_cfg=8
+C DK4 n=5 k=0 tests=10 strict=0 eqdrop_cfg=3 eq_inv=5304 eq_under=4 blockdrop_cfg=8 blockpairs=26 repair_cons=91 repair_cons_cfg=8 repair_inv=59751 repair_inv_cfg=6 repair_under=3 best=-6.937 eqbest=-
+PY Dnull1 n=2 k=10 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=10 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull1 n=2 k=11 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=11 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull1 n=2 k=12 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=12 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull1 n=2 k=13 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=13 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull1 n=2 k=14 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=14 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull1 n=2 k=1 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=1 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=2 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=2 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=3 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=3 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=4 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=4 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=5 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=5 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=6 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=6 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=7 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=7 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=8 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=8 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=2 k=9 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=2 k=9 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=10 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=10 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull1 n=3 k=1 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=1 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=2 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=2 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=3 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=3 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=4 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=4 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=5 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=5 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=6 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=6 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=7 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=7 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=8 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=8 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=3 k=9 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=3 k=9 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=4 k=1 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=4 k=1 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=4 k=2 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=4 k=2 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=4 k=3 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=4 k=3 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=4 k=4 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull1 n=4 k=4 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull1 n=5 k=0 tests=10 strict=0 eqdrop_cfg=5 blockpairs=30 repair_cons=57 repair_cons_cfg=9
+C Dnull1 n=5 k=0 tests=10 strict=0 eqdrop_cfg=5 eq_inv=5469 eq_under=3 blockdrop_cfg=10 blockpairs=30 repair_cons=57 repair_cons_cfg=9 repair_inv=18579 repair_inv_cfg=7 repair_under=5 best=-7.099 eqbe
+PY Dnull2 n=2 k=10 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=10 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull2 n=2 k=11 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=11 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull2 n=2 k=12 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=12 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull2 n=2 k=13 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=13 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull2 n=2 k=14 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=14 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull2 n=2 k=1 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=1 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=2 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=2 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=3 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=3 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=4 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=4 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=5 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=5 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=6 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=6 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=7 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=7 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=8 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=8 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=2 k=9 tests=4 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=2 k=9 tests=4 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=10 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=10 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.00
+PY Dnull2 n=3 k=1 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=1 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=2 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=2 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=3 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=3 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=4 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=4 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=5 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=5 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=6 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=6 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=7 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=7 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=8 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=8 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=3 k=9 tests=6 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=3 k=9 tests=6 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=4 k=1 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=4 k=1 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=4 k=2 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=4 k=2 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=4 k=3 tests=8 strict=0 eqdrop_cfg=0 blockpairs=1 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=4 k=3 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=1 blockpairs=1 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=4 k=4 tests=8 strict=0 eqdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0
+C Dnull2 n=4 k=4 tests=8 strict=0 eqdrop_cfg=0 eq_inv=0 eq_under=0 blockdrop_cfg=0 blockpairs=0 repair_cons=0 repair_cons_cfg=0 repair_inv=0 repair_inv_cfg=0 repair_under=0 best=-99.000 eqbest=-99.000
+PY Dnull2 n=5 k=0 tests=10 strict=0 eqdrop_cfg=1 blockpairs=17 repair_cons=26 repair_cons_cfg=7
+C Dnull2 n=5 k=0 tests=10 strict=0 eqdrop_cfg=1 eq_inv=936 eq_under=0 blockdrop_cfg=7 blockpairs=17 repair_cons=26 repair_cons_cfg=7 repair_inv=12192 repair_inv_cfg=6 repair_under=0 best=-7.066 eqbest
+# result: 94/94 jobs identical on tests, strict, eqdrop_cfg, blockpairs, repair_cons, repair_cons_cfg
