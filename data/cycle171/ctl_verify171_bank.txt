@@ -1,0 +1,15 @@
+e0 PASS  ['FIT23 perm=198 model=B mode=15 text=cyc_K123ct offset=715 miss=6'] best=7 best1=24 full=0 fit23=1
+e1 PASS  ['FIT23 perm=127 model=B mode=23 text=natsec_act_1947_amended_rev offset=256988 miss=0'] best=7 best1=24 full=0 fit23=1
+e2 PASS  ['FIT23 perm=84 model=B mode=17 text=natsec_act_1947_amended_rev offset=343466 miss=21'] best=21 best1=24 full=0 fit23=1
+e3 PASS  ['FIT23 perm=6 model=A mode=0 text=cyc_K123pt offset=444 miss=4'] best=7 best1=24 full=0 fit23=4
+e4 PASS  ['FIT23 perm=102 model=A mode=23 text=kjv_john_rev offset=11353 miss=18'] best=18 best1=24 full=0 fit23=2
+e5 PASS  ['FIT23 perm=0 model=A mode=12 text=cyc_K123pt offset=668 miss=15'] best=15 best1=24 full=0 fit23=3
+e6 PASS  ['FIT23 perm=26 model=B mode=19 text=cyc_K123ct_rev offset=715 miss=21'] best=21 best1=24 full=0 fit23=1
+e7 PASS  ['FIT23 perm=174 model=A mode=9 text=carter1_rev offset=266549 miss=7'] best=7 best1=24 full=0 fit23=1
+n0 PASS FULL [] best=24 best1=24 full=1 fit23=0
+n1 PASS FULL [] best=24 best1=24 full=1 fit23=0
+d0 PASS  [] best=9 best1=21 full=0 fit23=0
+d1 PASS  [] best=7 best1=20 full=0 fit23=0
+s0 PASS FULL [] best=24 best1=24 full=1 fit23=0
+s1 PASS FULL [] best=24 best1=24 full=1 fit23=0
+bank controls 14/14

@@ -1,0 +1,16 @@
+# numpy recount (recount171.py) vs porta171 NORK, K4, stride 50 offset 0 of all.bin
+RECOUNT perms 3316 dead_2self 932 surv_ord_free 36 surv_ord_forced 681
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 183
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 6
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 184
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 7 3 13
+--- porta171
+SUMMARY perms 3316 masks 69012 orderings 173431 dead_2self 932 surv_mask_free 16 surv_mask_forced 294 surv_ord_free 36 surv_ord_forced 681 rk_ord_free 0 rk_ord_forced 0 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 183
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 6 6
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 184
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 7 3 13
+
+# numpy depth recount (cycle169 verify169.py depth, 40 random bank perms, seed 1710) vs bookrk1e limited to 24 additive modes
+PYDEPTH additive-only histS: 0:4538 1:32056 2:21758 3:8391 4:2155 5:214 6:8 hist1: 1:724 2:21778 3:26700 4:12934 5:5865 6:1040 7:73 8:6
+SUMMARY perms=40 configs=69120 best=6 best1=8 full=0 fit23=0 hist: 0:4538 1:32056 2:21758 3:8391 4:2155 5:214 6:8 hist1: 1:724 2:21778 3:26700 4:12934 5:5865 6:1040 7:73 8:6 bestS=6 histS: 0:4538 1:32056 2:21758 3:8391 4:2155 5:214 6:8

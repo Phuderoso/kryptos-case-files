@@ -1,0 +1,57 @@
+# Cycle 171 summary
+
+## 1. I-096 Porta one-error behind 165,782 K3-law decimations + spiral/diagonal routes
+
+K4 chunks done 16/16 
+K4 perms 165,782; dead (>= 2 self-mapped crib pairs) 45,083; surviving (perm, ordering): d free 1,539 (= cycle 170 strict survivors), d forced 36,642
+running keys one-error on all d-free survivors: 1,539 orderings x 36 texts, fits 0
+
+Periodic one-error, K4 observed vs analytic expectation (sum over survivors of chance pass probability; d free = union bound):
+  V1A: L17:0/0.0095 L18:0/0.0094 L23:0/0.0094 L24:0/1.2 L25:107/1.4e+02 L26:7554/7.5e+03
+     L with obs 0 and expectation < 0.01: 1..23 (23 periods) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+  V1B: L18:0/0.0092 L19:1/0.081 L20:4/0.39 L21:0/2.5 L22:30/15 L23:19/34 L24:141/1.5e+02 L25:144/1.5e+02 L26:428/4.7e+02
+     L with obs 0 and expectation < 0.01: 1..18 (18 periods) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  V2A: L17:0/0.0095 L18:0/0.0094 L23:0/0.0094 L24:1/1.2 L25:80/1.4e+02 L26:7441/7.5e+03
+     L with obs 0 and expectation < 0.01: 1..23 (23 periods) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+  V2B: L18:0/0.0092 L19:0/0.081 L20:0/0.39 L21:1/2.5 L22:15/15 L23:30/34 L24:140/1.5e+02 L25:168/1.5e+02 L26:423/4.7e+02
+     L with obs 0 and expectation < 0.01: 1..18 (18 periods) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  fits at L <= 23 (FIT lines): 90; total expectation L<=23: V1A 0.03, V1B 52.32, V2A 0.03, V2B 52.32
+  per (variant, L<=23) fit counts: {('V1B', 19): 1, ('V1B', 20): 4, ('V1B', 22): 30, ('V1B', 23): 19, ('V2B', 21): 1, ('V2B', 22): 15, ('V2B', 23): 30}
+
+Running keys one-error on EVERY survivor (d forced too), slice p%8==0: perms 20,723, orderings d free 174 + d forced 4,583, fits 0
+  RK fit lines: 0
+
+Nulls (40 shuffled K4s, slice p%8==0, 20,723 perms): one-error survivors (perm, ordering) K4 4757, nulls min/median/max 3780/4897/6122
+  nulls >= K4 24/40 -> p(K4 high) = 0.610; nulls <= K4 16/40 -> p(K4 low) = 0.415; floor 1/(N+1) = 0.024
+  V1A L24: K4 0 (exp 0.14); nulls min/med/max 0/0/1 (median exp 0.14); nulls >= K4 40/40 p = 1.000
+  V1A L25: K4 23 (exp 17); nulls min/med/max 3/11/34 (median exp 16); nulls >= K4 4/40 p = 0.122
+  V1A L26: K4 856 (exp 8.8e+02); nulls min/med/max 604/874/1549 (median exp 8.8e+02); nulls >= K4 22/40 p = 0.561
+  V1B L20: K4 0 (exp 0.036); nulls min/med/max 0/0/1 (median exp 0.053); nulls >= K4 40/40 p = 1.000
+  V1B L21: K4 0 (exp 0.31); nulls min/med/max 0/0/2 (median exp 0.17); nulls >= K4 40/40 p = 1.000
+  V1B L22: K4 16 (exp 3); nulls min/med/max 0/1/18 (median exp 1.9); nulls >= K4 1/40 p = 0.049
+  V1B L23: K4 2 (exp 2.3); nulls min/med/max 0/4/22 (median exp 5.3); nulls >= K4 32/40 p = 0.805
+  V1B L24: K4 8 (exp 12); nulls min/med/max 2/14/44 (median exp 18); nulls >= K4 37/40 p = 0.927
+  V1B L25: K4 29 (exp 28); nulls min/med/max 6/22/85 (median exp 26); nulls >= K4 12/40 p = 0.317
+  V1B L26: K4 18 (exp 29); nulls min/med/max 12/35/149 (median exp 39); nulls >= K4 39/40 p = 0.976
+  V2A L24: K4 0 (exp 0.14); nulls min/med/max 0/0/1 (median exp 0.14); nulls >= K4 40/40 p = 1.000
+  V2A L25: K4 15 (exp 17); nulls min/med/max 1/11/69 (median exp 16); nulls >= K4 13/40 p = 0.341
+  V2A L26: K4 887 (exp 8.8e+02); nulls min/med/max 636/876/1513 (median exp 8.8e+02); nulls >= K4 17/40 p = 0.439
+  V2B L21: K4 0 (exp 0.31); nulls min/med/max 0/0/2 (median exp 0.17); nulls >= K4 40/40 p = 1.000
+  V2B L22: K4 5 (exp 3); nulls min/med/max 0/1/12 (median exp 1.9); nulls >= K4 5/40 p = 0.146
+  V2B L23: K4 3 (exp 2.3); nulls min/med/max 0/4/17 (median exp 5.3); nulls >= K4 27/40 p = 0.683
+  V2B L24: K4 4 (exp 12); nulls min/med/max 4/14/32 (median exp 18); nulls >= K4 40/40 p = 1.000
+  V2B L25: K4 25 (exp 28); nulls min/med/max 1/21/97 (median exp 26); nulls >= K4 14/40 p = 0.366
+  V2B L26: K4 32 (exp 29); nulls min/med/max 13/37/154 (median exp 39); nulls >= K4 25/40 p = 0.634
+  nulls with any periodic one-error fit at L <= 23: 39/40 (K4 on slice: 1); Clopper-Pearson 95% upper bound on that null rate 0.999
+
+## 2. I-091 one-error named running keys (bookrk1e) behind the 165,065-perm bank
+
+K4 bank chunks done 16/16 
+K4: perms 165,065 configs 289,329,048 x 36 texts (3,302,066 offsets) = 2.654e+13 placements
+K4: FULL 0 FIT23 0; best one-error depth1 12; best strict depth 9
+  analytic expectation of >= 23/24 chance fits: uniform 1.8e-18; worst case p=0.127 per letter 1.4e-06
+  K4 hist1: 1:3445224 2:90502098 3:112003772 4:54231583 5:24450171 6:4341144 7:338070 8:16352 9:594 10:39 12:1
+
+Null lineup on bankslice.bin (first 250 + last 250 bank perms), 40 shuffled K4s: K4 best1 9 fit23 0 full 0
+  nulls best1 min/median/max 8/9/10; nulls >= K4 best1 37/40 -> p = 0.927 (floor 0.024)
+  nulls with any >= 23/24 fit 0/40; Clopper-Pearson 95% upper bound on the null fit rate 0.072
