@@ -27,7 +27,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-008 | Gromark / Periodic Gromark under one crib error | P2 | queued |
 | I-009 | Two-letter differences anchored to the archive charts | P2 | blocked (needs archive data, see I-002) |
 | I-010 | Quagmire IV with two different vocabulary alphabets | P2 | queued |
-| I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P1 | queued (new family; recommended for cycle 152) |
+| I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P1 | in progress (cycle 152) |
 | I-012 | Hill with a key on the ciphertext side (`p = D·(c − f)`, non-linear) | P2 | queued (new structure) |
 | I-013 | Key change at a boundary keeping the width-7 phase | P2 | queued |
 | I-014 | CT-autokey with both alphabets free | P2 | queued |
@@ -121,7 +121,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ### I-011 — Word-keyed zig-zag autokey; zig-zag + progressive shift
 - **Source:** journal cycle 150 ideas; [case 138](case-file/138-zigzag-autokey.md) limits. `[speculation]`
-- **Test:** the form sequence (Vig/Beau/variant) read from a word's letters (e.g. letter mod 3), CT feed exact count, direct and behind the bank. **Controls:** planted; nulls at full scale. **Cost:** ~10,000 words × cycle-150 cost/36: moderate. **Status:** queued — candidate new family for cycle 152.
+- **Test:** the form sequence (Vig/Beau/variant) read from a word's letters (e.g. letter mod 3), CT feed exact count, direct and behind the bank. **Controls:** planted; nulls at full scale. **Cost:** ~10,000 words × cycle-150 cost/36: moderate. **Status:** in progress (cycle 152, started 2026-11-08 17:20 PST).
 
 ### I-012 — Hill with a key on the ciphertext side (`p = D·(c − f)`)
 - **Source:** [case 132](case-file/132-hill-plus-periodic-key.md) limits. `[speculation]`
