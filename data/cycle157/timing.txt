@@ -1,0 +1,6 @@
+# Cycle 157 wall-clock (8 processes, box, 2026-11-08 PDT)
+timing probe (K4/null2 2M primers, 3 jobs)                       ~10 s
+main run 1 (timeout 400 s, 279/283 chunks done, resumable)       400 s
+main run 2 (resume, 4 chunks of mnull20)                          31 s
+independent checks (Python L 4 recount x20, 35 single primers)    15 s
+total heavy compute                                              ~456 s (about 7.6 min, inside the ~8 min budget)
