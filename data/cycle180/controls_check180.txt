@@ -1,0 +1,25 @@
+P1_ix0_L3_q3_vig_SHADOW-Z: fits_at_q 5 window_fits 5 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[13, 7, 19] d=7 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P2_ix0_L5_q1_beau_BERLIN-K: fits_at_q 3 window_fits 3 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[19, 8, 14, 13, 23] d=23 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P3_ix0_L7_q2_vig_ABSCISSA-Z: fits_at_q 2 window_fits 2 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -3.907 c=[24, 11, 3, 19, 13, 5, 24] d=15 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P4_ix0_L2_q3_beau_SHADOW-K: fits_at_q 6 window_fits 6 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -3.907 c=[7, 12] d=2 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit: fits_at_q 2 window_fits 2 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -3.907 c=[10, 8, 23, 10, 13, 22] d=24 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P6_ix1_L1_q3_vig_COMPASS-Z: fits_at_q 3 window_fits 3 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[4] d=19 seed=[19] null13=0 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P7_ix1_L2_q1_beau_LODESTONE-K: fits_at_q 2 window_fits 2 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[18, 1] d=25 seed=[3, 14] null13=0 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P8_ix1_L3_q2_vig_MAGNETIC-Z: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[14, 8, 1] d=21 seed=[25, 0, 1] null13=0 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P9_ix1_L4_q3_beau_ABSCISSA-K_themed: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[24, 13, 3, 15] d=2 seed=[23, 3, 0, 4] null13=0 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P10_ix0_L1_q3_vig_KA_progressive: fits_at_q 7 window_fits 7 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.204 c=[1] d=3 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+N1_P1_one_wrong_carved_letter_slot30: NEG fits_at_q 0 window_fits 0 -> PASS
+N2_ix0_random_key: NEG fits_at_q 0 window_fits 0 -> PASS
+N3_ix1_random_key: NEG fits_at_q 0 window_fits 0 -> PASS
+N4_ix0_L3_q3_vig_alphabet_not_in_list: NEG fits_at_q 0 window_fits 0 -> PASS
+controls 14/14

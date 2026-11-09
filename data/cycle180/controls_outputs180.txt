@@ -1,0 +1,511 @@
+H N1_P1_one_wrong_carved_letter_slot30 0 1 q1 vig perms 3000 pairs 56326 pass2 5 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 1 q1 beau perms 3000 pairs 56326 pass2 5 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 1 q2 vig perms 3000 pairs 56326 pass2 5 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 1 q2 beau perms 3000 pairs 56326 pass2 5 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 1 q3 vig perms 3000 pairs 56326 pass2 13 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 1 q3 beau perms 3000 pairs 56326 pass2 13 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 2 q1 vig perms 3000 pairs 56326 pass2 118 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 2 q1 beau perms 3000 pairs 56326 pass2 118 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 2 q2 vig perms 3000 pairs 56326 pass2 42 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 2 q2 beau perms 3000 pairs 56326 pass2 42 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 2 q3 vig perms 3000 pairs 56326 pass2 79 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 2 q3 beau perms 3000 pairs 56326 pass2 79 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 3 q1 vig perms 3000 pairs 56326 pass2 236 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 3 q1 beau perms 3000 pairs 56326 pass2 236 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 3 q2 vig perms 3000 pairs 56326 pass2 133 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 3 q2 beau perms 3000 pairs 56326 pass2 133 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 3 q3 vig perms 3000 pairs 56326 pass2 338 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 3 q3 beau perms 3000 pairs 56326 pass2 338 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 4 q1 vig perms 3000 pairs 56326 pass2 1071 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 4 q1 beau perms 3000 pairs 56326 pass2 1071 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 4 q2 vig perms 3000 pairs 56326 pass2 895 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 4 q2 beau perms 3000 pairs 56326 pass2 895 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 4 q3 vig perms 3000 pairs 56326 pass2 1168 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 4 q3 beau perms 3000 pairs 56326 pass2 1168 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 5 q1 vig perms 3000 pairs 56326 pass2 4563 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 5 q1 beau perms 3000 pairs 56326 pass2 4563 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 5 q2 vig perms 3000 pairs 56326 pass2 4530 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 5 q2 beau perms 3000 pairs 56326 pass2 4530 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 5 q3 vig perms 3000 pairs 56326 pass2 4415 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 5 q3 beau perms 3000 pairs 56326 pass2 4415 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 6 q1 vig perms 3000 pairs 56326 pass2 17959 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 6 q1 beau perms 3000 pairs 56326 pass2 17959 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 6 q2 vig perms 3000 pairs 56326 pass2 17256 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 6 q2 beau perms 3000 pairs 56326 pass2 17256 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 6 q3 vig perms 3000 pairs 56326 pass2 17854 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 6 q3 beau perms 3000 pairs 56326 pass2 17854 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 7 q1 vig perms 3000 pairs 56326 pass2 71142 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 7 q1 beau perms 3000 pairs 56326 pass2 71142 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 7 q2 vig perms 3000 pairs 56326 pass2 72352 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 7 q2 beau perms 3000 pairs 56326 pass2 72352 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 7 q3 vig perms 3000 pairs 56326 pass2 72364 fits 0
+H N1_P1_one_wrong_carved_letter_slot30 0 7 q3 beau perms 3000 pairs 56326 pass2 72364 fits 0
+O N1_P1_one_wrong_carved_letter_slot30 overflow 0
+END N1_P1_one_wrong_carved_letter_slot30 92582 95582
+H N2_ix0_random_key 0 1 q1 vig perms 3000 pairs 56326 pass2 3 fits 0
+H N2_ix0_random_key 0 1 q1 beau perms 3000 pairs 56326 pass2 3 fits 0
+H N2_ix0_random_key 0 1 q2 vig perms 3000 pairs 56326 pass2 34 fits 0
+H N2_ix0_random_key 0 1 q2 beau perms 3000 pairs 56326 pass2 34 fits 0
+H N2_ix0_random_key 0 1 q3 vig perms 3000 pairs 56326 pass2 21 fits 0
+H N2_ix0_random_key 0 1 q3 beau perms 3000 pairs 56326 pass2 21 fits 0
+H N2_ix0_random_key 0 2 q1 vig perms 3000 pairs 56326 pass2 60 fits 0
+H N2_ix0_random_key 0 2 q1 beau perms 3000 pairs 56326 pass2 60 fits 0
+H N2_ix0_random_key 0 2 q2 vig perms 3000 pairs 56326 pass2 142 fits 0
+H N2_ix0_random_key 0 2 q2 beau perms 3000 pairs 56326 pass2 142 fits 0
+H N2_ix0_random_key 0 2 q3 vig perms 3000 pairs 56326 pass2 64 fits 0
+H N2_ix0_random_key 0 2 q3 beau perms 3000 pairs 56326 pass2 64 fits 0
+H N2_ix0_random_key 0 3 q1 vig perms 3000 pairs 56326 pass2 228 fits 0
+H N2_ix0_random_key 0 3 q1 beau perms 3000 pairs 56326 pass2 228 fits 0
+H N2_ix0_random_key 0 3 q2 vig perms 3000 pairs 56326 pass2 398 fits 0
+H N2_ix0_random_key 0 3 q2 beau perms 3000 pairs 56326 pass2 398 fits 0
+H N2_ix0_random_key 0 3 q3 vig perms 3000 pairs 56326 pass2 252 fits 0
+H N2_ix0_random_key 0 3 q3 beau perms 3000 pairs 56326 pass2 252 fits 0
+H N2_ix0_random_key 0 4 q1 vig perms 3000 pairs 56326 pass2 917 fits 0
+H N2_ix0_random_key 0 4 q1 beau perms 3000 pairs 56326 pass2 917 fits 0
+H N2_ix0_random_key 0 4 q2 vig perms 3000 pairs 56326 pass2 1357 fits 0
+H N2_ix0_random_key 0 4 q2 beau perms 3000 pairs 56326 pass2 1357 fits 0
+H N2_ix0_random_key 0 4 q3 vig perms 3000 pairs 56326 pass2 1203 fits 0
+H N2_ix0_random_key 0 4 q3 beau perms 3000 pairs 56326 pass2 1203 fits 0
+H N2_ix0_random_key 0 5 q1 vig perms 3000 pairs 56326 pass2 4758 fits 0
+H N2_ix0_random_key 0 5 q1 beau perms 3000 pairs 56326 pass2 4758 fits 0
+H N2_ix0_random_key 0 5 q2 vig perms 3000 pairs 56326 pass2 4627 fits 0
+H N2_ix0_random_key 0 5 q2 beau perms 3000 pairs 56326 pass2 4627 fits 0
+H N2_ix0_random_key 0 5 q3 vig perms 3000 pairs 56326 pass2 4454 fits 0
+H N2_ix0_random_key 0 5 q3 beau perms 3000 pairs 56326 pass2 4454 fits 0
+H N2_ix0_random_key 0 6 q1 vig perms 3000 pairs 56326 pass2 18691 fits 0
+H N2_ix0_random_key 0 6 q1 beau perms 3000 pairs 56326 pass2 18691 fits 0
+H N2_ix0_random_key 0 6 q2 vig perms 3000 pairs 56326 pass2 18974 fits 0
+H N2_ix0_random_key 0 6 q2 beau perms 3000 pairs 56326 pass2 18974 fits 0
+H N2_ix0_random_key 0 6 q3 vig perms 3000 pairs 56326 pass2 18010 fits 0
+H N2_ix0_random_key 0 6 q3 beau perms 3000 pairs 56326 pass2 18010 fits 0
+H N2_ix0_random_key 0 7 q1 vig perms 3000 pairs 56326 pass2 70997 fits 0
+H N2_ix0_random_key 0 7 q1 beau perms 3000 pairs 56326 pass2 70997 fits 0
+H N2_ix0_random_key 0 7 q2 vig perms 3000 pairs 56326 pass2 73996 fits 0
+H N2_ix0_random_key 0 7 q2 beau perms 3000 pairs 56326 pass2 73996 fits 0
+H N2_ix0_random_key 0 7 q3 vig perms 3000 pairs 56326 pass2 72559 fits 0
+H N2_ix0_random_key 0 7 q3 beau perms 3000 pairs 56326 pass2 72559 fits 0
+O N2_ix0_random_key overflow 0
+END N2_ix0_random_key 32033 35033
+H N3_ix1_random_key 1 1 q1 vig perms 3000 pairs 56326 pass2 3 fits 0
+H N3_ix1_random_key 1 1 q1 beau perms 3000 pairs 56326 pass2 3 fits 0
+H N3_ix1_random_key 1 1 q2 vig perms 3000 pairs 56326 pass2 7 fits 0
+H N3_ix1_random_key 1 1 q2 beau perms 3000 pairs 56326 pass2 7 fits 0
+H N3_ix1_random_key 1 1 q3 vig perms 3000 pairs 56326 pass2 39 fits 0
+H N3_ix1_random_key 1 1 q3 beau perms 3000 pairs 56326 pass2 39 fits 0
+H N3_ix1_random_key 1 2 q1 vig perms 3000 pairs 56326 pass2 60 fits 0
+H N3_ix1_random_key 1 2 q1 beau perms 3000 pairs 56326 pass2 60 fits 0
+H N3_ix1_random_key 1 2 q2 vig perms 3000 pairs 56326 pass2 43 fits 0
+H N3_ix1_random_key 1 2 q2 beau perms 3000 pairs 56326 pass2 43 fits 0
+H N3_ix1_random_key 1 2 q3 vig perms 3000 pairs 56326 pass2 56 fits 0
+H N3_ix1_random_key 1 2 q3 beau perms 3000 pairs 56326 pass2 56 fits 0
+H N3_ix1_random_key 1 3 q1 vig perms 3000 pairs 56326 pass2 201 fits 0
+H N3_ix1_random_key 1 3 q1 beau perms 3000 pairs 56326 pass2 201 fits 0
+H N3_ix1_random_key 1 3 q2 vig perms 3000 pairs 56326 pass2 246 fits 0
+H N3_ix1_random_key 1 3 q2 beau perms 3000 pairs 56326 pass2 246 fits 0
+H N3_ix1_random_key 1 3 q3 vig perms 3000 pairs 56326 pass2 215 fits 0
+H N3_ix1_random_key 1 3 q3 beau perms 3000 pairs 56326 pass2 215 fits 0
+END N3_ix1_random_key 11929 14929
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 1 q1 vig perms 3000 pairs 56326 pass2 11 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 1 q1 beau perms 3000 pairs 56326 pass2 11 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 1 q2 vig perms 3000 pairs 56326 pass2 15 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 1 q2 beau perms 3000 pairs 56326 pass2 15 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 1 q3 vig perms 3000 pairs 56326 pass2 16 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 1 q3 beau perms 3000 pairs 56326 pass2 16 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 2 q1 vig perms 3000 pairs 56326 pass2 38 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 2 q1 beau perms 3000 pairs 56326 pass2 38 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 2 q2 vig perms 3000 pairs 56326 pass2 71 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 2 q2 beau perms 3000 pairs 56326 pass2 71 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 2 q3 vig perms 3000 pairs 56326 pass2 71 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 2 q3 beau perms 3000 pairs 56326 pass2 71 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 3 q1 vig perms 3000 pairs 56326 pass2 188 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 3 q1 beau perms 3000 pairs 56326 pass2 188 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 3 q2 vig perms 3000 pairs 56326 pass2 278 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 3 q2 beau perms 3000 pairs 56326 pass2 278 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 3 q3 vig perms 3000 pairs 56326 pass2 309 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 3 q3 beau perms 3000 pairs 56326 pass2 309 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 4 q1 vig perms 3000 pairs 56326 pass2 763 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 4 q1 beau perms 3000 pairs 56326 pass2 763 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 4 q2 vig perms 3000 pairs 56326 pass2 1328 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 4 q2 beau perms 3000 pairs 56326 pass2 1328 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 4 q3 vig perms 3000 pairs 56326 pass2 1160 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 4 q3 beau perms 3000 pairs 56326 pass2 1160 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 5 q1 vig perms 3000 pairs 56326 pass2 4200 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 5 q1 beau perms 3000 pairs 56326 pass2 4200 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 5 q2 vig perms 3000 pairs 56326 pass2 4994 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 5 q2 beau perms 3000 pairs 56326 pass2 4994 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 5 q3 vig perms 3000 pairs 56326 pass2 4791 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 5 q3 beau perms 3000 pairs 56326 pass2 4791 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 6 q1 vig perms 3000 pairs 56326 pass2 17393 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 6 q1 beau perms 3000 pairs 56326 pass2 17393 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 6 q2 vig perms 3000 pairs 56326 pass2 18432 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 6 q2 beau perms 3000 pairs 56326 pass2 18432 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 6 q3 vig perms 3000 pairs 56326 pass2 18626 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 6 q3 beau perms 3000 pairs 56326 pass2 18626 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 7 q1 vig perms 3000 pairs 56326 pass2 71583 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 7 q1 beau perms 3000 pairs 56326 pass2 71583 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 7 q2 vig perms 3000 pairs 56326 pass2 74106 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 7 q2 beau perms 3000 pairs 56326 pass2 74106 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 7 q3 vig perms 3000 pairs 56326 pass2 73242 fits 0
+H N4_ix0_L3_q3_vig_alphabet_not_in_list 0 7 q3 beau perms 3000 pairs 56326 pass2 73242 fits 0
+O N4_ix0_L3_q3_vig_alphabet_not_in_list overflow 0
+END N4_ix0_L3_q3_vig_alphabet_not_in_list 58286 61286
+M P10_ix0_L1_q3_vig_KA_progressive 0 1 q3 vig 99899 KA - n2 1 n13 1 S2 1,1 S13 1,3
+M P10_ix0_L1_q3_vig_KA_progressive 0 2 q3 vig 99899 KA - n2 2 n13 13 S2 0,1,0 1,0,1 S13 2,12,0 6,8,1 10,4,2 1,0,3 5,9,4 9,5,5 0,1,6 4,10,7 8,6,8 12,2,9 3,11,10 7,7,11 11,3,12
+M P10_ix0_L1_q3_vig_KA_progressive 0 3 q3 vig 99899 KA - n2 4 n13 169 S2 0,1,0,0 1,1,1,0 1,0,0,1 0,0,1,1 S13 2,12,0,0 3,10,1,0 4,8,2,0 5,6,3,0 6,4,4,0 7,2,5,0 8,0,6,0 9,11,7,0 10,9,8,0 11,7,9,0 12,5,10,0 0,3,11,0 1,1,12,0 6,8,0,1 7,6,1,1 8,4,2,1 9,2,3,1 10,0,4,1 11,11,5,1 12,9,6,1 0,7,7,1 1,5,8,1 2,3,9,1 3,1,10,1 4,12,11,1 5,10,12,1 10,4,0,2 11,2,1,2 12,0,2,2 0,11,3,2 1,9,4,2 2,7,5,2
+M P10_ix0_L1_q3_vig_KA_progressive 0 4 q3 vig 99899 KA - n2 8 n13 2197 S2 0,1,0,0,0 1,1,1,0,0 0,0,0,1,0 1,0,1,1,0 1,0,0,0,1 0,0,1,0,1 1,1,0,1,1 0,1,1,1,1 S13 2,12,0,0,0 3,10,1,0,0 4,8,2,0,0 5,6,3,0,0 6,4,4,0,0 7,2,5,0,0 8,0,6,0,0 9,11,7,0,0 10,9,8,0,0 11,7,9,0,0 12,5,10,0,0 0,3,11,0,0 1,1,12,0,0 4,9,0,1,0 5,7,1,1,0 6,5,2,1,0 7,3,3,1,0 8,1,4,1,0 9,12,5,1,0 10,10,6,1,0 11,8,7,1,0 12,6,8,1,0 0,4,9,1,0 1,2,10,1,0 2,0,11,1,0 3,11,12,1,0 6,6,0,2,0 7,4,1,2,0 8,2,2,2,0 9,0,3,2,0 10,11,4,2,0 11,9,5,2,0
+M P10_ix0_L1_q3_vig_KA_progressive 0 5 q3 vig 99899 KA - n2 16 n13 28561 S2 0,1,0,0,0,0 1,1,1,0,0,0 0,0,0,1,0,0 1,0,1,1,0,0 1,1,0,0,1,0 0,1,1,0,1,0 1,0,0,1,1,0 0,0,1,1,1,0 1,0,0,0,0,1 0,0,1,0,0,1 1,1,0,1,0,1 0,1,1,1,0,1 0,0,0,0,1,1 1,0,1,0,1,1 0,1,0,1,1,1 1,1,1,1,1,1 S13 2,12,0,0,0,0 3,10,1,0,0,0 4,8,2,0,0,0 5,6,3,0,0,0 6,4,4,0,0,0 7,2,5,0,0,0 8,0,6,0,0,0 9,11,7,0,0,0 10,9,8,0,0,0 11,7,9,0,0,0 12,5,10,0,0,0 0,3,11,0,0,0 1,1,12,0,0,0 4,9,0,1,0,0 5,7,1,1,0,0 6,5,2,1,0,0 7,3,3,1,0,0 8,1,4,1,0,0 9,12,5,1,0,0 10,10,6,1,0,0 11,8,7,1,0,0 12,6,8,1,0,0 0,4,9,1,0,0 1,2,10,1,0,0 2,0,11,1,0,0 3,11,12,1,0,0 6,6,0,2,0,0 7,4,1,2,0,0 8,2,2,2,0,0 9,0,3,2,0,0 10,11,4,2,0,0 11,9,5,2,0,0
+M P10_ix0_L1_q3_vig_KA_progressive 0 6 q3 vig 99899 KA - n2 32 n13 371293 S2 0,1,0,0,0,0,0 1,1,1,0,0,0,0 0,0,0,1,0,0,0 1,0,1,1,0,0,0 1,1,0,0,1,0,0 0,1,1,0,1,0,0 1,0,0,1,1,0,0 0,0,1,1,1,0,0 0,0,0,0,0,1,0 1,0,1,0,0,1,0 0,1,0,1,0,1,0 1,1,1,1,0,1,0 1,0,0,0,1,1,0 0,0,1,0,1,1,0 1,1,0,1,1,1,0 0,1,1,1,1,1,0 1,0,0,0,0,0,1 0,0,1,0,0,0,1 1,1,0,1,0,0,1 0,1,1,1,0,0,1 0,0,0,0,1,0,1 1,0,1,0,1,0,1 0,1,0,1,1,0,1 1,1,1,1,1,0,1 1,1,0,0,0,1,1 0,1,1,0,0,1,1 1,0,0,1,0,1,1 0,0,1,1,0,1,1 0,1,0,0,1,1,1 1,1,1,0,1,1,1 0,0,0,1,1,1,1 1,0,1,1,1,1,1 S13 2,12,0,0,0,0,0 3,10,1,0,0,0,0 4,8,2,0,0,0,0 5,6,3,0,0,0,0 6,4,4,0,0,0,0 7,2,5,0,0,0,0 8,0,6,0,0,0,0 9,11,7,0,0,0,0 10,9,8,0,0,0,0 11,7,9,0,0,0,0 12,5,10,0,0,0,0 0,3,11,0,0,0,0 1,1,12,0,0,0,0 4,9,0,1,0,0,0 5,7,1,1,0,0,0 6,5,2,1,0,0,0 7,3,3,1,0,0,0 8,1,4,1,0,0,0 9,12,5,1,0,0,0 10,10,6,1,0,0,0 11,8,7,1,0,0,0 12,6,8,1,0,0,0 0,4,9,1,0,0,0 1,2,10,1,0,0,0 2,0,11,1,0,0,0 3,11,12,1,0,0,0 6,6,0,2,0,0,0 7,4,1,2,0,0,0 8,2,2,2,0,0,0 9,0,3,2,0,0,0 10,11,4,2,0,0,0 11,9,5,2,0,0,0
+M P10_ix0_L1_q3_vig_KA_progressive 0 7 q3 vig 99899 KA - n2 64 n13 4826809 S2 0,1,0,0,0,0,0,0 1,1,1,0,0,0,0,0 0,0,0,1,0,0,0,0 1,0,1,1,0,0,0,0 1,1,0,0,1,0,0,0 0,1,1,0,1,0,0,0 1,0,0,1,1,0,0,0 0,0,1,1,1,0,0,0 0,0,0,0,0,1,0,0 1,0,1,0,0,1,0,0 0,1,0,1,0,1,0,0 1,1,1,1,0,1,0,0 1,0,0,0,1,1,0,0 0,0,1,0,1,1,0,0 1,1,0,1,1,1,0,0 0,1,1,1,1,1,0,0 1,1,0,0,0,0,1,0 0,1,1,0,0,0,1,0 1,0,0,1,0,0,1,0 0,0,1,1,0,0,1,0 0,1,0,0,1,0,1,0 1,1,1,0,1,0,1,0 0,0,0,1,1,0,1,0 1,0,1,1,1,0,1,0 1,0,0,0,0,1,1,0 0,0,1,0,0,1,1,0 1,1,0,1,0,1,1,0 0,1,1,1,0,1,1,0 0,0,0,0,1,1,1,0 1,0,1,0,1,1,1,0 0,1,0,1,1,1,1,0 1,1,1,1,1,1,1,0 S13 2,12,0,0,0,0,0,0 3,10,1,0,0,0,0,0 4,8,2,0,0,0,0,0 5,6,3,0,0,0,0,0 6,4,4,0,0,0,0,0 7,2,5,0,0,0,0,0 8,0,6,0,0,0,0,0 9,11,7,0,0,0,0,0 10,9,8,0,0,0,0,0 11,7,9,0,0,0,0,0 12,5,10,0,0,0,0,0 0,3,11,0,0,0,0,0 1,1,12,0,0,0,0,0 4,9,0,1,0,0,0,0 5,7,1,1,0,0,0,0 6,5,2,1,0,0,0,0 7,3,3,1,0,0,0,0 8,1,4,1,0,0,0,0 9,12,5,1,0,0,0,0 10,10,6,1,0,0,0,0 11,8,7,1,0,0,0,0 12,6,8,1,0,0,0,0 0,4,9,1,0,0,0,0 1,2,10,1,0,0,0,0 2,0,11,1,0,0,0,0 3,11,12,1,0,0,0,0 6,6,0,2,0,0,0,0 7,4,1,2,0,0,0,0 8,2,2,2,0,0,0,0 9,0,3,2,0,0,0,0 10,11,4,2,0,0,0,0 11,9,5,2,0,0,0,0
+H P10_ix0_L1_q3_vig_KA_progressive 0 1 q1 vig perms 3000 pairs 56326 pass2 3 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 1 q1 beau perms 3000 pairs 56326 pass2 3 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 1 q2 vig perms 3000 pairs 56326 pass2 12 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 1 q2 beau perms 3000 pairs 56326 pass2 12 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 1 q3 vig perms 3000 pairs 56326 pass2 35 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 1 q3 beau perms 3000 pairs 56326 pass2 35 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 2 q1 vig perms 3000 pairs 56326 pass2 81 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 2 q1 beau perms 3000 pairs 56326 pass2 81 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 2 q2 vig perms 3000 pairs 56326 pass2 60 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 2 q2 beau perms 3000 pairs 56326 pass2 60 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 2 q3 vig perms 3000 pairs 56326 pass2 94 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 2 q3 beau perms 3000 pairs 56326 pass2 94 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 3 q1 vig perms 3000 pairs 56326 pass2 235 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 3 q1 beau perms 3000 pairs 56326 pass2 235 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 3 q2 vig perms 3000 pairs 56326 pass2 260 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 3 q2 beau perms 3000 pairs 56326 pass2 260 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 3 q3 vig perms 3000 pairs 56326 pass2 329 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 3 q3 beau perms 3000 pairs 56326 pass2 329 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 4 q1 vig perms 3000 pairs 56326 pass2 1176 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 4 q1 beau perms 3000 pairs 56326 pass2 1176 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 4 q2 vig perms 3000 pairs 56326 pass2 1112 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 4 q2 beau perms 3000 pairs 56326 pass2 1112 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 4 q3 vig perms 3000 pairs 56326 pass2 1208 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 4 q3 beau perms 3000 pairs 56326 pass2 1208 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 5 q1 vig perms 3000 pairs 56326 pass2 4630 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 5 q1 beau perms 3000 pairs 56326 pass2 4630 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 5 q2 vig perms 3000 pairs 56326 pass2 4422 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 5 q2 beau perms 3000 pairs 56326 pass2 4422 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 5 q3 vig perms 3000 pairs 56326 pass2 4519 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 5 q3 beau perms 3000 pairs 56326 pass2 4519 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 6 q1 vig perms 3000 pairs 56326 pass2 17922 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 6 q1 beau perms 3000 pairs 56326 pass2 17922 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 6 q2 vig perms 3000 pairs 56326 pass2 18155 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 6 q2 beau perms 3000 pairs 56326 pass2 18155 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 6 q3 vig perms 3000 pairs 56326 pass2 18295 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 6 q3 beau perms 3000 pairs 56326 pass2 18295 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 7 q1 vig perms 3000 pairs 56326 pass2 73207 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 7 q1 beau perms 3000 pairs 56326 pass2 73207 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 7 q2 vig perms 3000 pairs 56326 pass2 71926 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 7 q2 beau perms 3000 pairs 56326 pass2 71926 fits 0
+H P10_ix0_L1_q3_vig_KA_progressive 0 7 q3 vig perms 3000 pairs 56326 pass2 73267 fits 1
+H P10_ix0_L1_q3_vig_KA_progressive 0 7 q3 beau perms 3000 pairs 56326 pass2 73267 fits 0
+O P10_ix0_L1_q3_vig_KA_progressive overflow 0
+END P10_ix0_L1_q3_vig_KA_progressive 98399 101399
+M P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q3 vig 94082 SHADOW/Z - n2 1 n13 1 S2 1,1,1,1 S13 0,7,6,7
+M P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q3 vig 94082 SHADOW/Z - n2 2 n13 13 S2 0,0,0,1,0 1,1,1,0,1 S13 1,7,12,7,0 12,7,0,6,1 10,7,1,5,2 8,7,2,4,3 6,7,3,3,4 4,7,4,2,5 2,7,5,1,6 0,7,6,0,7 11,7,7,12,8 9,7,8,11,9 7,7,9,10,10 5,7,10,9,11 3,7,11,8,12
+M P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q3 vig 94082 SHADOW/Z - n2 4 n13 169 S2 0,0,0,1,0,0 1,0,0,1,1,0 1,1,1,0,0,1 0,1,1,0,1,1 S13 1,7,12,7,0,0 12,9,0,5,1,0 10,11,1,3,2,0 8,0,2,1,3,0 6,2,3,12,4,0 4,4,4,10,5,0 2,6,5,8,6,0 0,8,6,6,7,0 11,10,7,4,8,0 9,12,8,2,9,0 7,1,9,0,10,0 5,3,10,11,11,0 3,5,11,9,12,0 12,7,0,6,0,1 10,9,1,4,1,1 8,11,2,2,2,1 6,0,3,0,3,1 4,2,4,11,4,1 2,4,5,9,5,1 0,6,6,7,6,1 11,8,7,5,7,1 9,10,8,3,8,1 7,12,9,1,9,1 5,1,10,12,10,1 3,3,11,10,11,1 1,5,12,8,12,1 10,7,1,5,0,2 8,9,2,3,1,2 6,11,3,1,2,2 4,0,4,12,3,2 2,2,5,10,4,2 0,4,6,8,5,2
+M P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q3 vig 94082 SHADOW/Z - n2 8 n13 2197 S2 0,0,0,1,0,0,0 1,0,0,1,1,0,0 0,1,0,1,0,1,0 1,1,0,1,1,1,0 1,1,1,0,0,0,1 0,1,1,0,1,0,1 1,0,1,0,0,1,1 0,0,1,0,1,1,1 S13 1,7,12,7,0,0,0 12,9,0,5,1,0,0 10,11,1,3,2,0,0 8,0,2,1,3,0,0 6,2,3,12,4,0,0 4,4,4,10,5,0,0 2,6,5,8,6,0,0 0,8,6,6,7,0,0 11,10,7,4,8,0,0 9,12,8,2,9,0,0 7,1,9,0,10,0,0 5,3,10,11,11,0,0 3,5,11,9,12,0,0 10,9,3,4,0,1,0 8,11,4,2,1,1,0 6,0,5,0,2,1,0 4,2,6,11,3,1,0 2,4,7,9,4,1,0 0,6,8,7,5,1,0 11,8,9,5,6,1,0 9,10,10,3,7,1,0 7,12,11,1,8,1,0 5,1,12,12,9,1,0 3,3,0,10,10,1,0 1,5,1,8,11,1,0 12,7,2,6,12,1,0 6,11,7,1,0,2,0 4,0,8,12,1,2,0 2,2,9,10,2,2,0 0,4,10,8,3,2,0 11,6,11,6,4,2,0 9,8,12,4,5,2,0
+M P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q3 vig 94082 SHADOW/Z - n2 16 n13 28561 S2 0,0,0,1,0,0,0,0 1,0,0,1,1,0,0,0 0,1,0,1,0,1,0,0 1,1,0,1,1,1,0,0 0,0,1,1,0,0,1,0 1,0,1,1,1,0,1,0 0,1,1,1,0,1,1,0 1,1,1,1,1,1,1,0 1,1,1,0,0,0,0,1 0,1,1,0,1,0,0,1 1,0,1,0,0,1,0,1 0,0,1,0,1,1,0,1 1,1,0,0,0,0,1,1 0,1,0,0,1,0,1,1 1,0,0,0,0,1,1,1 0,0,0,0,1,1,1,1 S13 1,7,12,7,0,0,0,0 12,9,0,5,1,0,0,0 10,11,1,3,2,0,0,0 8,0,2,1,3,0,0,0 6,2,3,12,4,0,0,0 4,4,4,10,5,0,0,0 2,6,5,8,6,0,0,0 0,8,6,6,7,0,0,0 11,10,7,4,8,0,0,0 9,12,8,2,9,0,0,0 7,1,9,0,10,0,0,0 5,3,10,11,11,0,0,0 3,5,11,9,12,0,0,0 10,9,3,4,0,1,0,0 8,11,4,2,1,1,0,0 6,0,5,0,2,1,0,0 4,2,6,11,3,1,0,0 2,4,7,9,4,1,0,0 0,6,8,7,5,1,0,0 11,8,9,5,6,1,0,0 9,10,10,3,7,1,0,0 7,12,11,1,8,1,0,0 5,1,12,12,9,1,0,0 3,3,0,10,10,1,0,0 1,5,1,8,11,1,0,0 12,7,2,6,12,1,0,0 6,11,7,1,0,2,0,0 4,0,8,12,1,2,0,0 2,2,9,10,2,2,0,0 0,4,10,8,3,2,0,0 11,6,11,6,4,2,0,0 9,8,12,4,5,2,0,0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 1 q1 vig perms 3000 pairs 56326 pass2 0 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 1 q1 beau perms 3000 pairs 56326 pass2 0 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 1 q2 vig perms 3000 pairs 56326 pass2 5 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 1 q2 beau perms 3000 pairs 56326 pass2 5 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 1 q3 vig perms 3000 pairs 56326 pass2 15 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 1 q3 beau perms 3000 pairs 56326 pass2 15 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 2 q1 vig perms 3000 pairs 56326 pass2 76 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 2 q1 beau perms 3000 pairs 56326 pass2 76 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 2 q2 vig perms 3000 pairs 56326 pass2 45 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 2 q2 beau perms 3000 pairs 56326 pass2 45 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 2 q3 vig perms 3000 pairs 56326 pass2 76 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 2 q3 beau perms 3000 pairs 56326 pass2 76 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q1 vig perms 3000 pairs 56326 pass2 238 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q1 beau perms 3000 pairs 56326 pass2 238 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q2 vig perms 3000 pairs 56326 pass2 166 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q2 beau perms 3000 pairs 56326 pass2 166 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q3 vig perms 3000 pairs 56326 pass2 347 fits 1
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 3 q3 beau perms 3000 pairs 56326 pass2 347 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q1 vig perms 3000 pairs 56326 pass2 1022 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q1 beau perms 3000 pairs 56326 pass2 1022 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q2 vig perms 3000 pairs 56326 pass2 1022 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q2 beau perms 3000 pairs 56326 pass2 1022 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q3 vig perms 3000 pairs 56326 pass2 1237 fits 1
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 4 q3 beau perms 3000 pairs 56326 pass2 1237 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q1 vig perms 3000 pairs 56326 pass2 4616 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q1 beau perms 3000 pairs 56326 pass2 4616 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q2 vig perms 3000 pairs 56326 pass2 4664 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q2 beau perms 3000 pairs 56326 pass2 4664 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q3 vig perms 3000 pairs 56326 pass2 4544 fits 1
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 5 q3 beau perms 3000 pairs 56326 pass2 4544 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q1 vig perms 3000 pairs 56326 pass2 18046 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q1 beau perms 3000 pairs 56326 pass2 18046 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q2 vig perms 3000 pairs 56326 pass2 17361 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q2 beau perms 3000 pairs 56326 pass2 17361 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q3 vig perms 3000 pairs 56326 pass2 18262 fits 1
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 6 q3 beau perms 3000 pairs 56326 pass2 18262 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q1 vig perms 3000 pairs 56326 pass2 70046 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q1 beau perms 3000 pairs 56326 pass2 70046 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q2 vig perms 3000 pairs 56326 pass2 71599 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q2 beau perms 3000 pairs 56326 pass2 71599 fits 0
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q3 vig perms 3000 pairs 56326 pass2 72518 fits 1
+H P1_ix0_L3_q3_vig_SHADOW-Z 0 7 q3 beau perms 3000 pairs 56326 pass2 72518 fits 0
+O P1_ix0_L3_q3_vig_SHADOW-Z overflow 0
+END P1_ix0_L3_q3_vig_SHADOW-Z 92582 95582
+M P2_ix0_L5_q1_beau_BERLIN-K 0 5 q1 beau 11791 BERLIN/K - n2 1 n13 1 S2 1,0,0,1,1,1 S13 6,8,1,0,10,10
+M P2_ix0_L5_q1_beau_BERLIN-K 0 6 q1 beau 11791 BERLIN/K - n2 2 n13 13 S2 0,1,0,1,0,1,0 1,0,0,1,1,0,1 S13 7,2,6,12,10,3,0 3,0,12,3,10,4,1 12,11,5,7,10,5,2 8,9,11,11,10,6,3 4,7,4,2,10,7,4 0,5,10,6,10,8,5 9,3,3,10,10,9,6 5,1,9,1,10,10,7 1,12,2,5,10,11,8 10,10,8,9,10,12,9 6,8,1,0,10,0,10 2,6,7,4,10,1,11 11,4,0,8,10,2,12
+M P2_ix0_L5_q1_beau_BERLIN-K 0 7 q1 beau 11791 BERLIN/K - n2 4 n13 169 S2 0,1,0,1,0,1,0,0 1,1,1,1,1,1,1,0 1,0,0,1,1,0,0,1 0,0,1,1,0,0,1,1 S13 7,2,6,12,10,3,0,0 11,0,11,1,1,2,1,0 2,11,3,3,5,1,2,0 6,9,8,5,9,0,3,0 10,7,0,7,0,12,4,0 1,5,5,9,4,11,5,0 5,3,10,11,8,10,6,0 9,1,2,0,12,9,7,0 0,12,7,2,3,8,8,0 4,10,12,4,7,7,9,0 8,8,4,6,11,6,10,0 12,6,9,8,2,5,11,0 3,4,1,10,6,4,12,0 3,0,12,3,10,4,0,1 7,11,4,5,1,3,1,1 11,9,9,7,5,2,2,1 2,7,1,9,9,1,3,1 6,5,6,11,0,0,4,1 10,3,11,0,4,12,5,1 1,1,3,2,8,11,6,1 5,12,8,4,12,10,7,1 9,10,0,6,3,9,8,1 0,8,5,8,7,8,9,1 4,6,10,10,11,7,10,1 8,4,2,12,2,6,11,1 12,2,7,1,6,5,12,1 12,11,5,7,10,5,0,2 3,9,10,9,1,4,1,2 7,7,2,11,5,3,2,2 11,5,7,0,9,2,3,2 2,3,12,2,0,1,4,2 6,1,4,4,4,0,5,2
+H P2_ix0_L5_q1_beau_BERLIN-K 0 1 q1 vig perms 3000 pairs 56326 pass2 20 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 1 q1 beau perms 3000 pairs 56326 pass2 20 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 1 q2 vig perms 3000 pairs 56326 pass2 85 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 1 q2 beau perms 3000 pairs 56326 pass2 85 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 1 q3 vig perms 3000 pairs 56326 pass2 30 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 1 q3 beau perms 3000 pairs 56326 pass2 30 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 2 q1 vig perms 3000 pairs 56326 pass2 75 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 2 q1 beau perms 3000 pairs 56326 pass2 75 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 2 q2 vig perms 3000 pairs 56326 pass2 177 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 2 q2 beau perms 3000 pairs 56326 pass2 177 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 2 q3 vig perms 3000 pairs 56326 pass2 77 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 2 q3 beau perms 3000 pairs 56326 pass2 77 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 3 q1 vig perms 3000 pairs 56326 pass2 211 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 3 q1 beau perms 3000 pairs 56326 pass2 211 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 3 q2 vig perms 3000 pairs 56326 pass2 348 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 3 q2 beau perms 3000 pairs 56326 pass2 348 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 3 q3 vig perms 3000 pairs 56326 pass2 297 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 3 q3 beau perms 3000 pairs 56326 pass2 297 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 4 q1 vig perms 3000 pairs 56326 pass2 1200 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 4 q1 beau perms 3000 pairs 56326 pass2 1200 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 4 q2 vig perms 3000 pairs 56326 pass2 1556 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 4 q2 beau perms 3000 pairs 56326 pass2 1556 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 4 q3 vig perms 3000 pairs 56326 pass2 1148 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 4 q3 beau perms 3000 pairs 56326 pass2 1148 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 5 q1 vig perms 3000 pairs 56326 pass2 4188 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 5 q1 beau perms 3000 pairs 56326 pass2 4188 fits 1
+H P2_ix0_L5_q1_beau_BERLIN-K 0 5 q2 vig perms 3000 pairs 56326 pass2 5338 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 5 q2 beau perms 3000 pairs 56326 pass2 5338 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 5 q3 vig perms 3000 pairs 56326 pass2 4421 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 5 q3 beau perms 3000 pairs 56326 pass2 4421 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 6 q1 vig perms 3000 pairs 56326 pass2 18365 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 6 q1 beau perms 3000 pairs 56326 pass2 18365 fits 1
+H P2_ix0_L5_q1_beau_BERLIN-K 0 6 q2 vig perms 3000 pairs 56326 pass2 19558 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 6 q2 beau perms 3000 pairs 56326 pass2 19558 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 6 q3 vig perms 3000 pairs 56326 pass2 17844 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 6 q3 beau perms 3000 pairs 56326 pass2 17844 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 7 q1 vig perms 3000 pairs 56326 pass2 71622 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 7 q1 beau perms 3000 pairs 56326 pass2 71622 fits 1
+H P2_ix0_L5_q1_beau_BERLIN-K 0 7 q2 vig perms 3000 pairs 56326 pass2 76104 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 7 q2 beau perms 3000 pairs 56326 pass2 76104 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 7 q3 vig perms 3000 pairs 56326 pass2 72170 fits 0
+H P2_ix0_L5_q1_beau_BERLIN-K 0 7 q3 beau perms 3000 pairs 56326 pass2 72170 fits 0
+O P2_ix0_L5_q1_beau_BERLIN-K overflow 0
+END P2_ix0_L5_q1_beau_BERLIN-K 10291 13291
+M P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q2 vig 6725 ABSCISSA/Z - n2 2 n13 1 S2 1,1,0,0,0,0,1,0 0,1,1,1,1,1,0,1 S13 11,11,3,6,0,5,11,2
+M P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q2 vig 6725 BASIS/Z - n2 2 n13 1 S2 1,1,0,0,0,0,1,0 0,1,1,1,1,1,0,1 S13 11,11,3,6,0,5,11,2
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 1 q1 vig perms 3000 pairs 56326 pass2 49 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 1 q1 beau perms 3000 pairs 56326 pass2 49 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 1 q2 vig perms 3000 pairs 56326 pass2 3 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 1 q2 beau perms 3000 pairs 56326 pass2 3 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 1 q3 vig perms 3000 pairs 56326 pass2 25 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 1 q3 beau perms 3000 pairs 56326 pass2 25 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 2 q1 vig perms 3000 pairs 56326 pass2 106 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 2 q1 beau perms 3000 pairs 56326 pass2 106 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 2 q2 vig perms 3000 pairs 56326 pass2 227 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 2 q2 beau perms 3000 pairs 56326 pass2 227 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 2 q3 vig perms 3000 pairs 56326 pass2 68 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 2 q3 beau perms 3000 pairs 56326 pass2 68 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 3 q1 vig perms 3000 pairs 56326 pass2 424 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 3 q1 beau perms 3000 pairs 56326 pass2 424 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 3 q2 vig perms 3000 pairs 56326 pass2 365 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 3 q2 beau perms 3000 pairs 56326 pass2 365 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 3 q3 vig perms 3000 pairs 56326 pass2 335 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 3 q3 beau perms 3000 pairs 56326 pass2 335 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 4 q1 vig perms 3000 pairs 56326 pass2 1437 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 4 q1 beau perms 3000 pairs 56326 pass2 1437 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 4 q2 vig perms 3000 pairs 56326 pass2 1193 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 4 q2 beau perms 3000 pairs 56326 pass2 1193 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 4 q3 vig perms 3000 pairs 56326 pass2 1121 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 4 q3 beau perms 3000 pairs 56326 pass2 1121 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 5 q1 vig perms 3000 pairs 56326 pass2 4507 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 5 q1 beau perms 3000 pairs 56326 pass2 4507 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 5 q2 vig perms 3000 pairs 56326 pass2 4391 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 5 q2 beau perms 3000 pairs 56326 pass2 4391 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 5 q3 vig perms 3000 pairs 56326 pass2 4382 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 5 q3 beau perms 3000 pairs 56326 pass2 4382 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 6 q1 vig perms 3000 pairs 56326 pass2 18159 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 6 q1 beau perms 3000 pairs 56326 pass2 18159 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 6 q2 vig perms 3000 pairs 56326 pass2 17964 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 6 q2 beau perms 3000 pairs 56326 pass2 17964 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 6 q3 vig perms 3000 pairs 56326 pass2 17863 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 6 q3 beau perms 3000 pairs 56326 pass2 17863 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q1 vig perms 3000 pairs 56326 pass2 75057 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q1 beau perms 3000 pairs 56326 pass2 75057 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q2 vig perms 3000 pairs 56326 pass2 73811 fits 2
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q2 beau perms 3000 pairs 56326 pass2 73811 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q3 vig perms 3000 pairs 56326 pass2 72781 fits 0
+H P3_ix0_L7_q2_vig_ABSCISSA-Z 0 7 q3 beau perms 3000 pairs 56326 pass2 72781 fits 0
+O P3_ix0_L7_q2_vig_ABSCISSA-Z overflow 0
+END P3_ix0_L7_q2_vig_ABSCISSA-Z 5225 8225
+M P4_ix0_L2_q3_beau_SHADOW-K 0 2 q3 beau 15371 SHADOW/K - n2 4 n13 1 S2 0,0,0 1,0,0 0,1,0 1,1,0 S13 7,12,2
+M P4_ix0_L2_q3_beau_SHADOW-K 0 3 q3 beau 15371 SHADOW/K - n2 8 n13 13 S2 0,0,0,0 1,0,0,0 0,1,0,0 1,1,0,0 0,0,1,0 1,0,1,0 0,1,1,0 1,1,1,0 S13 8,5,1,0 1,2,7,1 7,12,0,2 0,9,6,3 6,6,12,4 12,3,5,5 5,0,11,6 11,10,4,7 4,7,10,8 10,4,3,9 3,1,9,10 9,11,2,11 2,8,8,12
+M P4_ix0_L2_q3_beau_SHADOW-K 0 4 q3 beau 15371 SHADOW/K - n2 16 n13 169 S2 0,0,0,0,0 1,0,0,0,0 0,1,0,0,0 1,1,0,0,0 0,0,1,0,0 1,0,1,0,0 0,1,1,0,0 1,1,1,0,0 0,0,0,1,0 1,0,0,1,0 0,1,0,1,0 1,1,0,1,0 0,0,1,1,0 1,0,1,1,0 0,1,1,1,0 1,1,1,1,0 S13 8,5,1,0,0 7,0,6,1,0 6,8,11,2,0 5,3,3,3,0 4,11,8,4,0 3,6,0,5,0 2,1,5,6,0 1,9,10,7,0 0,4,2,8,0 12,12,7,9,0 11,7,12,10,0 10,2,4,11,0 9,10,9,12,0 1,2,7,0,1 0,10,12,1,1 12,5,4,2,1 11,0,9,3,1 10,8,1,4,1 9,3,6,5,1 8,11,11,6,1 7,6,3,7,1 6,1,8,8,1 5,9,0,9,1 4,4,5,10,1 3,12,10,11,1 2,7,2,12,1 7,12,0,0,2 6,7,5,1,2 5,2,10,2,2 4,10,2,3,2 3,5,7,4,2 2,0,12,5,2
+M P4_ix0_L2_q3_beau_SHADOW-K 0 5 q3 beau 15371 SHADOW/K - n2 32 n13 2197 S2 0,0,0,0,0,0 1,0,0,0,0,0 0,1,0,0,0,0 1,1,0,0,0,0 0,0,1,0,0,0 1,0,1,0,0,0 0,1,1,0,0,0 1,1,1,0,0,0 0,0,0,1,0,0 1,0,0,1,0,0 0,1,0,1,0,0 1,1,0,1,0,0 0,0,1,1,0,0 1,0,1,1,0,0 0,1,1,1,0,0 1,1,1,1,0,0 0,0,0,0,1,0 1,0,0,0,1,0 0,1,0,0,1,0 1,1,0,0,1,0 0,0,1,0,1,0 1,0,1,0,1,0 0,1,1,0,1,0 1,1,1,0,1,0 0,0,0,1,1,0 1,0,0,1,1,0 0,1,0,1,1,0 1,1,0,1,1,0 0,0,1,1,1,0 1,0,1,1,1,0 0,1,1,1,1,0 1,1,1,1,1,0 S13 8,5,1,0,0,0 7,0,6,1,0,0 6,8,11,2,0,0 5,3,3,3,0,0 4,11,8,4,0,0 3,6,0,5,0,0 2,1,5,6,0,0 1,9,10,7,0,0 0,4,2,8,0,0 12,12,7,9,0,0 11,7,12,10,0,0 10,2,4,11,0,0 9,10,9,12,0,0 0,3,10,0,1,0 12,11,2,1,1,0 11,6,7,2,1,0 10,1,12,3,1,0 9,9,4,4,1,0 8,4,9,5,1,0 7,12,1,6,1,0 6,7,6,7,1,0 5,2,11,8,1,0 4,10,3,9,1,0 3,5,8,10,1,0 2,0,0,11,1,0 1,8,5,12,1,0 5,1,6,0,2,0 4,9,11,1,2,0 3,4,3,2,2,0 2,12,8,3,2,0 1,7,0,4,2,0 0,2,5,5,2,0
+M P4_ix0_L2_q3_beau_SHADOW-K 0 6 q3 beau 15371 SHADOW/K - n2 64 n13 28561 S2 0,0,0,0,0,0,0 1,0,0,0,0,0,0 0,1,0,0,0,0,0 1,1,0,0,0,0,0 0,0,1,0,0,0,0 1,0,1,0,0,0,0 0,1,1,0,0,0,0 1,1,1,0,0,0,0 0,0,0,1,0,0,0 1,0,0,1,0,0,0 0,1,0,1,0,0,0 1,1,0,1,0,0,0 0,0,1,1,0,0,0 1,0,1,1,0,0,0 0,1,1,1,0,0,0 1,1,1,1,0,0,0 0,0,0,0,1,0,0 1,0,0,0,1,0,0 0,1,0,0,1,0,0 1,1,0,0,1,0,0 0,0,1,0,1,0,0 1,0,1,0,1,0,0 0,1,1,0,1,0,0 1,1,1,0,1,0,0 0,0,0,1,1,0,0 1,0,0,1,1,0,0 0,1,0,1,1,0,0 1,1,0,1,1,0,0 0,0,1,1,1,0,0 1,0,1,1,1,0,0 0,1,1,1,1,0,0 1,1,1,1,1,0,0 S13 8,5,1,0,0,0,0 7,0,6,1,0,0,0 6,8,11,2,0,0,0 5,3,3,3,0,0,0 4,11,8,4,0,0,0 3,6,0,5,0,0,0 2,1,5,6,0,0,0 1,9,10,7,0,0,0 0,4,2,8,0,0,0 12,12,7,9,0,0,0 11,7,12,10,0,0,0 10,2,4,11,0,0,0 9,10,9,12,0,0,0 0,3,10,0,1,0,0 12,11,2,1,1,0,0 11,6,7,2,1,0,0 10,1,12,3,1,0,0 9,9,4,4,1,0,0 8,4,9,5,1,0,0 7,12,1,6,1,0,0 6,7,6,7,1,0,0 5,2,11,8,1,0,0 4,10,3,9,1,0,0 3,5,8,10,1,0,0 2,0,0,11,1,0,0 1,8,5,12,1,0,0 5,1,6,0,2,0,0 4,9,11,1,2,0,0 3,4,3,2,2,0,0 2,12,8,3,2,0,0 1,7,0,4,2,0,0 0,2,5,5,2,0,0
+M P4_ix0_L2_q3_beau_SHADOW-K 0 7 q3 beau 15371 SHADOW/K - n2 128 n13 371293 S2 0,0,0,0,0,0,0,0 1,0,0,0,0,0,0,0 0,1,0,0,0,0,0,0 1,1,0,0,0,0,0,0 0,0,1,0,0,0,0,0 1,0,1,0,0,0,0,0 0,1,1,0,0,0,0,0 1,1,1,0,0,0,0,0 0,0,0,1,0,0,0,0 1,0,0,1,0,0,0,0 0,1,0,1,0,0,0,0 1,1,0,1,0,0,0,0 0,0,1,1,0,0,0,0 1,0,1,1,0,0,0,0 0,1,1,1,0,0,0,0 1,1,1,1,0,0,0,0 0,0,0,0,1,0,0,0 1,0,0,0,1,0,0,0 0,1,0,0,1,0,0,0 1,1,0,0,1,0,0,0 0,0,1,0,1,0,0,0 1,0,1,0,1,0,0,0 0,1,1,0,1,0,0,0 1,1,1,0,1,0,0,0 0,0,0,1,1,0,0,0 1,0,0,1,1,0,0,0 0,1,0,1,1,0,0,0 1,1,0,1,1,0,0,0 0,0,1,1,1,0,0,0 1,0,1,1,1,0,0,0 0,1,1,1,1,0,0,0 1,1,1,1,1,0,0,0 S13 8,5,1,0,0,0,0,0 7,0,6,1,0,0,0,0 6,8,11,2,0,0,0,0 5,3,3,3,0,0,0,0 4,11,8,4,0,0,0,0 3,6,0,5,0,0,0,0 2,1,5,6,0,0,0,0 1,9,10,7,0,0,0,0 0,4,2,8,0,0,0,0 12,12,7,9,0,0,0,0 11,7,12,10,0,0,0,0 10,2,4,11,0,0,0,0 9,10,9,12,0,0,0,0 0,3,10,0,1,0,0,0 12,11,2,1,1,0,0,0 11,6,7,2,1,0,0,0 10,1,12,3,1,0,0,0 9,9,4,4,1,0,0,0 8,4,9,5,1,0,0,0 7,12,1,6,1,0,0,0 6,7,6,7,1,0,0,0 5,2,11,8,1,0,0,0 4,10,3,9,1,0,0,0 3,5,8,10,1,0,0,0 2,0,0,11,1,0,0,0 1,8,5,12,1,0,0,0 5,1,6,0,2,0,0,0 4,9,11,1,2,0,0,0 3,4,3,2,2,0,0,0 2,12,8,3,2,0,0,0 1,7,0,4,2,0,0,0 0,2,5,5,2,0,0,0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 1 q1 vig perms 3000 pairs 56326 pass2 35 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 1 q1 beau perms 3000 pairs 56326 pass2 35 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 1 q2 vig perms 3000 pairs 56326 pass2 8 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 1 q2 beau perms 3000 pairs 56326 pass2 8 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 1 q3 vig perms 3000 pairs 56326 pass2 18 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 1 q3 beau perms 3000 pairs 56326 pass2 18 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 2 q1 vig perms 3000 pairs 56326 pass2 61 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 2 q1 beau perms 3000 pairs 56326 pass2 61 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 2 q2 vig perms 3000 pairs 56326 pass2 18 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 2 q2 beau perms 3000 pairs 56326 pass2 18 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 2 q3 vig perms 3000 pairs 56326 pass2 49 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 2 q3 beau perms 3000 pairs 56326 pass2 49 fits 1
+H P4_ix0_L2_q3_beau_SHADOW-K 0 3 q1 vig perms 3000 pairs 56326 pass2 270 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 3 q1 beau perms 3000 pairs 56326 pass2 270 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 3 q2 vig perms 3000 pairs 56326 pass2 258 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 3 q2 beau perms 3000 pairs 56326 pass2 258 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 3 q3 vig perms 3000 pairs 56326 pass2 263 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 3 q3 beau perms 3000 pairs 56326 pass2 263 fits 1
+H P4_ix0_L2_q3_beau_SHADOW-K 0 4 q1 vig perms 3000 pairs 56326 pass2 1334 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 4 q1 beau perms 3000 pairs 56326 pass2 1334 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 4 q2 vig perms 3000 pairs 56326 pass2 1158 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 4 q2 beau perms 3000 pairs 56326 pass2 1158 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 4 q3 vig perms 3000 pairs 56326 pass2 1111 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 4 q3 beau perms 3000 pairs 56326 pass2 1111 fits 1
+H P4_ix0_L2_q3_beau_SHADOW-K 0 5 q1 vig perms 3000 pairs 56326 pass2 4585 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 5 q1 beau perms 3000 pairs 56326 pass2 4585 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 5 q2 vig perms 3000 pairs 56326 pass2 4685 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 5 q2 beau perms 3000 pairs 56326 pass2 4685 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 5 q3 vig perms 3000 pairs 56326 pass2 4481 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 5 q3 beau perms 3000 pairs 56326 pass2 4481 fits 1
+H P4_ix0_L2_q3_beau_SHADOW-K 0 6 q1 vig perms 3000 pairs 56326 pass2 17208 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 6 q1 beau perms 3000 pairs 56326 pass2 17208 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 6 q2 vig perms 3000 pairs 56326 pass2 18100 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 6 q2 beau perms 3000 pairs 56326 pass2 18100 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 6 q3 vig perms 3000 pairs 56326 pass2 18025 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 6 q3 beau perms 3000 pairs 56326 pass2 18025 fits 1
+H P4_ix0_L2_q3_beau_SHADOW-K 0 7 q1 vig perms 3000 pairs 56326 pass2 72224 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 7 q1 beau perms 3000 pairs 56326 pass2 72224 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 7 q2 vig perms 3000 pairs 56326 pass2 73115 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 7 q2 beau perms 3000 pairs 56326 pass2 73115 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 7 q3 vig perms 3000 pairs 56326 pass2 72488 fits 0
+H P4_ix0_L2_q3_beau_SHADOW-K 0 7 q3 beau perms 3000 pairs 56326 pass2 72488 fits 1
+O P4_ix0_L2_q3_beau_SHADOW-K overflow 0
+END P4_ix0_L2_q3_beau_SHADOW-K 13871 16871
+M P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q3 vig 144983 PALIMPSEST/K - n2 2 n13 1 S2 0,0,1,0,1,0,0 1,0,1,1,1,1,0 S13 10,8,10,10,0,9,11
+M P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q3 vig 144983 PALIMPSEST/K - n2 4 n13 13 S2 0,0,1,0,1,0,0,0 1,0,1,1,1,1,0,0 0,1,1,0,0,0,1,0 1,1,1,1,0,1,1,0 S13 11,11,2,0,3,9,4,0 5,6,11,8,11,9,6,1 12,1,7,3,6,9,8,2 6,9,3,11,1,9,10,3 0,4,12,6,9,9,12,4 7,12,8,1,4,9,1,5 1,7,4,9,12,9,3,6 8,2,0,4,7,9,5,7 2,10,9,12,2,9,7,8 9,5,5,7,10,9,9,9 3,0,1,2,5,9,11,10 10,8,10,10,0,9,0,11 4,3,6,5,8,9,2,12
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 1 q1 vig perms 3000 pairs 56326 pass2 16 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 1 q1 beau perms 3000 pairs 56326 pass2 16 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 1 q2 vig perms 3000 pairs 56326 pass2 9 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 1 q2 beau perms 3000 pairs 56326 pass2 9 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 1 q3 vig perms 3000 pairs 56326 pass2 27 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 1 q3 beau perms 3000 pairs 56326 pass2 27 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 2 q1 vig perms 3000 pairs 56326 pass2 98 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 2 q1 beau perms 3000 pairs 56326 pass2 98 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 2 q2 vig perms 3000 pairs 56326 pass2 47 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 2 q2 beau perms 3000 pairs 56326 pass2 47 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 2 q3 vig perms 3000 pairs 56326 pass2 72 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 2 q3 beau perms 3000 pairs 56326 pass2 72 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 3 q1 vig perms 3000 pairs 56326 pass2 233 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 3 q1 beau perms 3000 pairs 56326 pass2 233 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 3 q2 vig perms 3000 pairs 56326 pass2 182 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 3 q2 beau perms 3000 pairs 56326 pass2 182 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 3 q3 vig perms 3000 pairs 56326 pass2 295 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 3 q3 beau perms 3000 pairs 56326 pass2 295 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 4 q1 vig perms 3000 pairs 56326 pass2 1132 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 4 q1 beau perms 3000 pairs 56326 pass2 1132 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 4 q2 vig perms 3000 pairs 56326 pass2 1295 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 4 q2 beau perms 3000 pairs 56326 pass2 1295 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 4 q3 vig perms 3000 pairs 56326 pass2 1191 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 4 q3 beau perms 3000 pairs 56326 pass2 1191 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 5 q1 vig perms 3000 pairs 56326 pass2 4659 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 5 q1 beau perms 3000 pairs 56326 pass2 4659 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 5 q2 vig perms 3000 pairs 56326 pass2 4917 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 5 q2 beau perms 3000 pairs 56326 pass2 4917 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 5 q3 vig perms 3000 pairs 56326 pass2 4531 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 5 q3 beau perms 3000 pairs 56326 pass2 4531 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q1 vig perms 3000 pairs 56326 pass2 18247 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q1 beau perms 3000 pairs 56326 pass2 18247 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q2 vig perms 3000 pairs 56326 pass2 18102 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q2 beau perms 3000 pairs 56326 pass2 18102 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q3 vig perms 3000 pairs 56326 pass2 18416 fits 1
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 6 q3 beau perms 3000 pairs 56326 pass2 18416 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q1 vig perms 3000 pairs 56326 pass2 69824 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q1 beau perms 3000 pairs 56326 pass2 69824 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q2 vig perms 3000 pairs 56326 pass2 71750 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q2 beau perms 3000 pairs 56326 pass2 71750 fits 0
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q3 vig perms 3000 pairs 56326 pass2 73075 fits 1
+H P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 0 7 q3 beau perms 3000 pairs 56326 pass2 73075 fits 0
+O P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit overflow 0
+END P5_ix0_L6_q3_vig_PALIMPSEST-K_nonunit 143483 146483
+M P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q3 vig 96828 COMPASS/Z - n2 3 n13c 1 S2 c1s1d0 c0s0d1 c0s1d1 S13 c4x6,6n0
+M P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q3 vig 96828 COMPASS/Z - n2 8 n13c 13 S2 c10s01d0 c10s11d0 c01s11d0 c00s00d1 c00s10d1 c00s01d1 c00s11d1 c11s11d1 S13 c0,3x6,4,4n0 c1,12x6,4,11n0 c2,8x6,4,5n0 c3,4x6,4,12n0 c4,0x0,4,6n1 c5,9x6,4,0n0 c6,5x6,4,7n0 c7,1x6,4,1n0 c8,10x6,4,8n0 c9,6x6,4,2n0 c10,2x6,4,9n0 c11,11x6,4,3n0 c12,7x6,4,10n0
+M P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q3 vig 96828 COMPASS/Z - n2 16 n13c 169 S2 c100s001d0 c100s101d0 c100s011d0 c010s011d0 c100s111d0 c010s111d0 c001s111d0 c111s111d0 c000s001d1 c000s101d1 c000s011d1 c110s011d1 c000s111d1 c110s111d1 c101s111d1 c011s111d1 S13 c0,0,12x6,4,9,9n0 c0,1,8x6,4,9,3n0 c0,2,4x6,4,9,10n0 c0,3,0x0,4,9,4n1 c0,4,9x6,4,9,11n0 c0,5,5x6,4,9,5n0 c0,6,1x6,4,9,12n0 c0,7,10x6,4,9,6n0 c0,8,6x6,4,9,0n0 c0,9,2x6,4,9,7n0 c0,10,11x6,4,9,1n0 c0,11,7x6,4,9,8n0 c0,12,3x6,4,9,2n0 c1,0,9x6,4,9,5n0 c1,1,5x6,4,9,12n0 c1,2,1x6,4,9,6n0 c1,3,10x6,4,9,0n0 c1,4,6x6,4,9,7n0 c1,5,2x6,4,9,1n0 c1,6,11x6,4,9,8n0 c1,7,7x6,4,9,2n0 c1,8,3x6,4,9,9n0 c1,9,12x6,4,9,3n0 c1,10,8x6,4,9,10n0 c1,11,4x6,4,9,4n0 c1,12,0x0,4,9,11n1 c2,0,6x6,4,9,1n0 c2,1,2x6,4,9,8n0 c2,2,11x6,4,9,2n0 c2,3,7x6,4,9,9n0 c2,4,3x6,4,9,3n0 c2,5,12x6,4,9,10n0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q1 vig perms 3000 pairs 56326 pass2 33 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q1 beau perms 3000 pairs 56326 pass2 33 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q2 vig perms 3000 pairs 56326 pass2 11 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q2 beau perms 3000 pairs 56326 pass2 11 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q3 vig perms 3000 pairs 56326 pass2 23 fits 1
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 1 q3 beau perms 3000 pairs 56326 pass2 23 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q1 vig perms 3000 pairs 56326 pass2 60 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q1 beau perms 3000 pairs 56326 pass2 60 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q2 vig perms 3000 pairs 56326 pass2 50 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q2 beau perms 3000 pairs 56326 pass2 50 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q3 vig perms 3000 pairs 56326 pass2 51 fits 1
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 2 q3 beau perms 3000 pairs 56326 pass2 51 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q1 vig perms 3000 pairs 56326 pass2 258 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q1 beau perms 3000 pairs 56326 pass2 258 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q2 vig perms 3000 pairs 56326 pass2 281 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q2 beau perms 3000 pairs 56326 pass2 281 fits 0
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q3 vig perms 3000 pairs 56326 pass2 192 fits 1
+H P6_ix1_L1_q3_vig_COMPASS-Z 1 3 q3 beau perms 3000 pairs 56326 pass2 192 fits 0
+END P6_ix1_L1_q3_vig_COMPASS-Z 95328 98328
+M P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q1 beau 130461 LODESTONE/K - n2 1 n13c 1 S2 c01s10d1 S13 c5,1x3,1,12n0
+M P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q1 beau 130461 LODESTONE/K - n2 3 n13c 13 S2 c111s100d0 c010s000d1 c010s100d1 S13 c0,0,5x3,1,7,7n0 c1,8,4x3,1,7,8n0 c2,3,3x3,1,7,9n0 c3,11,2x3,1,7,10n0 c4,6,1x3,1,7,11n0 c5,1,0x0,1,7,12n1 c6,9,12x3,1,7,0n0 c7,4,11x3,1,7,1n0 c8,12,10x3,1,7,2n0 c9,7,9x3,1,7,3n0 c10,2,8x3,1,7,4n0 c11,10,7x3,1,7,5n0 c12,5,6x3,1,7,6n0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 1 q1 vig perms 3000 pairs 56326 pass2 3 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 1 q1 beau perms 3000 pairs 56326 pass2 3 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 1 q2 vig perms 3000 pairs 56326 pass2 39 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 1 q2 beau perms 3000 pairs 56326 pass2 39 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 1 q3 vig perms 3000 pairs 56326 pass2 16 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 1 q3 beau perms 3000 pairs 56326 pass2 16 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q1 vig perms 3000 pairs 56326 pass2 165 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q1 beau perms 3000 pairs 56326 pass2 165 fits 1
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q2 vig perms 3000 pairs 56326 pass2 60 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q2 beau perms 3000 pairs 56326 pass2 60 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q3 vig perms 3000 pairs 56326 pass2 74 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 2 q3 beau perms 3000 pairs 56326 pass2 74 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q1 vig perms 3000 pairs 56326 pass2 412 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q1 beau perms 3000 pairs 56326 pass2 412 fits 1
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q2 vig perms 3000 pairs 56326 pass2 174 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q2 beau perms 3000 pairs 56326 pass2 174 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q3 vig perms 3000 pairs 56326 pass2 221 fits 0
+H P7_ix1_L2_q1_beau_LODESTONE-K 1 3 q3 beau perms 3000 pairs 56326 pass2 221 fits 0
+END P7_ix1_L2_q1_beau_LODESTONE-K 128961 131961
+M P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q2 vig 41344 MAGNETIC/Z - n2 8 n13c 1 S2 c010s001d0 c010s101d0 c111s101d0 c100s001d1 c100s101d1 c001s101d1 c100s011d1 c100s111d1 S13 c1,8,1x12,0,1,8n0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 1 q1 vig perms 3000 pairs 56326 pass2 2 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 1 q1 beau perms 3000 pairs 56326 pass2 2 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 1 q2 vig perms 3000 pairs 56326 pass2 7 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 1 q2 beau perms 3000 pairs 56326 pass2 7 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 1 q3 vig perms 3000 pairs 56326 pass2 7 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 1 q3 beau perms 3000 pairs 56326 pass2 7 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 2 q1 vig perms 3000 pairs 56326 pass2 48 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 2 q1 beau perms 3000 pairs 56326 pass2 48 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 2 q2 vig perms 3000 pairs 56326 pass2 43 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 2 q2 beau perms 3000 pairs 56326 pass2 43 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 2 q3 vig perms 3000 pairs 56326 pass2 44 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 2 q3 beau perms 3000 pairs 56326 pass2 44 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q1 vig perms 3000 pairs 56326 pass2 180 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q1 beau perms 3000 pairs 56326 pass2 180 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q2 vig perms 3000 pairs 56326 pass2 196 fits 1
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q2 beau perms 3000 pairs 56326 pass2 196 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q3 vig perms 3000 pairs 56326 pass2 189 fits 0
+H P8_ix1_L3_q2_vig_MAGNETIC-Z 1 3 q3 beau perms 3000 pairs 56326 pass2 189 fits 0
+END P8_ix1_L3_q2_vig_MAGNETIC-Z 39844 42844
+M P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q3 beau 63702 ABSCISSA/K - n2 3 n13c 1 S2 c0111s1100d0 c1010s0100d1 c1010s1100d1 S13 c11,0,3,2x10,3,0,4,2n0
+H P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q1 vig perms 3000 pairs 430 pass2 11 fits 0
+H P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q1 beau perms 3000 pairs 430 pass2 11 fits 0
+H P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q2 vig perms 3000 pairs 430 pass2 4 fits 0
+H P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q2 beau perms 3000 pairs 430 pass2 4 fits 0
+H P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q3 vig perms 3000 pairs 430 pass2 10 fits 0
+H P9_ix1_L4_q3_beau_ABSCISSA-K_themed 1 4 q3 beau perms 3000 pairs 430 pass2 10 fits 1
+END P9_ix1_L4_q3_beau_ABSCISSA-K_themed 62202 65202
