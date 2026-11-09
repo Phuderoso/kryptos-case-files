@@ -1,0 +1,12 @@
+# Cycle 179 inputs and timing (all times PT, UTC-7)
+946402ca9cd1fcb962c51a16a76fef09  support/all.bin
+3dd34d3cc56297bdd2b8a98d7125ea23  support/all_s8.bin
+9e49013cd4f0518426c18efc722966df  support/quadgrams.json
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+87b042718d56064c7456eb37b3638be3  nulls179.txt
+6f894e46f208f72b7d48c68e8a98acfa  lr179
+lr179 built: gcc -O3 -march=native -fopenmp lr179.c (gcc 14)
+smoke (reserved shuffle seed 9179 only): M0 L1-8 8 s; M1 L1-4 ~2 s; M1 L5 63 s; M0 L9 on all_s8 killed by its 300 s timeout (not run)
+controls rehearsal (run_controls179.sh): 39 s, ~08:55, BEFORE the pre-registration push
+pre-registration pushed: d9f8aa9, 73c91ec, 2c4054f (~08:59), before any K4/null run
+main run (K4 + 19 nulls, run_cycle179.sh): Mon Nov  9 08:59:12 MST 2026 -> Mon Nov  9 09:09:11 MST 2026 (10.0 min, 6 threads; slowed by the concurrent single-thread numpy recount)
