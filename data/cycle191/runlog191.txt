@@ -1,0 +1,51 @@
+# Cycle 191 run log (times PT, box clock)
+## I-180 probe (reserved shuffle seed 9191, all.bin[::2048] = 81 routes, timeout 60): cmp191 tab2 600 pairs 0.11 s; 64-pair direct chunk 0.16 s; 64-pair themed chunk on 81 routes 1.0 s
+## Meter check (I-193) before K4: 40 uniform random texts (seeds 19140-19179) x 81 probe routes, tab2
+band e=0: mean solutions 113380.050 vs E 1.136e+05, text-level z -0.12
+band e=1: mean solutions 2207.950 vs E 2161, text-level z +0.56
+band e=2: mean solutions 62.200 vs E 64.4, text-level z -0.90
+band e=3: mean solutions 1.900 vs E 2.465, text-level z -1.90
+band e=4: mean solutions 0.075 vs E 0.08603, text-level z -0.20
+band e=5: mean solutions 0.000 vs E 0.00325
+band e=6: mean solutions 0.000 vs E 0.000107
+band e=7: mean solutions 0.000 vs E 3.83e-06
+band e=8: mean solutions 0.000 vs E 1.2e-07
+band e=9: mean solutions 0.000 vs E 4.63e-09
+band e=10: mean solutions 0.000 vs E 1.29e-10
+band e=11: mean solutions 0.000 vs E 4.54e-12
+band e=12: mean solutions 0.000 vs E 1.47e-13
+band e=13: mean solutions 0.000 vs E 5.31e-15
+band e=14: mean solutions 0.000 vs E 1.58e-16
+band e=15: mean solutions 0.000 vs E 5.39e-18
+band e=16: mean solutions 0.000 vs E 1.43e-19
+band e=17: mean solutions 0.000 vs E 5.05e-21
+band e=18: mean solutions 0.000 vs E 1.03e-22
+band e=19: mean solutions 0.000 vs E 3.49e-24
+band e=20: mean solutions 0.000 vs E 1.61e-27
+## Planted controls (registered = rehearsal, before the pre-registration push)
+P1 AZ>KA_VV_7_11: PASS (hit 1; other low-E fits at row 0: [])
+P2 KA>AZ_BV_5_13: PASS (hit 1; other low-E fits at row 0: [])
+P3 AZ>KA_VB_8_12: PASS (hit 1; other low-E fits at row 2: ['AZ>KA VB C 8 24 5.69e-05', 'AZ>KA VB C 16 12 2.188e-06'])
+P4 KA>AZ_VB_6_19: PASS (hit 1; other low-E fits at row 0: [])
+P5 AZ>KA_VV_10_8: PASS (hit 1; other low-E fits at row 3: ['AZ>KA VV P 20 8 5.69e-05', 'AZ>KA VV C 10 8 3.237e-09', 'AZ>KA VV C 20 8 5.69e-05'])
+P6 KA>AZ_BV_7_11: PASS (hit 1; other low-E fits at row 1: ['KA>AZ BV P 7 11 3.237e-09'])
+P7 AZ>AZ_VV_3_25: PASS (hit 1; other low-E fits at row 3: ['AZ>AZ BB C 3 25 8.417e-08', 'AZ>AZ VV C 25 3 8.417e-08', 'AZ>AZ BB C 25 3 8.417e-08'])
+P8 KA>KA_BB_4_9: PASS (hit 1; other low-E fits at row 30: ['AZ>KA VV P 2 18 8.417e-08', 'KA>KA VV P 2 18 8.417e-08', 'KA>KA BB P 2 18 8.417e-08', 'AZ>KA VV P 3 18 2.188e-06'])
+N1 three_passes: PASS (low-E fits at row: [])
+N2 random_key: PASS (low-E fits at row: [])
+N3 AZ>KA_VV_7_11_one_wrong_letter_slot2: PASS (low-E fits at row: [])
+controls 11/11
+## Registered run (run_cycle191.sh)
+start 15:54:02
+C1 done 99 s
+grid done 104 s
+C3 done 129 s
+C2t done 139 s
+recount k4 identical 47711
+recount P1 identical 47756
+recount P2 identical 47476
+recount P7 identical 47778
+recount n19111 identical 47870
+recount done 168 s
+C2v done 203 s
+## Post-run aggregation (agg191.c, I/O only): C3 9 files 9 END; C2t 322 files 322 END; C2v 1177 files 1177 END; raw C2 outputs (19 GB of H lines) deleted after aggregation

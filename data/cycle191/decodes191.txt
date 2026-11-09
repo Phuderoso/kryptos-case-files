@@ -1,0 +1,16 @@
+config row 81496 C BB m 13 n 6: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=YKAMWNHRVKZSI b=PMSNLK PT=tclftejsaynbixlbtdspeEASTNORTHEASTthclntanqwkidtqtqppafvhulbuzmBERLINCLOCKiojbupivsfiravixldshqnc  known 97/97
+config row 116792 C BV m 17 n 3: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=SAYPDIOYLLWQXMJGZ b=MER PT=augbrfebqaljbjtlzygahEASTNORTHEASTelulqpmsfvhqmmbqkgpwesgoovkzsBERLINCLOCKpalnuvmpkmnsewcdqpdiqqe  known 97/97
+config row 31182 P BB m 2 n 18: components 2 cyclic 2 (solutions per cyclic component [1, 1]); tree components 0 left free
+a=QS b=UD?NKHMWILXMLGAISS PT=oa?cjofiwswftqqaghfp?EASTNORTHEASTykgi?nktuoqvdksqrwocxp?aylftsBERLINCLOCK?fisdimqthvrepogsf?mtwv  known 91/97
+config row 44016 P BV m 2 n 17: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=EE b=TBRPFXGTOLMJDHGWK PT=ckppnmoggddqiukdllkkiEASTNORTHEASThetcajajbmplfaplwclqrjxxmjfxbBERLINCLOCKluscgcpjttvjspihemlhken  known 97/97
+config row 134787 P BV m 16 n 3: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=XQTOCYSHDKEQTPVG b=XJY PT=ftngazaumaudlgketxqeiEASTNORTHEASTsdbevfubdpvopqusbbgnolkqkqkhpBERLINCLOCKogeswbuoarvuwunnvvcokua  known 97/97
+config row 231 C BV m 16 n 3: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=YOWUDJLLWGNTFGNM b=LNG PT=bnpxfzjeqibwdqqeqktjgEASTNORTHEASTrgcddcrkjscmzpubkpqamterdrhpjBERLINCLOCKetkpnxvujxpzfwitcqtsyhm  known 97/97
+config row 316 P VB m 17 n 2: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=QABEQWGDZRDDILMBS b=GP PT=boffhwoqkqfngeervsvkeEASTNORTHEASTghmhyaaujpxlqkjbagqgrpkmuaxytBERLINCLOCKopraxzomdfhmsvtrthdpnso  known 97/97
+config row 0 P VV m 13 n 7: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=EOHHOQWIOFBDF b=ECRDESM PT=nublzezsfwiikgjvsbbloEASTNORTHEASTnmfmjkvijgsundccfajouonmospfrBERLINCLOCKojwhxhewwtgzjggkjipbggt  known 97/97
