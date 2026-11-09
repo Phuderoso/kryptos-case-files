@@ -1,0 +1,67 @@
+# Independent check (tools/cycle154/check.py, pure Python, no shared code)
+## Part A: controls
+ctl1 n=2 k=9 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl2 n=3 k=4 clean strict_lines=2 best_wrong=0 decided=93 via=S drop=-1 -> PASS
+ctl3 n=2 k=13 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl4 n=3 k=7 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl5 n=4 k=3 clean strict_lines=2 best_wrong=0 decided=92 via=S drop=-1 -> PASS
+ctl6 n=2 k=19 clean strict_lines=2 best_wrong=0 decided=74 via=S drop=-1 -> PASS
+ctl7 n=3 k=5 error-control strict_lines=0 best_wrong=0 decided=90 via=X drop=26 -> PASS
+ctl8 n=2 k=11 error-control strict_lines=0 best_wrong=0 decided=94 via=X drop=65 -> PASS
+ctl9 n=4 k=5 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+ctl10 n=3 k=8 clean strict_lines=2 best_wrong=0 decided=96 via=S drop=-1 -> PASS
+controls passed 10/10
+## Part B: per-configuration, per-field solution counts by brute force over all invertible D + Gauss for f, vs hillcs VERB lines
+DK4 n=2 k=1 fields=[2, 13] AGREE
+DK4 n=2 k=11 fields=[2, 13] AGREE
+DK4 n=2 k=13 fields=[2, 13] AGREE
+DK4 n=2 k=3 fields=[2, 13] AGREE
+DK4 n=2 k=5 fields=[2, 13] AGREE
+DK4 n=2 k=9 fields=[2, 13] AGREE
+DK4 n=3 k=1 fields=[2] AGREE
+DK4 n=3 k=2 fields=[2] AGREE
+DK4 n=3 k=3 fields=[2] AGREE
+DK4 n=3 k=4 fields=[2] AGREE
+DK4 n=3 k=5 fields=[2] AGREE
+DK4 n=3 k=6 fields=[2] AGREE
+DK4 n=3 k=7 fields=[2] AGREE
+DK4 n=3 k=8 fields=[2] AGREE
+DK4 n=3 k=9 fields=[2] AGREE
+DK4 n=4 k=3 fields=[2] AGREE
+DK4 n=4 k=5 fields=[2] AGREE
+Dnull1 n=2 k=1 fields=[2, 13] AGREE
+Dnull1 n=2 k=11 fields=[2, 13] AGREE
+Dnull1 n=2 k=13 fields=[2, 13] AGREE
+Dnull1 n=2 k=3 fields=[2, 13] AGREE
+Dnull1 n=2 k=5 fields=[2, 13] AGREE
+Dnull1 n=2 k=9 fields=[2, 13] AGREE
+Dnull1 n=3 k=1 fields=[2] AGREE
+Dnull1 n=3 k=2 fields=[2] AGREE
+Dnull1 n=3 k=3 fields=[2] AGREE
+Dnull1 n=3 k=4 fields=[2] AGREE
+Dnull1 n=3 k=5 fields=[2] AGREE
+Dnull1 n=3 k=6 fields=[2] AGREE
+Dnull1 n=3 k=7 fields=[2] AGREE
+Dnull1 n=3 k=8 fields=[2] AGREE
+Dnull1 n=3 k=9 fields=[2] AGREE
+Dnull1 n=4 k=3 fields=[2] AGREE
+Dnull1 n=4 k=5 fields=[2] AGREE
+Dnull2 n=2 k=1 fields=[2, 13] AGREE
+Dnull2 n=2 k=11 fields=[2, 13] AGREE
+Dnull2 n=2 k=13 fields=[2, 13] AGREE
+Dnull2 n=2 k=3 fields=[2, 13] AGREE
+Dnull2 n=2 k=5 fields=[2, 13] AGREE
+Dnull2 n=2 k=9 fields=[2, 13] AGREE
+Dnull2 n=3 k=1 fields=[2] AGREE
+Dnull2 n=3 k=2 fields=[2] AGREE
+Dnull2 n=3 k=3 fields=[2] AGREE
+Dnull2 n=3 k=4 fields=[2] AGREE
+Dnull2 n=3 k=5 fields=[2] AGREE
+Dnull2 n=3 k=6 fields=[2] AGREE
+Dnull2 n=3 k=7 fields=[2] AGREE
+Dnull2 n=3 k=8 fields=[2] AGREE
+Dnull2 n=3 k=9 fields=[2] AGREE
+Dnull2 n=4 k=3 fields=[2] AGREE
+Dnull2 n=4 k=5 fields=[2] AGREE
+per-config comparisons: 354 same, 0 different (216 nonzero)
+## Mode cross-check: MODE=0 (auto) and MODE=4 (recursive) agree on bank entries 0-299 n3 k7, 0-99 n4 k5, and on all 10 controls
