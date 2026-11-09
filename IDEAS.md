@@ -28,7 +28,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-009 | Two-letter differences anchored to the archive charts | P2 | blocked (needs archive data, see I-002) |
 | I-010 | Quagmire IV with two different vocabulary alphabets | P2 | queued |
 | I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P1 | tested — EXACT-EXCL (CT feed, n ≥ 12) / LOW-POWER (PT feed, long lags) ([case 140](case-file/140-free-form-zigzag-autokey.md)) |
-| I-012 | Hill with a key on the ciphertext side (`p = D·(c − f)`, non-linear) | P2 | queued (new structure) |
+| I-012 | Hill with a key on the ciphertext side (`p = D·(c − f)`, non-linear) | P2 | tested — EXACT-EXCL (bank n 2 k ≤ 14, n 3 k ≤ 8; direct all tested, also one-error for short k) / NO-SIGNAL (rest) ([case 142](case-file/142-hill-then-ciphertext-side-key.md)) |
 | I-013 | Key change at a boundary keeping the width-7 phase | P2 | queued |
 | I-014 | CT-autokey with both alphabets free | P2 | queued |
 | I-015 | Quagmire I/II/IV autokey, themed × vocabulary alphabets, behind the bank | P2 | queued |
@@ -56,6 +56,9 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-045 | Language-scored PT-feed / long-lag zig-zag (the LOW-POWER part of I-011) | P3 | queued (needs I-029) |
 | I-046 | Decode the Hill one-error blind spots: Hill 5 behind the bank (LOW-POWER, count-only), n 4 k 4 undecoded sets, affine Hill n = 5 | P3 | queued (from cycle 153) |
 | I-047 | Syndrome block-drop + linear repair method for other strict linear families (Gromark I-008, periodic Quagmire with known alphabets, linear-recurrence keys) | P2 | queued (method from cycle 153) |
+| I-048 | Ciphertext-side-key Hill (I-012) under one error behind the bank (block-drop in `hillcs` on bank entries) | P3 | queued (from cycle 154) |
+| I-049 | Ciphertext-side-key Hill behind the bank at longer periods (n 2 k 15–20, n 3 k 10–12 full, n 4 k 5–7 full) | P3 | queued (cost; screen LOW-POWER from n 4 k 5) |
+| I-050 | Key on both sides of the Hill step (Vigenère → Hill → Vigenère, periods k₁, k₂ small) | P3 | queued (new structure, from cycle 154) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -132,7 +135,9 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ### I-012 — Hill with a key on the ciphertext side (`p = D·(c − f)`)
 - **Source:** [case 132](case-file/132-hill-plus-periodic-key.md) limits. `[speculation]`
-- **Test:** for short periods of f, enumerate f (26^k, k ≤ 3) and solve D linearly; exact. **Controls:** planted; nulls. **Cost:** 26^k × cycle-144 cost; k ≤ 2 cheap. **Status:** queued — candidate new structure.
+- **Test:** for short periods of f, enumerate f (26^k, k ≤ 3) and solve D linearly; exact. **Controls:** planted; nulls. **Cost:** 26^k × cycle-144 cost; k ≤ 2 cheap. **Status:** tested (cycle 154).
+- **Reconciliation (cycle 154 start):** `p = D·(c − f)` is the encryption order *Hill first, then a period-k Vigenère on the Hill output* (`c = E·p + f`), the reverse of case 132's order. Writing `D·f` per block shows it is a special case of case 132's linear model with key period lcm(n, k), so it is already excluded wherever lcm(n, k) fell inside case 132's ranges (n 2: k ≤ 14 even or k ≤ 7; n 3: k ∈ {1, 2, 3, 6, 9}; n 4: k ∈ {1, 2, 4}). The rest (e.g. n 2 k odd 9–13, n 3 k 4, 5, 7, 8, 10, n 4 k 3, 5–8, and every k beyond case 132's ranges) is genuinely untested; the exact test enumerates f (or D) per field mod 2 / mod 13 and solves the other side linearly.
+- **Result (cycle 154):** `tools/cycle154/hillcs.c` splits the bilinear system exactly mod 2 / mod 13 and in each field enumerates the cheaper side (f on the crib-touched residues, all invertible D, or D row by row with linear constraints on f) and solves the other exactly. Bank (165,065 entries × both directions × model Q/carved × A–Z/KRYPTOS × every alignment) n 2 k 1–14, n 3 k 1–9, n 4 k 1–3 full, n 3 k 10 (1/20), n 4 k 5–6 (1/10); direct n 2 k 1–24, n 3 k 1–15, n 4 k 1–8 strict and one-error (block drop); K4 + 2 full-scale nulls, 519 s + 55 s re-solve. **K4 0 consistent: bank n 2 k ≤ 14, n 3 k ≤ 8, n 4 k 1; direct every tested (n, k) → `EXACT-EXCL`**; direct under one wrong carved or crib letter K4 0 for n 2 k ≤ 23, n 3 k ≤ 10 and 12, n 4 k ≤ 4 → `EXACT-EXCL` (one-error). Bank n 3 k 9 K4 4 (= case 132, best −7.89, nulls 0/0), n 4 k 2–3 K4 4/46 vs nulls 0–6/42–64, samples and long direct periods: K4 inside null range, best −6.63 vs −6.68 → `NO-SIGNAL`; n 4 k ≥ 5 screen `LOW-POWER`. Controls 10/10 incl. one corrupted carved letter and one wrong crib letter (strict fails, one-error mode recovers with the right block); independent Python recount 354/354 identical. [Case 142](case-file/142-hill-then-ciphertext-side-key.md), [data](data/cycle154/), [tools](tools/cycle154/). Follow-ups: I-048–I-050.
 
 ### I-013 — Key change at a boundary keeping the width-7 phase
 - **Source:** coverage row 93 (cycle 104), journal cycle 145. `[repo]` **Test:** two periodic keys of period 7 (or dividing 7k) switching at any boundary, exact per segment. **Cost:** small. **Status:** queued.
@@ -204,6 +209,15 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 ### I-047 — Syndrome block-drop + linear repair for other strict linear families
 - **Source:** cycle 153 method. `[repo]` **Rationale:** for any family that is linear in its unknowns once the frame is fixed (Gromark / Periodic Gromark with known alphabet, linear-recurrence keys, periodic keys on known alphabets behind the bank), one reduction per configuration answers "consistent after dropping any one block / equation", and a one-letter repair is linear. Makes I-008 and parts of I-041 cheap. **Controls:** corrupted-letter plants. **Status:** queued.
 
+### I-048 — Ciphertext-side-key Hill under one error behind the bank
+- **Source:** cycle 154 blind spot ([case 142](case-file/142-hill-then-ciphertext-side-key.md)). `[repo]` **Test:** `hillcs DROP=1` on the bank for n 2 k ≤ 14, n 3 k ≤ 8 (block-drop superset; expect ~13× cost and more chance survivors). **Controls:** cycle 154 ctl7/ctl8 behind a bank entry. **Nulls:** 2 full-scale. **Cost:** ~1–2 h CPU; slice it. **Status:** queued.
+
+### I-049 — Ciphertext-side-key Hill behind the bank at longer periods
+- **Source:** cycle 154 scope limits. `[repo]` **Test:** full bank n 2 k 15–20, n 3 k 10–12, n 4 k 5–7 with `MODE=4`; expected LOW-POWER at n 4 k ≥ 5 (survivors already match nulls in the 1/10 sample). **Cost:** high (13^k growth on mod-2 survivors). **Status:** queued.
+
+### I-050 — Key on both sides of the Hill step
+- **Source:** cycle 154 (combining cases 132 and 142). `[speculation]` **Hypothesis:** Vigenère (period k₁) → Hill → Vigenère (period k₂). **Test:** enumerate the outer key f (small k₂) per field and run case 132's linear solve for (D, e); exact. **Controls:** planted; 2 nulls. **Cost:** 13^k₂ × cycle-144 cost; k₂ ≤ 3 direct first. **Status:** queued.
+
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
 
@@ -233,3 +247,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 152: I-011 in progress at start, then tested (EXACT-EXCL for CT feed n ≥ 12, one-error tolerant; LOW-POWER for PT feed / long lags). Added I-042–I-045 (45 items). Recommended next: cycle 153 variant/audit — I-040 (one-error Hill + key / Hill 5) or I-007 (columnar w 9–10 × periodic key, one crib error); then new family I-012 or I-044.
 - 2026-11-08, cycle 153 start: reconciled I-003 detail with its summary row (remaining I-007, I-008, I-040, I-041); I-040 marked in progress (Hill + key and Hill 5 under one carving error). Cycle 152 was a new family, so 153 is a variant/audit and 154 must be a new family.
 - 2026-11-08, cycle 153 end: I-040 tested (EXACT-EXCL n 2 / n 3 k ≤ 7; NO-SIGNAL exhaustive n 3 k 8–10, n 4, Hill 5 direct; LOW-POWER Hill 5 bank). Added I-046, I-047 (47 items). Recommended next: cycle 154 **new family** — I-012 (Hill with the key on the ciphertext side, `p = D·(c − f)`); alternatives I-044 or I-013. Next audit after that: I-008 via the I-047 method.
+- 2026-11-08, cycle 154 start: I-012 in progress (new structure: Hill then ciphertext-side periodic key). Reconciled against case 132 (lcm relaxation covers part of the space, see I-012). Cycle 153 was an audit, so 154 is the required new family.
+- 2026-11-08, cycle 154 end: I-012 tested (EXACT-EXCL bank n 2 k ≤ 14, n 3 k ≤ 8, direct all tested (n, k) and one-error for short k; NO-SIGNAL elsewhere; LOW-POWER screen at n 4 k ≥ 5). Added I-048–I-050 (50 items). Recommended next: cycle 155 variant/audit — I-008 (Gromark / Periodic Gromark under one crib error) via the I-047 method; then a new family (I-044, I-013 or I-050).
