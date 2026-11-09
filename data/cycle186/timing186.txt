@@ -1,0 +1,59 @@
+# Cycle 186 timing smoke (I-169), reserved shuffle seed 9186 only (random.Random(9186).shuffle(list(K4)), I-116), all_s64.bin (2,591 perms), 6 threads.
+# lrk186 method 1; f = A themed (144, plaintext side) x B vocabulary (18,776); r = A vocabulary x B themed. No K4 or registered-null run.
+# wall times: f L1 / L1-2 / L1-3 (first loop) 4.2 s together; f L1-3 3,905 ms; r L1-3 3,770 ms; f L1-4 284,373 ms; r L1-4 284,513 ms; total heavy ~581 s (9.7 min).
+## smf1
+H sm 1 1 q4f vig perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 1 q4f beau perms 2591 pairs 2703744 pass2 1988 fits 0
+O sm mismatch 0 passLmax 1988 method 1 safe 0
+END sm 0 2591
+## smf2
+H sm 1 1 q4f vig perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 1 q4f beau perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 2 q4f vig perms 2591 pairs 2703744 pass2 6318 fits 0
+H sm 1 2 q4f beau perms 2591 pairs 2703744 pass2 6318 fits 0
+O sm mismatch 0 passLmax 6318 method 1 safe 0
+END sm 0 2591
+## smf3
+H sm 1 1 q4f vig perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 1 q4f beau perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 2 q4f vig perms 2591 pairs 2703744 pass2 6318 fits 0
+H sm 1 2 q4f beau perms 2591 pairs 2703744 pass2 6318 fits 0
+H sm 1 3 q4f vig perms 2591 pairs 2703744 pass2 25152 fits 0
+H sm 1 3 q4f beau perms 2591 pairs 2703744 pass2 25152 fits 0
+O sm mismatch 0 passLmax 25152 method 1 safe 0
+END sm 0 2591
+## smf4
+H sm 1 1 q4f vig perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 1 q4f beau perms 2591 pairs 2703744 pass2 1988 fits 0
+H sm 1 2 q4f vig perms 2591 pairs 2703744 pass2 6318 fits 0
+H sm 1 2 q4f beau perms 2591 pairs 2703744 pass2 6318 fits 0
+H sm 1 3 q4f vig perms 2591 pairs 2703744 pass2 25152 fits 0
+H sm 1 3 q4f beau perms 2591 pairs 2703744 pass2 25152 fits 0
+H sm 1 4 q4f vig perms 2591 pairs 2703744 pass2 99942 fits 0
+H sm 1 4 q4f beau perms 2591 pairs 2703744 pass2 99942 fits 0
+O sm mismatch 0 passLmax 99942 method 1 safe 0
+END sm 0 2591
+## smr3
+H sm 1 1 q4r vig perms 2591 pairs 2703744 pass2 1916 fits 0
+H sm 1 1 q4r beau perms 2591 pairs 2703744 pass2 1916 fits 0
+H sm 1 2 q4r vig perms 2591 pairs 2703744 pass2 6728 fits 0
+H sm 1 2 q4r beau perms 2591 pairs 2703744 pass2 6728 fits 0
+H sm 1 3 q4r vig perms 2591 pairs 2703744 pass2 24565 fits 0
+H sm 1 3 q4r beau perms 2591 pairs 2703744 pass2 24565 fits 0
+O sm mismatch 0 passLmax 24565 method 1 safe 0
+END sm 0 2591
+## smr4
+H sm 1 1 q4r vig perms 2591 pairs 2703744 pass2 1916 fits 0
+H sm 1 1 q4r beau perms 2591 pairs 2703744 pass2 1916 fits 0
+H sm 1 2 q4r vig perms 2591 pairs 2703744 pass2 6728 fits 0
+H sm 1 2 q4r beau perms 2591 pairs 2703744 pass2 6728 fits 0
+H sm 1 3 q4r vig perms 2591 pairs 2703744 pass2 24565 fits 0
+H sm 1 3 q4r beau perms 2591 pairs 2703744 pass2 24565 fits 0
+H sm 1 4 q4r vig perms 2591 pairs 2703744 pass2 98851 fits 0
+H sm 1 4 q4r beau perms 2591 pairs 2703744 pass2 98851 fits 0
+O sm mismatch 0 passLmax 98851 method 1 safe 0
+END sm 0 2591
+## md5
+4f41a2430eb93059ee83e19cad347dfe  run/lrk186
+922eaf1c1a51ebfe8dc326fdee2aca5e  run/lrk186safe
+c1311782b5cc73ac8a18b78f100d67a5  run/smoke9186ct.txt
