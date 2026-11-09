@@ -1,0 +1,7 @@
+inputs (md5):
+946402ca9cd1fcb962c51a16a76fef09  all.bin
+94dec0e26bd4de819c035ec5b6b293b5  bank.bin
+9e96b52489a10109498591639942fa8c  alpha.bin
+e869a429b0a17a81cd3b59191ac14db6  texts.txt
+9e49013cd4f0518426c18efc722966df  quadgrams.json
+all.bin = /workspace/k4c168/run/all.bin (cycle 168 generator, 165,782 decimations+routes); bank.bin = kryptos_support_backup/perms97.bin (165,065-perm bank, cycles 34-36); texts.txt = cycle 168 texts (36: 24 carved texts cyclic + Carter vol I, Smith 1923, KJV John, KJV NT, Reagan 1987, NSA 1947, each fwd+rev)
