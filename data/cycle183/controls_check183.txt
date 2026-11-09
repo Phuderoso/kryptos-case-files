@@ -1,0 +1,25 @@
+P1_f_L1_vig_KA_x_SHADOW-Z_err25: fits_at_q 6 (other dir 12) slots [4] want 4 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -3.907 c=[20] d=19 slot=25 V=5 ?????????????????????EASTTORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P2_f_L3_beau_PALIMPSEST-K_x_BERLIN-Z_err66: fits_at_q 3 (other dir 3) slots [16] want 16 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -3.907 c=[8, 24, 4] d=5 slot=66 V=-2 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERJINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P3_f_L5_vig_IQLUSION-Z_x_LODESTONE-K_err21seed: fits_at_q 2 (other dir 2) slots [0] want 0 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -3.907 c=[9, 13, 11, 20, 2] d=14 slot=21 V=19 ?????????????????????MASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P4_f_L4_beau_ABSCISSA-Z_x_COMPASS-K_nonunit_err33: fits_at_q 6 (other dir 3) slots [12] want 12 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -3.907 c=[8, 2, 8, 10] d=2 slot=33 V=18 ?????????????????????EASTNORTHEASXOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P5_f_L2_vig_SHADOW-K_x_LODESTONE-K_strict: fits_at_q 4 (other dir 4) slots [-1] want -1 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -4.204 c=[3, 25] d=5 slot=-1 V=-1 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P6_f_L1_vig_BERLINCLOCK-K_x_MAGNETIC-Z_progressive_err73: fits_at_q 5 (other dir 5) slots [23] want 23 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -4.204 c=[1] d=3 slot=73 V=-2 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCSSTRUCKTHEHOURATMIDNIGHT
+P7_r_L2_beau_MAGNETIC-Z_x_KA_err63: fits_at_q 4 (other dir 8) slots [13] want 13 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -3.907 c=[9, 2] d=4 slot=63 V=-2 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDYERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P8_r_L4_vig_LODESTONE-Z_x_UNDERGRUUND-K_err30: fits_at_q 2 (other dir 0) slots [9] want 9 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -4.204 c=[21, 22, 15, 11] d=5 slot=30 V=11 THEIRONDOORFACEDDUEXXEASTNORTHZASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P9_r_L5_beau_CARTER-Z_x_PALIMPSEST-K_err70: fits_at_q 1 (other dir 1) slots [20] want 20 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -3.907 c=[8, 25, 20, 17, 20] d=16 slot=70 V=-2 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCWOCKSTRUCKTHEHOURATMIDNIGHT
+P10_r_L1_vig_AZ_x_KA_err22: fits_at_q 22 (other dir 5) slots [1] want 1 planted_params_listed True decode_matches_plant True safe_same True -> PASS
+   decode score -4.204 c=[1] d=21 slot=22 V=19 THEIRONDOORFACEDDUEXXEVSTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+N1_f_L3_two_errors_66_70: NEG fits_at_q f 0 r 0 safe_same True -> PASS
+N2_f_random_key: NEG fits_at_q f 0 r 0 safe_same True -> PASS
+N3_pair_outside_scope_TOMB-Z_x_SLOWLY-Z_L3_err28: NEG fits_at_q f 0 r 0 safe_same True -> PASS
+N4_r_order6_err68_outside_L_range: NEG fits_at_q f 0 r 0 safe_same True -> PASS
+controls 14/14
