@@ -1,0 +1,25 @@
+P1_L1_vig_MEDITERRANEAN-Z_x_SAINTLY-K: fits_at_q 4 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -4.204 c=[11] d=13 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P2_L2_beau_MERCHANT-Z_x_OBLIQUE-Z: fits_at_q 3 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[8, 22] d=5 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P3_L3_vig_NOVEMBER-Z_x_PLIGHT-K: fits_at_q 2 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[24, 8, 8] d=10 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P4_L4_beau_ITALIAN-K_x_RATTLING-K_nonunit: fits_at_q 1 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[3, 8, 3, 2] d=15 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P5_L4_vig_WHIP-K_x_KNIGHTS-Z: fits_at_q 1 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[7, 5, 5, 16] d=0 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P6_L1_vig_MOUTHS-Z_x_HESITATING-K_progressive: fits_at_q 4 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -4.204 c=[1] d=3 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P7_L2_vig_SAINTLY-K_x_SAINTLY-K_A_eq_B: fits_at_q 3 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[5, 20] d=16 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P8_L1_vig_LAYER-Z_x_TOMB-Z_recount: fits_at_q 4 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -4.204 c=[11] d=15 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P9_L2_beau_SLOWLY-Z_x_EGYPT-Z_recount: fits_at_q 4 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[9, 18] d=0 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P10_L1_beau_KA_x_SHADOW-K_recount: fits_at_q 8 planted_params_listed True decode_matches_plant True H_same(m0,safe) True -> PASS
+   decode score -3.907 c=[22] d=9 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+N1_P3_one_wrong_carved_letter_slot30: NEG fits_at_q m1 0 m0 0 H_same(m0,safe) True -> PASS
+N2_random_key: NEG fits_at_q m1 0 m0 0 H_same(m0,safe) True -> PASS
+N3_alphabet_outside_vocabulary_RAND1_x_OBLIQUE-Z_L2: NEG fits_at_q m1 0 m0 0 H_same(m0,safe) True -> PASS
+N4_order5_outside_L_range: NEG fits_at_q m1 0 m0 0 H_same(m0,safe) True -> PASS
+controls 14/14

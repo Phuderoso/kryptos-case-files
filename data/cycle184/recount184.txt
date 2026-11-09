@@ -1,0 +1,18 @@
+DONE k4
+DONE n18411
+DONE n18412
+F P8 1 42 LAYER/Z TOMB/Z vig
+DONE P8
+F P9 1 43 SLOWLY/Z EGYPT/Z beau
+F P9 2 43 SLOWLY/Z EGYPT/Z beau
+DONE P9
+F P10 1 44 KA SHADOW/K beau
+DONE P10
+## cmprecount184.py (fixed comparison: L 1 + the listed L 2 row only)
+k4: recount 0 (L1 0, L2 0) C 0 done True identical True
+n18411: recount 0 (L1 0, L2 0) C 0 done True identical True
+n18412: recount 0 (L1 0, L2 0) C 0 done True identical True
+P8: recount 1 (L1 1, L2 0) C 1 done True identical True
+P9: recount 2 (L1 1, L2 1) C 2 done True identical True
+P10: recount 1 (L1 1, L2 0) C 1 done True identical True
+RECOUNT MATCH
