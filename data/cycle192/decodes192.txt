@@ -1,0 +1,25 @@
+CONSISTENT deletion 2: row 33989 P VB m 2 n 15: solutions per cyclic component [1]
+  del 2 a=DJ b=ZXFLRFSRXFVYRQN PT=nnyyjzhqukjlmqgdcwzrkEAETNORTHEASTcchcuwvgzqxecpmlimkpddrwhbgvcBERLINCLOCKewuzguoudefqugogwchvuch  known 97/97
+CONSISTENT deletion 18: row 33989 P VB m 2 n 15: solutions per cyclic component [1]
+  del 18 a=DJ b=ZXFLRFSRGFVYRQN PT=nnyyjzhqdkjlmqgdcwzrkEASTNORTHEASTcchcdwvgzqxecpmlimkcddrwhbgvcBERLIZCLOCKewuzguoudsfqugogwchvuch  known 97/97
+### support/all_s512.bin row 0 KA>WONDERFULTHINGS/K BB C 15 x 3
+CONSISTENT deletion 0: row 0 C BB m 15 n 3: solutions per cyclic component [1, 1, 1]
+  del 0 a=DSUKQSHTINPXHTV b=TMV PT=vliqfzhkqpvagyomhnddtXASTNORTHEASTsdldzxnqggmfwvcsfcgkuesfcitqoBERLINCLOCKhxlfxsfezuzquinysfbrqpn  known 97/97
+CONSISTENT deletion 16: row 0 C BB m 15 n 3: solutions per cyclic component [1, 1, 1]
+  del 16 a=DSUKQSHLINPXHTV b=TMV PT=vliqfzrkqpvagyomhnddtEASTNORTHEASTsdtdzxnqggmfwvcsfvgkuesfcitqoBERTINCLOCKhxlfxsfxzuzquinysfbrqpn  known 97/97
+### support/all_s512.bin row 187 KA>THEPOINT/Z BV C 15 x 3
+CONSISTENT deletion 8: row 187 C BV m 15 n 3: solutions per cyclic component [1, 1, 1]
+  del 8 a=GMCDXYCUUXTDONG b=MJF PT=ipyqltozqhakgmjvkuoeoEASTNORTREASTelvtznesrdoyeyxumlhjikqaxjwojBERLINCLOCKnvfgaljceydhrestjroafil  known 97/97
+### support/direct.bin row 0 MESSAGE/Z>CARTER/Z BV P 11 x 7
+CONSISTENT deletion 1: row 0 P BV m 11 n 7: solutions per cyclic component [1]
+  del 1 a=PUWLJEWABUF b=AVCUSWG PT=siihfdforjswjjzuqhqwuEZSTNORTHEASTpgirapovaioaoujvrrnmirjoqwbjcBERLINCLOCKkfibtzgumyurfsewujsoozy  known 97/97
+### support/direct.bin row 0 EASTNORTHEAST/K>INTERPRETATU/Z BV P 16 x 2
+CONSISTENT deletion 12: row 0 P BV m 16 n 2: solutions per cyclic component [1, 1]
+  del 12 a=CLMJBKODNSBLBJXU b=KW PT=cttrrbqiryrijkxmxpzsiEASTNORTHEASYmiihznonayqwbujoccurevigicvynBERLINCLOCKiegwbjodjewigzuflnqwvkn  known 97/97
+CONSISTENT deletion 15: row 0 P BV m 16 n 2: solutions per cyclic component [1, 1]
+  del 15 a=CCMJBKODNSBLBJXU b=KW PT=cwtrrbqiryrijkxmxnzsiEASTNORTHEASTmiihznonayqwbujzccurevigicvynBEELINCLOCKiegwbjohjewigzuflnqwvkn  known 97/97
+### support/direct.bin row 0 WEBSTER/K>MAGNETIC/K VV P 19 x 2
+CONSISTENT deletion 4: row 0 P VV m 19 n 2: solutions per cyclic component [1, 1]
+  del 4 a=??QLZCTSPVJZMSFRV?? b=TU PT=??zagtgdlwuzdgxmf????EASTQORTHEASTka????pyykqwftwjwvymi????fkvnBERLINCLOCK????wbnhalbgsniiagb????  known 75/97
+CONSISTENT deletion 13: row 0 P VV m 19 n 2: solutions per cyclic component [1, 1]
+  del 13 a=??QLZCRSPVJZMSFRV?? b=TU PT=??zagtfdlwuzdgxmf????EASTNORTHEASTka????pyyknwftwjwvymi????fkvnEERLINCLOCK????wbnholbgsniiagb????  known 75/97

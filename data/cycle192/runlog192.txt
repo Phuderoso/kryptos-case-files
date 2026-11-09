@@ -1,0 +1,29 @@
+start 16:24:20
+C1 done 160 s
+grid done 176 s
+C3 done 242 s
+recount k4 identical 59311
+recount P1 identical 59526
+recount P2 identical 59492
+recount P7 identical 59530
+recount n19211 identical 59294
+recount done 285 s
+C2t done 291 s
+C2v done 309 s
+end 16:29:30
+--- controls (registered rehearsal, before push)
+P0 AZ>KA_VV_7_11 wrong slot -1: PASS (hit 1, U 1.178e-06, reported slot -1; reproducing deletions [-1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]; other low-U fits at row 0: [])
+P1 AZ>KA_VV_7_11 wrong slot 2: PASS (hit 1, U 1.178e-06, reported slot 2; reproducing deletions [2]; other low-U fits at row 0: [])
+P2 KA>AZ_BV_5_13 wrong slot 15: PASS (hit 1, U 4.208e-08, reported slot 2; reproducing deletions [15]; other low-U fits at row 0: [])
+P3 AZ>KA_VB_8_12 wrong slot 23: PASS (hit 1, U 9.098e-11, reported slot 10; reproducing deletions [23]; other low-U fits at row 0: [])
+P4 KA>AZ_VB_6_19 wrong slot 4: PASS (hit 1, U 0.01183, reported slot 4; reproducing deletions [4]; other low-U fits at row 0: [])
+P5 AZ>KA_VV_10_8 wrong slot 9: PASS (hit 1, U 1.188e-06, reported slot 1; reproducing deletions [9]; other low-U fits at row 1: ['AZ>KA VV C 10 8 1.188e-06 1'])
+P6 KA>AZ_BV_7_11 wrong slot 19: PASS (hit 1, U 1.178e-06, reported slot 4; reproducing deletions [19]; other low-U fits at row 1: ['KA>AZ BV P 7 11 1.178e-06 4'])
+P7 AZ>AZ_VV_3_25 wrong slot 12: PASS (hit 1, U 1.751e-05, reported slot 12; reproducing deletions [12]; other low-U fits at row 3: ['AZ>AZ BB C 3 25 1.751e-05 12', 'AZ>AZ VV C 25 3 1.751e-05 12', 'AZ>AZ BB C 25 3 1.751e-05 12'])
+P8 KA>KA_BB_4_9 wrong slot 6: PASS (hit 1, U 1.488e-13, reported slot 6; reproducing deletions [6]; other low-U fits at row 13: ['AZ>KA VV P 2 18 1.532e-05 6', 'KA>KA VV P 2 18 1.532e-05 6', 'KA>KA BB P 2 18 1.532e-05 6', 'KA>KA VV P 4 9 1.488e-13 6'])
+N1 three_passes: PASS (low-U fits at row: [])
+N2 random_key: PASS (low-U fits at row: [])
+N3 two_wrong_letters_P1: PASS (low-U fits at row: [])
+N4 two_wrong_letters_P4: PASS (low-U fits at row: [])
+controls 13/13
+--- heavy compute: probes ~10 s, meter 12 s, controls ~8 s, registered run 16:24:20-16:29:30 PT (310 s)
