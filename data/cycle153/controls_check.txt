@@ -1,0 +1,12 @@
+ctl1 n=2 k=7 corrupted_carved=25 S_lines=1 recovered=YES fix@25->U decided=96/97 wrong=0
+ctl2 n=3 k=5 corrupted_carved=37 S_lines=1 recovered=YES fix@37->O decided=93/97 wrong=0
+ctl3 n=2 k=11 corrupted_carved=59 S_lines=3 recovered=YES fix@59->K decided=96/97 wrong=0
+ctl4 n=3 k=10 corrupted_carved=43 S_lines=5 recovered=YES fix@43->R decided=96/97 wrong=0
+ctl5 n=4 k=3 corrupted_carved=5 S_lines=1 recovered=YES fix@5->F decided=92/97 wrong=0
+ctl6 n=4 k=4 corrupted_carved=64 S_lines=1 recovered=YES fix@64->G decided=96/97 wrong=0
+ctl7 n=2 k=14 corrupted_carved=72 S_lines=1 recovered=YES fix@72->P decided=89/97 wrong=0
+ctl8 n=5 k=0 corrupted_carved=28 S_lines=1 recovered=YES fix@28->Y decided=90/97 wrong=0
+ctl9 n=5 k=0 corrupted_carved=67 S_lines=1 recovered=YES fix@67->D decided=95/97 wrong=0
+ctl10 n=3 k=6 uncorrupted strict=1 recovered=YES
+ctl11 n=3 k=4 wrong_crib_pt=29 recovered=YES (differs from crib text only at [29])
+controls recovered 11/11
