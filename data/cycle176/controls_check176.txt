@@ -1,0 +1,10 @@
+ctl1 G ix0 L5 az vig q12345 74269 fits_in_run 2 planted_found PASS
+ctl2 G ix1 L4 ka beau q98765 3141 fits_in_run 1 planted_found PASS
+ctl3 G ix0 L8 ka vig q162000 27182818 fits_in_run 57 planted_found PASS
+ctl4 G ix1 L7 az vig q163500 1473625 fits_in_run 1 planted_found PASS
+ctl5 G ix1 L5 az var q54321 90210 fits_in_run 1 planted_found PASS
+ctl6 PG ix1 L8 az vig q777 PALIMPSEST/aca/az fits_in_run 1 planted_found PASS
+ctl7 PG ix0 L6 ka beau q40000 SHADOW/kmix/ka fits_in_run 1 planted_found PASS
+ctl8 G ix0 L5 az beau q120000 55555 fits_in_run 1 planted_found PASS
+neg1 G ix0 L5 az vig q12345 74269 fits_in_run 1 planted_not_found PASS
+controls 9/9

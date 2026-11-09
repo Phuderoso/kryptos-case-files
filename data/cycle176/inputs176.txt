@@ -1,0 +1,12 @@
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+28d2f9a28fef7e0738d562003e28e151  nulls176.txt
+a5aae51f063c6e066db2cdf8e999705c  controls176.txt
+87ada950e5bf142ba194cc5458729f2b  primers176.txt
+52ae39f667d147c9ccdea9aa72bbe566  cfg176.txt
+946402ca9cd1fcb962c51a16a76fef09  ../support/all.bin
+3dd34d3cc56297bdd2b8a98d7125ea23  ../support/all_s8.bin
+f6b66777cf15635a8cc5199b7e48458a  slice176.bin
+0077a71b600d659bbdad04c01f838fd0  slice176b.bin
+primers176.txt and cfg176.txt: python3 tools/cycle176/mkcfg176.py primers|cfg
+slice176.bin = all.bin[::4000] + {12345,98765,54321,120000,14902} sorted; slice176b.bin = those 5
+main run 06:54:43-06:59:42 PT (5 min 00 s), 6 threads, setsid+timeout
