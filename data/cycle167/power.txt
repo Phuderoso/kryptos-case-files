@@ -1,0 +1,2 @@
+direct: fewest checks 15, union bound per alphabet per triple 1.51e-19, x8 x86731 = 1.05e-13 chance fits per text
+random 24-position layers (300): fewest checks min 15 median 15; union bound median 1.5e-19, max 1.51e-19; x8x2 (A-Z/KA) x660,260 configs median 1.59e-12 chance fits per text

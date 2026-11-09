@@ -1,0 +1,27 @@
+p0 S direct a=0 forms=000 true_fit=1 all_3seg_fits=2 OK
+p1 S Q a=1 forms=000 true_fit=1 all_3seg_fits=2 OK
+p2 S carved a=65135 forms=111 true_fit=1 all_3seg_fits=2 OK
+p3 S direct a=0 forms=111 true_fit=1 all_3seg_fits=2 OK
+p4 S Q a=1 forms=000 true_fit=1 all_3seg_fits=2 OK
+p5 S carved a=38380 forms=011 true_fit=1 all_3seg_fits=2 OK
+p6 S direct a=0 forms=111 true_fit=1 all_3seg_fits=2 OK
+p7 S Q a=1 forms=101 true_fit=1 all_3seg_fits=2 OK
+p8 S carved a=39803 forms=000 true_fit=1 all_3seg_fits=2 OK
+p9 S direct a=0 forms=110 true_fit=1 all_3seg_fits=2 OK
+p10 S Q a=1 forms=111 true_fit=1 all_3seg_fits=2 OK
+p11 S carved a=29219 forms=010 true_fit=1 all_3seg_fits=1 OK
+p12 S direct a=0 forms=000 true_fit=1 all_3seg_fits=2 OK
+p13 S Q a=1 forms=111 true_fit=1 all_3seg_fits=2 OK
+p14 S carved a=40030 forms=111 true_fit=1 all_3seg_fits=2 OK
+p15 S direct a=0 forms=111 true_fit=1 all_3seg_fits=2 OK
+p16 S Q a=1 forms=000 true_fit=1 all_3seg_fits=2 OK
+p17 S carved a=49604 forms=110 true_fit=1 all_3seg_fits=4 OK
+e0 S direct a=1 forms=000 true_fit=1 all_3seg_fits=2 strict_true=0 OK
+e1 S direct a=0 forms=111 true_fit=1 all_3seg_fits=2 strict_true=0 OK
+e2 S direct a=30000 forms=000 true_fit=1 all_3seg_fits=2 strict_true=0 OK
+e3 S direct a=1 forms=111 true_fit=1 all_3seg_fits=2 strict_true=0 OK
+x0 T direct a=0 forms=000 true_fit=0 all_3seg_fits=0 OK
+x1 T direct a=1 forms=000 true_fit=0 all_3seg_fits=0 OK
+x2 T direct a=0 forms=111 true_fit=0 all_3seg_fits=0 OK
+x3 T direct a=1 forms=111 true_fit=0 all_3seg_fits=0 OK
+controls 26/26
