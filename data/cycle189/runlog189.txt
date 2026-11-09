@@ -1,0 +1,46 @@
+# Cycle 189 run log
+## registered run (run_cycle189.sh, 14:51:38-14:53:42 PT)
+C1 done 11 s
+C2 done 13 s
+C3 done 14 s
+grid done 54 s
+recount done 70 s
+I-184 class 6 done 97 s
+I-184 class 7 done 124 s
+## controls (rehearsal = registered control run)
+P1 PASS hits [['M', 'P1', '12345', 'AZ', 'vig', 'P', '7', '11', '7']] fits at q 717 fits in window 68181
+P2 PASS hits [['M', 'P2', '100000', 'KA', 'vig', 'C', '5', '13', '8']] fits at q 762 fits in window 73122
+P3 PASS hits [['M', 'P3', '18944', 'PALIMPSEST/Z', 'vig', 'C', '8', '12', '12']] fits at q 54869 fits in window 5449072
+P4 PASS hits [['M', 'P4', '165781', 'KA', 'beau', 'P', '6', '19', '5']] fits at q 933 fits in window 48920
+P5 PASS hits [['M', 'P5', '0', 'AZ', 'vig', 'P', '8', '10', '11']] fits at q 970 fits in window 970
+P6 PASS hits [['M', 'P6', '0', 'KA', 'beau', 'C', '7', '11', '7']] fits at q 958 fits in window 958
+P7 PASS hits [['M', 'P7', '51712', 'AZ', 'vig', 'C', '3', '25', '6']] fits at q 701 fits in window 69885
+N1 PASS full-power fits at q 0 low-power fits at q 714 window 68209 []
+N2 PASS full-power fits at q 0 low-power fits at q 757 window 73120 []
+N3 PASS full-power fits at q 0 low-power fits at q 715 window 68174 []
+controls 10/10
+## I-184 per-offset alignment controls (lrk186 cycle-187 binary on class files, windows k-10..k+10)
+i184ctl/A6.on_r6.txt: A6 1 2 vig 1000 MEDITERRANEAN/Z ABSCISSA/Z;A6 1 3 vig 1000 MEDITERRANEAN/Z ABSCISSA/Z; END A6 990 1011
+i184ctl/A6.on_r7.txt:  END A6 990 1011
+i184ctl/A7.on_r6.txt:  END A7 14990 15011
+i184ctl/A7.on_r7.txt: A7 1 3 beau 15000 OBLIQUE/Z KA; END A7 14990 15011
+## I-184 classes 6 and 7 (K4, direction r, strict, L 1-3)
+H k4 1 1 q4r vig perms 20722 pairs 2703744 pass2 14298 fits 0
+H k4 1 1 q4r beau perms 20722 pairs 2703744 pass2 14298 fits 0
+H k4 1 2 q4r vig perms 20722 pairs 2703744 pass2 53006 fits 0
+H k4 1 2 q4r beau perms 20722 pairs 2703744 pass2 53006 fits 0
+H k4 1 3 q4r vig perms 20722 pairs 2703744 pass2 202175 fits 0
+H k4 1 3 q4r beau perms 20722 pairs 2703744 pass2 202175 fits 0
+END k4 0 20722
+H k4 1 1 q4r vig perms 20722 pairs 2703744 pass2 15215 fits 0
+H k4 1 1 q4r beau perms 20722 pairs 2703744 pass2 15215 fits 0
+H k4 1 2 q4r vig perms 20722 pairs 2703744 pass2 51894 fits 0
+H k4 1 2 q4r beau perms 20722 pairs 2703744 pass2 51894 fits 0
+H k4 1 3 q4r vig perms 20722 pairs 2703744 pass2 204576 fits 0
+H k4 1 3 q4r beau perms 20722 pairs 2703744 pass2 204576 fits 0
+END k4 0 20722
+## recount (recount189.py vs cmp189 PE 0, slice189 45 rows, A-Z/KRYPTOS)
+fit sets: cmp189 161,948 = recount 161,948, identical; per text K4 32,367 / P1 32,401 / P2 32,384 / P7 32,385 / n18911 32,411; planted P1, P2, P7 present at their rows
+## K4 fits with excess >= 5 in C1, decoded (decode189.py)
+46579 AZ vig C 7 13 (cell E 0.0086): consistent cribs 24 /24 decoded 97 FZGYDUKYPGGAXYHEHTJAIEASTNORTHEASTHPOWTMMTFMGHLQRJCCFICIYHSQDTFBERLINCLOCKZFXEEPXFDXPRIYLYBIVVBQZ
+164674 AZ beau C 10 25 (low-power cell, E 25,983): consistent cribs 24 /24 decoded 55 ?S???U??F??O???G?ODDSEASTNORTHEAST?L?U??OBOM??S???S???V????S??OBERLINCLOCKMDYC?C??A??K??????A?FBM
