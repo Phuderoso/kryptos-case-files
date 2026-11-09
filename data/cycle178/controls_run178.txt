@@ -1,0 +1,455 @@
+== ctl/out/N1_P1_one_wrong_carved_letter.txt
+H N1_P1_one_wrong_carved_letter 0 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 5 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 5 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 6 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 6 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 6 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 6 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 7 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 7 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 7 ka vig cfg 3000 pass2 5 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 7 ka beau cfg 3000 pass2 5 fits 0 sols 0 ovf 0
+M N1_P1_one_wrong_carved_letter 0 8 az vig 116975 n2 1 n13 13 S2 0,1,1,0,0,0,0,0,0 S13 2,9,3,0,0,0,0,0,0 8,3,8,0,0,0,0,0,1 1,10,0,0,0,0,0,0,2 7,4,5,0,0,0,0,0,3 0,11,10,0,0,0,0,0,4 6,5,2,0,0,0,0,0,5 12,12,7,0,0,0,0,0,6 5,6,12,0,0,0,0,0,7 11,0,4,0,0,0,0,0,8 4,7,9,0,0,0,0,0,9 10,1,1,0,0,0,0,0,10 3,8,6,0,0,0,0,0,11 9,2,11,0,0,0,0,0,12
+H N1_P1_one_wrong_carved_letter 0 8 az vig cfg 3000 pass2 12 fits 1 sols 13 ovf 0
+H N1_P1_one_wrong_carved_letter 0 8 az beau cfg 3000 pass2 12 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 8 ka vig cfg 3000 pass2 15 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 8 ka beau cfg 3000 pass2 15 fits 0 sols 0 ovf 0
+M N1_P1_one_wrong_carved_letter 0 9 az vig 116975 n2 2 n13 169 S2 0,1,1,0,0,0,0,0,0,0 1,1,0,1,0,0,0,0,0,0 S13 2,9,3,0,0,0,0,0,0,0 6,1,6,1,0,0,0,0,0,0 10,6,9,2,0,0,0,0,0,0 1,11,12,3,0,0,0,0,0,0 5,3,2,4,0,0,0,0,0,0 9,8,5,5,0,0,0,0,0,0 0,0,8,6,0,0,0,0,0,0 4,5,11,7,0,0,0,0,0,0 8,10,1,8,0,0,0,0,0,0 12,2,4,9,0,0,0,0,0,0 3,7,7,10,0,0,0,0,0,0 7,12,10,11,0,0,0,0,0,0 11,4,0,12,0,0,0,0,0,0 8,3,8,0,0,0,0,0,0,1 12,8,11,1,0,0,0,0,0,1 3,0,1,2,0,0,0,0,0,1 7,5,4,3,0,0,0,0,0,1 11,10,7,4,0,0,0,0,0,1 2,2,10,5,0,0,0,0,0,1 6,7,0,6,0,0,0,0,0,1 10,12,3,7,0,0,0,0,0,1 1,4,6,8,0,0,0,0,0,1 5,9,9,9,0,0,0,0,0,1 9,1,12,10,0,0,0,0,0,1 0,6,2,11,0,0,0,0,0,1 4,11,5,12,0,0,0,0,0,1 1,10,0,0,0,0,0,0,0,2 5,2,3,1,0,0,0,0,0,2 9,7,6,2,0,0,0,0,0,2 0,12,9,3,0,0,0,0,0,2 4,4,12,4,0,0,0,0,0,2 8,9,2,5,0,0,0,0,0,2
+H N1_P1_one_wrong_carved_letter 0 9 az vig cfg 3000 pass2 57 fits 1 sols 338 ovf 0
+H N1_P1_one_wrong_carved_letter 0 9 az beau cfg 3000 pass2 57 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 9 ka vig cfg 3000 pass2 58 fits 0 sols 0 ovf 0
+H N1_P1_one_wrong_carved_letter 0 9 ka beau cfg 3000 pass2 58 fits 0 sols 0 ovf 0
+END N1_P1_one_wrong_carved_letter 115475 118475
+== ctl/out/N1b_P1_wrong_carved_letter_slot30_posthoc.txt
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 5 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 5 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 6 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 6 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 6 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 6 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 7 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 7 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 7 ka vig cfg 3000 pass2 4 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 7 ka beau cfg 3000 pass2 4 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 8 az vig cfg 3000 pass2 10 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 8 az beau cfg 3000 pass2 10 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 8 ka vig cfg 3000 pass2 16 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 8 ka beau cfg 3000 pass2 16 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 9 az vig cfg 3000 pass2 51 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 9 az beau cfg 3000 pass2 51 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 9 ka vig cfg 3000 pass2 60 fits 0 sols 0 ovf 0
+H N1b_P1_wrong_carved_letter_slot30_posthoc 0 9 ka beau cfg 3000 pass2 60 fits 0 sols 0 ovf 0
+END N1b_P1_wrong_carved_letter_slot30_posthoc 115475 118475
+== ctl/out/N2_ix1_random_key.txt
+H N2_ix1_random_key 1 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 5 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H N2_ix1_random_key 1 5 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+END N2_ix1_random_key 2430 5430
+== ctl/out/N3_W1_seed_shifted_by_one.txt
+H N3_W1_seed_shifted_by_one W1 6 az vig streams 229320 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 6 az beau streams 229320 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 6 ka vig streams 229320 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 6 ka beau streams 229320 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 7 az vig streams 376428 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 7 az beau streams 376428 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 7 ka vig streams 376428 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 7 ka beau streams 376428 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 8 az vig streams 609960 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 8 az beau streams 609960 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 8 ka vig streams 609960 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 8 ka beau streams 609960 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 9 az vig streams 983164 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 9 az beau streams 983164 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 9 ka vig streams 983164 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 9 ka beau streams 983164 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 10 az vig streams 1329900 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 10 az beau streams 1329900 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 10 ka vig streams 1329900 perms 3000 fits 0
+H N3_W1_seed_shifted_by_one W1 10 ka beau streams 1329900 perms 3000 fits 0
+END N3_W1_seed_shifted_by_one 122843 125843
+== ctl/out/P10_W0_L10_BERLINCLOCK_azN_az_vig.txt
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 6 az vig streams 229320 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 6 az beau streams 229320 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 6 ka vig streams 229320 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 6 ka beau streams 229320 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 7 az vig streams 376428 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 7 az beau streams 376428 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 7 ka vig streams 376428 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 7 ka beau streams 376428 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 8 az vig streams 609960 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 8 az beau streams 609960 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 8 ka vig streams 609960 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 8 ka beau streams 609960 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 9 az vig streams 983164 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 9 az beau streams 983164 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 9 ka vig streams 983164 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 9 ka beau streams 983164 perms 3000 fits 0
+M P10_W0_L10_BERLINCLOCK_azN_az_vig W0 10 az vig 135139 BERLINCLOCK azN c530 d11
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 10 az vig streams 1329900 perms 3000 fits 1
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 10 az beau streams 1329900 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 10 ka vig streams 1329900 perms 3000 fits 0
+H P10_W0_L10_BERLINCLOCK_azN_az_vig W0 10 ka beau streams 1329900 perms 3000 fits 0
+END P10_W0_L10_BERLINCLOCK_azN_az_vig 133639 136639
+== ctl/out/P11_ix1_L3_ka_beau.txt
+H P11_ix1_L3_ka_beau 1 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 1 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 1 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 2 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 2 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P11_ix1_L3_ka_beau 1 3 ka beau 151624 n2 20 n13c 1 S2 c100s001d0 c100s101d0 c100s011d0 c010s011d0 c100s111d0 c010s111d0 c001s111d0 c111s111d0 c000s000d1 c000s100d1 c000s010d1 c000s110d1 c000s001d1 c000s101d1 c000s011d1 c110s011d1 c000s111d1 c110s111d1 c101s111d1 c011s111d1 S13 c4,3,1x2,0,7,5n0
+H P11_ix1_L3_ka_beau 1 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 3 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 3 ka beau cfg 3000 pass2 1 fits 1 sols 20 ovf 0
+M P11_ix1_L3_ka_beau 1 4 ka beau 151624 n2 40 n13c 13 S2 c1000s0001d0 c1000s1001d0 c1000s0101d0 c1000s1101d0 c1000s0011d0 c0100s0011d0 c1000s1011d0 c0100s1011d0 c1000s0111d0 c0100s0111d0 c0010s0111d0 c1110s0111d0 c1000s1111d0 c0100s1111d0 c0010s1111d0 c1110s1111d0 c0001s1111d0 c1101s1111d0 c1011s1111d0 c0111s1111d0 c0000s0001d1 c0000s1001d1 c0000s0101d1 c0000s1101d1 c0000s0011d1 c1100s0011d1 c0000s1011d1 c1100s1011d1 c0000s0111d1 c1100s0111d1 c1010s0111d1 c0110s0111d1 S13 c0,6,0,4x2,0,7,9,12n0 c1,2,10,3x2,0,7,9,7n0 c2,11,7,2x2,0,7,9,2n0 c3,7,4,1x2,0,7,9,10n0 c4,3,1,0x0,0,7,9,5n1 c5,12,11,12x2,0,7,9,0n0 c6,8,8,11x2,0,7,9,8n0 c7,4,5,10x2,0,7,9,3n0 c8,0,2,9x2,0,7,9,11n0 c9,9,12,8x2,0,7,9,6n0 c10,5,9,7x2,0,7,9,1n0 c11,1,6,6x2,0,7,9,9n0 c12,10,3,5x2,0,7,9,4n0
+H P11_ix1_L3_ka_beau 1 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 4 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 4 ka beau cfg 3000 pass2 1 fits 1 sols 520 ovf 0
+M P11_ix1_L3_ka_beau 1 5 ka beau 151624 n2 80 n13c 169 S2 c10000s00011d0 c01000s00011d0 c10000s10011d0 c01000s10011d0 c10000s01011d0 c01000s01011d0 c10000s11011d0 c01000s11011d0 c10000s00111d0 c01000s00111d0 c00100s00111d0 c11100s00111d0 c10000s10111d0 c01000s10111d0 c00100s10111d0 c11100s10111d0 c10000s01111d0 c01000s01111d0 c00100s01111d0 c11100s01111d0 c00010s01111d0 c11010s01111d0 c10110s01111d0 c01110s01111d0 c10000s11111d0 c01000s11111d0 c00100s11111d0 c11100s11111d0 c00010s11111d0 c11010s11111d0 c10110s11111d0 c01110s11111d0 S13 c0,0,11,9,6x2,0,7,9,10,3n0 c0,1,7,6,5x2,0,7,9,10,11n0 c0,2,3,3,4x2,0,7,9,10,6n0 c0,3,12,0,3x2,0,7,9,10,1n0 c0,4,8,10,2x2,0,7,9,10,9n0 c0,5,4,7,1x2,0,7,9,10,4n0 c0,6,0,4,0x0,0,7,9,10,12n1 c0,7,9,1,12x2,0,7,9,10,7n0 c0,8,5,11,11x2,0,7,9,10,2n0 c0,9,1,8,10x2,0,7,9,10,10n0 c0,10,10,5,9x2,0,7,9,10,5n0 c0,11,6,2,8x2,0,7,9,10,0n0 c0,12,2,12,7x2,0,7,9,10,8n0 c1,0,5,9,2x2,0,7,9,10,4n0 c1,1,1,6,1x2,0,7,9,10,12n0 c1,2,10,3,0x0,0,7,9,10,7n1 c1,3,6,0,12x2,0,7,9,10,2n0 c1,4,2,10,11x2,0,7,9,10,10n0 c1,5,11,7,10x2,0,7,9,10,5n0 c1,6,7,4,9x2,0,7,9,10,0n0 c1,7,3,1,8x2,0,7,9,10,8n0 c1,8,12,11,7x2,0,7,9,10,3n0 c1,9,8,8,6x2,0,7,9,10,11n0 c1,10,4,5,5x2,0,7,9,10,6n0 c1,11,0,2,4x2,0,7,9,10,1n0 c1,12,9,12,3x2,0,7,9,10,9n0 c2,0,12,9,11x2,0,7,9,10,5n0 c2,1,8,6,10x2,0,7,9,10,0n0 c2,2,4,3,9x2,0,7,9,10,8n0 c2,3,0,0,8x2,0,7,9,10,3n0 c2,4,9,10,7x2,0,7,9,10,11n0 c2,5,5,7,6x2,0,7,9,10,6n0
+H P11_ix1_L3_ka_beau 1 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 5 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P11_ix1_L3_ka_beau 1 5 ka beau cfg 3000 pass2 1 fits 1 sols 13520 ovf 0
+END P11_ix1_L3_ka_beau 150124 153124
+== ctl/out/P12_W0_L6_KRYPTOS_kaN_az_beau.txt
+M P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 az beau 158178 KRYPTOS kaN c35 d0
+M P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 az beau 158178 KRYPTOSABCDEFGHIJLMNQUVWXZ kaN c35 d0
+M P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 az beau 158178 ABCDEFGHIJKLMNOPQRSTUVWXYZ azN c35 d0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 az vig streams 229320 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 az beau streams 229320 perms 3000 fits 3
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 ka vig streams 229320 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 6 ka beau streams 229320 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 7 az vig streams 376428 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 7 az beau streams 376428 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 7 ka vig streams 376428 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 7 ka beau streams 376428 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 8 az vig streams 609960 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 8 az beau streams 609960 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 8 ka vig streams 609960 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 8 ka beau streams 609960 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 9 az vig streams 983164 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 9 az beau streams 983164 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 9 ka vig streams 983164 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 9 ka beau streams 983164 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 10 az vig streams 1329900 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 10 az beau streams 1329900 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 10 ka vig streams 1329900 perms 3000 fits 0
+H P12_W0_L6_KRYPTOS_kaN_az_beau W0 10 ka beau streams 1329900 perms 3000 fits 0
+END P12_W0_L6_KRYPTOS_kaN_az_beau 156678 159678
+== ctl/out/P1_ix0_L3_az_vig.txt
+H P1_ix0_L3_az_vig 0 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P1_ix0_L3_az_vig 0 3 az vig 116975 n2 1 n13 13 S2 0,1,1,0 S13 2,9,3,0 8,3,8,1 1,10,0,2 7,4,5,3 0,11,10,4 6,5,2,5 12,12,7,6 5,6,12,7 11,0,4,8 4,7,9,9 10,1,1,10 3,8,6,11 9,2,11,12
+H P1_ix0_L3_az_vig 0 3 az vig cfg 3000 pass2 1 fits 1 sols 13 ovf 0
+H P1_ix0_L3_az_vig 0 3 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P1_ix0_L3_az_vig 0 4 az vig 116975 n2 2 n13 169 S2 0,1,1,0,0 1,1,0,1,0 S13 2,9,3,0,0 6,1,6,1,0 10,6,9,2,0 1,11,12,3,0 5,3,2,4,0 9,8,5,5,0 0,0,8,6,0 4,5,11,7,0 8,10,1,8,0 12,2,4,9,0 3,7,7,10,0 7,12,10,11,0 11,4,0,12,0 8,3,8,0,1 12,8,11,1,1 3,0,1,2,1 7,5,4,3,1 11,10,7,4,1 2,2,10,5,1 6,7,0,6,1 10,12,3,7,1 1,4,6,8,1 5,9,9,9,1 9,1,12,10,1 0,6,2,11,1 4,11,5,12,1 1,10,0,0,2 5,2,3,1,2 9,7,6,2,2 0,12,9,3,2 4,4,12,4,2 8,9,2,5,2
+H P1_ix0_L3_az_vig 0 4 az vig cfg 3000 pass2 1 fits 1 sols 338 ovf 0
+H P1_ix0_L3_az_vig 0 4 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P1_ix0_L3_az_vig 0 5 az vig 116975 n2 4 n13 2197 S2 0,1,1,0,0,0 1,1,0,1,0,0 1,0,0,0,1,0 0,0,1,1,1,0 S13 2,9,3,0,0,0 6,1,6,1,0,0 10,6,9,2,0,0 1,11,12,3,0,0 5,3,2,4,0,0 9,8,5,5,0,0 0,0,8,6,0,0 4,5,11,7,0,0 8,10,1,8,0,0 12,2,4,9,0,0 3,7,7,10,0,0 7,12,10,11,0,0 11,4,0,12,0,0 3,11,12,0,1,0 7,3,2,1,1,0 11,8,5,2,1,0 2,0,8,3,1,0 6,5,11,4,1,0 10,10,1,5,1,0 1,2,4,6,1,0 5,7,7,7,1,0 9,12,10,8,1,0 0,4,0,9,1,0 4,9,3,10,1,0 8,1,6,11,1,0 12,6,9,12,1,0 4,0,8,0,2,0 8,5,11,1,2,0 12,10,1,2,2,0 3,2,4,3,2,0 7,7,7,4,2,0 11,12,10,5,2,0
+H P1_ix0_L3_az_vig 0 5 az vig cfg 3000 pass2 1 fits 1 sols 8788 ovf 0
+H P1_ix0_L3_az_vig 0 5 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 5 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 5 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P1_ix0_L3_az_vig 0 6 az vig 116975 n2 8 n13 28561 S2 0,1,1,0,0,0,0 1,1,0,1,0,0,0 1,0,0,0,1,0,0 0,0,1,1,1,0,0 1,0,1,0,0,1,0 0,0,0,1,0,1,0 0,1,0,0,1,1,0 1,1,1,1,1,1,0 S13 2,9,3,0,0,0,0 6,1,6,1,0,0,0 10,6,9,2,0,0,0 1,11,12,3,0,0,0 5,3,2,4,0,0,0 9,8,5,5,0,0,0 0,0,8,6,0,0,0 4,5,11,7,0,0,0 8,10,1,8,0,0,0 12,2,4,9,0,0,0 3,7,7,10,0,0,0 7,12,10,11,0,0,0 11,4,0,12,0,0,0 3,11,12,0,1,0,0 7,3,2,1,1,0,0 11,8,5,2,1,0,0 2,0,8,3,1,0,0 6,5,11,4,1,0,0 10,10,1,5,1,0,0 1,2,4,6,1,0,0 5,7,7,7,1,0,0 9,12,10,8,1,0,0 0,4,0,9,1,0,0 4,9,3,10,1,0,0 8,1,6,11,1,0,0 12,6,9,12,1,0,0 4,0,8,0,2,0,0 8,5,11,1,2,0,0 12,10,1,2,2,0,0 3,2,4,3,2,0,0 7,7,7,4,2,0,0 11,12,10,5,2,0,0
+H P1_ix0_L3_az_vig 0 6 az vig cfg 3000 pass2 2 fits 1 sols 228488 ovf 0
+H P1_ix0_L3_az_vig 0 6 az beau cfg 3000 pass2 2 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 6 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 6 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P1_ix0_L3_az_vig 0 7 az vig 116975 n2 16 n13 371293 S2 0,1,1,0,0,0,0,0 1,1,0,1,0,0,0,0 1,0,0,0,1,0,0,0 0,0,1,1,1,0,0,0 1,0,1,0,0,1,0,0 0,0,0,1,0,1,0,0 0,1,0,0,1,1,0,0 1,1,1,1,1,1,0,0 0,0,0,0,0,0,1,0 1,0,1,1,0,0,1,0 1,1,1,0,1,0,1,0 0,1,0,1,1,0,1,0 1,1,0,0,0,1,1,0 0,1,1,1,0,1,1,0 0,0,1,0,1,1,1,0 1,0,0,1,1,1,1,0 S13 2,9,3,0,0,0,0,0 6,1,6,1,0,0,0,0 10,6,9,2,0,0,0,0 1,11,12,3,0,0,0,0 5,3,2,4,0,0,0,0 9,8,5,5,0,0,0,0 0,0,8,6,0,0,0,0 4,5,11,7,0,0,0,0 8,10,1,8,0,0,0,0 12,2,4,9,0,0,0,0 3,7,7,10,0,0,0,0 7,12,10,11,0,0,0,0 11,4,0,12,0,0,0,0 3,11,12,0,1,0,0,0 7,3,2,1,1,0,0,0 11,8,5,2,1,0,0,0 2,0,8,3,1,0,0,0 6,5,11,4,1,0,0,0 10,10,1,5,1,0,0,0 1,2,4,6,1,0,0,0 5,7,7,7,1,0,0,0 9,12,10,8,1,0,0,0 0,4,0,9,1,0,0,0 4,9,3,10,1,0,0,0 8,1,6,11,1,0,0,0 12,6,9,12,1,0,0,0 4,0,8,0,2,0,0,0 8,5,11,1,2,0,0,0 12,10,1,2,2,0,0,0 3,2,4,3,2,0,0,0 7,7,7,4,2,0,0,0 11,12,10,5,2,0,0,0
+H P1_ix0_L3_az_vig 0 7 az vig cfg 3000 pass2 3 fits 1 sols 5940688 ovf 0
+H P1_ix0_L3_az_vig 0 7 az beau cfg 3000 pass2 3 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 7 ka vig cfg 3000 pass2 4 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 7 ka beau cfg 3000 pass2 4 fits 0 sols 0 ovf 0
+M P1_ix0_L3_az_vig 0 8 az vig 116975 n2 32 n13 4826809 S2 0,1,1,0,0,0,0,0,0 1,1,0,1,0,0,0,0,0 1,0,0,0,1,0,0,0,0 0,0,1,1,1,0,0,0,0 1,0,1,0,0,1,0,0,0 0,0,0,1,0,1,0,0,0 0,1,0,0,1,1,0,0,0 1,1,1,1,1,1,0,0,0 0,0,0,0,0,0,1,0,0 1,0,1,1,0,0,1,0,0 1,1,1,0,1,0,1,0,0 0,1,0,1,1,0,1,0,0 1,1,0,0,0,1,1,0,0 0,1,1,1,0,1,1,0,0 0,0,1,0,1,1,1,0,0 1,0,0,1,1,1,1,0,0 1,1,1,0,0,0,0,1,0 0,1,0,1,0,0,0,1,0 0,0,0,0,1,0,0,1,0 1,0,1,1,1,0,0,1,0 0,0,1,0,0,1,0,1,0 1,0,0,1,0,1,0,1,0 1,1,0,0,1,1,0,1,0 0,1,1,1,1,1,0,1,0 1,0,0,0,0,0,1,1,0 0,0,1,1,0,0,1,1,0 0,1,1,0,1,0,1,1,0 1,1,0,1,1,0,1,1,0 0,1,0,0,0,1,1,1,0 1,1,1,1,0,1,1,1,0 1,0,1,0,1,1,1,1,0 0,0,0,1,1,1,1,1,0 S13 2,9,3,0,0,0,0,0,0 6,1,6,1,0,0,0,0,0 10,6,9,2,0,0,0,0,0 1,11,12,3,0,0,0,0,0 5,3,2,4,0,0,0,0,0 9,8,5,5,0,0,0,0,0 0,0,8,6,0,0,0,0,0 4,5,11,7,0,0,0,0,0 8,10,1,8,0,0,0,0,0 12,2,4,9,0,0,0,0,0 3,7,7,10,0,0,0,0,0 7,12,10,11,0,0,0,0,0 11,4,0,12,0,0,0,0,0 3,11,12,0,1,0,0,0,0 7,3,2,1,1,0,0,0,0 11,8,5,2,1,0,0,0,0 2,0,8,3,1,0,0,0,0 6,5,11,4,1,0,0,0,0 10,10,1,5,1,0,0,0,0 1,2,4,6,1,0,0,0,0 5,7,7,7,1,0,0,0,0 9,12,10,8,1,0,0,0,0 0,4,0,9,1,0,0,0,0 4,9,3,10,1,0,0,0,0 8,1,6,11,1,0,0,0,0 12,6,9,12,1,0,0,0,0 4,0,8,0,2,0,0,0,0 8,5,11,1,2,0,0,0,0 12,10,1,2,2,0,0,0,0 3,2,4,3,2,0,0,0,0 7,7,7,4,2,0,0,0,0 11,12,10,5,2,0,0,0,0
+H P1_ix0_L3_az_vig 0 8 az vig cfg 3000 pass2 13 fits 1 sols 154457888 ovf 0
+H P1_ix0_L3_az_vig 0 8 az beau cfg 3000 pass2 13 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 8 ka vig cfg 3000 pass2 16 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 8 ka beau cfg 3000 pass2 16 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 9 az vig cfg 3000 pass2 54 fits 0 sols 0 ovf 1
+H P1_ix0_L3_az_vig 0 9 az beau cfg 3000 pass2 54 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 9 ka vig cfg 3000 pass2 60 fits 0 sols 0 ovf 0
+H P1_ix0_L3_az_vig 0 9 ka beau cfg 3000 pass2 60 fits 0 sols 0 ovf 0
+END P1_ix0_L3_az_vig 115475 118475
+== ctl/out/P2_ix0_L6_ka_beau.txt
+H P2_ix0_L6_ka_beau 0 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 4 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 4 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 5 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 5 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P2_ix0_L6_ka_beau 0 6 ka beau 152138 n2 4 n13 1 S2 1,0,1,0,1,0,0 0,1,1,1,1,1,0 0,0,1,1,0,0,1 1,1,1,0,0,1,1 S13 12,11,0,6,5,7,8
+H P2_ix0_L6_ka_beau 0 6 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 6 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 6 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 6 ka beau cfg 3000 pass2 1 fits 1 sols 4 ovf 0
+M P2_ix0_L6_ka_beau 0 7 ka beau 152138 n2 8 n13 13 S2 1,0,1,0,1,0,0,0 0,1,1,1,1,1,0,0 1,1,0,0,0,0,1,0 0,0,0,1,0,1,1,0 0,0,1,1,0,0,0,1 1,1,1,0,0,1,0,1 0,1,0,1,1,0,1,1 1,0,0,0,1,1,1,1 S13 0,12,2,6,12,2,6,0 8,7,5,6,3,1,2,1 3,2,8,6,7,0,11,2 11,10,11,6,11,12,7,3 6,5,1,6,2,11,3,4 1,0,4,6,6,10,12,5 9,8,7,6,10,9,8,6 4,3,10,6,1,8,4,7 12,11,0,6,5,7,0,8 7,6,3,6,9,6,9,9 2,1,6,6,0,5,5,10 10,9,9,6,4,4,1,11 5,4,12,6,8,3,10,12
+H P2_ix0_L6_ka_beau 0 7 az vig cfg 3000 pass2 4 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 7 az beau cfg 3000 pass2 4 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 7 ka vig cfg 3000 pass2 5 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 7 ka beau cfg 3000 pass2 5 fits 1 sols 104 ovf 0
+M P2_ix0_L6_ka_beau 0 8 ka beau 152138 n2 16 n13 169 S2 1,0,1,0,1,0,0,0,0 0,1,1,1,1,1,0,0,0 1,1,0,0,0,0,1,0,0 0,0,0,1,0,1,1,0,0 0,1,0,0,1,0,0,1,0 1,0,0,1,1,1,0,1,0 0,0,1,0,0,0,1,1,0 1,1,1,1,0,1,1,1,0 0,0,1,1,0,0,0,0,1 1,1,1,0,0,1,0,0,1 0,1,0,1,1,0,1,0,1 1,0,0,0,1,1,1,0,1 1,1,0,1,0,0,0,1,1 0,0,0,0,0,1,0,1,1 1,0,1,1,1,0,1,1,1 0,1,1,0,1,1,1,1,1 S13 0,12,2,6,12,2,6,0,0 2,12,4,2,0,4,2,1,0 4,12,6,11,1,6,11,2,0 6,12,8,7,2,8,7,3,0 8,12,10,3,3,10,3,4,0 10,12,12,12,4,12,12,5,0 12,12,1,8,5,1,8,6,0 1,12,3,4,6,3,4,7,0 3,12,5,0,7,5,0,8,0 5,12,7,9,8,7,9,9,0 7,12,9,5,9,9,5,10,0 9,12,11,1,10,11,1,11,0 11,12,0,10,11,0,10,12,0 8,7,5,6,3,1,2,0,1 10,7,7,2,4,3,11,1,1 12,7,9,11,5,5,7,2,1 1,7,11,7,6,7,3,3,1 3,7,0,3,7,9,12,4,1 5,7,2,12,8,11,8,5,1 7,7,4,8,9,0,4,6,1 9,7,6,4,10,2,0,7,1 11,7,8,0,11,4,9,8,1 0,7,10,9,12,6,5,9,1 2,7,12,5,0,8,1,10,1 4,7,1,1,1,10,10,11,1 6,7,3,10,2,12,6,12,1 3,2,8,6,7,0,11,0,2 5,2,10,2,8,2,7,1,2 7,2,12,11,9,4,3,2,2 9,2,1,7,10,6,12,3,2 11,2,3,3,11,8,8,4,2 0,2,5,12,12,10,4,5,2
+H P2_ix0_L6_ka_beau 0 8 az vig cfg 3000 pass2 17 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 8 az beau cfg 3000 pass2 17 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 8 ka vig cfg 3000 pass2 20 fits 0 sols 0 ovf 0
+H P2_ix0_L6_ka_beau 0 8 ka beau cfg 3000 pass2 20 fits 1 sols 2704 ovf 0
+END P2_ix0_L6_ka_beau 150638 153638
+== ctl/out/P3_ix0_L8_az_beau.txt
+H P3_ix0_L8_az_beau 0 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 5 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 5 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 6 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 6 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 6 ka vig cfg 3000 pass2 2 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 6 ka beau cfg 3000 pass2 2 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 7 az vig cfg 3000 pass2 3 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 7 az beau cfg 3000 pass2 3 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 7 ka vig cfg 3000 pass2 5 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 7 ka beau cfg 3000 pass2 5 fits 0 sols 0 ovf 0
+M P3_ix0_L8_az_beau 0 8 az beau 35562 n2 1 n13 1 S2 0,0,1,1,0,0,0,1,1 S13 2,4,6,5,6,5,8,6,3
+H P3_ix0_L8_az_beau 0 8 az vig cfg 3000 pass2 20 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 8 az beau cfg 3000 pass2 20 fits 1 sols 1 ovf 0
+H P3_ix0_L8_az_beau 0 8 ka vig cfg 3000 pass2 14 fits 0 sols 0 ovf 0
+H P3_ix0_L8_az_beau 0 8 ka beau cfg 3000 pass2 14 fits 0 sols 0 ovf 0
+END P3_ix0_L8_az_beau 34062 37062
+== ctl/out/P4_ix0_L9_ka_vig.txt
+M P4_ix0_L9_ka_vig 0 9 ka vig 72039 n2 8 n13 1 S2 1,1,1,1,1,1,0,0,0,0 0,0,0,0,0,0,1,0,0,0 0,1,1,1,1,1,0,1,0,0 1,0,0,0,0,0,1,1,0,0 1,0,1,1,1,1,0,0,1,0 0,1,0,0,0,0,1,0,1,0 0,0,1,1,1,1,0,1,1,0 1,1,0,0,0,0,1,1,1,0 S13 6,5,4,11,5,9,0,2,4,12
+H P4_ix0_L9_ka_vig 0 9 az vig cfg 3000 pass2 82 fits 0 sols 0 ovf 0
+H P4_ix0_L9_ka_vig 0 9 az beau cfg 3000 pass2 82 fits 0 sols 0 ovf 0
+H P4_ix0_L9_ka_vig 0 9 ka vig cfg 3000 pass2 65 fits 1 sols 8 ovf 0
+H P4_ix0_L9_ka_vig 0 9 ka beau cfg 3000 pass2 65 fits 0 sols 0 ovf 0
+END P4_ix0_L9_ka_vig 70539 73539
+== ctl/out/P5_ix0_fib_KR_ka_vig.txt
+H P5_ix0_fib_KR_ka_vig 0 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 2 ka vig 128578 n2 1 n13 1 S2 1,1,0 S13 1,1,0
+H P5_ix0_fib_KR_ka_vig 0 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 2 ka vig cfg 3000 pass2 1 fits 1 sols 1 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 2 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 3 ka vig 128578 n2 2 n13 13 S2 1,1,0,0 0,0,1,0 S13 1,1,0,0 0,2,1,0 12,3,2,0 11,4,3,0 10,5,4,0 9,6,5,0 8,7,6,0 7,8,7,0 6,9,8,0 5,10,9,0 4,11,10,0 3,12,11,0 2,0,12,0
+H P5_ix0_fib_KR_ka_vig 0 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 3 ka vig cfg 3000 pass2 1 fits 1 sols 26 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 3 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 4 ka vig 128578 n2 4 n13 169 S2 1,1,0,0,0 0,0,1,0,0 0,1,0,1,0 1,0,1,1,0 S13 1,1,0,0,0 0,2,1,0,0 12,3,2,0,0 11,4,3,0,0 10,5,4,0,0 9,6,5,0,0 8,7,6,0,0 7,8,7,0,0 6,9,8,0,0 5,10,9,0,0 4,11,10,0,0 3,12,11,0,0 2,0,12,0,0 2,12,0,1,0 1,0,1,1,0 0,1,2,1,0 12,2,3,1,0 11,3,4,1,0 10,4,5,1,0 9,5,6,1,0 8,6,7,1,0 7,7,8,1,0 6,8,9,1,0 5,9,10,1,0 4,10,11,1,0 3,11,12,1,0 3,10,0,2,0 2,11,1,2,0 1,12,2,2,0 0,0,3,2,0 12,1,4,2,0 11,2,5,2,0
+H P5_ix0_fib_KR_ka_vig 0 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 4 ka vig cfg 3000 pass2 1 fits 1 sols 676 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 4 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 5 ka vig 128578 n2 8 n13 2197 S2 1,1,0,0,0,0 0,0,1,0,0,0 0,1,0,1,0,0 1,0,1,1,0,0 1,0,0,0,1,0 0,1,1,0,1,0 0,0,0,1,1,0 1,1,1,1,1,0 S13 1,1,0,0,0,0 0,2,1,0,0,0 12,3,2,0,0,0 11,4,3,0,0,0 10,5,4,0,0,0 9,6,5,0,0,0 8,7,6,0,0,0 7,8,7,0,0,0 6,9,8,0,0,0 5,10,9,0,0,0 4,11,10,0,0,0 3,12,11,0,0,0 2,0,12,0,0,0 2,12,0,1,0,0 1,0,1,1,0,0 0,1,2,1,0,0 12,2,3,1,0,0 11,3,4,1,0,0 10,4,5,1,0,0 9,5,6,1,0,0 8,6,7,1,0,0 7,7,8,1,0,0 6,8,9,1,0,0 5,9,10,1,0,0 4,10,11,1,0,0 3,11,12,1,0,0 3,10,0,2,0,0 2,11,1,2,0,0 1,12,2,2,0,0 0,0,3,2,0,0 12,1,4,2,0,0 11,2,5,2,0,0
+H P5_ix0_fib_KR_ka_vig 0 5 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 5 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 5 ka vig cfg 3000 pass2 1 fits 1 sols 17576 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 5 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 6 ka vig 128578 n2 16 n13 28561 S2 1,1,0,0,0,0,0 0,0,1,0,0,0,0 0,1,0,1,0,0,0 1,0,1,1,0,0,0 1,0,0,0,1,0,0 0,1,1,0,1,0,0 0,0,0,1,1,0,0 1,1,1,1,1,0,0 0,0,0,0,0,1,0 1,1,1,0,0,1,0 1,0,0,1,0,1,0 0,1,1,1,0,1,0 0,1,0,0,1,1,0 1,0,1,0,1,1,0 1,1,0,1,1,1,0 0,0,1,1,1,1,0 S13 1,1,0,0,0,0,0 0,2,1,0,0,0,0 12,3,2,0,0,0,0 11,4,3,0,0,0,0 10,5,4,0,0,0,0 9,6,5,0,0,0,0 8,7,6,0,0,0,0 7,8,7,0,0,0,0 6,9,8,0,0,0,0 5,10,9,0,0,0,0 4,11,10,0,0,0,0 3,12,11,0,0,0,0 2,0,12,0,0,0,0 2,12,0,1,0,0,0 1,0,1,1,0,0,0 0,1,2,1,0,0,0 12,2,3,1,0,0,0 11,3,4,1,0,0,0 10,4,5,1,0,0,0 9,5,6,1,0,0,0 8,6,7,1,0,0,0 7,7,8,1,0,0,0 6,8,9,1,0,0,0 5,9,10,1,0,0,0 4,10,11,1,0,0,0 3,11,12,1,0,0,0 3,10,0,2,0,0,0 2,11,1,2,0,0,0 1,12,2,2,0,0,0 0,0,3,2,0,0,0 12,1,4,2,0,0,0 11,2,5,2,0,0,0
+H P5_ix0_fib_KR_ka_vig 0 6 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 6 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 6 ka vig cfg 3000 pass2 1 fits 1 sols 456976 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 6 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 7 ka vig 128578 n2 32 n13 371293 S2 1,1,0,0,0,0,0,0 0,0,1,0,0,0,0,0 0,1,0,1,0,0,0,0 1,0,1,1,0,0,0,0 1,0,0,0,1,0,0,0 0,1,1,0,1,0,0,0 0,0,0,1,1,0,0,0 1,1,1,1,1,0,0,0 0,0,0,0,0,1,0,0 1,1,1,0,0,1,0,0 1,0,0,1,0,1,0,0 0,1,1,1,0,1,0,0 0,1,0,0,1,1,0,0 1,0,1,0,1,1,0,0 1,1,0,1,1,1,0,0 0,0,1,1,1,1,0,0 0,1,0,0,0,0,1,0 1,0,1,0,0,0,1,0 1,1,0,1,0,0,1,0 0,0,1,1,0,0,1,0 0,0,0,0,1,0,1,0 1,1,1,0,1,0,1,0 1,0,0,1,1,0,1,0 0,1,1,1,1,0,1,0 1,0,0,0,0,1,1,0 0,1,1,0,0,1,1,0 0,0,0,1,0,1,1,0 1,1,1,1,0,1,1,0 1,1,0,0,1,1,1,0 0,0,1,0,1,1,1,0 0,1,0,1,1,1,1,0 1,0,1,1,1,1,1,0 S13 1,1,0,0,0,0,0,0 0,2,1,0,0,0,0,0 12,3,2,0,0,0,0,0 11,4,3,0,0,0,0,0 10,5,4,0,0,0,0,0 9,6,5,0,0,0,0,0 8,7,6,0,0,0,0,0 7,8,7,0,0,0,0,0 6,9,8,0,0,0,0,0 5,10,9,0,0,0,0,0 4,11,10,0,0,0,0,0 3,12,11,0,0,0,0,0 2,0,12,0,0,0,0,0 2,12,0,1,0,0,0,0 1,0,1,1,0,0,0,0 0,1,2,1,0,0,0,0 12,2,3,1,0,0,0,0 11,3,4,1,0,0,0,0 10,4,5,1,0,0,0,0 9,5,6,1,0,0,0,0 8,6,7,1,0,0,0,0 7,7,8,1,0,0,0,0 6,8,9,1,0,0,0,0 5,9,10,1,0,0,0,0 4,10,11,1,0,0,0,0 3,11,12,1,0,0,0,0 3,10,0,2,0,0,0,0 2,11,1,2,0,0,0,0 1,12,2,2,0,0,0,0 0,0,3,2,0,0,0,0 12,1,4,2,0,0,0,0 11,2,5,2,0,0,0,0
+H P5_ix0_fib_KR_ka_vig 0 7 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 7 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 7 ka vig cfg 3000 pass2 3 fits 1 sols 11881376 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 7 ka beau cfg 3000 pass2 3 fits 0 sols 0 ovf 0
+M P5_ix0_fib_KR_ka_vig 0 8 ka vig 128578 n2 64 n13 4826809 S2 1,1,0,0,0,0,0,0,0 0,0,1,0,0,0,0,0,0 0,1,0,1,0,0,0,0,0 1,0,1,1,0,0,0,0,0 1,0,0,0,1,0,0,0,0 0,1,1,0,1,0,0,0,0 0,0,0,1,1,0,0,0,0 1,1,1,1,1,0,0,0,0 0,0,0,0,0,1,0,0,0 1,1,1,0,0,1,0,0,0 1,0,0,1,0,1,0,0,0 0,1,1,1,0,1,0,0,0 0,1,0,0,1,1,0,0,0 1,0,1,0,1,1,0,0,0 1,1,0,1,1,1,0,0,0 0,0,1,1,1,1,0,0,0 0,1,0,0,0,0,1,0,0 1,0,1,0,0,0,1,0,0 1,1,0,1,0,0,1,0,0 0,0,1,1,0,0,1,0,0 0,0,0,0,1,0,1,0,0 1,1,1,0,1,0,1,0,0 1,0,0,1,1,0,1,0,0 0,1,1,1,1,0,1,0,0 1,0,0,0,0,1,1,0,0 0,1,1,0,0,1,1,0,0 0,0,0,1,0,1,1,0,0 1,1,1,1,0,1,1,0,0 1,1,0,0,1,1,1,0,0 0,0,1,0,1,1,1,0,0 0,1,0,1,1,1,1,0,0 1,0,1,1,1,1,1,0,0 S13 1,1,0,0,0,0,0,0,0 0,2,1,0,0,0,0,0,0 12,3,2,0,0,0,0,0,0 11,4,3,0,0,0,0,0,0 10,5,4,0,0,0,0,0,0 9,6,5,0,0,0,0,0,0 8,7,6,0,0,0,0,0,0 7,8,7,0,0,0,0,0,0 6,9,8,0,0,0,0,0,0 5,10,9,0,0,0,0,0,0 4,11,10,0,0,0,0,0,0 3,12,11,0,0,0,0,0,0 2,0,12,0,0,0,0,0,0 2,12,0,1,0,0,0,0,0 1,0,1,1,0,0,0,0,0 0,1,2,1,0,0,0,0,0 12,2,3,1,0,0,0,0,0 11,3,4,1,0,0,0,0,0 10,4,5,1,0,0,0,0,0 9,5,6,1,0,0,0,0,0 8,6,7,1,0,0,0,0,0 7,7,8,1,0,0,0,0,0 6,8,9,1,0,0,0,0,0 5,9,10,1,0,0,0,0,0 4,10,11,1,0,0,0,0,0 3,11,12,1,0,0,0,0,0 3,10,0,2,0,0,0,0,0 2,11,1,2,0,0,0,0,0 1,12,2,2,0,0,0,0,0 0,0,3,2,0,0,0,0,0 12,1,4,2,0,0,0,0,0 11,2,5,2,0,0,0,0,0
+H P5_ix0_fib_KR_ka_vig 0 8 az vig cfg 3000 pass2 10 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 8 az beau cfg 3000 pass2 10 fits 0 sols 0 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 8 ka vig cfg 3000 pass2 17 fits 1 sols 308915776 ovf 0
+H P5_ix0_fib_KR_ka_vig 0 8 ka beau cfg 3000 pass2 17 fits 0 sols 0 ovf 0
+END P5_ix0_fib_KR_ka_vig 127078 130078
+== ctl/out/P6_ix1_L2_az_beau.txt
+H P6_ix1_L2_az_beau 1 1 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 1 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P6_ix1_L2_az_beau 1 2 az beau 127336 n2 3 n13c 1 S2 c01s01d0 c10s01d1 c10s11d1 S13 c11,10x6,11,9n0
+H P6_ix1_L2_az_beau 1 2 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 2 az beau cfg 3000 pass2 1 fits 1 sols 3 ovf 0
+H P6_ix1_L2_az_beau 1 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P6_ix1_L2_az_beau 1 3 az beau 127336 n2 8 n13c 13 S2 c010s010d0 c111s010d0 c010s110d0 c100s000d1 c100s100d1 c100s010d1 c001s010d1 c100s110d1 S13 c0,1,6x6,11,8,4n0 c1,3,9x6,11,8,8n0 c2,5,12x6,11,8,12n0 c3,7,2x6,11,8,3n0 c4,9,5x6,11,8,7n0 c5,11,8x6,11,8,11n0 c6,0,11x6,11,8,2n0 c7,2,1x6,11,8,6n0 c8,4,4x6,11,8,10n0 c9,6,7x6,11,8,1n0 c10,8,10x6,11,8,5n0 c11,10,0x0,11,8,9n1 c12,12,3x6,11,8,0n0
+H P6_ix1_L2_az_beau 1 3 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 3 az beau cfg 3000 pass2 1 fits 1 sols 104 ovf 0
+H P6_ix1_L2_az_beau 1 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P6_ix1_L2_az_beau 1 4 az beau 127336 n2 20 n13c 169 S2 c0100s0001d0 c0100s1001d0 c0100s0101d0 c1110s0101d0 c0001s0101d0 c1011s0101d0 c0100s1101d0 c1110s1101d0 c1000s0001d1 c1000s1001d1 c1000s0101d1 c0010s0101d1 c1101s0101d1 c0111s0101d1 c1000s1101d1 c0010s1101d1 c1000s0011d1 c1000s1011d1 c1000s0111d1 c1000s1111d1 S13 c0,0,4,10x6,11,8,12,0n0 c0,1,6,0x0,11,8,12,4n1 c0,2,8,3x6,11,8,12,8n0 c0,3,10,6x6,11,8,12,12n0 c0,4,12,9x6,11,8,12,3n0 c0,5,1,12x6,11,8,12,7n0 c0,6,3,2x6,11,8,12,11n0 c0,7,5,5x6,11,8,12,2n0 c0,8,7,8x6,11,8,12,6n0 c0,9,9,11x6,11,8,12,10n0 c0,10,11,1x6,11,8,12,1n0 c0,11,0,4x6,11,8,12,5n0 c0,12,2,7x6,11,8,12,9n0 c1,0,3,4x6,11,8,12,9n0 c1,1,5,7x6,11,8,12,0n0 c1,2,7,10x6,11,8,12,4n0 c1,3,9,0x0,11,8,12,8n1 c1,4,11,3x6,11,8,12,12n0 c1,5,0,6x6,11,8,12,3n0 c1,6,2,9x6,11,8,12,7n0 c1,7,4,12x6,11,8,12,11n0 c1,8,6,2x6,11,8,12,2n0 c1,9,8,5x6,11,8,12,6n0 c1,10,10,8x6,11,8,12,10n0 c1,11,12,11x6,11,8,12,1n0 c1,12,1,1x6,11,8,12,5n0 c2,0,2,11x6,11,8,12,5n0 c2,1,4,1x6,11,8,12,9n0 c2,2,6,4x6,11,8,12,0n0 c2,3,8,7x6,11,8,12,4n0 c2,4,10,10x6,11,8,12,8n0 c2,5,12,0x0,11,8,12,12n1
+H P6_ix1_L2_az_beau 1 4 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 4 az beau cfg 3000 pass2 1 fits 1 sols 3380 ovf 0
+H P6_ix1_L2_az_beau 1 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P6_ix1_L2_az_beau 1 5 az beau 127336 n2 48 n13c 2197 S2 c01000s00010d0 c11100s00010d0 c01000s10010d0 c11100s10010d0 c01000s01010d0 c11100s01010d0 c00010s01010d0 c10110s01010d0 c11001s01010d0 c01101s01010d0 c10011s01010d0 c00111s01010d0 c01000s11010d0 c11100s11010d0 c00010s11010d0 c10110s11010d0 c01000s00110d0 c01000s10110d0 c01000s01110d0 c01000s11110d0 c10000s00000d1 c10000s10000d1 c10000s01000d1 c10000s11000d1 c10000s00100d1 c10000s10100d1 c10000s01100d1 c10000s11100d1 c10000s00010d1 c00100s00010d1 c10000s10010d1 c00100s10010d1 S13 c0,0,0,2,1x6,11,8,12,0,10n0 c0,0,1,4,4x6,11,8,12,0,1n0 c0,0,2,6,7x6,11,8,12,0,5n0 c0,0,3,8,10x6,11,8,12,0,9n0 c0,0,4,10,0x0,11,8,12,0,0n1 c0,0,5,12,3x6,11,8,12,0,4n0 c0,0,6,1,6x6,11,8,12,0,8n0 c0,0,7,3,9x6,11,8,12,0,12n0 c0,0,8,5,12x6,11,8,12,0,3n0 c0,0,9,7,2x6,11,8,12,0,7n0 c0,0,10,9,5x6,11,8,12,0,11n0 c0,0,11,11,8x6,11,8,12,0,2n0 c0,0,12,0,11x6,11,8,12,0,6n0 c0,1,0,1,8x6,11,8,12,0,6n0 c0,1,1,3,11x6,11,8,12,0,10n0 c0,1,2,5,1x6,11,8,12,0,1n0 c0,1,3,7,4x6,11,8,12,0,5n0 c0,1,4,9,7x6,11,8,12,0,9n0 c0,1,5,11,10x6,11,8,12,0,0n0 c0,1,6,0,0x0,0,8,12,0,4n2 c0,1,7,2,3x6,11,8,12,0,8n0 c0,1,8,4,6x6,11,8,12,0,12n0 c0,1,9,6,9x6,11,8,12,0,3n0 c0,1,10,8,12x6,11,8,12,0,7n0 c0,1,11,10,2x6,11,8,12,0,11n0 c0,1,12,12,5x6,11,8,12,0,2n0 c0,2,0,0,2x6,11,8,12,0,2n0 c0,2,1,2,5x6,11,8,12,0,6n0 c0,2,2,4,8x6,11,8,12,0,10n0 c0,2,3,6,11x6,11,8,12,0,1n0 c0,2,4,8,1x6,11,8,12,0,5n0 c0,2,5,10,4x6,11,8,12,0,9n0
+H P6_ix1_L2_az_beau 1 5 az vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 5 az beau cfg 3000 pass2 1 fits 1 sols 105456 ovf 0
+H P6_ix1_L2_az_beau 1 5 ka vig cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P6_ix1_L2_az_beau 1 5 ka beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+END P6_ix1_L2_az_beau 125836 128836
+== ctl/out/P7_ix1_L4_ka_vig_nonunit.txt
+H P7_ix1_L4_ka_vig_nonunit 1 1 az vig cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 1 az beau cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 1 ka vig cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 1 ka beau cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 2 az vig cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 2 az beau cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 2 ka vig cfg 1596 pass2 1 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 2 ka beau cfg 1596 pass2 1 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 3 az vig cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 3 az beau cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 3 ka vig cfg 1596 pass2 1 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 3 ka beau cfg 1596 pass2 1 fits 0 sols 0 ovf 0
+M P7_ix1_L4_ka_vig_nonunit 1 4 ka vig 96 n2 8 n13c 1 S2 c1100s0010d0 c1100s1010d0 c1100s0110d0 c0010s0110d0 c0101s0110d0 c1011s0110d0 c1100s1110d0 c0010s1110d0 S13 c7,12,7,6x11,4,2,9,6n0
+H P7_ix1_L4_ka_vig_nonunit 1 4 az vig cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 4 az beau cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 4 ka vig cfg 1596 pass2 1 fits 1 sols 8 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 4 ka beau cfg 1596 pass2 1 fits 0 sols 0 ovf 0
+M P7_ix1_L4_ka_vig_nonunit 1 5 ka vig 96 n2 20 n13c 13 S2 c11000s00001d0 c11000s10001d0 c11000s01001d0 c11000s11001d0 c11000s00101d0 c00100s00101d0 c11000s10101d0 c00100s10101d0 c11000s01101d0 c00100s01101d0 c01010s01101d0 c10110s01101d0 c10001s01101d0 c01101s01101d0 c00011s01101d0 c11111s01101d0 c11000s11101d0 c00100s11101d0 c01010s11101d0 c10110s11101d0 S13 c0,9,0,3,3x11,4,2,9,5,9n0 c1,2,1,9,10x11,4,2,9,5,3n0 c2,8,2,2,4x11,4,2,9,5,10n0 c3,1,3,8,11x11,4,2,9,5,4n0 c4,7,4,1,5x11,4,2,9,5,11n0 c5,0,5,7,12x11,4,2,9,5,5n0 c6,6,6,0,6x11,4,2,9,5,12n0 c7,12,7,6,0x0,4,2,9,5,6n1 c8,5,8,12,7x11,4,2,9,5,0n0 c9,11,9,5,1x11,4,2,9,5,7n0 c10,4,10,11,8x11,4,2,9,5,1n0 c11,10,11,4,2x11,4,2,9,5,8n0 c12,3,12,10,9x11,4,2,9,5,2n0
+H P7_ix1_L4_ka_vig_nonunit 1 5 az vig cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 5 az beau cfg 1596 pass2 0 fits 0 sols 0 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 5 ka vig cfg 1596 pass2 1 fits 1 sols 260 ovf 0
+H P7_ix1_L4_ka_vig_nonunit 1 5 ka beau cfg 1596 pass2 1 fits 0 sols 0 ovf 0
+END P7_ix1_L4_ka_vig_nonunit 0 1596
+== ctl/out/P8_ix1_L5_az_vig.txt
+H P8_ix1_L5_az_vig 1 1 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 1 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 1 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 1 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 2 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 2 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 2 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 2 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 3 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 3 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 3 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 3 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 4 az vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 4 az beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 4 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 4 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+M P8_ix1_L5_az_vig 1 5 az vig 42992 n2 1 n13c 13 S2 c01111s01100d0 S13 c0,6,3,8,4x10,1,10,2,4,7n0 c1,9,6,1,1x10,1,10,2,4,4n0 c2,12,9,7,11x10,1,10,2,4,1n0 c3,2,12,0,8x10,1,10,2,4,11n0 c4,5,2,6,5x10,1,10,2,4,8n0 c5,8,5,12,2x10,1,10,2,4,5n0 c6,11,8,5,12x10,1,10,2,4,2n0 c7,1,11,11,9x10,1,10,2,4,12n0 c8,4,1,4,6x10,1,10,2,4,9n0 c9,7,4,10,3x10,1,10,2,4,6n0 c10,10,7,3,0x0,1,10,2,4,3n1 c11,0,10,9,10x10,1,10,2,4,0n0 c12,3,0,2,7x10,1,10,2,4,10n0
+H P8_ix1_L5_az_vig 1 5 az vig cfg 3000 pass2 1 fits 1 sols 13 ovf 0
+H P8_ix1_L5_az_vig 1 5 az beau cfg 3000 pass2 1 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 5 ka vig cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+H P8_ix1_L5_az_vig 1 5 ka beau cfg 3000 pass2 0 fits 0 sols 0 ovf 0
+END P8_ix1_L5_az_vig 41492 44492
+== ctl/out/P9_W1_L7_PALIMPSEST_kaN_ka_beau.txt
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 6 az vig streams 229320 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 6 az beau streams 229320 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 6 ka vig streams 229320 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 6 ka beau streams 229320 perms 3000 fits 0
+M P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 7 ka beau 4379 PALIMPSEST kaN c77 d5
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 7 az vig streams 376428 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 7 az beau streams 376428 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 7 ka vig streams 376428 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 7 ka beau streams 376428 perms 3000 fits 1
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 8 az vig streams 609960 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 8 az beau streams 609960 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 8 ka vig streams 609960 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 8 ka beau streams 609960 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 9 az vig streams 983164 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 9 az beau streams 983164 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 9 ka vig streams 983164 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 9 ka beau streams 983164 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 10 az vig streams 1329900 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 10 az beau streams 1329900 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 10 ka vig streams 1329900 perms 3000 fits 0
+H P9_W1_L7_PALIMPSEST_kaN_ka_beau W1 10 ka beau streams 1329900 perms 3000 fits 0
+END P9_W1_L7_PALIMPSEST_kaN_ka_beau 2879 5879
