@@ -60,11 +60,13 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-049 | Ciphertext-side-key Hill behind the bank at longer periods (n 2 k 15–20, n 3 k 10–12 full, n 4 k 5–7 full) | P3 | queued (cost; screen LOW-POWER from n 4 k 5) |
 | I-050 | Key on both sides of the Hill step (Vigenère → Hill → Vigenère, periods k₁, k₂ small) | P3 | tested — EXACT-EXCL (bank n 2, 18 pairs k₁ + k₂ ≤ 12; direct 149/153 pairs strict, 131/153 one-error) / NO-SIGNAL / LOW-POWER (rest) ([case 144](case-file/144-key-on-both-sides-of-hill.md)) |
 | I-051 | Decode the relaxed one-error Periodic Gromark survivors (K4: 28 + 11 digit primers L 8–9, 4 rank strings L 11–12) | P3 | queued (from cycle 155) |
-| I-052 | Structure-matched nulls for strict union-find / SAT tests (shuffles with K4's crib-letter repetition profile) | P2 | queued (method, from cycle 155) |
+| I-052 | Structure-matched nulls for strict union-find / SAT tests (shuffles with K4's crib-letter repetition profile) | P2 | tested — method: profile-matched nulls give power to the L ≤ 7 / rank L 8–10 exclusions; L 8 digits at chance vs profile (p 0.57), L 11 NO-SIGNAL; cycle rank found to govern counts → I-057 ([case 145](case-file/145-structure-matched-nulls.md)) |
 | I-053 | ACA Periodic Gromark with any keyword behind the 165k bank (stage 1 relaxed screen per entry + stage 2 keyword enumeration), strict and one-error | P3 | queued (cost, from cycle 155) |
 | I-054 | Ordinary Gromark (any cipher alphabet) base 10 L 9–10 under one error | P3 | queued (from cycle 155) |
 | I-055 | Key on both sides of Hill: behind the bank for n 3 (and n 2 k₁ + k₂ 13–16), and one-error behind the bank | P3 | queued (from cycle 156) |
 | I-056 | Key on both sides of Hill with vocabulary-keyword keys (both keys words), long periods behind the bank | P3 | queued (from cycle 156) |
+| I-057 | Cycle-rank-matched nulls for Periodic Gromark L 8 (is K4's 28 over its r = 6 baseline of 1–5?), then L 9 / L 11–12 | P2 | queued (from cycle 157) |
+| I-058 | Apply cycle-rank-matched nulls to other strict feasibility rows labelled LOW-POWER (SAT families, free-alphabet autokey, Hill one-error) | P3 | queued (method, from cycle 157) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -234,7 +236,8 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 ### I-052 — Structure-matched nulls for strict union-find / SAT tests
 - **Date / source:** 2026-11-08, cycle 155: one-error survivor counts of six shuffled nulls range from 0 to 1.15 × 10⁶ at the same L, tracking the number of distinct cipher letters under the cribs (13–19; K4 14). `[repo]`
 - **Hypothesis / rationale:** the power of strict feasibility tests depends on how often the crib cipher letters repeat; plain shuffles mix very different profiles, so "K4 inside the null range" is uninformative. Nulls drawn from shuffles with K4's exact repetition profile (14 distinct letters, same multiplicities under the cribs) would give a calibrated baseline. Relabelling letters is useless (feasibility is invariant under an arbitrary alphabet).
-- **Test:** rejection-sample 20+ shuffles with K4's profile; rerun cycle-155 model P at L 8–9 and L 11–12 (and cycle 130 strict). **Controls:** n/a (null method). **Cost:** ~10–20 min for 20 nulls at L 8 only; L 9/12 need splitting. **Status:** queued.
+- **Test:** rejection-sample 20+ shuffles with K4's profile; rerun cycle-155 model P at L 8–9 and L 11–12 (and cycle 130 strict). **Controls:** n/a (null method). **Cost:** ~10–20 min for 20 nulls at L 8 only; L 9/12 need splitting. **Status:** tested (cycle 157).
+- **Result (cycle 157):** 20 profile-matched shuffles (14 distinct; 3, 2×8, 1×5; 20 of 2,915 accepted, `tools/cycle157/mknulls157.py`) through the unchanged cycle-155 model P, all digit primers L 2–8 and rank primers L 8–11 (L 9 digits / L 12 ranks not run, cost); K4 L 8 / L 11 rerun identical to cycle 155. Matched nulls: 0 at digits L 2–7 and ranks L 9–10, one null 1 at rank L 8 → the cycle-155 `EXACT-EXCL` rows have power at K4's structure. Digits L 8: K4 28 vs 0–586 (median 60), p 0.571; ranks L 11: K4 6 vs 0–10 (16 zero), p 0.143 → K4 at chance against the profile (L 11 `NO-SIGNAL`). **Profile matching is not sufficient:** counts track the cycle rank r of the crib graph (letter ↔ group-offset nodes; each cycle is one mod-26 filter). At L 8, r = 5 nulls (14) median 93 (0–586); r = 6 nulls (4) give 1, 2, 2, 5; K4 has r = 6 and 28 — above all four, but min attainable p is 0.2, so no claim; L 8 stays `LOW-POWER` → I-057. Cycle-155 null2 (10⁶ survivors) has r = 1. Checks: profiles 20/20; pure-Python L 4 recount 20/20 identical; 35/35 sampled survivors confirmed. ~7.6 min. [Case 145](case-file/145-structure-matched-nulls.md), [data](data/cycle157/), [tools](tools/cycle157/).
 
 ### I-053 — ACA Periodic Gromark with any keyword behind the bank
 - **Date / source:** 2026-11-08, cycle 155; cycle 129 tested only 17,164 listed keywords behind the bank. `[repo]`
@@ -253,6 +256,17 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Date / source:** 2026-11-08, cycle 156 (K1–K3 used keyword keys, not random periods). `[speculation]`
 - **Hypothesis:** both additive keys are words (KRYPTOS, PALIMPSEST, ABSCISSA, vocabulary list), which turns the long-period pairs that are LOW-POWER as free keys into strong tests: with e and f fixed, only D is unknown (n² unknowns, 24 equations).
 - **Test:** for every word pair (vocabulary × vocabulary, both tableaux), solve D linearly (exact), direct and behind the bank for n 2–4. **Controls:** planted word-key encryptions; 2 nulls. **Cost:** 10⁴ × 10⁴ word pairs direct is 10⁸ small solves (minutes); behind the bank restrict to themed words. **Status:** queued.
+
+### I-057 — Cycle-rank-matched nulls for Periodic Gromark L 8 (and L 9, L 11–12)
+- **Date / source:** 2026-11-08, cycle 157 ([case 145](case-file/145-structure-matched-nulls.md)). `[repo]`
+- **Hypothesis / rationale:** chance one-error survivor counts in the free-alphabet model are governed by the cycle rank r of the crib graph at each period. K4 (r = 6 at L 8) has 28 one-error digit primers; the only four profile-matched nulls with r = 6 gave 1, 2, 2, 5. Either K4 is genuinely over its baseline (then its 28 primers deserve decoding, I-051) or four nulls were too few.
+- **Test:** rejection-sample ≥ 40 shuffles with K4's profile **and** r = 6 at L 8 (also report the partition's injectivity structure); run model P digit L 8 (~80 core-s each at r = 6); empirical p with ≥ 40 nulls (min p ≈ 0.024). Then the same for L 11 ranks (r = 6), L 9 digits and L 12 ranks if the budget allows (split, resumable via `tools/cycle157/run_cycle157.sh` with `ONLY=`).
+- **Controls / nulls:** K4 L 8 regression (28); Python spot checks (`indep_check.py` single primer). **Cost:** ~7 min for 40 nulls at L 8. **Dependencies:** none. **Status:** queued.
+
+### I-058 — Cycle-rank-matched nulls for other strict feasibility rows
+- **Date / source:** 2026-11-08, cycle 157 method. `[repo]`
+- **Hypothesis / rationale:** every free-alphabet union-find / SAT test (cycle 11b SAT periodic, CT/PT-autokey with free alphabets, cycle 130 relaxed model, Hill one-error screens) has a chance rate set by its constraint graph's cycle rank; plain shuffles mix ranks, so "K4 inside the null range" may hide an excess or a deficit.
+- **Test:** for each LOW-POWER row, compute K4's rank under that model's graph and redo the null with rank-matched shuffles. **Cost:** row-dependent. **Status:** queued.
 
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
@@ -289,3 +303,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 155 end: I-008 tested (EXACT-EXCL ordinary Gromark, periodic digit L ≤ 7 / rank L 8–10, ACA rule any keyword L ≤ 12 under one error; LOW-POWER relaxed digit L 8–9 and rank L 11–12). I-003 now leaves I-007, I-041. I-047 note added. Added I-051–I-054 (54 items). Recommended next: cycle 156 **new family** (155 was an audit) — I-050 (key on both sides of Hill), I-010 or I-013.
 - 2026-11-08, cycle 156 start: I-050 in progress (new structure after the cycle 155 audit): key on both sides of the Hill step.
 - 2026-11-08, cycle 156 end: I-050 tested (EXACT-EXCL bank n 2 18 pairs, direct 149/153 strict and 131/153 one-error; NO-SIGNAL / LOW-POWER rest). Added I-055, I-056 (56 items). Recommended next: cycle 157 variant/audit — I-055 (bank n 3, one error behind the bank), I-007 or I-052; then a new family (I-010, I-013 or I-056).
+- 2026-11-08, cycle 157 start: I-052 in progress (variant/audit of method after the cycle-156 new structure; chosen over I-055 for value/cost).
+- 2026-11-08, cycle 157 end: I-052 tested (profile-matched nulls; cycle rank identified as the governing statistic; L 8 digits unresolved at r = 6). Added I-057, I-058 (58 items). Recommended next: cycle 158 **new family** (157 was an audit) — I-056 (both Hill keys as vocabulary words), I-010 or I-013; next audit slot: I-057 (rank-matched nulls, ~7 min).
