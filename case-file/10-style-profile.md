@@ -2,6 +2,8 @@
 
 > *You learn a forger by his old work. Sanborn signed three checks before he wrote the fourth one. I read the three again, slowly, looking for his handwriting rather than his words.*
 
+> **Superseded notice (added cycle 151, 2026-11-08).** Parts of this file were corrected by [case file 12](12-strips-and-periodic-keys.md) §1 and §5: the Smithsonian "strips" were Sanborn's 1990 plaintext copy for the CIA review, not a step of the encryption, so neither the strips nor the phrase "scrambled plain text" is evidence of a transposition layer in K4. Hypothesis **S6** (strip transposition) was tested and downgraded there; **S2** (meta-word key) was subsumed by the generic periodic-key test there and found negative. The text below is kept as written in cycle 12 for the record.
+
 Facts below come from the sourced case files [01](01-the-sculpture.md), [02](02-solved-sections.md) and [03](03-k4-evidence.md); every "→" line is an **inference** of mine, labelled as such, and every hypothesis ends with a test.
 
 ## 1. How the keys were chosen
@@ -36,6 +38,7 @@ Facts below come from the sourced case files [01](01-the-sculpture.md), [02](02-
 - K1 and K2 are substitution only; K3 is transposition only. K2's own plaintext says "LAYER TWO" and "ID BY ROWS" (the uncorrected reading). Sanborn's 2025 letter speaks of "scrambled plain text"; a secondary source (cipher.ink, Oct 2026) describes the Smithsonian pages as text "cut into strips and taped together out of order".
 → *Hypothesis S1 (style-pure):* K4 = **one transposition + one substitution**, both of the kinds already used: a K3-like geometric or columnar transposition and a KRYPTOS-alphabet substitution whose key changes "base" (digits rather than letters).
 → *Hypothesis S6:* "strips" suggests a **row/strip permutation** (write in rows, reorder the rows) rather than a column read — cheap to test next.
+  *[Superseded, cycle 13: the strips were a disclosure device, not a cipher step; S6 tested negative and downgraded — see [case 12](12-strips-and-periodic-keys.md) §1–2.]*
 
 ## 6. Relation to each other and to the sculpture
 K1 (illusion, light) sets the mood; K2 (location, buried, LAYER TWO) points at the site and the next layer; K3 (opening a tomb, "can you see anything") is the moment of discovery; K4 (Berlin, a clock, a bearing) moves the scene to 1989 Berlin. All four ciphertexts are cut into the left half; the KRYPTOS tableau on the right half *is* the K1/K2 key material, with its extra L.
@@ -46,8 +49,8 @@ K1 (illusion, light) sets the mood; K2 (location, buried, LAYER TWO) points at t
 |---|---|---|
 | S1 | transposition (columnar ≤8 all orders, keyword columnar 9–20, 8-way routes 2–48, K3 double rotations on 97–100 ragged grids) + KRYPTOS-style alphabet + **small-digit key of any origin** | **tested this cycle: negative** |
 | S4 | as S1, K3 geometry on 98 letters with **one letter omitted from the copper** at any position | **tested this cycle: negative** |
-| S2 | K4 key = a meta-word for its own mechanism (CLOCK, UHR, ZEIT, BASE, HOUR, MENGENLEHRE, SETTHEORY…) used K1-style after a transposition | open — next |
-| S6 | strip transposition (rows reordered) + digit or KA keyword substitution | open — next |
+| S2 | K4 key = a meta-word for its own mechanism (CLOCK, UHR, ZEIT, BASE, HOUR, MENGENLEHRE, SETTHEORY…) used K1-style after a transposition | open — next *(superseded: negative, subsumed by the generic periodic test, [case 12](12-strips-and-periodic-keys.md) §5)* |
+| S6 | strip transposition (rows reordered) + digit or KA keyword substitution | open — next *(superseded: tested negative and the strips lead downgraded, [case 12](12-strips-and-periodic-keys.md) §1–2)* |
 | S3 | plaintext is a scene with a bearing and a landmark, with one misspelling | scoring rule for all future tests |
 
 ## 8. Cycle-12 test of S1 and S4 (`tools/transwin_gen.py`, `tools/c/transwin.c`)
