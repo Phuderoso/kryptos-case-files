@@ -1,0 +1,17 @@
+# Recount (Python brute force) vs C tools, identical ranges
+agree hill_p0.py.txt ('2', '0', 'AZ', '0', '0') consistent=1 invertible=1
+agree hill_p0.py.txt ('2', '1', 'AZ', '0', '0') consistent=1 invertible=1
+agree hill_p1.py.txt ('2', '1', 'KA', '1', '1') consistent=1 invertible=1
+agree hill_p2.py.txt ('2', '0', 'AZ', '1', '0') consistent=1 invertible=1
+agree hill_p2.py.txt ('2', '1', 'AZ', '1', '0') consistent=1 invertible=1
+agree hill_p3.py.txt ('3', '0', 'KA', '0', '2') consistent=1 invertible=1
+agree px_k4q103771.py.txt ('KA', '1', '32') consistent=1
+agree px_k4q132659.py.txt ('AZ', '1', '35') consistent=1
+agree px_k4q154713.py.txt ('KA', '1', '32') consistent=1
+agree px_k4q154713.py.txt ('KA', '1', '33') consistent=1
+agree px_p11.py.txt ('AZ', '0', '5') consistent=1
+agree px_p12.py.txt ('KA', '1', '11') consistent=1
+agree px_p13.py.txt ('AZ', '1', '12') consistent=1
+agree px_p14.py.txt ('KA', '0', '27') consistent=1
+Hill configs compared 47600, Portax configs compared 27456, mismatching sub-cells 0
+Ragbaby recount: 240 configs, agree 240, positives 4

@@ -1,0 +1,80 @@
+== K4, full 165,782 perms ==
+Hill: n aff num ix off | configs consistent invertible | chance expectation
+   2 0 AZ 0 0 | 165782 0 0 | 8.32e-24
+   2 0 AZ 0 1 | 165782 0 0 | 8.32e-24
+   2 0 AZ 1 0 | 165782 0 0 | 5.91e-23
+   2 0 AZ 1 1 | 165782 0 0 | 5.91e-23
+   2 0 KA 0 0 | 165782 0 0 | 8.32e-24
+   2 0 KA 0 1 | 165782 0 0 | 8.32e-24
+   2 0 KA 1 0 | 165782 0 0 | 5.91e-23
+   2 0 KA 1 1 | 165782 0 0 | 5.91e-23
+   2 1 AZ 0 0 | 165782 0 0 | 5.62e-21
+   2 1 AZ 0 1 | 165782 0 0 | 5.62e-21
+   2 1 AZ 1 0 | 165782 0 0 | 3.99e-20
+   2 1 AZ 1 1 | 165782 0 0 | 3.99e-20
+   2 1 KA 0 0 | 165782 0 0 | 5.62e-21
+   2 1 KA 0 1 | 165782 0 0 | 5.62e-21
+   2 1 KA 1 0 | 165782 0 0 | 3.99e-20
+   2 1 KA 1 1 | 165782 0 0 | 3.99e-20
+   3 0 AZ 0 0 | 165782 0 0 | 9.88e-17
+   3 0 AZ 0 1 | 165782 0 0 | 9.88e-17
+   3 0 AZ 0 2 | 165782 0 0 | 9.88e-17
+   3 0 AZ 1 0 | 165782 0 0 | 6.75e-16
+   3 0 AZ 1 1 | 165782 0 0 | 6.75e-16
+   3 0 AZ 1 2 | 165782 0 0 | 2.93e-13
+   3 0 KA 0 0 | 165782 0 0 | 9.88e-17
+   3 0 KA 0 1 | 165782 0 0 | 9.88e-17
+   3 0 KA 0 2 | 165782 0 0 | 9.88e-17
+   3 0 KA 1 0 | 165782 0 0 | 6.75e-16
+   3 0 KA 1 1 | 165782 0 0 | 6.75e-16
+   3 0 KA 1 2 | 165782 0 0 | 2.93e-13
+   3 1 AZ 0 0 | 165782 0 0 | 1.74e-12
+   3 1 AZ 0 1 | 165782 0 0 | 1.74e-12
+   3 1 AZ 0 2 | 165782 0 0 | 1.74e-12
+   3 1 AZ 1 0 | 165782 0 0 | 1.15e-11
+   3 1 AZ 1 1 | 165782 0 0 | 1.15e-11
+   3 1 AZ 1 2 | 165782 0 0 | 5.05e-09
+   3 1 KA 0 0 | 165782 0 0 | 1.74e-12
+   3 1 KA 0 1 | 165782 0 0 | 1.74e-12
+   3 1 KA 0 2 | 165782 0 0 | 1.74e-12
+   3 1 KA 1 0 | 165782 0 0 | 1.15e-11
+   3 1 KA 1 1 | 165782 0 0 | 1.15e-11
+   3 1 KA 1 2 | 165782 0 0 | 5.05e-09
+  totals n2: configs 2652512 consistent 0 invertible 0 ; n3: configs 3978768 consistent 0 invertible 0
+  sum of chance expectation n2 1.82e-19 n3 1.02e-08
+Hill decodes (K lines): 0
+Ragbaby: configs 6225445664 crib1-fit 0 both-fit 0
+Portax: configs 31830144 consistent 121 ; informative (pairs>=12) listed 0
+   consistent at ('AZ', '1', 30) 3
+   consistent at ('AZ', '1', 31) 10
+   consistent at ('AZ', '1', 32) 18
+   consistent at ('AZ', '1', 33) 20
+   consistent at ('AZ', '1', 34) 5
+   consistent at ('AZ', '1', 35) 4
+   consistent at ('KA', '1', 31) 7
+   consistent at ('KA', '1', 32) 25
+   consistent at ('KA', '1', 33) 24
+   consistent at ('KA', '1', 34) 5
+
+== Pre-registered I-110 grid (all_s4.bin; cells C1 Hill2-consistent, C2 Hill3-consistent, C3 Ragbaby both-fit, C4 Portax consistent) ==
+  k4s4   cells [0, 0, 0, 27]  G = 0.188
+  null0  cells [0, 0, 0, 28]  G = 0.569
+  null1  cells [0, 0, 0, 28]  G = 0.569
+  null2  cells [0, 0, 0, 28]  G = 0.569
+  null3  cells [0, 0, 0, 24]  G = 0.000
+  null4  cells [0, 0, 0, 22]  G = 0.000
+  null5  cells [0, 0, 0, 25]  G = 0.000
+  null6  cells [0, 0, 0, 29]  G = 0.963
+  null7  cells [0, 0, 0, 28]  G = 0.569
+  null8  cells [0, 0, 0, 29]  G = 0.963
+  null9  cells [0, 0, 0, 28]  G = 0.569
+  null10 cells [0, 0, 0, 20]  G = 0.000
+  null11 cells [0, 0, 0, 28]  G = 0.569
+  null12 cells [0, 0, 0, 25]  G = 0.000
+  null13 cells [0, 0, 0, 26]  G = 0.000
+  null14 cells [0, 0, 0, 27]  G = 0.188
+  null15 cells [0, 0, 0, 31]  G = 1.837
+  null16 cells [0, 0, 0, 29]  G = 0.963
+  null17 cells [0, 0, 0, 23]  G = 0.000
+  null18 cells [0, 0, 0, 25]  G = 0.000
+  K4 grid p = (1 + #nulls with G >= G_K4)/20 = 0.60 (best attainable 0.05)

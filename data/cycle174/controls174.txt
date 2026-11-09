@@ -1,0 +1,17 @@
+PASS plant 0 hill {'n': 2, 'aff': 0, 'num': 'AZ', 'ix': 0, 'off': 0} q=149832 found=True other_hits_in_slice=1
+PASS plant 1 hill {'n': 2, 'aff': 1, 'num': 'KA', 'ix': 1, 'off': 1} q=92967 found=True other_hits_in_slice=0
+PASS plant 2 hill {'n': 2, 'aff': 0, 'num': 'AZ', 'ix': 1, 'off': 0} q=94958 found=True other_hits_in_slice=1
+PASS plant 3 hill {'n': 3, 'aff': 0, 'num': 'KA', 'ix': 0, 'off': 2} q=17687 found=True other_hits_in_slice=1
+PASS plant 4 hill {'n': 3, 'aff': 1, 'num': 'AZ', 'ix': 1, 'off': 0} q=118076 found=True other_hits_in_slice=0
+PASS plant 5 hill {'n': 3, 'aff': 1, 'num': 'KA', 'ix': 0, 'off': 1} q=118474 found=True other_hits_in_slice=0
+PASS plant 6 hill NEG {'n': 2, 'aff': 0, 'num': 'KA', 'ix': 0, 'off': 1} q=111104 found=False other_hits_in_slice=0
+PASS plant 7 rag {'ix': 0, 'dir': 1, 'alpha': 'KRYPTOSABCDEFGHIJLMNQUVWXZ'} q=127702 found=True other_hits_in_slice=0
+PASS plant 8 rag {'ix': 0, 'dir': -1, 'alpha': 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'} q=109160 found=True other_hits_in_slice=0
+PASS plant 9 rag {'ix': 0, 'dir': 1, 'alpha': 'ACEPTINGKRYOSBDFHJLMQUVWXZ'} q=140855 found=True other_hits_in_slice=0
+PASS plant 10 rag {'ix': 0, 'dir': -1, 'alpha': 'ADMITNGBCEFHJKLOPQRSUVWXYZ'} q=136693 found=True other_hits_in_slice=0
+PASS plant 11 portax {'num': 'AZ', 'ix': 0, 'key': 'LUCID'} q=54067 found=True other_hits_in_slice=0
+PASS plant 12 portax {'num': 'KA', 'ix': 1, 'key': 'UNDERGROUND'} q=12949 found=True other_hits_in_slice=0
+PASS plant 13 portax {'num': 'AZ', 'ix': 1, 'key': 'SHADOWFORCES'} q=23233 found=True other_hits_in_slice=0
+PASS plant 14 portax {'num': 'KA', 'ix': 0, 'key': 'THEHIDDENSHADOWLINEOFSIGHTX'} q=122742 found=True other_hits_in_slice=0
+PASS plant 15 portax NEG {'num': 'AZ', 'ix': 0, 'key': 'COMPASS'} q=41809 found=False other_hits_in_slice=0
+ALL PASS
