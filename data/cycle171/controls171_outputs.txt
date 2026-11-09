@@ -1,0 +1,206 @@
+##### controls171_bank_planted.txt
+e0: bankperm 43316 slot 198 model B mode 15 text cyc_K123ct offset 715 carved error crib_index 6 expect FIT23 miss=6
+e1: bankperm 109250 slot 127 model B mode 23 text natsec_act_1947_amended_rev offset 256988 crib error E->A crib_index 0 expect FIT23 miss=0
+e2: bankperm 113014 slot 84 model B mode 17 text natsec_act_1947_amended_rev offset 343466 carved error crib_index 21 expect FIT23 miss=21
+e3: bankperm 54782 slot 6 model A mode 0 text cyc_K123pt offset 444 crib error N->W crib_index 4 expect FIT23 miss=4
+e4: bankperm 77137 slot 102 model A mode 23 text kjv_john_rev offset 11353 carved error crib_index 18 expect FIT23 miss=18
+e5: bankperm 70556 slot 0 model A mode 12 text cyc_K123pt offset 668 crib error R->C crib_index 15 expect FIT23 miss=15
+e6: bankperm 61771 slot 26 model B mode 19 text cyc_K123ct_rev offset 715 carved error crib_index 21 expect FIT23 miss=21
+e7: bankperm 35527 slot 174 model A mode 9 text carter1_rev offset 266549 crib error T->I crib_index 7 expect FIT23 miss=7
+n0: bankperm 162684 slot 169 model B mode 5 text carter1 offset 46538 non-crib carved error pos 93 expect FULL
+n1: bankperm 63831 slot 115 model B mode 14 text kjv_nt_rev offset 608738 non-crib carved error pos 46 expect FULL
+d0: bankperm 66682 slot 36 model A mode 13 text reagan_berlin_rev offset 3636 errors crib_index 21,9 expect ABSENT
+d1: bankperm 71495 slot 14 model B mode 10 text cyc_K123pt offset 131 errors crib_index 20,5 expect ABSENT
+s0: bankperm 161694 slot 149 model A mode 3 text reagan_berlin_rev offset 2492 no error expect FULL
+s1: bankperm 158820 slot 87 model B mode 2 text kjv_nt offset 503599 no error expect FULL
+##### Porta control outputs
+== ctl/ctl0.out
+FIT perm 46 ord 69754 src_alpha 60091 split E d 20 EOHNVCRSAXFYLDIUJPMGTKWQBZ per V1A: V1B: V2A:11,22, V2B: rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 32 surv_mask_free 1 surv_mask_forced 33 surv_ord_free 2 surv_ord_forced 77 rk_ord_free 2 rk_ord_forced 77 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12
+EXPECT V1A 3.9e-23 5.07e-22 6.59e-21 8.56e-20 1.11e-18 1.45e-17 1.88e-16 2.45e-15 3.18e-14 4.13e-13 5.37e-12 6.73e-11 8.54e-10 7.4e-10 1.04e-07 1.32e-06 1.58e-05 1.77e-05 1.25e-07 8.68e-10 7.4e-10 1.14e-07 1.45e-05 0.00167 0.205 10.7
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+EXPECT V1B 3.9e-23 5.07e-22 6.59e-21 8.56e-20 1.06e-18 1.45e-17 1.77e-16 1.93e-15 2.96e-14 1.17e-13 3.85e-12 4.33e-11 4.44e-10 1.53e-09 8.73e-09 1.26e-07 1.65e-06 7.64e-05 1.05e-05 4.49e-05 0.000209 0.00611 0.00197 0.424 0.0555 1.01
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 17
+EXPECT V2A 3.9e-23 5.07e-22 6.59e-21 8.56e-20 1.11e-18 1.45e-17 1.88e-16 2.45e-15 3.18e-14 4.13e-13 5.37e-12 6.73e-11 8.54e-10 7.4e-10 1.04e-07 1.32e-06 1.58e-05 1.77e-05 1.25e-07 8.68e-10 7.4e-10 1.14e-07 1.45e-05 0.00167 0.205 10.7
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1
+EXPECT V2B 3.9e-23 5.07e-22 6.59e-21 8.56e-20 1.06e-18 1.45e-17 1.77e-16 1.93e-15 2.96e-14 1.17e-13 3.85e-12 4.33e-11 4.44e-10 1.53e-09 8.73e-09 1.26e-07 1.65e-06 7.64e-05 1.05e-05 4.49e-05 0.000209 0.00611 0.00197 0.424 0.0555 1.01
+== ctl/ctl1.out
+FIT perm 74 ord 65052 src_alpha 23330 split F d -1 EDKQXFAHMUZOBINVRCJPWSGLTY per V1A:25,26, V1B:12,24, V2A:26, V2B: rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 44 surv_mask_free 7 surv_mask_forced 35 surv_ord_free 10 surv_ord_forced 64 rk_ord_free 10 rk_ord_forced 64 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 21
+EXPECT V1A 9.49e-23 1.23e-21 1.6e-20 2.08e-19 2.71e-18 3.52e-17 4.58e-16 5.95e-15 7.74e-14 1.01e-12 1.31e-11 1.65e-10 2.07e-09 2.06e-09 3e-07 3.59e-06 3.56e-05 3.48e-05 2.94e-07 2.08e-09 2.06e-09 2.96e-07 4.13e-05 0.00563 0.542 21.4
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+EXPECT V1B 9.49e-23 1.23e-21 1.6e-20 2.08e-19 2.6e-18 3.52e-17 4.2e-16 5.49e-15 7.57e-14 7.92e-13 9.7e-12 4.97e-11 1.18e-09 2.86e-09 2.33e-08 6.25e-08 6.43e-06 2.56e-05 6.49e-05 9.27e-05 4.74e-06 0.00544 0.0426 0.000723 0.448 0.0318
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 19
+EXPECT V2A 9.49e-23 1.23e-21 1.6e-20 2.08e-19 2.71e-18 3.52e-17 4.58e-16 5.95e-15 7.74e-14 1.01e-12 1.31e-11 1.65e-10 2.07e-09 2.06e-09 3e-07 3.59e-06 3.56e-05 3.48e-05 2.94e-07 2.08e-09 2.06e-09 2.96e-07 4.13e-05 0.00563 0.542 21.4
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 9.49e-23 1.23e-21 1.6e-20 2.08e-19 2.6e-18 3.52e-17 4.2e-16 5.49e-15 7.57e-14 7.92e-13 9.7e-12 4.97e-11 1.18e-09 2.86e-09 2.33e-08 6.25e-08 6.43e-06 2.56e-05 6.49e-05 9.27e-05 4.74e-06 0.00544 0.0426 0.000723 0.448 0.0318
+== ctl/ctl10.out
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 33 surv_mask_free 0 surv_mask_forced 20 surv_ord_free 0 surv_ord_forced 43 rk_ord_free 0 rk_ord_forced 43 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 9
+EXPECT V1A 1.34e-23 1.74e-22 2.26e-21 2.94e-20 3.82e-19 4.97e-18 6.46e-17 8.4e-16 1.09e-14 1.42e-13 1.85e-12 2.24e-11 2.32e-10 3.05e-10 4.03e-08 5.97e-07 6.23e-06 3.36e-06 2.56e-08 2.72e-10 3.05e-10 4.03e-08 6.42e-06 0.000956 0.156 7
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 1.34e-23 1.74e-22 2.26e-21 2.94e-20 3.82e-19 4.86e-18 5e-17 4.43e-16 9.4e-15 7.87e-14 1.23e-12 1.93e-11 7.11e-11 1.02e-09 1.42e-08 1.1e-07 5.3e-08 3.85e-06 1.18e-05 3.94e-05 0.000466 0.00224 0.000357 0.00419 0.34 0.397
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4
+EXPECT V2A 1.34e-23 1.74e-22 2.26e-21 2.94e-20 3.82e-19 4.97e-18 6.46e-17 8.4e-16 1.09e-14 1.42e-13 1.85e-12 2.24e-11 2.32e-10 3.05e-10 4.03e-08 5.97e-07 6.23e-06 3.36e-06 2.56e-08 2.72e-10 3.05e-10 4.03e-08 6.42e-06 0.000956 0.156 7
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+EXPECT V2B 1.34e-23 1.74e-22 2.26e-21 2.94e-20 3.82e-19 4.86e-18 5e-17 4.43e-16 9.4e-15 7.87e-14 1.23e-12 1.93e-11 7.11e-11 1.02e-09 1.42e-08 1.1e-07 5.3e-08 3.85e-06 1.18e-05 3.94e-05 0.000466 0.00224 0.000357 0.00419 0.34 0.397
+== ctl/ctl11.out
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 43 surv_mask_free 1 surv_mask_forced 30 surv_ord_free 2 surv_ord_forced 72 rk_ord_free 2 rk_ord_forced 72 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 28
+EXPECT V1A 3.74e-23 4.86e-22 6.32e-21 8.22e-20 1.07e-18 1.39e-17 1.81e-16 2.35e-15 3.05e-14 3.97e-13 5.16e-12 6.14e-11 8.31e-10 8.31e-10 1.03e-07 1.28e-06 1.76e-05 1.42e-05 1.08e-07 7.31e-10 8.31e-10 1.05e-07 1.46e-05 0.00185 0.252 26.9
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 3.74e-23 4.86e-22 6.32e-21 8.22e-20 1.03e-18 1.26e-17 1.72e-16 2.09e-15 2.95e-14 2.61e-13 3.82e-12 3.49e-11 1.71e-10 2.22e-09 5.36e-08 1.32e-07 2.46e-07 7.33e-05 1.49e-06 0.00013 0.00127 0.00124 0.00119 0.089 0.0949 0.012
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 26
+EXPECT V2A 3.74e-23 4.86e-22 6.32e-21 8.22e-20 1.07e-18 1.39e-17 1.81e-16 2.35e-15 3.05e-14 3.97e-13 5.16e-12 6.14e-11 8.31e-10 8.31e-10 1.03e-07 1.28e-06 1.76e-05 1.42e-05 1.08e-07 7.31e-10 8.31e-10 1.05e-07 1.46e-05 0.00185 0.252 26.9
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 3.74e-23 4.86e-22 6.32e-21 8.22e-20 1.03e-18 1.26e-17 1.72e-16 2.09e-15 2.95e-14 2.61e-13 3.82e-12 3.49e-11 1.71e-10 2.22e-09 5.36e-08 1.32e-07 2.46e-07 7.33e-05 1.49e-06 0.00013 0.00127 0.00124 0.00119 0.089 0.0949 0.012
+== ctl/ctl2.out
+FIT perm 69 ord 72621 src_alpha 23889 split E d 4 FEACGIKMOQUWYRTBDHJLNPSVXZ per V1A: V1B: V2A: V2B: rk 1 RK:reagan_berlin_rev:f0:V1:A:s-:c8:t6370:miss4
+FIT perm 69 ord 137636 src_alpha 23891 split E d 4 ZXVSPNLJHDBTRYWUQOMKIGCAEF per V1A: V1B: V2A: V2B: rk 1 RK:reagan_berlin_rev:f0:V1:A:s-:c8:t6370:miss4
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 69 surv_mask_free 1 surv_mask_forced 24 surv_ord_free 5 surv_ord_forced 69 rk_ord_free 5 rk_ord_forced 69 rk_fits 2
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16
+EXPECT V1A 5.9e-23 7.67e-22 9.97e-21 1.3e-19 1.68e-18 2.19e-17 2.85e-16 3.7e-15 4.81e-14 6.25e-13 8.13e-12 1.02e-10 1.31e-09 1.29e-09 1.85e-07 2.14e-06 2.09e-05 2.22e-05 1.87e-07 1.25e-09 1.29e-09 1.95e-07 2.57e-05 0.00333 0.318 18.6
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 5.9e-23 7.67e-22 9.97e-21 1.3e-19 1.68e-18 2.19e-17 2.8e-16 3.52e-15 1.18e-14 5.83e-13 2.38e-13 8.75e-11 1.95e-11 1.99e-10 1.31e-08 1.37e-07 1.55e-06 1.1e-06 0.000176 2.99e-05 0.0217 0.000457 0.276 0.0175 0.0656 0.0478
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14
+EXPECT V2A 5.9e-23 7.67e-22 9.97e-21 1.3e-19 1.68e-18 2.19e-17 2.85e-16 3.7e-15 4.81e-14 6.25e-13 8.13e-12 1.02e-10 1.31e-09 1.29e-09 1.85e-07 2.14e-06 2.09e-05 2.22e-05 1.87e-07 1.25e-09 1.29e-09 1.95e-07 2.57e-05 0.00333 0.318 18.6
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 5.9e-23 7.67e-22 9.97e-21 1.3e-19 1.68e-18 2.19e-17 2.8e-16 3.52e-15 1.18e-14 5.83e-13 2.38e-13 8.75e-11 1.95e-11 1.99e-10 1.31e-08 1.37e-07 1.55e-06 1.1e-06 0.000176 2.99e-05 0.0217 0.000457 0.276 0.0175 0.0656 0.0478
+== ctl/ctl3.out
+FIT perm 71 ord 47417 src_alpha 81584 split F d -1 CIABERLNOKDFGHJMPQSTUVWXYZ per V1A:26, V1B: V2A:25,26, V2B:3,6,9,12,15,18,21,24, rk 0
+FIT perm 71 ord 170458 src_alpha 81585 split F d -1 ZYXWVUTSQPMJHGFDKONLREBAIC per V1A:26, V1B: V2A:25,26, V2B:3,6,9,12,15,18,21,24, rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 56 surv_mask_free 11 surv_mask_forced 63 surv_ord_free 62 surv_ord_forced 141 rk_ord_free 62 rk_ord_forced 141 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 111
+EXPECT V1A 5.09e-22 6.61e-21 8.6e-20 1.12e-18 1.45e-17 1.89e-16 2.46e-15 3.19e-14 4.15e-13 5.39e-12 7.01e-11 8.76e-10 1.1e-08 1.1e-08 1.58e-06 1.84e-05 0.000207 0.000199 1.51e-06 1.1e-08 1.1e-08 1.57e-06 0.000217 0.0281 3.23 102
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+EXPECT V1B 5.09e-22 6.61e-21 8.6e-20 1.12e-18 1.45e-17 1.89e-16 2.46e-15 3.19e-14 3.99e-13 5.09e-12 1.7e-12 8.28e-11 8.1e-10 1.03e-09 1.46e-06 1.25e-07 1.98e-08 0.000203 0.000752 0.000209 0.000596 0.00455 0.000605 0.0265 0.0127 0.37
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 98
+EXPECT V2A 5.09e-22 6.61e-21 8.6e-20 1.12e-18 1.45e-17 1.89e-16 2.46e-15 3.19e-14 4.15e-13 5.39e-12 7.01e-11 8.76e-10 1.1e-08 1.1e-08 1.58e-06 1.84e-05 0.000207 0.000199 1.51e-06 1.1e-08 1.1e-08 1.57e-06 0.000217 0.0281 3.23 102
+PERIODIC V2B 0 0 2 0 0 2 0 0 2 0 0 2 0 0 2 0 0 2 0 0 2 0 0 2 0 0
+EXPECT V2B 5.09e-22 6.61e-21 8.6e-20 1.12e-18 1.45e-17 1.89e-16 2.46e-15 3.19e-14 3.99e-13 5.09e-12 1.7e-12 8.28e-11 8.1e-10 1.03e-09 1.46e-06 1.25e-07 1.98e-08 0.000203 0.000752 0.000209 0.000596 0.00455 0.000605 0.0265 0.0127 0.37
+== ctl/ctl4.out
+FIT perm 159 ord 107858 src_alpha 58603 split E d 18 TIEBDGJMPRUWYOLACFHKNQSVXZ per V1A:12,18,24, V1B: V2A: V2B: rk 0
+FIT perm 159 ord 138388 src_alpha 58605 split E d 18 ZXVSQNKHFCALOYWURPMJGDBEIT per V1A:12,18,24, V1B: V2A: V2B: rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 56 surv_mask_free 1 surv_mask_forced 29 surv_ord_free 1 surv_ord_forced 82 rk_ord_free 1 rk_ord_forced 82 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 2 0 7
+EXPECT V1A 3.3e-23 4.29e-22 5.58e-21 7.26e-20 9.43e-19 1.23e-17 1.59e-16 2.07e-15 2.69e-14 3.5e-13 4.55e-12 3.7e-11 7.36e-10 6.89e-10 1.16e-07 6.61e-07 9.35e-06 1.03e-05 1.14e-07 7.16e-10 6.89e-10 1.11e-07 1.68e-05 0.000902 0.125 11.9
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 3.3e-23 4.29e-22 5.58e-21 7.07e-20 9.35e-19 1.23e-17 1.42e-16 2e-15 5.23e-15 2.24e-13 1.05e-12 8.95e-12 8.75e-11 3.52e-10 1.96e-08 9.89e-08 1.42e-06 1.12e-07 5.28e-05 0.000144 4.12e-05 0.000929 0.0824 0.0238 0.00194 0.00124
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+EXPECT V2A 3.3e-23 4.29e-22 5.58e-21 7.26e-20 9.43e-19 1.23e-17 1.59e-16 2.07e-15 2.69e-14 3.5e-13 4.55e-12 3.7e-11 7.36e-10 6.89e-10 1.16e-07 6.61e-07 9.35e-06 1.03e-05 1.14e-07 7.16e-10 6.89e-10 1.11e-07 1.68e-05 0.000902 0.125 11.9
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 3.3e-23 4.29e-22 5.58e-21 7.07e-20 9.35e-19 1.23e-17 1.42e-16 2e-15 5.23e-15 2.24e-13 1.05e-12 8.95e-12 8.75e-11 3.52e-10 1.96e-08 9.89e-08 1.42e-06 1.12e-07 5.28e-05 0.000144 4.12e-05 0.000929 0.0824 0.0238 0.00194 0.00124
+== ctl/ctl5.out
+FIT perm 79 ord 64730 src_alpha 44825 split F d -1 ECTGJXIFVLKZNHWPAORBQSDUYM per V1A:26, V1B: V2A:26, V2B: rk 2 RK:kjv_john_rev:f1:V2:B:s-:c11:t52066:miss12 RK:kjv_nt_rev:f1:V2:B:s-:c11:t454327:miss12
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 46 surv_mask_free 3 surv_mask_forced 21 surv_ord_free 5 surv_ord_forced 60 rk_ord_free 5 rk_ord_forced 60 rk_fits 2
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12
+EXPECT V1A 5.62e-23 7.3e-22 9.49e-21 1.23e-19 1.6e-18 2.09e-17 2.71e-16 3.52e-15 4.58e-14 5.96e-13 7.74e-12 9.7e-11 1.24e-09 1.24e-09 1.85e-07 2.12e-06 1.88e-05 1.86e-05 1.75e-07 1.23e-09 1.24e-09 1.86e-07 2.65e-05 0.0036 0.281 11.5
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 5.62e-23 7.3e-22 9.49e-21 1.23e-19 1.1e-18 2.09e-17 2.67e-16 3.36e-15 2.76e-14 3.33e-13 6.52e-12 4.01e-11 9.16e-11 1.3e-08 1.2e-08 1.14e-06 3.96e-06 0.000141 7.52e-06 2.28e-07 0.00637 0.000116 0.000988 0.00209 0.0203 0.017
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14
+EXPECT V2A 5.62e-23 7.3e-22 9.49e-21 1.23e-19 1.6e-18 2.09e-17 2.71e-16 3.52e-15 4.58e-14 5.96e-13 7.74e-12 9.7e-11 1.24e-09 1.24e-09 1.85e-07 2.12e-06 1.88e-05 1.86e-05 1.75e-07 1.23e-09 1.24e-09 1.86e-07 2.65e-05 0.0036 0.281 11.5
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 5.62e-23 7.3e-22 9.49e-21 1.23e-19 1.1e-18 2.09e-17 2.67e-16 3.36e-15 2.76e-14 3.33e-13 6.52e-12 4.01e-11 9.16e-11 1.3e-08 1.2e-08 1.14e-06 3.96e-06 0.000141 7.52e-06 2.28e-07 0.00637 0.000116 0.000988 0.00209 0.0203 0.017
+== ctl/ctl6.out
+FIT perm 5 ord 99994 src_alpha 48085 split E d -1 RMVBDGIKNQTWYEOACFHJLPSUXZ per V1A:7,14,21,26, V1B:21, V2A:26, V2B: rk 0
+FIT perm 5 ord 127689 src_alpha 48087 split E d -1 ZXUSPLJHFCAOEYWTQNKIGDBVMR per V1A:7,14,21,26, V1B:21, V2A:26, V2B: rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 41 surv_mask_free 2 surv_mask_forced 16 surv_ord_free 30 surv_ord_forced 36 rk_ord_free 30 rk_ord_forced 36 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 38
+EXPECT V1A 2.36e-22 3.07e-21 3.99e-20 5.19e-19 6.74e-18 8.77e-17 1.14e-15 1.48e-14 1.93e-13 2.5e-12 3.25e-11 4.07e-10 5.1e-09 5.04e-09 7.04e-07 8.45e-06 9.82e-05 9.76e-05 7.18e-07 5.05e-09 5.04e-09 7.04e-07 9.5e-05 0.0121 1.38 39.2
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0
+EXPECT V1B 2.36e-22 3.07e-21 3.99e-20 5.19e-19 6.72e-18 8.77e-17 1.1e-15 1.42e-14 1.85e-13 2.3e-12 3.56e-12 8.76e-12 4.51e-09 4.35e-09 6.49e-08 1.02e-06 7.23e-06 1.38e-05 0.00135 0.00114 8.34e-06 8.35e-05 0.000457 0.000218 0.00596 0.00053
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 43
+EXPECT V2A 2.36e-22 3.07e-21 3.99e-20 5.19e-19 6.74e-18 8.77e-17 1.14e-15 1.48e-14 1.93e-13 2.5e-12 3.25e-11 4.07e-10 5.1e-09 5.04e-09 7.04e-07 8.45e-06 9.82e-05 9.76e-05 7.18e-07 5.05e-09 5.04e-09 7.04e-07 9.5e-05 0.0121 1.38 39.2
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 2.36e-22 3.07e-21 3.99e-20 5.19e-19 6.72e-18 8.77e-17 1.1e-15 1.42e-14 1.85e-13 2.3e-12 3.56e-12 8.76e-12 4.51e-09 4.35e-09 6.49e-08 1.02e-06 7.23e-06 1.38e-05 0.00135 0.00114 8.34e-06 8.35e-05 0.000457 0.000218 0.00596 0.00053
+== ctl/ctl7.out
+FIT perm 19 ord 83397 src_alpha 79016 split E d -1 IUOWATECGKPRXLSNHYDBFJMQVZ per V1A:26, V1B: V2A:25,26, V2B:5,10,15,20,25, rk 0
+FIT perm 19 ord 118019 src_alpha 79017 split E d -1 ZVQMJFBDYHNSLXRPKGCETAWOUI per V1A:26, V1B: V2A:25,26, V2B:5,10,15,20,25, rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 24 surv_mask_free 2 surv_mask_forced 37 surv_ord_free 3 surv_ord_forced 95 rk_ord_free 3 rk_ord_forced 95 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21
+EXPECT V1A 5.21e-23 6.77e-22 8.8e-21 1.14e-19 1.49e-18 1.93e-17 2.51e-16 3.27e-15 4.25e-14 5.52e-13 7.18e-12 8.87e-11 1.15e-09 1.17e-09 1.37e-07 1.77e-06 2.58e-05 2.37e-05 1.61e-07 1.14e-09 1.17e-09 1.52e-07 1.82e-05 0.00211 0.29 25.1
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 5.21e-23 6.77e-22 8.8e-21 1.14e-19 1.4e-18 1.88e-17 1.98e-16 3.04e-15 3.92e-14 3.32e-13 4.16e-12 7.48e-11 4.54e-10 1.1e-09 1.4e-08 7.34e-07 3.84e-07 1.67e-05 1.98e-06 7.2e-05 0.0144 0.00121 0.0442 0.0207 0.0976 0.0627
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 27
+EXPECT V2A 5.21e-23 6.77e-22 8.8e-21 1.14e-19 1.49e-18 1.93e-17 2.51e-16 3.27e-15 4.25e-14 5.52e-13 7.18e-12 8.87e-11 1.15e-09 1.17e-09 1.37e-07 1.77e-06 2.58e-05 2.37e-05 1.61e-07 1.14e-09 1.17e-09 1.52e-07 1.82e-05 0.00211 0.29 25.1
+PERIODIC V2B 0 0 0 0 2 0 0 0 0 2 0 0 0 0 2 0 0 0 0 2 0 0 0 0 2 0
+EXPECT V2B 5.21e-23 6.77e-22 8.8e-21 1.14e-19 1.4e-18 1.88e-17 1.98e-16 3.04e-15 3.92e-14 3.32e-13 4.16e-12 7.48e-11 4.54e-10 1.1e-09 1.4e-08 7.34e-07 3.84e-07 1.67e-05 1.98e-06 7.2e-05 0.0144 0.00121 0.0442 0.0207 0.0976 0.0627
+== ctl/ctl8.out
+FIT perm 154 ord 90004 src_alpha 37787 split F d 11 MONUETSABCDFGHIJKLPQRVWXYZ per V1A: V1B: V2A: V2B: rk 1 RK:natsec_act_1947_amended:f1:V2:A:s+:c0:t353496:miss11
+FIT perm 154 ord 157002 src_alpha 37789 split F d 11 ZYXWVRQPLKJIHGFDCBASTEUNOM per V1A: V1B: V2A: V2B: rk 1 RK:natsec_act_1947_amended:f1:V2:A:s+:c12:t353496:miss11
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 37 surv_mask_free 0 surv_mask_forced 27 surv_ord_free 0 surv_ord_forced 83 rk_ord_free 0 rk_ord_forced 83 rk_fits 2
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5
+EXPECT V1A 2.58e-23 3.36e-22 4.37e-21 5.68e-20 7.38e-19 9.59e-18 1.25e-16 1.62e-15 2.11e-14 2.74e-13 3.56e-12 3.86e-11 5.55e-10 3.88e-10 5.76e-08 8.52e-07 9.55e-06 1.15e-05 9.04e-08 6.02e-10 3.88e-10 5.99e-08 7.44e-06 0.000708 0.114 7.31
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V1B 2.58e-23 3.36e-22 4.37e-21 5.61e-20 7.22e-19 9.59e-18 1.2e-16 6.89e-16 1.49e-14 1.4e-13 1.19e-12 4.16e-11 9.32e-11 7.13e-10 1.98e-09 3.24e-07 4.39e-07 2.86e-06 3.59e-05 1.35e-05 0.000502 0.00833 0.00013 0.00158 0.019 0.0835
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+EXPECT V2A 2.58e-23 3.36e-22 4.37e-21 5.68e-20 7.38e-19 9.59e-18 1.25e-16 1.62e-15 2.11e-14 2.74e-13 3.56e-12 3.86e-11 5.55e-10 3.88e-10 5.76e-08 8.52e-07 9.55e-06 1.15e-05 9.04e-08 6.02e-10 3.88e-10 5.99e-08 7.44e-06 0.000708 0.114 7.31
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 2.58e-23 3.36e-22 4.37e-21 5.61e-20 7.22e-19 9.59e-18 1.2e-16 6.89e-16 1.49e-14 1.4e-13 1.19e-12 4.16e-11 9.32e-11 7.13e-10 1.98e-09 3.24e-07 4.39e-07 2.86e-06 3.59e-05 1.35e-05 0.000502 0.00833 0.00013 0.00158 0.019 0.0835
+== ctl/ctl9.out
+FIT perm 37 ord 100586 src_alpha 48762 split E d 7 RTINBDHKOQUWYEALGCFJMPSVXZ per V1A: V1B:11,22, V2A: V2B: rk 0
+FIT perm 37 ord 136761 src_alpha 48764 split E d 7 ZXVSPMJFCGLAEYWUQOKHDBNITR per V1A: V1B:11,22, V2A: V2B: rk 0
+SUMMARY perms 200 masks 69012 orderings 173431 dead_2self 33 surv_mask_free 0 surv_mask_forced 18 surv_ord_free 0 surv_ord_forced 82 rk_ord_free 0 rk_ord_forced 82 rk_fits 0
+PERIODIC V1A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20
+EXPECT V1A 2.55e-23 3.32e-22 4.31e-21 5.61e-20 7.29e-19 9.48e-18 1.23e-16 1.6e-15 2.08e-14 2.71e-13 3.52e-12 4.37e-11 5.75e-10 5.95e-10 6.2e-08 9.1e-07 1.2e-05 1.22e-05 7.79e-08 5.95e-10 5.95e-10 9.49e-08 9.72e-06 0.0009 0.152 22
+PERIODIC V1B 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0
+EXPECT V1B 2.55e-23 3.32e-22 4.31e-21 5.61e-20 7.29e-19 9.05e-18 2.34e-17 1.57e-15 2.06e-14 2.64e-13 6.69e-13 2.54e-11 1.77e-10 3.21e-10 1.09e-08 7.89e-07 1.06e-06 8.57e-05 4.13e-05 8e-05 1.25e-05 0.00047 0.00751 0.18 0.000636 0.0238
+PERIODIC V2A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20
+EXPECT V2A 2.55e-23 3.32e-22 4.31e-21 5.61e-20 7.29e-19 9.48e-18 1.23e-16 1.6e-15 2.08e-14 2.71e-13 3.52e-12 4.37e-11 5.75e-10 5.95e-10 6.2e-08 9.1e-07 1.2e-05 1.22e-05 7.79e-08 5.95e-10 5.95e-10 9.49e-08 9.72e-06 0.0009 0.152 22
+PERIODIC V2B 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EXPECT V2B 2.55e-23 3.32e-22 4.31e-21 5.61e-20 7.29e-19 9.05e-18 2.34e-17 1.57e-15 2.06e-14 2.64e-13 6.69e-13 2.54e-11 1.77e-10 3.21e-10 1.09e-08 7.89e-07 1.06e-06 8.57e-05 4.13e-05 8e-05 1.25e-05 0.00047 0.00751 0.18 0.000636 0.0238
+##### bank control outputs
+== ctl171b/d0.out
+CAND1 depth1=21 depth=9 perm=36 model=A mode=13 text=reagan_berlin_rev
+SUMMARY perms=200 configs=349560 best=9 best1=21 full=0 fit23=0 hist: 0:20844 1:165023 2:109130 3:42194 4:11262 5:1046 6:55 7:5 9:1 hist1: 1:4238 2:108137 3:135118 4:67249 5:29275 6:5104 7:421 8:17 21:1 bestS=9 histS: 0:20454 1:163548 2:108190 3:41874 4:11165 5:1029 6:54 7:5 9:1
+== ctl171b/d1.out
+CAND1 depth1=20 depth=5 perm=14 model=B mode=10 text=cyc_K2pt_carved
+CAND1 depth1=20 depth=5 perm=14 model=B mode=10 text=cyc_K2pt_fixed
+CAND1 depth1=20 depth=5 perm=14 model=B mode=10 text=cyc_K123pt
+CAND1 depth1=20 depth=5 perm=14 model=B mode=10 text=cyc_K123pt_K0
+SUMMARY perms=200 configs=350460 best=7 best1=20 full=0 fit23=0 hist: 0:20640 1:166663 2:109432 3:41135 4:11343 5:1192 6:52 7:3 hist1: 1:4074 2:109293 3:134854 4:67235 5:29193 6:5401 7:389 8:16 9:1 20:4 bestS=7 histS: 0:20232 1:164685 2:108232 3:40725 4:11215 5:1176 6:52 7:3
+== ctl171b/e0.out
+FIT23 perm=198 model=B mode=15 text=cyc_K123ct offset=715 miss=6
+SUMMARY perms=200 configs=349308 best=7 best1=24 full=0 fit23=1 hist: 0:23812 1:167259 2:105516 3:41222 4:10529 5:920 6:47 7:3 hist1: 1:4172 2:111853 3:135165 4:65853 5:27159 6:4721 7:363 8:21 24:1 bestS=7 histS: 0:23260 1:165871 2:104689 3:40802 4:10410 5:914 6:47 7:3
+== ctl171b/e1.out
+FIT23 perm=127 model=B mode=23 text=natsec_act_1947_amended_rev offset=256988 miss=0
+SUMMARY perms=200 configs=350208 best=7 best1=24 full=0 fit23=1 hist: 0:24206 1:161708 2:108949 3:42040 4:11892 5:1335 6:71 7:7 hist1: 1:4658 2:106608 3:135892 4:66750 5:30402 6:5398 7:470 8:28 9:1 24:1 bestS=7 histS: 0:23864 1:160132 2:107722 3:41620 4:11790 5:1330 6:71 7:7
+== ctl171b/e2.out
+FIT23 perm=84 model=B mode=17 text=natsec_act_1947_amended_rev offset=343466 miss=21
+SUMMARY perms=200 configs=350316 best=21 best1=24 full=0 fit23=1 hist: 0:21968 1:170232 2:105916 3:40828 4:10307 5:1002 6:60 7:2 21:1 hist1: 1:4068 2:111755 3:136430 4:65445 5:27404 6:4855 7:339 8:18 9:1 24:1 bestS=21 histS: 0:21678 1:168241 2:104662 3:40336 4:10170 5:991 6:60 7:1 21:1
+== ctl171b/e3.out
+FIT23 perm=6 model=A mode=0 text=cyc_K3pt offset=11 miss=4
+FIT23 perm=6 model=A mode=0 text=cyc_K123pt offset=444 miss=4
+FIT23 perm=6 model=A mode=0 text=cyc_K123pt_K0 offset=525 miss=4
+FIT23 perm=6 model=A mode=0 text=carter1 offset=138875 miss=4
+SUMMARY perms=200 configs=353700 best=7 best1=24 full=0 fit23=4 hist: 0:18344 1:166641 2:111540 3:43012 4:12721 5:1371 6:70 7:1 hist1: 1:3686 2:106933 3:135866 4:68242 5:32506 6:6036 7:409 8:16 10:2 24:4 bestS=7 histS: 0:18048 1:163975 2:109546 3:42100 4:12446 5:1359 6:69 7:1
+== ctl171b/e4.out
+FIT23 perm=102 model=A mode=23 text=kjv_john_rev offset=11353 miss=18
+FIT23 perm=102 model=A mode=23 text=kjv_nt_rev offset=413614 miss=18
+SUMMARY perms=200 configs=350820 best=18 best1=24 full=0 fit23=2 hist: 0:21014 1:162970 2:109986 3:43690 4:11842 5:1223 6:89 7:3 10:1 18:2 hist1: 1:3628 2:106351 3:137105 4:67598 5:30198 6:5496 7:412 8:26 9:2 10:1 11:1 24:2 bestS=18 histS: 0:20596 1:161019 2:108677 3:43162 4:11704 5:1212 6:88 7:3 10:1 18:2
+== ctl171b/e5.out
+FIT23 perm=0 model=A mode=12 text=cyc_K3pt offset=235 miss=15
+FIT23 perm=0 model=A mode=12 text=cyc_K123pt offset=668 miss=15
+FIT23 perm=0 model=A mode=12 text=cyc_K123pt_K0 offset=749 miss=15
+SUMMARY perms=200 configs=350352 best=15 best1=24 full=0 fit23=3 hist: 0:24146 1:164270 2:108801 3:40617 4:11315 5:1116 6:81 7:2 13:1 15:3 hist1: 1:3700 2:110921 3:132930 4:67013 5:30312 6:5093 7:356 8:19 9:4 14:1 24:3 bestS=15 histS: 0:23532 1:162864 2:107827 3:40271 4:11207 5:1108 6:81 7:2 13:1 15:3
+== ctl171b/e6.out
+FIT23 perm=26 model=B mode=19 text=cyc_K123ct_rev offset=715 miss=21
+SUMMARY perms=200 configs=350028 best=21 best1=24 full=0 fit23=1 hist: 0:21328 1:166621 2:106618 3:42423 4:11783 5:1195 6:56 7:3 21:1 hist1: 1:4124 2:107482 3:134207 4:67831 5:30753 6:5199 7:410 8:20 9:1 24:1 bestS=21 histS: 0:20868 1:164898 2:105481 3:42047 4:11669 5:1189 6:56 7:3 21:1
+== ctl171b/e7.out
+CAND1 depth1=23 depth=7 perm=112 model=A mode=9 text=carter1_rev
+FIT23 perm=174 model=A mode=9 text=carter1_rev offset=266549 miss=7
+SUMMARY perms=200 configs=349488 best=7 best1=24 full=0 fit23=1 hist: 0:24858 1:164024 2:105535 3:41454 4:12274 5:1240 6:90 7:13 hist1: 1:3976 2:108248 3:135536 4:65146 5:30281 6:5779 7:490 8:18 9:2 13:10 23:1 24:1 bestS=7 histS: 0:24480 1:162446 2:104608 3:41181 4:12164 5:1230 6:90 7:13
+== ctl171b/n0.out
+FULL perm=169 model=B mode=5 text=carter1 offset=46538
+SUMMARY perms=200 configs=349704 best=24 best1=24 full=1 fit23=0 hist: 0:20692 1:163105 2:110496 3:41583 4:12375 5:1370 6:80 7:2 24:1 hist1: 1:3632 2:108496 3:133654 4:67216 5:30523 6:5700 7:452 8:29 9:1 24:1 bestS=24 histS: 0:20434 1:161443 2:109599 3:41143 4:12257 5:1361 6:80 7:2 24:1
+== ctl171b/n1.out
+FULL perm=115 model=B mode=14 text=kjv_nt_rev offset=608738
+SUMMARY perms=200 configs=348876 best=24 best1=24 full=1 fit23=0 hist: 0:20228 1:161901 2:110009 3:42720 4:12590 5:1344 6:77 7:6 24:1 hist1: 1:3694 2:107279 3:133113 4:67057 5:31261 6:6004 7:439 8:23 9:5 24:1 bestS=24 histS: 0:20010 1:160558 2:109136 3:42434 4:12480 5:1332 6:75 7:6 24:1
+== ctl171b/s0.out
+FULL perm=149 model=A mode=3 text=reagan_berlin_rev offset=2492
+SUMMARY perms=200 configs=349668 best=24 best1=24 full=1 fit23=0 hist: 0:26934 1:162977 2:106176 3:41324 4:11097 5:1090 6:69 24:1 hist1: 1:3778 2:110268 3:135729 4:65464 5:28974 6:5037 7:394 8:20 9:3 24:1 bestS=24 histS: 0:26780 1:161467 2:105096 3:40869 4:10924 5:1079 6:68 24:1
+== ctl171b/s1.out
+FULL perm=87 model=B mode=2 text=kjv_nt offset=503599
+SUMMARY perms=200 configs=348912 best=24 best1=24 full=1 fit23=0 hist: 0:19224 1:161430 2:110543 3:43753 4:12655 5:1233 6:66 7:6 8:1 24:1 hist1: 1:3564 2:105517 3:134618 4:68870 5:30357 6:5570 7:389 8:23 9:3 24:1 bestS=24 histS: 0:18898 1:160239 2:109708 3:43441 4:12588 5:1228 6:66 7:6 8:1 24:1
