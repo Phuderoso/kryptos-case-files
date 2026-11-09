@@ -1,0 +1,1 @@
+# K4 profile 3-2-2-2-2-2-2-2-2-1-1-1-1-1 r8=6; shuffles 19350, profile-matched 135 (0.0070), also r-matched 48 (0.356 of profile-matched)

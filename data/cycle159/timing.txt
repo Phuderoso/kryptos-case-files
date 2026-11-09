@@ -1,0 +1,10 @@
+# Cycle 159 wall-clock (8 processes, box shared with a browser, 2026-11-08 PDT)
+timing probe (rnull01 / K4, 2M primers each)                          ~3 s
+planted controls (4 plants x 600k primers)                            ~4 s
+run 1 21:22:19-21:24:24 (null-major order; 31 chunks; killed: full
+      run projected at ~13 min, over budget)                          125 s
+run 2 21:24:36-21:30:20 (quarter-major, timeout; 91 more chunks, 122 of 192
+      in total: all 48 nulls primers 0-50M, 19 / 7 nulls in
+      the 3rd/4th quarter)                                            344 s
+independent Python window recount (12 windows x 20k primers)          ~23 s
+total heavy compute                                                   ~500 s (about 8.3 min, slightly over the ~8 min budget)
