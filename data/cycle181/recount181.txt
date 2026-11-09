@@ -1,0 +1,19 @@
+# recount181.py R lines (numpy brute force) on slice all.bin[::4000] + planted perms of P4, P7, P8, P11; alphabets alpha_recount180.txt (33)
+R P4 0 2 q3 beau 42 SHADOW/K 73
+R P7 1 1 q3 vig 43 COMPASS/Z 64
+R P8 1 2 q1 beau 44 LODESTONE/K 22
+R P11 0 1 q3 vig 45 KA 30
+# per-text RECOUNT_END
+k4 RECOUNT_END 0
+n18111 RECOUNT_END 0
+n18112 RECOUNT_END 0
+P4 RECOUNT_END 1
+P7 RECOUNT_END 1
+P8 RECOUNT_END 1
+P11 RECOUNT_END 1
+# cmprecount181.py vs lrk181 on the same slice
+P11 0 1 q3 vig 45 KA recount 30 lrk181 30 OK
+P4 0 2 q3 beau 42 SHADOW/K recount 73 lrk181 73 OK
+P7 1 1 q3 vig 43 COMPASS/Z recount 64 lrk181 64 OK
+P8 1 2 q1 beau 44 LODESTONE/K recount 22 lrk181 22 OK
+lines 4 mismatches 0

@@ -1,0 +1,30 @@
+P1_ix0_L3_q3_vig_SHADOW-Z_err25: fits_at_q 4 window_fits 4 slots_at_q [25] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[23, 4, 23] d=10 wild=25 V=15 THEIRONDOORFACEDDUEXXEASTMORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P2_ix0_L5_q1_beau_BERLIN-K_err66: fits_at_q 2 window_fits 2 slots_at_q [66] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[20, 15, 2, 18, 7] d=5 wild=66 V=-2 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERHINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P3_ix0_L6_q2_vig_ABSCISSA-Z_err21: fits_at_q 6 window_fits 6 slots_at_q [21] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[4, 1, 4, 21, 11, 17] d=9 wild=21 V=12 THEIRONDOORFACEDDUEXXDASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P4_ix0_L2_q3_beau_SHADOW-K_err73: fits_at_q 5 window_fits 5 slots_at_q [73] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -3.907 c=[7, 10] d=22 wild=73 V=-2 ?????????????????????EASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCISTRUCKTHEHOURATMIDNIGHT
+P5_ix0_L4_q3_vig_PALIMPSEST-K_strict: fits_at_q 3 window_fits 3 slots_at_q [-1] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[7, 6, 1, 25] d=1 wild=-1 V=-1 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P6_ix0_L6_q3_beau_KA_nonunit_err33: fits_at_q 1 window_fits 1 slots_at_q [33] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -3.907 c=[2, 23, 19, 3, 6, 14] d=4 wild=33 V=4 ?????????????????????EASTNORTHEASZOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P7_ix1_L1_q3_vig_COMPASS-Z_err64: fits_at_q 3 window_fits 3 slots_at_q [64] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[0] d=4 seed=[17] null13=0 wild=64 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBNRLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P8_ix1_L2_q1_beau_LODESTONE-K_err22: fits_at_q 2 window_fits 2 slots_at_q [22] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[8, 18] d=2 seed=[25, 25] null13=0 wild=22 THEIRONDOORFACEDDUEXXEISTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P9_ix1_L3_q2_vig_MAGNETIC-Z_err29: fits_at_q 1 window_fits 1 slots_at_q [29] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[14, 2, 7] d=22 seed=[4, 14, 22] null13=0 wild=29 THEIRONDOORFACEDDUEXXEASTNORTMEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P10_ix1_L3_q3_beau_ABSCISSA-K_strict: fits_at_q 1 window_fits 1 slots_at_q [-1] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[9, 13, 7] d=24 seed=[10, 8, 20] null13=0 wild=-1 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P11_ix0_L1_q3_vig_KA_progressive_err30: fits_at_q 6 window_fits 6 slots_at_q [30] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[1] d=3 wild=30 V=12 THEIRONDOORFACEDDUEXXEASTNORTHVASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCKSTRUCKTHEHOURATMIDNIGHT
+P12_ix1_L3_q1_vig_SHADOW-K_err73: fits_at_q 1 window_fits 1 slots_at_q [73] planted_listed True decode_matches True only_planted_slot True -> PASS
+   decode score -4.204 c=[5, 11, 16] d=16 seed=[24, 15, 3] null13=0 wild=73 THEIRONDOORFACEDDUEXXEASTNORTHEASTOFTHEFOUNTAINWHERETHEOLDWORLDBERLINCLOCSSTRUCKTHEHOURATMIDNIGHT
+N1_ix0_L3_q3_vig_SHADOW-Z_two_errors_66_70: NEG fits_at_q 0 window_fits 0 -> PASS
+N2_ix1_L2_q1_beau_LODESTONE-K_two_errors_22_68: NEG fits_at_q 0 window_fits 0 -> PASS
+N3_ix0_random_key: NEG fits_at_q 0 window_fits 0 -> PASS
+N4_ix1_random_key: NEG fits_at_q 0 window_fits 0 -> PASS
+N5_ix0_L3_q3_vig_alphabet_not_in_list_err25: NEG fits_at_q 0 window_fits 0 -> PASS
+controls 17/17
