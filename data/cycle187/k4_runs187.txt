@@ -1,0 +1,82 @@
+# Cycle 187 K4 registered cells (lrk186 method 1). C1 = direction f (A themed x B vocabulary) L 1-3, full set, 8 chunks; C2 = direction r (A vocabulary x B themed) L 1-3, all_s8.
+## k4.f.full.c0.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 15079 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 15079 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 50981 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 50981 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 196957 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 196957 fits 0
+O k4 mismatch 0 passLmax 196957 method 1 safe 0
+END k4 0 20723
+## k4.f.full.c1.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 15533 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 15533 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 50788 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 50788 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 200391 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 200391 fits 0
+O k4 mismatch 0 passLmax 200391 method 1 safe 0
+END k4 20723 41446
+## k4.f.full.c2.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 14778 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 14778 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 50921 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 50921 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 198685 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 198685 fits 0
+O k4 mismatch 0 passLmax 198685 method 1 safe 0
+END k4 41446 62169
+## k4.f.full.c3.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 15099 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 15099 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 52993 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 52993 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 203429 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 203429 fits 0
+O k4 mismatch 0 passLmax 203429 method 1 safe 0
+END k4 62169 82892
+## k4.f.full.c4.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 15088 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 15088 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 52077 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 52077 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 200732 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 200732 fits 0
+O k4 mismatch 0 passLmax 200732 method 1 safe 0
+END k4 82892 103615
+## k4.f.full.c5.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 14603 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 14603 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 49821 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 49821 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 199638 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 199638 fits 0
+O k4 mismatch 0 passLmax 199638 method 1 safe 0
+END k4 103615 124338
+## k4.f.full.c6.txt
+H k4 1 1 q4f vig perms 20723 pairs 2703744 pass2 15074 fits 0
+H k4 1 1 q4f beau perms 20723 pairs 2703744 pass2 15074 fits 0
+H k4 1 2 q4f vig perms 20723 pairs 2703744 pass2 52618 fits 0
+H k4 1 2 q4f beau perms 20723 pairs 2703744 pass2 52618 fits 0
+H k4 1 3 q4f vig perms 20723 pairs 2703744 pass2 204391 fits 0
+H k4 1 3 q4f beau perms 20723 pairs 2703744 pass2 204391 fits 0
+O k4 mismatch 0 passLmax 204391 method 1 safe 0
+END k4 124338 145061
+## k4.f.full.c7.txt
+H k4 1 1 q4f vig perms 20721 pairs 2703744 pass2 15381 fits 0
+H k4 1 1 q4f beau perms 20721 pairs 2703744 pass2 15381 fits 0
+H k4 1 2 q4f vig perms 20721 pairs 2703744 pass2 52517 fits 0
+H k4 1 2 q4f beau perms 20721 pairs 2703744 pass2 52517 fits 0
+H k4 1 3 q4f vig perms 20721 pairs 2703744 pass2 204246 fits 0
+H k4 1 3 q4f beau perms 20721 pairs 2703744 pass2 204246 fits 0
+O k4 mismatch 0 passLmax 204246 method 1 safe 0
+END k4 145061 165782
+## k4.r.s8.txt
+H k4 1 1 q4r vig perms 20723 pairs 2703744 pass2 15095 fits 0
+H k4 1 1 q4r beau perms 20723 pairs 2703744 pass2 15095 fits 0
+H k4 1 2 q4r vig perms 20723 pairs 2703744 pass2 50174 fits 0
+H k4 1 2 q4r beau perms 20723 pairs 2703744 pass2 50174 fits 0
+H k4 1 3 q4r vig perms 20723 pairs 2703744 pass2 198416 fits 0
+H k4 1 3 q4r beau perms 20723 pairs 2703744 pass2 198416 fits 0
+O k4 mismatch 0 passLmax 198416 method 1 safe 0
+END k4 0 20723

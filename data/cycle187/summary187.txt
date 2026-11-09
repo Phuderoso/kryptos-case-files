@@ -1,0 +1,9 @@
+C1 K4 f full L1 beau: perms 165782 pass2 120635 fits 0; L1 vig: perms 165782 pass2 120635 fits 0; L2 beau: perms 165782 pass2 412716 fits 0; L2 vig: perms 165782 pass2 412716 fits 0; L3 beau: perms 165782 pass2 1608469 fits 0; L3 vig: perms 165782 pass2 1608469 fits 0
+C2 K4 r all_s8 L1 beau: perms 20723 pass2 15095 fits 0; L1 vig: perms 20723 pass2 15095 fits 0; L2 beau: perms 20723 pass2 50174 fits 0; L2 vig: perms 20723 pass2 50174 fits 0; L3 beau: perms 20723 pass2 198416 fits 0; L3 vig: perms 20723 pass2 198416 fits 0
+grid f F: all zero (not scored)
+grid f D: K4 2954 nulls 2793-3539 mean 3134.1 SD 221.0 p+ 0.75 p- 0.30
+grid r F: all zero (not scored)
+grid r D: K4 3771 nulls 2659-3685 mean 3098.8 SD 280.8 p+ 0.05 p- 1.00
+I-176 D1 K4 3309381; matched n 40 3232286-3733053 mean 3525817.4 SD 102903.6 #>=K4 39 pF 0.976 z -2.10
+   plain n 20 3227263-3732422 mean 3488296.0 SD 132935.0 #>=K4 19; filtered (parity agreement >= median 49.0) n 11 mean 3456640.0; inflation (filtered - matched) -69177.4
+   verdict: NOT REPLICATED

@@ -1,0 +1,6 @@
+# Cycle 187 timing and heavy-compute ledger (box clock, PT), 6 threads, one job at a time.
+# I-180 probe, reserved shuffle 9187 only, all_s2048 (81 perms), under setsid timeout 60: lrk186 L 1-3 f 179 ms, r 181 ms (0 fits, mismatch 0);
+#   lrk185 L 1-3 on all_r1024s2048 1,750 ms. No order above 3 was timed.
+# Control rehearsal (registered control run): ≈ 13 s (13:51).
+# Registered run 13:54:09-14:00:42 PT: C1 done at 249 s; grid + audit at 272 s; C2 at 302 s; recount at 304 s; I-176 at 393 s.
+# Heavy total ≈ 17 s + 393 s ≈ 410 s (6.8 min) <= 8 min budget.
