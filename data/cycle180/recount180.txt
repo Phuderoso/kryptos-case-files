@@ -1,0 +1,21 @@
+# Cycle 180 independent recount (recount180.py, numpy brute force) vs lrk180 on slice180 (all.bin[::4000] + planted rows of P1,P4,P6,P7 = rows 42-45), 33 alphabets (alpha_recount180.txt)
+# covered cells: M0 L1-2 every text, M0 L3 for P1; M1 L1 every text; M1 L2 for P7 at row 45. K4, n18011, n18012: 0 fits in both tools.
+## recount lines
+R P1 0 3 q3 vig 42 SHADOW/Z 1
+R P4 0 2 q3 beau 43 SHADOW/K 4
+R P6 1 1 q3 vig 44 COMPASS/Z 3
+R P7 1 2 q1 beau 45 LODESTONE/K 1
+RECOUNT_END (7 texts: k4 n18011 n18012 P1 P4 P6 P7; per-text processes)
+## comparison
+P1 0 3 q3 vig 42 SHADOW/Z recount 1 lrk180 1 OK
+P4 0 2 q3 beau 43 SHADOW/K recount 4 lrk180 4 OK
+P6 1 1 q3 vig 44 COMPASS/Z recount 3 lrk180 3 OK
+P7 1 2 q1 beau 45 LODESTONE/K recount 1 lrk180 1 OK
+lines 4 mismatches 0
+## lrk180 fit lines on the slice (all L run: M0 L1-3, M1 L1-2)
+M P1 0 3 q3 vig 42 SHADOW/Z - n2 1 n13 1 S2 1,1,1,1 S13 0,7,6,7
+M P4 0 2 q3 beau 43 SHADOW/K - n2 4 n13 1 S2 0,0,0 1,0,0 0,1,0 1,1,0 S13 7,12,2
+M P4 0 3 q3 beau 43 SHADOW/K - n2 8 n13 13 S2 0,0,0,0 1,0,0,0 0,1,0,0 1,1,0,0 0,0,1,0 1,0,1,0 0,1,1,0 1,1,1,0 S13 8,5,1,0 1,2,7,1 7,12,0,2 0,9,6,3 6,6,12,4 12,3,5,5 5,0,11,6 11,10,4,7 4,7,10,8 10,4,3,9 3,1,9,10 9,11,2,11 2,8,8,12
+M P6 1 1 q3 vig 44 COMPASS/Z - n2 3 n13c 1 S2 c1s1d0 c0s0d1 c0s1d1 S13 c4x6,6n0
+M P6 1 2 q3 vig 44 COMPASS/Z - n2 8 n13c 13 S2 c10s01d0 c10s11d0 c01s11d0 c00s00d1 c00s10d1 c00s01d1 c00s11d1 c11s11d1 S13 c0,3x6,4,4n0 c1,12x6,4,11n0 c2,8x6,4,5n0 c3,4x6,4,12n0 c4,0x0,4,6n1 c5,9x6,4,0n0 c6,5x6,4,7n0 c7,1x6,4,1n0 c8,10x6,4,8n0 c9,6x6,4,2n0 c10,2x6,4,9n0 c11,11x6,4,3n0 c12,7x6,4,10n0
+M P7 1 2 q1 beau 45 LODESTONE/K - n2 1 n13c 1 S2 c01s10d1 S13 c5,1x3,1,12n0
