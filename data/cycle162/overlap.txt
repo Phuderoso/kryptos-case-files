@@ -1,0 +1,15 @@
+Cycle 162 overlap check (I-013) against earlier coverage, measured before the run.
+Space tested here: (layer config) x (alphabet) x (mode1, mode2) x (boundary b), layer configs = identity + 165,065 bank
+perms x 2 directions x 2 index orders = 660,261 per text; 86,731 Quagmire III alphabets; Vig/Beau per segment; b 0..97.
+
+case 52 (cycle 54, split key, direct): identity only, b 34..63, p1 <= 13, p2 <= 11 (p 7/7 included), same 86,731
+  alphabets, Vig/Beau per segment, scored by quadgrams (no exact test).  Overlap with this cycle = the identity layer
+  with b 34..63 = 1 of 660,261 layer configs and 30 of 98 boundaries -> 0.0000015 x 0.31 of the space.  Regression:
+  identity with b 34..63 is inconsistent here for K4 (0 survivors), consistent with case 52 reporting only scored noise.
+case 123 (cycle 135, single periodic key behind the bank, vocabulary Q-I/II/III, p <= 16, both index orders, exact):
+  covers this cycle's b = 0 / b = 97 edge (one key for all 97 letters) for vocabulary alphabets.  The two-key case
+  (0 < b < 97) is new behind the bank for every alphabet.
+case 96 (cycle 104, fully general periodic substitution, single key): p 7 inconsistent directly; it did not allow a
+  key change.  Two-key general alphabets behind the bank were not tested there.
+Conclusion: behind the bank > 99.999 % of this space is new; directly, the boundaries inside a crib (b 0..33, 64..97) and
+  the exact (rather than scored) test are new.
