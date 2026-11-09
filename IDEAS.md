@@ -26,7 +26,7 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-007 | Keyword / arbitrary columnar w 9–11 × periodic key under one crib error | P2 | queued |
 | I-008 | Gromark / Periodic Gromark under one crib error | P2 | tested — EXACT-EXCL (ordinary Gromark; periodic digit L ≤ 7, rank L 8–10; ACA rule any keyword L ≤ 12) / LOW-POWER (relaxed digit L 8–9, relaxed rank L 11–12) ([case 143](case-file/143-gromark-one-error.md)) |
 | I-009 | Two-letter differences anchored to the archive charts | P2 | blocked (needs archive data, see I-002) |
-| I-010 | Quagmire IV with two different vocabulary alphabets | P2 | queued |
+| I-010 | Quagmire IV with two different vocabulary alphabets | P2 | tested — EXACT-EXCL (bank p ≤ 14 both orders + carved p 15; direct p ≤ 23 strict and one-error) / NO-SIGNAL, LOW-POWER (bank model-Q p 15–16, carved p 16; direct p 24–26) ([case 148](case-file/148-quagmire-iv-two-vocabulary-alphabets.md)) |
 | I-011 | Word-keyed zig-zag autokey; zig-zag + progressive shift | P1 | tested — EXACT-EXCL (CT feed, n ≥ 12) / LOW-POWER (PT feed, long lags) ([case 140](case-file/140-free-form-zigzag-autokey.md)) |
 | I-012 | Hill with a key on the ciphertext side (`p = D·(c − f)`, non-linear) | P2 | tested — EXACT-EXCL (bank n 2 k ≤ 14, n 3 k ≤ 8; direct all tested, also one-error for short k) / NO-SIGNAL (rest) ([case 142](case-file/142-hill-then-ciphertext-side-key.md)) |
 | I-013 | Key change at a boundary keeping the width-7 phase | P2 | queued |
@@ -72,6 +72,9 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 | I-061 | Hill + ONE keyword key on either side (cases 132/142 structures) with long vocabulary words behind the bank (k > 14) | P3 | queued (from cycle 158) |
 | I-062 | Finish the cycle-159 rank-matched lineup: primer quarters 3–4 for the remaining nulls (K4's last quarter 13 of 28), then L 9 digits / L 11–12 ranks | P3 | queued (from cycle 159; resumable) |
 | I-063 | Sampled-primer rate estimator for null calibration of exhaustive feasibility counts (many more nulls at fixed cost) | P3 | queued (method, from cycle 159) |
+| I-064 | Quagmire IV vocabulary pairs behind the bank under one crib/carving error (leave-one-out in `q4v`) | P3 | queued (from cycle 160) |
+| I-065 | Quagmire IV behind the bank with KRYPTOS-order-keyed, reversed or two-word phrase alphabets | P3 | queued (from cycle 160) |
+| I-066 | Quagmire IV vocabulary pairs behind the bank at p 15–20 with the key itself a vocabulary word (regain power) | P3 | queued (from cycle 160) |
 | I-031 | Strip transposition (case 10 S6) | — | tested (case 12) |
 | I-032 | Single-letter anomaly × periodic KA/AZ key (direct and behind 165k transpositions) | — | tested (case 23) |
 | I-033 | Two-letter anomalies × direct KA/AZ periodic key | — | tested (case 24) |
@@ -140,7 +143,9 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 
 ### I-010 — Quagmire IV with two different vocabulary alphabets
 - **Source:** README coverage "still open" (Quagmire row); kryptosbot lists two-alphabet repeating keys as "not fully ruled out" `[sourced, secondary]`.
-- **Test:** hash the 24-letter crib signature per bank permutation (cycle 132 method) and look up vocabulary alphabet pairs; p ≤ 16. **Controls:** planted QIV controls; 2 nulls. **Cost:** 10,056² pairs × periods: high; start themed × vocabulary. **Status:** queued.
+- **Test:** hash the 24-letter crib signature per bank permutation (cycle 132 method) and look up vocabulary alphabet pairs; p ≤ 16. **Controls:** planted QIV controls; 2 nulls. **Cost:** 10,056² pairs × periods: high; start themed × vocabulary. **Status:** tested (cycle 160).
+- **Overlap (cycle 160 start, `tools/cycle160/overlap160.py`):** 9,394 distinct A–Z-keyed alphabets from the 10,056 words, 88,237,842 ordered pairs PA ≠ CA. Behind the bank only 8,742 pairs (0.0099 %, 94 themed alphabets) were in case 27; PA = CA is case 123. Directly on the copper case 11's SAT already excluded any alphabet pair at p 1–7, 9–12, 14, 15, 17, 18, 21, 22, 25, and its phrase join covered 4.4 % of pairs, so direct new ground was p 8, 13, 16, 19, 20, 23 (24, 26 low power). Kept as a genuinely new family.
+- **Result (cycle 160):** `tools/cycle160/q4v.c` — per configuration the same-class crib pairs give exact equations `CA⁻¹(c_a) − CA⁻¹(c_b) = ±(PA⁻¹(p_a) − PA⁻¹(p_b))`; an alphabet-free prefilter (equal cipher ⇔ equal plain letter) kills 62 %, the rest is a hash join over all PA × CA (every ordered pair, Vig/variant and Beaufort, any key of period p). Bank: 330,130 directions × model Q / carved × p 1–16 = 10,564,160 configs per text (≈ 1.9 × 10¹⁵ implied pair tests), K4 + 4 shuffled nulls in 261 s; direct p 1–26 strict and leave-one-crib-out for K4 + 4 shuffled + 20 profile-matched nulls. **K4 0: bank p ≤ 14 both orders and carved p 15 (nulls 0, one null 4 at carved p 15); direct p ≤ 23 strict and one-error → `EXACT-EXCL`.** Bank model-Q p 15 (K4 12 configs vs nulls 6–12), p 16 (202 vs 200–306), carved p 16 (12 vs 10–32): inside the null range; all 286 K4 matches decrypted, best −6.65/quadgram (off-crib −7.41) vs nulls −6.60 to −6.78 → `NO-SIGNAL` / `LOW-POWER`. Direct p 24 K4 13 pairs vs nulls 0–22 → `LOW-POWER`. Controls 5/5 (non-themed pairs, both index orders, p 6, 7, 8, 13, and a corrupted carved letter recovered only by leave-one-out); independent brute-force Python recount 24/24. Post-hoc note (no claim): direct one-error p 17–23 K4 0 vs every null > 0, most likely the position pattern of K4's repeated crib cipher letters. [Case 148](case-file/148-quagmire-iv-two-vocabulary-alphabets.md), [data](data/cycle160/), [tools](tools/cycle160/). Follow-ups: I-064–I-066.
 
 ### I-011 — Word-keyed zig-zag autokey; zig-zag + progressive shift
 - **Source:** journal cycle 150 ideas; [case 138](case-file/138-zigzag-autokey.md) limits. `[speculation]`
@@ -299,6 +304,21 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Hypothesis / rationale:** for exhaustive feasibility counts, a null's expected count can be estimated from a uniform random sample of primers (unbiased, binomial error), so hundreds of structure-matched nulls fit in one budget; K4's exact count is compared with the estimated null distribution (or K4 is also sampled with the same design). Survivor rates also differ by primer quarter (chain-addition structure), so stratify by leading digit.
 - **Test:** sample 10⁶ primers per null stratified by leading digit for 200 rank-matched nulls; validate on the 48 cycle-159 nulls (sampled estimate vs exact half-range counts). **Controls:** exact counts of cycle 159. **Cost:** ~3–4 min. **Dependencies:** none. **Status:** queued.
 
+### I-064 — Quagmire IV vocabulary pairs behind the bank under one error
+- **Date / source:** 2026-11-08, cycle 160 ([case 148](case-file/148-quagmire-iv-two-vocabulary-alphabets.md) limits); part of the I-003 / I-041 robustness line. `[repo]`
+- **Hypothesis / rationale:** cycle 160's bank exclusion assumes all 24 cribs and the carved letters under them are right; the direct test already holds under one error, the bank test does not.
+- **Test:** `q4v` with `drop_crib` 0–23 behind the bank at p ≤ 12 (24× the strict cost ≈ 24 × 52 s per text for p 1–16, so p ≤ 12 or a 1/4 bank sample per cycle, resumable). **Controls / nulls:** corrupted-letter bank plant; 2–4 shuffled nulls at the same scale (one-error admits more chance pairs). **Cost:** ~6–8 min per slice. **Dependencies:** none. **Status:** queued.
+
+### I-065 — Quagmire IV behind the bank with other alphabet constructions
+- **Date / source:** 2026-11-08, cycle 160 limits. `[speculation]` — K1/K2 key on A–Z, but the tableau is KRYPTOS-ordered, and case 11 keyed phrases on both.
+- **Hypothesis / rationale:** a QIV pair keyed with the remainder in KRYPTOS order, reversed alphabets, or a two-word phrase on one side was not in cycle 160's set.
+- **Test:** `q4v` with an alphabet file option (KA-keyed vocabulary, reversed, 31k phrase alphabets × vocabulary); p ≤ 14. **Controls:** planted per construction; 2 shuffled nulls. **Cost:** ~1 min per 10k × 10k set; phrase × vocabulary ≈ 3–4×. **Status:** queued.
+
+### I-066 — Quagmire IV vocabulary pairs at p 15–20 with a word key
+- **Date / source:** 2026-11-08, cycle 160 (p 15–16 behind the bank at chance level). `[repo]`
+- **Hypothesis / rationale:** with the key also a vocabulary word (as in K1/K2) the many free key letters at p ≥ 15 become checks again, restoring power for longer periods.
+- **Test:** for each chance survivor (and for p 17–20 configs), require the crib-fixed key letters to fit a vocabulary word of length p at some rotation; exact. **Controls:** planted p 16–18 word key; nulls. **Cost:** small for p 15–16 (survivors only), moderate for p 17–20. **Status:** queued.
+
 ### I-041 — One-error audit of strict vocabulary families behind the bank
 - **Source:** cycle 151 audit table (cycles 135–137 Quagmire / autokey on 10,056 vocabulary alphabets, 146 mixed direction). **Test:** leave-one-crib-out in the crib-signature hash (24 hashes per permutation) or a ≥ 23/24 count. **Controls:** corrupted-letter plants; full-scale nulls (the tolerant test will admit more chance hits). **Cost:** 24× strict (tens of minutes). **Status:** queued.
 
@@ -340,3 +360,5 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - 2026-11-08, cycle 158 end: I-056 tested (EXACT-EXCL direct n 2–4 all word pairs, one-error n 2–3 with one themed key, bank n 2–3 core-32²; NO-SIGNAL bank n 4). Added I-059–I-061 (61 items). Recommended next: cycle 159 variant/audit — I-057 (rank-matched nulls, ~7 min) or I-007; then a new family (I-010, I-013).
 - 2026-11-08, cycle 159 start: I-057 in progress (audit slot after the cycle-158 new structure); rank-matched nulls (profile + r8 = 6) for the Periodic Gromark L 8 one-error count.
 - 2026-11-08, cycle 159 end: I-057 tested for L 8 (no count-level anomaly, p 0.10 on the pre-specified common range; row stays LOW-POWER; I-051 not promoted). Added I-062, I-063 (63 items). Recommended next: cycle 160 **new family** (159 was an audit) — I-010 (Quagmire IV with two vocabulary alphabets) or I-013; next audit slot: I-062 (~6 min resume).
+- 2026-11-08, cycle 160 start: I-010 in progress (required new family after the cycle-159 audit); overlap measured first (bank 99.99 % new, direct only SAT-open periods), kept over I-013.
+- 2026-11-08, cycle 160 end: I-010 tested (EXACT-EXCL bank p ≤ 14 both orders + carved p 15, direct p ≤ 23 strict and one-error; NO-SIGNAL / LOW-POWER bank p 15–16, direct p 24–26). Added I-064–I-066 (66 items). Recommended next: cycle 161 variant/audit — I-062 (finish the cycle-159 lineup, ~6 min) or I-064 (QIV one error behind the bank, p ≤ 12); then a new family (I-013 or I-014).
