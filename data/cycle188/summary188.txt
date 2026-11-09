@@ -1,0 +1,13 @@
+C1 K4 f full L1-2 (chunks with END 8/8, X 0): L1 beau: perms 165782 pass2 2987477 fits 0 strict 0 slot 0; L1 vig: perms 165782 pass2 2987477 fits 0 strict 0 slot 0; L2 beau: perms 165782 pass2 10271635 fits 0 strict 0 slot 0; L2 vig: perms 165782 pass2 10271635 fits 0 strict 0 slot 0
+C2 K4 r full L1-2 (chunks with END 8/8, X 0): L1 beau: perms 165782 pass2 2971810 fits 0 strict 0 slot 0; L1 vig: perms 165782 pass2 2971810 fits 0 strict 0 slot 0; L2 beau: perms 165782 pass2 10239377 fits 0 strict 0 slot 0; L2 vig: perms 165782 pass2 10239377 fits 0 strict 0 slot 0
+C3 K4 f all_s512 L1-3 (chunks with END 1/1, X 0): L1 beau: perms 324 pass2 6243 fits 0 strict 0 slot 0; L1 vig: perms 324 pass2 6243 fits 0 strict 0 slot 0; L2 beau: perms 324 pass2 20205 fits 0 strict 0 slot 0; L2 vig: perms 324 pass2 20205 fits 0 strict 0 slot 0; L3 beau: perms 324 pass2 79357 fits 0 strict 0 slot 0; L3 vig: perms 324 pass2 79357 fits 0 strict 0 slot 0
+C3 K4 r all_s512 L1-3 (chunks with END 1/1, X 0): L1 beau: perms 324 pass2 7258 fits 0 strict 0 slot 0; L1 vig: perms 324 pass2 7258 fits 0 strict 0 slot 0; L2 beau: perms 324 pass2 20416 fits 0 strict 0 slot 0; L2 vig: perms 324 pass2 20416 fits 0 strict 0 slot 0; L3 beau: perms 324 pass2 80596 fits 0 strict 0 slot 0; L3 vig: perms 324 pass2 80596 fits 0 strict 0 slot 0
+audit f: main == SAFE True END True X 0
+audit r: main == SAFE True END True X 0
+grid f F: all zero (not scored)
+grid f D: K4 20205 nulls 18362-21716 mean 19851.6 SD 1003.4 p+ 0.40 p- 0.65 z +0.35
+grid r F: all zero (not scored)
+grid r D: K4 20416 nulls 17912-21699 mean 19915.8 SD 1093.5 p+ 0.35 p- 0.70 z +0.46
+I-183 D (r, L3 mod-2 passes, all.bin[256::512]) K4 3092; matched n 40 2713-4029 mean 3147.4 SD 280.0 #>=K4 24 pF 0.610 z -0.20
+   plain n 20 2867-3631 mean 3214.8 SD 227.2 #>=K4 14; filtered (parity agreement >= median 49.0) n 11 mean 3244.5; inflation (filtered - matched) +97.2
+   verdict: NOT REPLICATED

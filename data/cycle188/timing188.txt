@@ -3,3 +3,8 @@
 #   0 fits, mismatch 0); L 1-2 f 63 ms, r 56 ms. No order above 3 was timed.
 # Control rehearsal (registered control run): 33 s (≈ 14:27). Recount rehearsal on planted P10 only: 3.1 s.
 # Heavy before the pre-registration push ≈ 45 s.
+# Registered run (PREREG188) 14:25:15-14:29:18 PT: C1 done at 79 s; grid + audit at 97 s; recount at 112 s; C3 at 135 s; I-183 at 170 s;
+#   C2 (8/8 chunks, all within the gate) at 243 s.
+# Add-on C (PREREG188b, I-184) 14:30:42-14:33:24 PT: classes r = 1..5 of all.bin[r::8] at 32/65/98/130/162 s; classes 6, 7 skipped by
+#   the gate (290 + 162 + 32 > 460).
+# Heavy total ≈ 45 s + 243 s + 162 s ≈ 450 s (7.5 min) <= 8 min budget.

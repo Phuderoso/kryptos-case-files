@@ -1,0 +1,266 @@
+== out/n18811.f.s512.txt
+H n18811 1 1 q4f vig perms 324 pairs 2703744 pass2 6066 fits 0 strict 0 slotfits 0
+H n18811 1 1 q4f beau perms 324 pairs 2703744 pass2 6066 fits 0 strict 0 slotfits 0
+H n18811 1 2 q4f vig perms 324 pairs 2703744 pass2 20278 fits 0 strict 0 slotfits 0
+H n18811 1 2 q4f beau perms 324 pairs 2703744 pass2 20278 fits 0 strict 0 slotfits 0
+O n18811 mismatch 0 cand 20278 method 1 safe 0
+END n18811 0 324
+== out/n18811.r.s512.txt
+H n18811 1 1 q4r vig perms 324 pairs 2703744 pass2 6829 fits 0 strict 0 slotfits 0
+H n18811 1 1 q4r beau perms 324 pairs 2703744 pass2 6829 fits 0 strict 0 slotfits 0
+H n18811 1 2 q4r vig perms 324 pairs 2703744 pass2 21699 fits 0 strict 0 slotfits 0
+H n18811 1 2 q4r beau perms 324 pairs 2703744 pass2 21699 fits 0 strict 0 slotfits 0
+O n18811 mismatch 0 cand 21699 method 1 safe 0
+END n18811 0 324
+== out/n18812.f.s512.txt
+H n18812 1 1 q4f vig perms 324 pairs 2703744 pass2 5275 fits 0 strict 0 slotfits 0
+H n18812 1 1 q4f beau perms 324 pairs 2703744 pass2 5275 fits 0 strict 0 slotfits 0
+H n18812 1 2 q4f vig perms 324 pairs 2703744 pass2 20043 fits 0 strict 0 slotfits 0
+H n18812 1 2 q4f beau perms 324 pairs 2703744 pass2 20043 fits 0 strict 0 slotfits 0
+O n18812 mismatch 0 cand 20043 method 1 safe 0
+END n18812 0 324
+== out/n18812.r.s512.txt
+H n18812 1 1 q4r vig perms 324 pairs 2703744 pass2 5289 fits 0 strict 0 slotfits 0
+H n18812 1 1 q4r beau perms 324 pairs 2703744 pass2 5289 fits 0 strict 0 slotfits 0
+H n18812 1 2 q4r vig perms 324 pairs 2703744 pass2 21317 fits 0 strict 0 slotfits 0
+H n18812 1 2 q4r beau perms 324 pairs 2703744 pass2 21317 fits 0 strict 0 slotfits 0
+O n18812 mismatch 0 cand 21317 method 1 safe 0
+END n18812 0 324
+== out/n18813.f.s512.txt
+H n18813 1 1 q4f vig perms 324 pairs 2703744 pass2 5951 fits 0 strict 0 slotfits 0
+H n18813 1 1 q4f beau perms 324 pairs 2703744 pass2 5951 fits 0 strict 0 slotfits 0
+H n18813 1 2 q4f vig perms 324 pairs 2703744 pass2 21716 fits 0 strict 0 slotfits 0
+H n18813 1 2 q4f beau perms 324 pairs 2703744 pass2 21716 fits 0 strict 0 slotfits 0
+O n18813 mismatch 0 cand 21716 method 1 safe 0
+END n18813 0 324
+== out/n18813.r.s512.txt
+H n18813 1 1 q4r vig perms 324 pairs 2703744 pass2 6564 fits 0 strict 0 slotfits 0
+H n18813 1 1 q4r beau perms 324 pairs 2703744 pass2 6564 fits 0 strict 0 slotfits 0
+H n18813 1 2 q4r vig perms 324 pairs 2703744 pass2 20548 fits 0 strict 0 slotfits 0
+H n18813 1 2 q4r beau perms 324 pairs 2703744 pass2 20548 fits 0 strict 0 slotfits 0
+O n18813 mismatch 0 cand 20548 method 1 safe 0
+END n18813 0 324
+== out/n18814.f.s512.txt
+H n18814 1 1 q4f vig perms 324 pairs 2703744 pass2 5659 fits 0 strict 0 slotfits 0
+H n18814 1 1 q4f beau perms 324 pairs 2703744 pass2 5659 fits 0 strict 0 slotfits 0
+H n18814 1 2 q4f vig perms 324 pairs 2703744 pass2 20163 fits 0 strict 0 slotfits 0
+H n18814 1 2 q4f beau perms 324 pairs 2703744 pass2 20163 fits 0 strict 0 slotfits 0
+O n18814 mismatch 0 cand 20163 method 1 safe 0
+END n18814 0 324
+== out/n18814.r.s512.txt
+H n18814 1 1 q4r vig perms 324 pairs 2703744 pass2 6470 fits 0 strict 0 slotfits 0
+H n18814 1 1 q4r beau perms 324 pairs 2703744 pass2 6470 fits 0 strict 0 slotfits 0
+H n18814 1 2 q4r vig perms 324 pairs 2703744 pass2 19498 fits 0 strict 0 slotfits 0
+H n18814 1 2 q4r beau perms 324 pairs 2703744 pass2 19498 fits 0 strict 0 slotfits 0
+O n18814 mismatch 0 cand 19498 method 1 safe 0
+END n18814 0 324
+== out/n18815.f.s512.txt
+H n18815 1 1 q4f vig perms 324 pairs 2703744 pass2 4794 fits 0 strict 0 slotfits 0
+H n18815 1 1 q4f beau perms 324 pairs 2703744 pass2 4794 fits 0 strict 0 slotfits 0
+H n18815 1 2 q4f vig perms 324 pairs 2703744 pass2 18362 fits 0 strict 0 slotfits 0
+H n18815 1 2 q4f beau perms 324 pairs 2703744 pass2 18362 fits 0 strict 0 slotfits 0
+O n18815 mismatch 0 cand 18362 method 1 safe 0
+END n18815 0 324
+== out/n18815.r.s512.txt
+H n18815 1 1 q4r vig perms 324 pairs 2703744 pass2 4839 fits 0 strict 0 slotfits 0
+H n18815 1 1 q4r beau perms 324 pairs 2703744 pass2 4839 fits 0 strict 0 slotfits 0
+H n18815 1 2 q4r vig perms 324 pairs 2703744 pass2 17912 fits 0 strict 0 slotfits 0
+H n18815 1 2 q4r beau perms 324 pairs 2703744 pass2 17912 fits 0 strict 0 slotfits 0
+O n18815 mismatch 0 cand 17912 method 1 safe 0
+END n18815 0 324
+== out/n18816.f.s512.txt
+H n18816 1 1 q4f vig perms 324 pairs 2703744 pass2 5595 fits 0 strict 0 slotfits 0
+H n18816 1 1 q4f beau perms 324 pairs 2703744 pass2 5595 fits 0 strict 0 slotfits 0
+H n18816 1 2 q4f vig perms 324 pairs 2703744 pass2 18802 fits 0 strict 0 slotfits 0
+H n18816 1 2 q4f beau perms 324 pairs 2703744 pass2 18802 fits 0 strict 0 slotfits 0
+O n18816 mismatch 0 cand 18802 method 1 safe 0
+END n18816 0 324
+== out/n18816.r.s512.txt
+H n18816 1 1 q4r vig perms 324 pairs 2703744 pass2 5775 fits 0 strict 0 slotfits 0
+H n18816 1 1 q4r beau perms 324 pairs 2703744 pass2 5775 fits 0 strict 0 slotfits 0
+H n18816 1 2 q4r vig perms 324 pairs 2703744 pass2 18994 fits 0 strict 0 slotfits 0
+H n18816 1 2 q4r beau perms 324 pairs 2703744 pass2 18994 fits 0 strict 0 slotfits 0
+O n18816 mismatch 0 cand 18994 method 1 safe 0
+END n18816 0 324
+== out/n18817.f.s512.txt
+H n18817 1 1 q4f vig perms 324 pairs 2703744 pass2 5781 fits 0 strict 0 slotfits 0
+H n18817 1 1 q4f beau perms 324 pairs 2703744 pass2 5781 fits 0 strict 0 slotfits 0
+H n18817 1 2 q4f vig perms 324 pairs 2703744 pass2 19167 fits 0 strict 0 slotfits 0
+H n18817 1 2 q4f beau perms 324 pairs 2703744 pass2 19167 fits 0 strict 0 slotfits 0
+O n18817 mismatch 0 cand 19167 method 1 safe 0
+END n18817 0 324
+== out/n18817.r.s512.txt
+H n18817 1 1 q4r vig perms 324 pairs 2703744 pass2 5586 fits 0 strict 0 slotfits 0
+H n18817 1 1 q4r beau perms 324 pairs 2703744 pass2 5586 fits 0 strict 0 slotfits 0
+H n18817 1 2 q4r vig perms 324 pairs 2703744 pass2 19511 fits 0 strict 0 slotfits 0
+H n18817 1 2 q4r beau perms 324 pairs 2703744 pass2 19511 fits 0 strict 0 slotfits 0
+O n18817 mismatch 0 cand 19511 method 1 safe 0
+END n18817 0 324
+== out/n18818.f.s512.txt
+H n18818 1 1 q4f vig perms 324 pairs 2703744 pass2 5572 fits 0 strict 0 slotfits 0
+H n18818 1 1 q4f beau perms 324 pairs 2703744 pass2 5572 fits 0 strict 0 slotfits 0
+H n18818 1 2 q4f vig perms 324 pairs 2703744 pass2 18820 fits 0 strict 0 slotfits 0
+H n18818 1 2 q4f beau perms 324 pairs 2703744 pass2 18820 fits 0 strict 0 slotfits 0
+O n18818 mismatch 0 cand 18820 method 1 safe 0
+END n18818 0 324
+== out/n18818.r.s512.txt
+H n18818 1 1 q4r vig perms 324 pairs 2703744 pass2 6696 fits 0 strict 0 slotfits 0
+H n18818 1 1 q4r beau perms 324 pairs 2703744 pass2 6696 fits 0 strict 0 slotfits 0
+H n18818 1 2 q4r vig perms 324 pairs 2703744 pass2 19916 fits 0 strict 0 slotfits 0
+H n18818 1 2 q4r beau perms 324 pairs 2703744 pass2 19916 fits 0 strict 0 slotfits 0
+O n18818 mismatch 0 cand 19916 method 1 safe 0
+END n18818 0 324
+== out/n18819.f.s512.txt
+H n18819 1 1 q4f vig perms 324 pairs 2703744 pass2 6824 fits 0 strict 0 slotfits 0
+H n18819 1 1 q4f beau perms 324 pairs 2703744 pass2 6824 fits 0 strict 0 slotfits 0
+H n18819 1 2 q4f vig perms 324 pairs 2703744 pass2 21036 fits 0 strict 0 slotfits 0
+H n18819 1 2 q4f beau perms 324 pairs 2703744 pass2 21036 fits 0 strict 0 slotfits 0
+O n18819 mismatch 0 cand 21036 method 1 safe 0
+END n18819 0 324
+== out/n18819.r.s512.txt
+H n18819 1 1 q4r vig perms 324 pairs 2703744 pass2 6543 fits 0 strict 0 slotfits 0
+H n18819 1 1 q4r beau perms 324 pairs 2703744 pass2 6543 fits 0 strict 0 slotfits 0
+H n18819 1 2 q4r vig perms 324 pairs 2703744 pass2 19948 fits 0 strict 0 slotfits 0
+H n18819 1 2 q4r beau perms 324 pairs 2703744 pass2 19948 fits 0 strict 0 slotfits 0
+O n18819 mismatch 0 cand 19948 method 1 safe 0
+END n18819 0 324
+== out/n18820.f.s512.txt
+H n18820 1 1 q4f vig perms 324 pairs 2703744 pass2 5700 fits 0 strict 0 slotfits 0
+H n18820 1 1 q4f beau perms 324 pairs 2703744 pass2 5700 fits 0 strict 0 slotfits 0
+H n18820 1 2 q4f vig perms 324 pairs 2703744 pass2 19732 fits 0 strict 0 slotfits 0
+H n18820 1 2 q4f beau perms 324 pairs 2703744 pass2 19732 fits 0 strict 0 slotfits 0
+O n18820 mismatch 0 cand 19732 method 1 safe 0
+END n18820 0 324
+== out/n18820.r.s512.txt
+H n18820 1 1 q4r vig perms 324 pairs 2703744 pass2 6597 fits 0 strict 0 slotfits 0
+H n18820 1 1 q4r beau perms 324 pairs 2703744 pass2 6597 fits 0 strict 0 slotfits 0
+H n18820 1 2 q4r vig perms 324 pairs 2703744 pass2 21179 fits 0 strict 0 slotfits 0
+H n18820 1 2 q4r beau perms 324 pairs 2703744 pass2 21179 fits 0 strict 0 slotfits 0
+O n18820 mismatch 0 cand 21179 method 1 safe 0
+END n18820 0 324
+== out/n18821.f.s512.txt
+H n18821 1 1 q4f vig perms 324 pairs 2703744 pass2 5622 fits 0 strict 0 slotfits 0
+H n18821 1 1 q4f beau perms 324 pairs 2703744 pass2 5622 fits 0 strict 0 slotfits 0
+H n18821 1 2 q4f vig perms 324 pairs 2703744 pass2 19093 fits 0 strict 0 slotfits 0
+H n18821 1 2 q4f beau perms 324 pairs 2703744 pass2 19093 fits 0 strict 0 slotfits 0
+O n18821 mismatch 0 cand 19093 method 1 safe 0
+END n18821 0 324
+== out/n18821.r.s512.txt
+H n18821 1 1 q4r vig perms 324 pairs 2703744 pass2 5137 fits 0 strict 0 slotfits 0
+H n18821 1 1 q4r beau perms 324 pairs 2703744 pass2 5137 fits 0 strict 0 slotfits 0
+H n18821 1 2 q4r vig perms 324 pairs 2703744 pass2 18960 fits 0 strict 0 slotfits 0
+H n18821 1 2 q4r beau perms 324 pairs 2703744 pass2 18960 fits 0 strict 0 slotfits 0
+O n18821 mismatch 0 cand 18960 method 1 safe 0
+END n18821 0 324
+== out/n18822.f.s512.txt
+H n18822 1 1 q4f vig perms 324 pairs 2703744 pass2 5935 fits 0 strict 0 slotfits 0
+H n18822 1 1 q4f beau perms 324 pairs 2703744 pass2 5935 fits 0 strict 0 slotfits 0
+H n18822 1 2 q4f vig perms 324 pairs 2703744 pass2 20738 fits 0 strict 0 slotfits 0
+H n18822 1 2 q4f beau perms 324 pairs 2703744 pass2 20738 fits 0 strict 0 slotfits 0
+O n18822 mismatch 0 cand 20738 method 1 safe 0
+END n18822 0 324
+== out/n18822.r.s512.txt
+H n18822 1 1 q4r vig perms 324 pairs 2703744 pass2 6365 fits 0 strict 0 slotfits 0
+H n18822 1 1 q4r beau perms 324 pairs 2703744 pass2 6365 fits 0 strict 0 slotfits 0
+H n18822 1 2 q4r vig perms 324 pairs 2703744 pass2 21691 fits 0 strict 0 slotfits 0
+H n18822 1 2 q4r beau perms 324 pairs 2703744 pass2 21691 fits 0 strict 0 slotfits 0
+O n18822 mismatch 0 cand 21691 method 1 safe 0
+END n18822 0 324
+== out/n18823.f.s512.txt
+H n18823 1 1 q4f vig perms 324 pairs 2703744 pass2 4925 fits 0 strict 0 slotfits 0
+H n18823 1 1 q4f beau perms 324 pairs 2703744 pass2 4925 fits 0 strict 0 slotfits 0
+H n18823 1 2 q4f vig perms 324 pairs 2703744 pass2 18757 fits 0 strict 0 slotfits 0
+H n18823 1 2 q4f beau perms 324 pairs 2703744 pass2 18757 fits 0 strict 0 slotfits 0
+O n18823 mismatch 0 cand 18757 method 1 safe 0
+END n18823 0 324
+== out/n18823.r.s512.txt
+H n18823 1 1 q4r vig perms 324 pairs 2703744 pass2 5008 fits 0 strict 0 slotfits 0
+H n18823 1 1 q4r beau perms 324 pairs 2703744 pass2 5008 fits 0 strict 0 slotfits 0
+H n18823 1 2 q4r vig perms 324 pairs 2703744 pass2 19551 fits 0 strict 0 slotfits 0
+H n18823 1 2 q4r beau perms 324 pairs 2703744 pass2 19551 fits 0 strict 0 slotfits 0
+O n18823 mismatch 0 cand 19551 method 1 safe 0
+END n18823 0 324
+== out/n18824.f.s512.txt
+H n18824 1 1 q4f vig perms 324 pairs 2703744 pass2 5931 fits 0 strict 0 slotfits 0
+H n18824 1 1 q4f beau perms 324 pairs 2703744 pass2 5931 fits 0 strict 0 slotfits 0
+H n18824 1 2 q4f vig perms 324 pairs 2703744 pass2 21308 fits 0 strict 0 slotfits 0
+H n18824 1 2 q4f beau perms 324 pairs 2703744 pass2 21308 fits 0 strict 0 slotfits 0
+O n18824 mismatch 0 cand 21308 method 1 safe 0
+END n18824 0 324
+== out/n18824.r.s512.txt
+H n18824 1 1 q4r vig perms 324 pairs 2703744 pass2 6658 fits 0 strict 0 slotfits 0
+H n18824 1 1 q4r beau perms 324 pairs 2703744 pass2 6658 fits 0 strict 0 slotfits 0
+H n18824 1 2 q4r vig perms 324 pairs 2703744 pass2 20370 fits 0 strict 0 slotfits 0
+H n18824 1 2 q4r beau perms 324 pairs 2703744 pass2 20370 fits 0 strict 0 slotfits 0
+O n18824 mismatch 0 cand 20370 method 1 safe 0
+END n18824 0 324
+== out/n18825.f.s512.txt
+H n18825 1 1 q4f vig perms 324 pairs 2703744 pass2 5913 fits 0 strict 0 slotfits 0
+H n18825 1 1 q4f beau perms 324 pairs 2703744 pass2 5913 fits 0 strict 0 slotfits 0
+H n18825 1 2 q4f vig perms 324 pairs 2703744 pass2 20271 fits 0 strict 0 slotfits 0
+H n18825 1 2 q4f beau perms 324 pairs 2703744 pass2 20271 fits 0 strict 0 slotfits 0
+O n18825 mismatch 0 cand 20271 method 1 safe 0
+END n18825 0 324
+== out/n18825.r.s512.txt
+H n18825 1 1 q4r vig perms 324 pairs 2703744 pass2 5096 fits 0 strict 0 slotfits 0
+H n18825 1 1 q4r beau perms 324 pairs 2703744 pass2 5096 fits 0 strict 0 slotfits 0
+H n18825 1 2 q4r vig perms 324 pairs 2703744 pass2 19353 fits 0 strict 0 slotfits 0
+H n18825 1 2 q4r beau perms 324 pairs 2703744 pass2 19353 fits 0 strict 0 slotfits 0
+O n18825 mismatch 0 cand 19353 method 1 safe 0
+END n18825 0 324
+== out/n18826.f.s512.txt
+H n18826 1 1 q4f vig perms 324 pairs 2703744 pass2 5300 fits 0 strict 0 slotfits 0
+H n18826 1 1 q4f beau perms 324 pairs 2703744 pass2 5300 fits 0 strict 0 slotfits 0
+H n18826 1 2 q4f vig perms 324 pairs 2703744 pass2 19043 fits 0 strict 0 slotfits 0
+H n18826 1 2 q4f beau perms 324 pairs 2703744 pass2 19043 fits 0 strict 0 slotfits 0
+O n18826 mismatch 0 cand 19043 method 1 safe 0
+END n18826 0 324
+== out/n18826.r.s512.txt
+H n18826 1 1 q4r vig perms 324 pairs 2703744 pass2 4879 fits 0 strict 0 slotfits 0
+H n18826 1 1 q4r beau perms 324 pairs 2703744 pass2 4879 fits 0 strict 0 slotfits 0
+H n18826 1 2 q4r vig perms 324 pairs 2703744 pass2 18224 fits 0 strict 0 slotfits 0
+H n18826 1 2 q4r beau perms 324 pairs 2703744 pass2 18224 fits 0 strict 0 slotfits 0
+O n18826 mismatch 0 cand 18224 method 1 safe 0
+END n18826 0 324
+== out/n18827.f.s512.txt
+H n18827 1 1 q4f vig perms 324 pairs 2703744 pass2 4939 fits 0 strict 0 slotfits 0
+H n18827 1 1 q4f beau perms 324 pairs 2703744 pass2 4939 fits 0 strict 0 slotfits 0
+H n18827 1 2 q4f vig perms 324 pairs 2703744 pass2 19291 fits 0 strict 0 slotfits 0
+H n18827 1 2 q4f beau perms 324 pairs 2703744 pass2 19291 fits 0 strict 0 slotfits 0
+O n18827 mismatch 0 cand 19291 method 1 safe 0
+END n18827 0 324
+== out/n18827.r.s512.txt
+H n18827 1 1 q4r vig perms 324 pairs 2703744 pass2 5311 fits 0 strict 0 slotfits 0
+H n18827 1 1 q4r beau perms 324 pairs 2703744 pass2 5311 fits 0 strict 0 slotfits 0
+H n18827 1 2 q4r vig perms 324 pairs 2703744 pass2 20139 fits 0 strict 0 slotfits 0
+H n18827 1 2 q4r beau perms 324 pairs 2703744 pass2 20139 fits 0 strict 0 slotfits 0
+O n18827 mismatch 0 cand 20139 method 1 safe 0
+END n18827 0 324
+== out/n18828.f.s512.txt
+H n18828 1 1 q4f vig perms 324 pairs 2703744 pass2 6090 fits 0 strict 0 slotfits 0
+H n18828 1 1 q4f beau perms 324 pairs 2703744 pass2 6090 fits 0 strict 0 slotfits 0
+H n18828 1 2 q4f vig perms 324 pairs 2703744 pass2 19314 fits 0 strict 0 slotfits 0
+H n18828 1 2 q4f beau perms 324 pairs 2703744 pass2 19314 fits 0 strict 0 slotfits 0
+O n18828 mismatch 0 cand 19314 method 1 safe 0
+END n18828 0 324
+== out/n18828.r.s512.txt
+H n18828 1 1 q4r vig perms 324 pairs 2703744 pass2 5065 fits 0 strict 0 slotfits 0
+H n18828 1 1 q4r beau perms 324 pairs 2703744 pass2 5065 fits 0 strict 0 slotfits 0
+H n18828 1 2 q4r vig perms 324 pairs 2703744 pass2 18924 fits 0 strict 0 slotfits 0
+H n18828 1 2 q4r beau perms 324 pairs 2703744 pass2 18924 fits 0 strict 0 slotfits 0
+O n18828 mismatch 0 cand 18924 method 1 safe 0
+END n18828 0 324
+== out/n18829.f.s512.txt
+H n18829 1 1 q4f vig perms 324 pairs 2703744 pass2 5844 fits 0 strict 0 slotfits 0
+H n18829 1 1 q4f beau perms 324 pairs 2703744 pass2 5844 fits 0 strict 0 slotfits 0
+H n18829 1 2 q4f vig perms 324 pairs 2703744 pass2 21247 fits 0 strict 0 slotfits 0
+H n18829 1 2 q4f beau perms 324 pairs 2703744 pass2 21247 fits 0 strict 0 slotfits 0
+O n18829 mismatch 0 cand 21247 method 1 safe 0
+END n18829 0 324
+== out/n18829.r.s512.txt
+H n18829 1 1 q4r vig perms 324 pairs 2703744 pass2 6095 fits 0 strict 0 slotfits 0
+H n18829 1 1 q4r beau perms 324 pairs 2703744 pass2 6095 fits 0 strict 0 slotfits 0
+H n18829 1 2 q4r vig perms 324 pairs 2703744 pass2 20667 fits 0 strict 0 slotfits 0
+H n18829 1 2 q4r beau perms 324 pairs 2703744 pass2 20667 fits 0 strict 0 slotfits 0
+O n18829 mismatch 0 cand 20667 method 1 safe 0
+END n18829 0 324
