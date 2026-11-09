@@ -1,0 +1,14 @@
+c45_k4_a: kjv_john_rev model A mode 22  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_k4_b: kjv_john_rev model A mode 22  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_k4_c: kjv_john_rev model A mode 22  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_k4_d: kjv_john_rev model A mode 22  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_k4_e: kjv_john_rev model A mode 12  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_k4_f: kjv_john_rev model A mode 12  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_null1_a: carter1_rev model B mode 12  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_null1_b: carter1_rev model B mode 12  unmasked depth 9  masked depth 9  one-error depth1 10
+c45_null3_max: carter1_rev model A mode 15  unmasked depth 10  masked depth 10  one-error depth1 11
+c168_k4_a: kjv_nt_rev model B mode 1  unmasked depth 9  masked depth 9  one-error depth1 10
+c168_k4_b: kjv_nt_rev model B mode 1  unmasked depth 9  masked depth 9  one-error depth1 10
+c168_k4_c: kjv_nt_rev model B mode 22  unmasked depth 9  masked depth 9  one-error depth1 10
+c168_k4_d: natsec_act_1947_amended_rev model B mode 20  unmasked depth 9  masked depth 9  one-error depth1 10
+c168_null6_max: kjv_nt_rev model A mode 5  unmasked depth 12  masked depth 12  one-error depth1 13
