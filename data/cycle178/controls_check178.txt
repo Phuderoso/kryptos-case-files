@@ -1,0 +1,36 @@
+P1_ix0_L3_az_vig: fits_at_q 6 window_fits 6 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -3.950 [0 L3 c=[14, 23, 13] d=2] ?????????????????????EASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P2_ix0_L6_ka_beau: fits_at_q 3 window_fits 3 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -3.950 [0 L6 c=[25, 24, 13, 6, 5, 20] d=8] ?????????????????????EASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P3_ix0_L8_az_beau: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [0 L8 c=[2, 4, 19, 5, 6, 18, 8, 19] d=3] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P4_ix0_L9_ka_vig: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -3.950 [0 L9 c=[6, 5, 17, 11, 5, 9, 0, 15, 4] d=12] ?????????????????????EASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P5_ix0_fib_KR_ka_vig: fits_at_q 7 window_fits 7 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [0 L2 c=[1, 1] d=0] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P6_ix1_L2_az_beau: fits_at_q 4 window_fits 4 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [1 L2 c=[24, 23] d=22 seed=[6, 11] null13=0] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P7_ix1_L4_ka_vig_nonunit: fits_at_q 2 window_fits 2 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [1 L4 c=[7, 25, 20, 6] d=6 seed=[11, 4, 15, 22] null13=0] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P8_ix1_L5_az_vig: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [1 L5 c=[10, 23, 7, 3, 13] d=16 seed=[0, 1, 23, 2, 4] null13=1] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P9_W1_L7_PALIMPSEST_kaN_ka_beau: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [W1 L7 word=PALIMPSEST kaN c=[1, 0, 1, 1, 0, 0, 1] d=5] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P10_W0_L10_BERLINCLOCK_azN_az_vig: fits_at_q 1 window_fits 1 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [W0 L10 word=BERLINCLOCK azN c=[0, 1, 0, 0, 1, 0, 0, 0, 0, 1] d=11] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P11_ix1_L3_ka_beau: fits_at_q 3 window_fits 3 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [1 L3 c=[4, 3, 1] d=5 seed=[15, 13, 7] null13=0] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P12_W0_L6_KRYPTOS_kaN_az_beau: fits_at_q 3 window_fits 3 planted_params_listed True decode_matches_plant True -> PASS
+   decode score -4.090 [W0 L6 word=ABCDEFGHIJKLMNOPQRSTUVWXYZ azN c=[1, 1, 0, 0, 0, 1] d=0] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+N1_P1_one_wrong_carved_letter: NEG fits_at_q 2 fits_in_window 2 -> FAIL
+N2_ix1_random_key: NEG fits_at_q 0 fits_in_window 0 -> PASS
+N3_W1_seed_shifted_by_one: NEG fits_at_q 0 fits_in_window 0 -> PASS
+controls 14/15
+
+== post-hoc negative N1b (added after N1's failure was diagnosed; not pre-registered)
+N1b_P1_wrong_carved_letter_slot30_posthoc: NEG fits_at_q 0 fits_in_window 0 -> PASS
+controls 1/1
+
+== N1 fit lines (L 8 and L 9 at the planted perm)
+M N1_P1_one_wrong_carved_letter 0 8 az vig 116975 n2 1 n13 13 S2 0,1,1,0,0,0,0,0,0 S13 2,9,3,0,0,0,0,0,0 8,3,8,0,0,0,0,0,1 1,10,0,0,0,0,0,0,2 7,4,5,0,0,0,0,0,3 0,11,10,0,0,0,0,0,4 6,5,2,0,0,0,0,0,5 12,12,7,0,0,0,0,0,6 5,6,12,0,0,0,0,0,7 11,0,4,0,0,0,0,0,8 4,7,9,0,0,0,0,0,9 10,1,1,0,0,0,0,0,10 3,8,6,0,0,0,0,0,11 9,2,11,0,0,0,0,0,12
+M N1_P1_one_wrong_carved_letter 0 9 az vig 116975 n2 2 n13 169 S2 0,1,1,0,0,0,0,0,0,0 1,1,0,1,0,0,0,0,0,0 S13 2,9,3,0,0,0,0,0,0,0 6,1,6,1,0,0,0,0,0,0 10,6,9,2,0,0,0,0,0,0 1,11,12,3,0,0,0,0,0,0 5,3,2,4,0,0,0,0,0,0 9,8,5,5,0,0,0,0,0,0 0,0,8,6,0,0,0,0,0,0 4,5,11,7,0,0,0,0,0,0 8,10,1,8,0,0,0,0,0,0 12,2,4,9,0,0,0,0,0,0 3,7,7,10,0,0,0,0,0,0 7,12,10,11,0,0,0,0,0,0 11,4,0,12,0,0,0,0,0,0 8,3,8,0,0,0,0,0,0,

@@ -1,0 +1,30 @@
+# numpy brute force (recount178.py) on slice178 (all.bin[::4000] + planted perms of P1 P5 P6 P11 P12; idx below)
+R P1 0 3 az vig 42 13
+R P5 0 2 ka vig 43 1
+R P5 0 3 ka vig 43 26
+R P6 1 2 az beau 44 3
+R P5 W0 6 ka vig 43 ANTIPODES kaN c3 d0
+R P12 W0 6 az beau 46 KRYPTOS kaN c35 d0
+R P12 W0 6 az beau 46 KRYPTOSABCDEFGHIJLMNQUVWXZ kaN c35 d0
+R P12 W0 6 az beau 46 ABCDEFGHIJKLMNOPQRSTUVWXYZ azN c35 d0
+RECOUNT_END 8
+# lr178 on the same slice (M lines, abbreviated)
+M P1 0 3 az vig 42 n2 1 n13 13 S2 0,1,1,0 S13 2,9,3,0 8,3,8,1 1,10,0,2 7,4,5,3 0,11,10,4 6,5,2,5 12,12,7,6 5,6,12,7 11,0,4,8 4,7,9,9 10,1,1,10 3,8,6,11 9,2,11,1
+M P5 0 2 ka vig 43 n2 1 n13 1 S2 1,1,0 S13 1,1,0
+M P5 0 3 ka vig 43 n2 2 n13 13 S2 1,1,0,0 0,0,1,0 S13 1,1,0,0 0,2,1,0 12,3,2,0 11,4,3,0 10,5,4,0 9,6,5,0 8,7,6,0 7,8,7,0 6,9,8,0 5,10,9,0 4,11,10,0 3,12,11,0 2,
+M P5 W0 6 ka vig 43 ANTIPODES kaN c3 d0
+M P6 1 2 az beau 44 n2 3 n13c 1 S2 c01s01d0 c10s01d1 c10s11d1 S13 c11,10x6,11,9n0
+M P12 W0 6 az beau 46 KRYPTOS kaN c35 d0
+M P12 W0 6 az beau 46 KRYPTOSABCDEFGHIJLMNQUVWXZ kaN c35 d0
+M P12 W0 6 az beau 46 ABCDEFGHIJKLMNOPQRSTUVWXYZ azN c35 d0
+# K4/null H lines from lr178 on the slice
+H P1 0 3 az vig cfg 47 pass2 1 fits 1 sols 13 ovf 0
+H P5 0 2 ka vig cfg 47 pass2 1 fits 1 sols 1 ovf 0
+H P5 0 3 ka vig cfg 47 pass2 1 fits 1 sols 26 ovf 0
+H P5 W0 6 ka vig streams 229320 perms 47 fits 1
+H P6 1 2 az beau cfg 47 pass2 1 fits 1 sols 3 ovf 0
+H P12 W0 6 az beau streams 229320 perms 47 fits 3
+# all lr178 fit counts on the slice for k4/n17811/n17812 are 0 (both tools)
+# comparison: 8/8 identical (M0 counts = n2*n13: P1 L3 13=1*13, P5 L2 1, P5 L3 26=2*13; M1 P6 L2 3 streams = n2 3 x n13c 1 (nullity 0); W0 4 identical lines); 0 mismatches
+# slice indices
+0 4000 8000 12000 16000 20000 24000 28000 32000 36000 40000 44000 48000 52000 56000 60000 64000 68000 72000 76000 80000 84000 88000 92000 96000 100000 104000 108000 112000 116000 120000 124000 128000 132000 136000 140000 144000 148000 152000 156000 160000 164000 116975 128578 127336 151624 158178 
