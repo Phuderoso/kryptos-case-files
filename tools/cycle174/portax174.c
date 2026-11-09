@@ -6,8 +6,8 @@
    A config is consistent if every column has a slide k in 0..12 matching every known letter of its pairs
    (pairs (t, t+p), t = j, j+2p, ...; a tail letter without a partner is free).  "pairs" = pairs holding >= 1 crib letter;
    "bits" = sum over columns of log2(13 / #slides that fit) - a measure of how much the cribs constrained the key.
-   usage: portax174 CT perms.bin label qlo qhi PMAX
-   Output: X lab q num ix p pairs bits key PT (consistent configs with pairs >= 12) ; H lab num ix p configs consistent ; END */
+   usage: portax174 CT perms.bin label qlo qhi PMAX [pairs_threshold for X lines, default 12]
+   Output: X lab q num ix p pairs bits key PT (consistent configs with pairs >= 12; PT shows '?' in columns whose slide the cribs do not fix uniquely, key letter there = first fitting slide) ; H lab num ix p configs consistent ; END */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -21,6 +21,7 @@ static inline void ptx(int a,int b,int k,int*o1,int*o2){
   #define UP(r,c) ((r)==0?(c):13+((c)+k)%13)
   if(c1!=c2){*o1=UP(r1,c2);*o2=2*c1+r2;} else {*o1=UP(1-r1,c1);*o2=2*c1+(1-r2);}
 }
+static int NK[64];
 static int test(const int*ct,const int*want,int p,int*key,int*npairs,double*bits){
   int np=0; double bt=0;
   for(int j=0;j<p;j++){ int first=-1,nk=0; int any=0;
@@ -29,14 +30,14 @@ static int test(const int*ct,const int*want,int p,int*key,int*npairs,double*bits
         int o1,o2; ptx(ct[t],ct[s],k,&o1,&o2);
         if(want[t]>=0&&o1!=want[t]) good=0; if(want[s]>=0&&o2!=want[s]) good=0; }
       if(good){nk++; if(first<0)first=k;} }
-    if(!nk) return 0; key[j]=first; if(any) bt+=log2(13.0/nk); }
+    if(!nk) return 0; key[j]=first; NK[j]=any?nk:13; if(any) bt+=log2(13.0/nk); }
   for(int j=0;j<p;j++) for(int t=j;t+p<N;t+=2*p) if(want[t]>=0||want[t+p]>=0) np++;
   *npairs=np; *bits=bt; return 1;
 }
 int main(int argc,char**argv){
   if(argc<7)return 1; const char*Cs=argv[1]; if(strlen(Cs)!=N)return 1;
   FILE*f=fopen(argv[2],"rb"); fseek(f,0,2); long np=ftell(f)/(2*N); rewind(f); short*PM=malloc(np*N*2); if(fread(PM,2,np*N,f)!=(size_t)(np*N))return 2; fclose(f);
-  const char*lab=argv[3]; long qlo=atol(argv[4]),qhi=atol(argv[5]); int PMAX=atoi(argv[6]); if(qhi>np)qhi=np;
+  const char*lab=argv[3]; long qlo=atol(argv[4]),qhi=atol(argv[5]); int PMAX=atoi(argv[6]); int THR=argc>7?atoi(argv[7]):12; if(qhi>np)qhi=np;
   static long long H[2][2][64][2]; memset(H,0,sizeof H);
   int nt[2][26],al[2][26]; for(int i=0;i<26;i++){nt[0][i]=i;al[0][i]=i;nt[1][KA[i]-'A']=i;al[1][i]=KA[i]-'A';}
   for(long q=qlo;q<qhi;q++){const short*S=PM+q*N;
@@ -46,9 +47,9 @@ int main(int argc,char**argv){
       else {for(int i=0;i<N;i++)c2[i]=ct[S[i]]; for(int i=0;i<24;i++) want[CI[i]]=nt[num][PT[i]-'A'];}
       for(int p=1;p<=PMAX;p++){ int key[64],npairs; double bits; H[num][ix][p][0]++;
         if(!test(c2,want,p,key,&npairs,&bits)) continue; H[num][ix][p][1]++;
-        if(npairs>=12){ int out[N]; memcpy(out,c2,sizeof out);
+        if(npairs>=THR){ int out[N]; memcpy(out,c2,sizeof out);
           for(int j=0;j<p;j++) for(int s=j;s+p<N;s+=2*p) ptx(c2[s],c2[s+p],key[j],&out[s],&out[s+p]);
-          char pt[N+1]; for(int i=0;i<N;i++){int v=(ix==1)?out[S[i]]:out[i]; pt[i]='A'+al[num][v];} pt[N]=0;
+          char pt[N+1]; for(int i=0;i<N;i++){int ps=(ix==1)?S[i]:i; int v=out[ps]; int j=ps%(2*p); j=j<p?j:j-p; int pr=(ps%(2*p)<p)?ps+p<N:1; pt[i]=(NK[j]==1&&pr)?'A'+al[num][v]:'?';} pt[N]=0;
           char ks[65]; for(int j=0;j<p;j++) ks[j]='A'+2*key[j]; ks[p]=0;
           printf("X %s %ld %s %d %d %d %.1f %s %s\n",lab,q,num?"KA":"AZ",ix,p,npairs,bits,ks,pt);} } } } }
   for(int num=0;num<2;num++)for(int ix=0;ix<2;ix++)for(int p=1;p<=PMAX;p++) printf("H %s %s %d %d %lld %lld\n",lab,num?"KA":"AZ",ix,p,H[num][ix][p][0],H[num][ix][p][1]);
