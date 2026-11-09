@@ -1,0 +1,38 @@
+## bank controls ctl1-5 (cycle-164 plants), q4akb on an 80-entry window around each plant, diff vs q4ak on same window: identical 5/5
+S ctl1 feed=PT X=SHADOW Y=PALIMPSEST zY vig ix=carved L=5 perm=4241 dir=1 checks=19 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+S ctl1 feed=PT X=SHADOW Y=PALIMPSEST zY vig ix=carved L=5 perm=4242 dir=0 checks=19 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C ctl1 tests 584048640 consistent 2 reported 2 pairs 9506 (n1 98 n2 98) perms 4202..4282 step 1 lmax 16 direct 0
+S ctl2 feed=PT X=BERLIN Y=CLOCK zX beau ix=pt L=8 perm=99998 dir=0 checks=16 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+S ctl2 feed=PT X=BERLIN Y=CLOCK zX beau ix=pt L=8 perm=99999 dir=1 checks=16 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C ctl2 tests 584048640 consistent 2 reported 2 pairs 9506 (n1 98 n2 98) perms 99959..100039 step 1 lmax 16 direct 0
+S ctl3 feed=PT X=KRYPTOS Y=AZ zX var ix=carved L=14 perm=159999 dir=1 checks=12 crib24=ok partial=TH?SHADOWFELLACROS??HEASTNORTHEASTW???LKEDTOWA?DT?E?LDTOWERAN??BERLINCLOCKSTRU??THEHOURINSILE?CEX
+S ctl3 feed=PT X=KRYPTOS Y=AZ zX var ix=carved L=14 perm=160000 dir=0 checks=12 crib24=ok partial=TH?SHADOWFELLACROS??HEASTNORTHEASTW???LKEDTOWA?DT?E?LDTOWERAN??BERLINCLOCKSTRU??THEHOURINSILE?CEX
+C ctl3 tests 584048640 consistent 2 reported 2 pairs 9506 (n1 98 n2 98) perms 159960..160040 step 1 lmax 16 direct 0
+S ctl4 feed=CT X=AZ Y=ABSCISSA zY vig ix=carved L=6 perm=12345 dir=1 checks=22 crib24=ok partial=?HESHADO?FELLACR?SSTHEASTNORTHEASTWEWALK?DTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+S ctl4 feed=CT X=AZ Y=ABSCISSA zY vig ix=carved L=6 perm=12346 dir=0 checks=22 crib24=ok partial=?HESHADO?FELLACR?SSTHEASTNORTHEASTWEWALK?DTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C ctl4 tests 584048640 consistent 2 reported 2 pairs 9506 (n1 98 n2 98) perms 12305..12385 step 1 lmax 16 direct 0
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=753 dir=0 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTLIEWEINXZLFWEK?O?E?J?V?C?K?Z?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=754 dir=1 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTLIEWEINXZLFWEK?O?E?J?V?C?K?Z?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=757 dir=0 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTLIEWEINXZLFWEK?B?A?E?H?G?Y?E?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=758 dir=1 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTLIEWEINXZLFWEK?B?A?E?H?G?Y?E?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=765 dir=0 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTOFBIMWMACLYYYA?H?O?D?O?E?A?D?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=766 dir=1 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTOFBIMWMACLYYYA?H?O?D?O?E?A?D?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=769 dir=0 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTOFBIMWMACLYYYA?B?A?E?H?G?Y?E?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=770 dir=1 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTOFBIMWMACLYYYA?B?A?E?H?G?Y?E?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=pt L=2 perm=777 dir=0 checks=22 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=777 dir=0 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTWEWALKEDTOWARD?H?O?D?O?E?A?D?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=pt L=2 perm=778 dir=1 checks=22 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=778 dir=1 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTWEWALKEDTOWARD?H?O?D?O?E?A?D?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=781 dir=0 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTWEWALKEDTOWARD?O?E?J?V?C?K?Z?BERLINCLOCKSTRUCKT????????????????
+S ctl5 feed=PT X=TOMB Y=VERDIGRIS zX vig ix=carved L=12 perm=782 dir=1 checks=17 crib24=ok partial=????????????????OSSTHEASTNORTHEASTWEWALKEDTOWARD?O?E?J?V?C?K?Z?BERLINCLOCKSTRUCKT????????????????
+C ctl5 tests 584048640 consistent 14 reported 14 pairs 9506 (n1 98 n2 98) perms 737..817 step 1 lmax 16 direct 0
+## ctl6 direct (c6list), identical to q4ak
+S ctl6 feed=PT X=EGYPT Y=ZEBRAFISH zY beau ix=pt L=15 perm=0 dir=0 checks=9 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C ctl6 tests 11619120 consistent 1 reported 1 pairs 48413 (n1 98 n2 495) perms 0..1 step 1 lmax 20 direct 1
+## vocabulary-bank plants vc1-vc3 (plant165.py), sampled entries, containing chunk
+S vc1 feed=PT X=SHADOW Y=SIGNALS zY vig ix=carved L=9 perm=5011 dir=1 checks=15 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C vc1 tests 6046755840 consistent 1 reported 1 pairs 47430 (n1 98 n2 484) perms 11..165065 step 1000 lmax 16 direct 0
+S vc2 feed=CT X=KRYPTOS Y=PASSIONATE zX beau ix=pt L=12 perm=120011 dir=0 checks=24 crib24=ok partial=????????????LACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C vc2 tests 6296887296 consistent 1 reported 1 pairs 49392 (n1 98 n2 504) perms 11..165065 step 1000 lmax 16 direct 0
+S vc3 feed=PT X=CLOCK Y=CABLES zY var ix=pt L=16 perm=77011 dir=1 checks=8 crib24=ok plain=THESHADOWFELLACROSSTHEASTNORTHEASTWEWALKEDTOWARDTHEOLDTOWERANDTBERLINCLOCKSTRUCKTHEHOURINSILENCEX
+C vc3 tests 6334368768 consistent 1 reported 1 pairs 49686 (n1 98 n2 507) perms 11..165065 step 1000 lmax 16 direct 0
