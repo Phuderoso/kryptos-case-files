@@ -1,0 +1,31 @@
+## out/c1_k4_full.txt END=True
+configs 344,826,560; total fits 152,530,845; total chance E 152,531,362.4
+model P vig: full-power cells 63 (fits 0, strict 0, sum E 0.131); low-power cells 197 (fits 46,676,691 vs E 46,676,369.0)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x20 6x21 7x8 7x9 7x10 7x11 8x9 8x10 8x12 8x20 9x12 9x15 12x18 14x21
+model P beau: full-power cells 63 (fits 0, strict 0, sum E 0.131); low-power cells 197 (fits 46,676,491 vs E 46,676,369.0)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x20 6x21 7x8 7x9 7x10 7x11 8x9 8x10 8x12 8x20 9x12 9x15 12x18 14x21
+model C vig: full-power cells 46 (fits 0, strict 0, sum E 0.154); low-power cells 214 (fits 29,590,255 vs E 29,589,311.9)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 5x6 5x7 5x8 5x9 5x11 5x12 5x13 6x7 6x8 6x9 6x10 6x11 6x15 7x8 7x9 7x10 7x11 8x9 8x10 8x12
+model C beau: full-power cells 46 (fits 0, strict 0, sum E 0.154); low-power cells 214 (fits 29,587,408 vs E 29,589,311.9)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 5x6 5x7 5x8 5x9 5x11 5x12 5x13 6x7 6x8 6x9 6x10 6x11 6x15 7x8 7x9 7x10 7x11 8x9 8x10 8x12
+## out/c2_k4_direct.txt END=True
+configs 19,576,960; total fits 10,598,838; total chance E 10,599,896.0
+model P vig: full-power cells 70 (fits 0, strict 0, sum E 0.102); low-power cells 190 (fits 2,649,910 vs E 2,649,973.9)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 6x20 6x21 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 8x20 9x10 9x12 9x15 12x18 14x21
+model P beau: full-power cells 70 (fits 0, strict 0, sum E 0.102); low-power cells 190 (fits 2,649,509 vs E 2,649,973.9)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 6x20 6x21 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 8x20 9x10 9x12 9x15 12x18 14x21
+model C vig: full-power cells 70 (fits 0, strict 0, sum E 0.102); low-power cells 190 (fits 2,649,910 vs E 2,649,973.9)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 6x20 6x21 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 8x20 9x10 9x12 9x15 12x18 14x21
+model C beau: full-power cells 70 (fits 0, strict 0, sum E 0.102); low-power cells 190 (fits 2,649,509 vs E 2,649,973.9)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 6x20 6x21 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 8x20 9x10 9x12 9x15 12x18 14x21
+## out/c3_k4_s512_themed.txt END=True
+configs 48,522,240; total fits 21,428,962; total chance E 21,429,846.2
+model P vig: full-power cells 70 (fits 0, strict 0, sum E 0.254); low-power cells 190 (fits 6,568,070 vs E 6,568,061.1)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 6x20 6x21 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 8x20 9x10 9x12 9x15 12x18 14x21
+model P beau: full-power cells 70 (fits 1, strict 0, sum E 0.254); low-power cells 190 (fits 6,568,166 vs E 6,568,061.1)
+  FULL-POWER FIT cell ('P', 'beau', 9, 10) fits 1 E 0.0492363 printed: ['k4 188 SHADOWFORCES/K beau P 9 10 6 5']
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 2x19 2x21 2x23 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 3x19 3x20 3x22 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 4x18 4x19 4x21 4x22 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 5x21 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 6x20 6x21 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 8x20 9x10 9x12 9x15 12x18 14x21
+model C vig: full-power cells 53 (fits 0, strict 0, sum E 0.124); low-power cells 207 (fits 4,145,949 vs E 4,146,861.6)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 9x10 9x12
+model C beau: full-power cells 53 (fits 0, strict 0, sum E 0.124); low-power cells 207 (fits 4,146,776 vs E 4,146,861.6)
+  full-power pairs: 2x3 2x5 2x7 2x9 2x11 2x13 2x15 2x17 3x4 3x5 3x7 3x8 3x10 3x11 3x13 3x14 3x16 4x5 4x6 4x7 4x9 4x10 4x11 4x13 4x14 4x15 5x6 5x7 5x8 5x9 5x11 5x12 5x13 5x14 6x7 6x8 6x9 6x10 6x11 6x13 6x14 6x15 7x8 7x9 7x10 7x11 7x12 8x9 8x10 8x11 8x12 9x10 9x12
