@@ -1,0 +1,20 @@
+== per-L counts, model G ix 0 (full perms; L 8: K4 + first 9 nulls)
+L2 K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19
+L3 K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19
+L4 K4 0 nulls n=19 min/med/max 0/0/0 mean 0.00 ge_K4 19
+L5 K4 0 nulls n=19 min/med/max 0/0/1 mean 0.11 ge_K4 19
+L6 K4 1 nulls n=19 min/med/max 0/1/4 mean 0.84 ge_K4 10
+L7 K4 12 nulls n=19 min/med/max 5/10/17 mean 10.68 ge_K4 8
+L8 K4 103 nulls n=9 min/med/max 77/98/126 mean 97.22 ge_K4 3
+== model G ix 1 (1/8 perms; K4 full in brackets)
+L2 K4s8 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00
+L3 K4s8 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00
+L4 K4s8 0 [K4 full 0] nulls n=19 min/med/max 0/0/0 mean 0.00
+L5 K4s8 0 [K4 full 0] nulls n=19 min/med/max 0/0/1 mean 0.05
+== grid (leave-one-out Poisson tails)
+C1 G ix0 L2-6: K4 1 nulls min/med/max 0/1/4 scored=True K4 p+ 0.612 p- 0.755
+C2 G ix0 L7: K4 12 nulls min/med/max 5/10/17 scored=True K4 p+ 0.383 p- 0.723
+C3 G ix1 L2-5 (1/8): K4 0 nulls min/med/max 0/0/1 scored=True K4 p+ 1.000 p- 0.949
+C4 named primers ix0+ix1(1/8): K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+C5 PG both ix: K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+G+(K4) 0.383 grid p+ 0.75 ; G-(K4) 0.723 grid p- 0.80 ; best attainable 0.05
