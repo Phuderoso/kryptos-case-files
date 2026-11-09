@@ -1,0 +1,29 @@
+# Cycle 179 controls (plants seed 17900; lr179 on q +- 1500). Rehearsal history: the first rehearsal (~08:55) failed P7 and P9 in the DECODER only (c = 0 mod 2 leaves seed bits at carved 0..L-1 off the crib positions unidentified mod 2; decode179 now re-enumerates every matching mod-2 stream) and printed -9 scores (quadgram file format); both fixed before the pre-registration push. Rerun of the check with the published tools below.
+P1_ix0_L3_az_vig_err25: fits_at_q 29 cell_lines 1 slots [25] planted_slot_ok True decode_matches True -> PASS
+   decode score -3.950 [c[4, 18, 8] d8 slot25 v16] ?????????????????????EASTKORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P2_ix0_L6_ka_beau_err21: fits_at_q 49 cell_lines 1 slots [21] planted_slot_ok True decode_matches True -> PASS
+   decode score -3.950 [c[14, 15, 22, 0, 22, 7] d0 slot21 v14] ?????????????????????GASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P3_ix0_L8_az_beau_err70: fits_at_q 1 cell_lines 1 slots [70] planted_slot_ok True decode_matches True -> PASS
+   decode score -3.950 [c[19, 21, 12, 3, 18, 7, 19, 22] d6 slot70 v18] ?????????????????????EASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCOOCKANDTHEHOURSWERECOUNTEDX
+P4_ix0_L5_ka_vig_err33: fits_at_q 4 cell_lines 1 slots [33] planted_slot_ok True decode_matches True -> PASS
+   decode score -3.950 [c[4, 16, 6, 16, 19] d17 slot33 v5] ?????????????????????EASTNORTHEASAOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P5_ix0_L7_az_vig_strict: fits_at_q 48 cell_lines 24 slots [21, 22, 23, 24, 25, 26]... planted_slot_ok True decode_matches True -> PASS
+   decode score -3.950 [c[11, 3, 18, 1, 7, 15, 16] d20 slot21 v17] ?????????????????????EASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P6_ix0_fib_ka_beau_err63: fits_at_q 7 cell_lines 1 slots [63] planted_slot_ok True decode_matches True -> PASS
+   decode score -3.950 [c[1, 1] d0 slot63 v0] ?????????????????????EASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXSERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P7_ix1_L2_az_beau_err64: fits_at_q 4 cell_lines 1 slots [64] planted_slot_ok True decode_matches True -> PASS
+   decode score -4.090 [c[14, 10] seed[23, 25] d0 slot64] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBIRLINCLOCKANDTHEHOURSWERECOUNTEDX
+P8_ix1_L4_ka_vig_err22: fits_at_q 2 cell_lines 1 slots [22] planted_slot_ok True decode_matches True -> PASS
+   decode score -4.090 [c[1, 11, 22, 6] seed[2, 7, 25, 12] d10 slot22] SLOWLYDESPARATLYSLOWTEQSTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P9_ix1_L3_ka_beau_strict: fits_at_q 72 cell_lines 24 slots [21, 22, 23, 24, 25, 26]... planted_slot_ok True decode_matches True -> PASS
+   decode score -4.090 [c[19, 10, 4] seed[23, 25, 5] d0 slot21] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P10_ix1_L5_az_vig_err29: fits_at_q 1 cell_lines 1 slots [29] planted_slot_ok True decode_matches True -> PASS
+   decode score -4.090 [c[3, 23, 3, 18, 7] seed[9, 4, 0, 4, 1] d8 slot29] SLOWLYDESPARATLYSLOWTEASTNORTCEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCKANDTHEHOURSWERECOUNTEDX
+P11_ix1_L1_az_vig_err73: fits_at_q 28 cell_lines 1 slots [73] planted_slot_ok True decode_matches True -> PASS
+   decode score -4.090 [c[7] seed[12] d25 slot73] SLOWLYDESPARATLYSLOWTEASTNORTHEASTOFTHEOLDTOWERTHESHADOWFELLONXBERLINCLOCDANDTHEHOURSWERECOUNTEDX
+N1_ix0_L3_two_errors: NEG fits_at_q 1 (L [8]) window_fits 1 -> FAIL
+N2_ix1_random_key: NEG fits_at_q 0 (L []) window_fits 0 -> PASS
+N3_ix1_L4_two_errors: NEG fits_at_q 0 (L []) window_fits 0 -> PASS
+N4_ix0_random_key: NEG fits_at_q 0 (L []) window_fits 0 -> PASS
+controls 14/15
+Pre-registered negative rule for N1: missed at L 1-7 (L 8 exempt, fit there by construction, see PREREG179 / case 167): fits at q only at L [8] -> PASS under the registered rule. Registered tally: 11/11 positives, 4/4 negatives.
