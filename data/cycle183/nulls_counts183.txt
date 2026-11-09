@@ -1,0 +1,380 @@
+H n18311 0 1 q4f vig perms 2591 pairs 2703744 pass2 61057 fits 0 strict 0 slotfits 0
+H n18311 0 1 q4f beau perms 2591 pairs 2703744 pass2 61057 fits 0 strict 0 slotfits 0
+H n18311 0 2 q4f vig perms 2591 pairs 2703744 pass2 219019 fits 0 strict 0 slotfits 0
+H n18311 0 2 q4f beau perms 2591 pairs 2703744 pass2 219019 fits 0 strict 0 slotfits 0
+H n18311 0 3 q4f vig perms 2591 pairs 2703744 pass2 862417 fits 0 strict 0 slotfits 0
+H n18311 0 3 q4f beau perms 2591 pairs 2703744 pass2 862417 fits 0 strict 0 slotfits 0
+H n18311 0 4 q4f vig perms 2591 pairs 2703744 pass2 3434043 fits 0 strict 0 slotfits 0
+H n18311 0 4 q4f beau perms 2591 pairs 2703744 pass2 3434043 fits 0 strict 0 slotfits 0
+O n18311 overflow 0 mismatch 0 cand 3434043 method 0 safe 0 nW1 8198
+END n18311 0 2591
+H n18311 0 1 q4r vig perms 2591 pairs 2703744 pass2 59297 fits 0 strict 0 slotfits 0
+H n18311 0 1 q4r beau perms 2591 pairs 2703744 pass2 59297 fits 0 strict 0 slotfits 0
+H n18311 0 2 q4r vig perms 2591 pairs 2703744 pass2 215088 fits 0 strict 0 slotfits 0
+H n18311 0 2 q4r beau perms 2591 pairs 2703744 pass2 215088 fits 0 strict 0 slotfits 0
+H n18311 0 3 q4r vig perms 2591 pairs 2703744 pass2 860894 fits 0 strict 0 slotfits 0
+H n18311 0 3 q4r beau perms 2591 pairs 2703744 pass2 860894 fits 0 strict 0 slotfits 0
+H n18311 0 4 q4r vig perms 2591 pairs 2703744 pass2 3434697 fits 0 strict 0 slotfits 0
+H n18311 0 4 q4r beau perms 2591 pairs 2703744 pass2 3434697 fits 0 strict 0 slotfits 0
+O n18311 overflow 0 mismatch 0 cand 3434697 method 1 safe 0 nW1 8198
+END n18311 0 2591
+H n18312 0 1 q4f vig perms 2591 pairs 2703744 pass2 61251 fits 0 strict 0 slotfits 0
+H n18312 0 1 q4f beau perms 2591 pairs 2703744 pass2 61251 fits 0 strict 0 slotfits 0
+H n18312 0 2 q4f vig perms 2591 pairs 2703744 pass2 219450 fits 0 strict 0 slotfits 0
+H n18312 0 2 q4f beau perms 2591 pairs 2703744 pass2 219450 fits 0 strict 0 slotfits 0
+H n18312 0 3 q4f vig perms 2591 pairs 2703744 pass2 856381 fits 0 strict 0 slotfits 0
+H n18312 0 3 q4f beau perms 2591 pairs 2703744 pass2 856381 fits 0 strict 0 slotfits 0
+H n18312 0 4 q4f vig perms 2591 pairs 2703744 pass2 3403736 fits 0 strict 0 slotfits 0
+H n18312 0 4 q4f beau perms 2591 pairs 2703744 pass2 3403736 fits 0 strict 0 slotfits 0
+O n18312 overflow 0 mismatch 0 cand 3403736 method 0 safe 0 nW1 8198
+END n18312 0 2591
+H n18312 0 1 q4r vig perms 2591 pairs 2703744 pass2 60672 fits 0 strict 0 slotfits 0
+H n18312 0 1 q4r beau perms 2591 pairs 2703744 pass2 60672 fits 0 strict 0 slotfits 0
+H n18312 0 2 q4r vig perms 2591 pairs 2703744 pass2 217653 fits 0 strict 0 slotfits 0
+H n18312 0 2 q4r beau perms 2591 pairs 2703744 pass2 217653 fits 0 strict 0 slotfits 0
+H n18312 0 3 q4r vig perms 2591 pairs 2703744 pass2 851173 fits 0 strict 0 slotfits 0
+H n18312 0 3 q4r beau perms 2591 pairs 2703744 pass2 851173 fits 0 strict 0 slotfits 0
+H n18312 0 4 q4r vig perms 2591 pairs 2703744 pass2 3402095 fits 0 strict 0 slotfits 0
+H n18312 0 4 q4r beau perms 2591 pairs 2703744 pass2 3402095 fits 0 strict 0 slotfits 0
+O n18312 overflow 0 mismatch 0 cand 3402095 method 1 safe 0 nW1 8198
+END n18312 0 2591
+H n18313 0 1 q4f vig perms 2591 pairs 2703744 pass2 59963 fits 0 strict 0 slotfits 0
+H n18313 0 1 q4f beau perms 2591 pairs 2703744 pass2 59963 fits 0 strict 0 slotfits 0
+H n18313 0 2 q4f vig perms 2591 pairs 2703744 pass2 219994 fits 0 strict 0 slotfits 0
+H n18313 0 2 q4f beau perms 2591 pairs 2703744 pass2 219994 fits 0 strict 0 slotfits 0
+H n18313 0 3 q4f vig perms 2591 pairs 2703744 pass2 860208 fits 0 strict 0 slotfits 0
+H n18313 0 3 q4f beau perms 2591 pairs 2703744 pass2 860208 fits 0 strict 0 slotfits 0
+H n18313 0 4 q4f vig perms 2591 pairs 2703744 pass2 3426278 fits 0 strict 0 slotfits 0
+H n18313 0 4 q4f beau perms 2591 pairs 2703744 pass2 3426278 fits 0 strict 0 slotfits 0
+O n18313 overflow 0 mismatch 0 cand 3426278 method 0 safe 0 nW1 8198
+END n18313 0 2591
+H n18313 0 1 q4r vig perms 2591 pairs 2703744 pass2 59943 fits 0 strict 0 slotfits 0
+H n18313 0 1 q4r beau perms 2591 pairs 2703744 pass2 59943 fits 0 strict 0 slotfits 0
+H n18313 0 2 q4r vig perms 2591 pairs 2703744 pass2 221583 fits 0 strict 0 slotfits 0
+H n18313 0 2 q4r beau perms 2591 pairs 2703744 pass2 221583 fits 0 strict 0 slotfits 0
+H n18313 0 3 q4r vig perms 2591 pairs 2703744 pass2 859981 fits 0 strict 0 slotfits 0
+H n18313 0 3 q4r beau perms 2591 pairs 2703744 pass2 859981 fits 0 strict 0 slotfits 0
+H n18313 0 4 q4r vig perms 2591 pairs 2703744 pass2 3404089 fits 0 strict 0 slotfits 0
+H n18313 0 4 q4r beau perms 2591 pairs 2703744 pass2 3404089 fits 0 strict 0 slotfits 0
+O n18313 overflow 0 mismatch 0 cand 3404089 method 1 safe 0 nW1 8198
+END n18313 0 2591
+H n18314 0 1 q4f vig perms 2591 pairs 2703744 pass2 63915 fits 0 strict 0 slotfits 0
+H n18314 0 1 q4f beau perms 2591 pairs 2703744 pass2 63915 fits 0 strict 0 slotfits 0
+H n18314 0 2 q4f vig perms 2591 pairs 2703744 pass2 228786 fits 0 strict 0 slotfits 0
+H n18314 0 2 q4f beau perms 2591 pairs 2703744 pass2 228786 fits 0 strict 0 slotfits 0
+H n18314 0 3 q4f vig perms 2591 pairs 2703744 pass2 881912 fits 0 strict 0 slotfits 0
+H n18314 0 3 q4f beau perms 2591 pairs 2703744 pass2 881912 fits 0 strict 0 slotfits 0
+H n18314 0 4 q4f vig perms 2591 pairs 2703744 pass2 3481989 fits 0 strict 0 slotfits 0
+H n18314 0 4 q4f beau perms 2591 pairs 2703744 pass2 3481989 fits 0 strict 0 slotfits 0
+O n18314 overflow 0 mismatch 0 cand 3481989 method 0 safe 0 nW1 8198
+END n18314 0 2591
+H n18314 0 1 q4r vig perms 2591 pairs 2703744 pass2 65488 fits 0 strict 0 slotfits 0
+H n18314 0 1 q4r beau perms 2591 pairs 2703744 pass2 65488 fits 0 strict 0 slotfits 0
+H n18314 0 2 q4r vig perms 2591 pairs 2703744 pass2 230916 fits 0 strict 0 slotfits 0
+H n18314 0 2 q4r beau perms 2591 pairs 2703744 pass2 230916 fits 0 strict 0 slotfits 0
+H n18314 0 3 q4r vig perms 2591 pairs 2703744 pass2 879537 fits 0 strict 0 slotfits 0
+H n18314 0 3 q4r beau perms 2591 pairs 2703744 pass2 879537 fits 0 strict 0 slotfits 0
+H n18314 0 4 q4r vig perms 2591 pairs 2703744 pass2 3455906 fits 0 strict 0 slotfits 0
+H n18314 0 4 q4r beau perms 2591 pairs 2703744 pass2 3455906 fits 0 strict 0 slotfits 0
+O n18314 overflow 0 mismatch 0 cand 3455906 method 1 safe 0 nW1 8198
+END n18314 0 2591
+H n18315 0 1 q4f vig perms 2591 pairs 2703744 pass2 60225 fits 0 strict 0 slotfits 0
+H n18315 0 1 q4f beau perms 2591 pairs 2703744 pass2 60225 fits 0 strict 0 slotfits 0
+H n18315 0 2 q4f vig perms 2591 pairs 2703744 pass2 222909 fits 0 strict 0 slotfits 0
+H n18315 0 2 q4f beau perms 2591 pairs 2703744 pass2 222909 fits 0 strict 0 slotfits 0
+H n18315 0 3 q4f vig perms 2591 pairs 2703744 pass2 868808 fits 0 strict 0 slotfits 0
+H n18315 0 3 q4f beau perms 2591 pairs 2703744 pass2 868808 fits 0 strict 0 slotfits 0
+H n18315 0 4 q4f vig perms 2591 pairs 2703744 pass2 3447527 fits 0 strict 0 slotfits 0
+H n18315 0 4 q4f beau perms 2591 pairs 2703744 pass2 3447527 fits 0 strict 0 slotfits 0
+O n18315 overflow 0 mismatch 0 cand 3447527 method 0 safe 0 nW1 8198
+END n18315 0 2591
+H n18315 0 1 q4r vig perms 2591 pairs 2703744 pass2 63437 fits 0 strict 0 slotfits 0
+H n18315 0 1 q4r beau perms 2591 pairs 2703744 pass2 63437 fits 0 strict 0 slotfits 0
+H n18315 0 2 q4r vig perms 2591 pairs 2703744 pass2 226286 fits 0 strict 0 slotfits 0
+H n18315 0 2 q4r beau perms 2591 pairs 2703744 pass2 226286 fits 0 strict 0 slotfits 0
+H n18315 0 3 q4r vig perms 2591 pairs 2703744 pass2 863076 fits 0 strict 0 slotfits 0
+H n18315 0 3 q4r beau perms 2591 pairs 2703744 pass2 863076 fits 0 strict 0 slotfits 0
+H n18315 0 4 q4r vig perms 2591 pairs 2703744 pass2 3448350 fits 0 strict 0 slotfits 0
+H n18315 0 4 q4r beau perms 2591 pairs 2703744 pass2 3448350 fits 0 strict 0 slotfits 0
+O n18315 overflow 0 mismatch 0 cand 3448350 method 1 safe 0 nW1 8198
+END n18315 0 2591
+H n18316 0 1 q4f vig perms 2591 pairs 2703744 pass2 63694 fits 0 strict 0 slotfits 0
+H n18316 0 1 q4f beau perms 2591 pairs 2703744 pass2 63694 fits 0 strict 0 slotfits 0
+H n18316 0 2 q4f vig perms 2591 pairs 2703744 pass2 223317 fits 0 strict 0 slotfits 0
+H n18316 0 2 q4f beau perms 2591 pairs 2703744 pass2 223317 fits 0 strict 0 slotfits 0
+H n18316 0 3 q4f vig perms 2591 pairs 2703744 pass2 859878 fits 0 strict 0 slotfits 0
+H n18316 0 3 q4f beau perms 2591 pairs 2703744 pass2 859878 fits 0 strict 0 slotfits 0
+H n18316 0 4 q4f vig perms 2591 pairs 2703744 pass2 3412747 fits 0 strict 0 slotfits 0
+H n18316 0 4 q4f beau perms 2591 pairs 2703744 pass2 3412747 fits 0 strict 0 slotfits 0
+O n18316 overflow 0 mismatch 0 cand 3412747 method 0 safe 0 nW1 8198
+END n18316 0 2591
+H n18316 0 1 q4r vig perms 2591 pairs 2703744 pass2 62603 fits 0 strict 0 slotfits 0
+H n18316 0 1 q4r beau perms 2591 pairs 2703744 pass2 62603 fits 0 strict 0 slotfits 0
+H n18316 0 2 q4r vig perms 2591 pairs 2703744 pass2 226524 fits 0 strict 0 slotfits 0
+H n18316 0 2 q4r beau perms 2591 pairs 2703744 pass2 226524 fits 0 strict 0 slotfits 0
+H n18316 0 3 q4r vig perms 2591 pairs 2703744 pass2 871853 fits 0 strict 0 slotfits 0
+H n18316 0 3 q4r beau perms 2591 pairs 2703744 pass2 871853 fits 0 strict 0 slotfits 0
+H n18316 0 4 q4r vig perms 2591 pairs 2703744 pass2 3429274 fits 0 strict 0 slotfits 0
+H n18316 0 4 q4r beau perms 2591 pairs 2703744 pass2 3429274 fits 0 strict 0 slotfits 0
+O n18316 overflow 0 mismatch 0 cand 3429274 method 1 safe 0 nW1 8198
+END n18316 0 2591
+H n18317 0 1 q4f vig perms 2591 pairs 2703744 pass2 62128 fits 0 strict 0 slotfits 0
+H n18317 0 1 q4f beau perms 2591 pairs 2703744 pass2 62128 fits 0 strict 0 slotfits 0
+H n18317 0 2 q4f vig perms 2591 pairs 2703744 pass2 224817 fits 0 strict 0 slotfits 0
+H n18317 0 2 q4f beau perms 2591 pairs 2703744 pass2 224817 fits 0 strict 0 slotfits 0
+H n18317 0 3 q4f vig perms 2591 pairs 2703744 pass2 869814 fits 0 strict 0 slotfits 0
+H n18317 0 3 q4f beau perms 2591 pairs 2703744 pass2 869814 fits 0 strict 0 slotfits 0
+H n18317 0 4 q4f vig perms 2591 pairs 2703744 pass2 3429347 fits 0 strict 0 slotfits 0
+H n18317 0 4 q4f beau perms 2591 pairs 2703744 pass2 3429347 fits 0 strict 0 slotfits 0
+O n18317 overflow 0 mismatch 0 cand 3429347 method 0 safe 0 nW1 8198
+END n18317 0 2591
+H n18317 0 1 q4r vig perms 2591 pairs 2703744 pass2 61066 fits 0 strict 0 slotfits 0
+H n18317 0 1 q4r beau perms 2591 pairs 2703744 pass2 61066 fits 0 strict 0 slotfits 0
+H n18317 0 2 q4r vig perms 2591 pairs 2703744 pass2 220047 fits 0 strict 0 slotfits 0
+H n18317 0 2 q4r beau perms 2591 pairs 2703744 pass2 220047 fits 0 strict 0 slotfits 0
+H n18317 0 3 q4r vig perms 2591 pairs 2703744 pass2 852683 fits 0 strict 0 slotfits 0
+H n18317 0 3 q4r beau perms 2591 pairs 2703744 pass2 852683 fits 0 strict 0 slotfits 0
+H n18317 0 4 q4r vig perms 2591 pairs 2703744 pass2 3419158 fits 0 strict 0 slotfits 0
+H n18317 0 4 q4r beau perms 2591 pairs 2703744 pass2 3419158 fits 0 strict 0 slotfits 0
+O n18317 overflow 0 mismatch 0 cand 3419158 method 1 safe 0 nW1 8198
+END n18317 0 2591
+H n18318 0 1 q4f vig perms 2591 pairs 2703744 pass2 60019 fits 0 strict 0 slotfits 0
+H n18318 0 1 q4f beau perms 2591 pairs 2703744 pass2 60019 fits 0 strict 0 slotfits 0
+H n18318 0 2 q4f vig perms 2591 pairs 2703744 pass2 217263 fits 0 strict 0 slotfits 0
+H n18318 0 2 q4f beau perms 2591 pairs 2703744 pass2 217263 fits 0 strict 0 slotfits 0
+H n18318 0 3 q4f vig perms 2591 pairs 2703744 pass2 855315 fits 0 strict 0 slotfits 0
+H n18318 0 3 q4f beau perms 2591 pairs 2703744 pass2 855315 fits 0 strict 0 slotfits 0
+H n18318 0 4 q4f vig perms 2591 pairs 2703744 pass2 3409643 fits 0 strict 0 slotfits 0
+H n18318 0 4 q4f beau perms 2591 pairs 2703744 pass2 3409643 fits 0 strict 0 slotfits 0
+O n18318 overflow 0 mismatch 0 cand 3409643 method 0 safe 0 nW1 8198
+END n18318 0 2591
+H n18318 0 1 q4r vig perms 2591 pairs 2703744 pass2 57901 fits 0 strict 0 slotfits 0
+H n18318 0 1 q4r beau perms 2591 pairs 2703744 pass2 57901 fits 0 strict 0 slotfits 0
+H n18318 0 2 q4r vig perms 2591 pairs 2703744 pass2 221141 fits 0 strict 0 slotfits 0
+H n18318 0 2 q4r beau perms 2591 pairs 2703744 pass2 221141 fits 0 strict 0 slotfits 0
+H n18318 0 3 q4r vig perms 2591 pairs 2703744 pass2 864705 fits 0 strict 0 slotfits 0
+H n18318 0 3 q4r beau perms 2591 pairs 2703744 pass2 864705 fits 0 strict 0 slotfits 0
+H n18318 0 4 q4r vig perms 2591 pairs 2703744 pass2 3429650 fits 0 strict 0 slotfits 0
+H n18318 0 4 q4r beau perms 2591 pairs 2703744 pass2 3429650 fits 0 strict 0 slotfits 0
+O n18318 overflow 0 mismatch 0 cand 3429650 method 1 safe 0 nW1 8198
+END n18318 0 2591
+H n18319 0 1 q4f vig perms 2591 pairs 2703744 pass2 61457 fits 0 strict 0 slotfits 0
+H n18319 0 1 q4f beau perms 2591 pairs 2703744 pass2 61457 fits 0 strict 0 slotfits 0
+H n18319 0 2 q4f vig perms 2591 pairs 2703744 pass2 224313 fits 0 strict 0 slotfits 0
+H n18319 0 2 q4f beau perms 2591 pairs 2703744 pass2 224313 fits 0 strict 0 slotfits 0
+H n18319 0 3 q4f vig perms 2591 pairs 2703744 pass2 873207 fits 0 strict 0 slotfits 0
+H n18319 0 3 q4f beau perms 2591 pairs 2703744 pass2 873207 fits 0 strict 0 slotfits 0
+H n18319 0 4 q4f vig perms 2591 pairs 2703744 pass2 3423130 fits 0 strict 0 slotfits 0
+H n18319 0 4 q4f beau perms 2591 pairs 2703744 pass2 3423130 fits 0 strict 0 slotfits 0
+O n18319 overflow 0 mismatch 0 cand 3423130 method 0 safe 0 nW1 8198
+END n18319 0 2591
+H n18319 0 1 q4r vig perms 2591 pairs 2703744 pass2 60326 fits 0 strict 0 slotfits 0
+H n18319 0 1 q4r beau perms 2591 pairs 2703744 pass2 60326 fits 0 strict 0 slotfits 0
+H n18319 0 2 q4r vig perms 2591 pairs 2703744 pass2 220624 fits 0 strict 0 slotfits 0
+H n18319 0 2 q4r beau perms 2591 pairs 2703744 pass2 220624 fits 0 strict 0 slotfits 0
+H n18319 0 3 q4r vig perms 2591 pairs 2703744 pass2 866781 fits 0 strict 0 slotfits 0
+H n18319 0 3 q4r beau perms 2591 pairs 2703744 pass2 866781 fits 0 strict 0 slotfits 0
+H n18319 0 4 q4r vig perms 2591 pairs 2703744 pass2 3435162 fits 0 strict 0 slotfits 0
+H n18319 0 4 q4r beau perms 2591 pairs 2703744 pass2 3435162 fits 0 strict 0 slotfits 0
+O n18319 overflow 0 mismatch 0 cand 3435162 method 1 safe 0 nW1 8198
+END n18319 0 2591
+H n18320 0 1 q4f vig perms 2591 pairs 2703744 pass2 62833 fits 0 strict 0 slotfits 0
+H n18320 0 1 q4f beau perms 2591 pairs 2703744 pass2 62833 fits 0 strict 0 slotfits 0
+H n18320 0 2 q4f vig perms 2591 pairs 2703744 pass2 225023 fits 0 strict 0 slotfits 0
+H n18320 0 2 q4f beau perms 2591 pairs 2703744 pass2 225023 fits 0 strict 0 slotfits 0
+H n18320 0 3 q4f vig perms 2591 pairs 2703744 pass2 866097 fits 0 strict 0 slotfits 0
+H n18320 0 3 q4f beau perms 2591 pairs 2703744 pass2 866097 fits 0 strict 0 slotfits 0
+H n18320 0 4 q4f vig perms 2591 pairs 2703744 pass2 3425508 fits 0 strict 0 slotfits 0
+H n18320 0 4 q4f beau perms 2591 pairs 2703744 pass2 3425508 fits 0 strict 0 slotfits 0
+O n18320 overflow 0 mismatch 0 cand 3425508 method 0 safe 0 nW1 8198
+END n18320 0 2591
+H n18320 0 1 q4r vig perms 2591 pairs 2703744 pass2 60985 fits 0 strict 0 slotfits 0
+H n18320 0 1 q4r beau perms 2591 pairs 2703744 pass2 60985 fits 0 strict 0 slotfits 0
+H n18320 0 2 q4r vig perms 2591 pairs 2703744 pass2 224219 fits 0 strict 0 slotfits 0
+H n18320 0 2 q4r beau perms 2591 pairs 2703744 pass2 224219 fits 0 strict 0 slotfits 0
+H n18320 0 3 q4r vig perms 2591 pairs 2703744 pass2 863044 fits 0 strict 0 slotfits 0
+H n18320 0 3 q4r beau perms 2591 pairs 2703744 pass2 863044 fits 0 strict 0 slotfits 0
+H n18320 0 4 q4r vig perms 2591 pairs 2703744 pass2 3425565 fits 0 strict 0 slotfits 0
+H n18320 0 4 q4r beau perms 2591 pairs 2703744 pass2 3425565 fits 0 strict 0 slotfits 0
+O n18320 overflow 0 mismatch 0 cand 3425565 method 1 safe 0 nW1 8198
+END n18320 0 2591
+H n18321 0 1 q4f vig perms 2591 pairs 2703744 pass2 58241 fits 0 strict 0 slotfits 0
+H n18321 0 1 q4f beau perms 2591 pairs 2703744 pass2 58241 fits 0 strict 0 slotfits 0
+H n18321 0 2 q4f vig perms 2591 pairs 2703744 pass2 214407 fits 0 strict 0 slotfits 0
+H n18321 0 2 q4f beau perms 2591 pairs 2703744 pass2 214407 fits 0 strict 0 slotfits 0
+H n18321 0 3 q4f vig perms 2591 pairs 2703744 pass2 852481 fits 0 strict 0 slotfits 0
+H n18321 0 3 q4f beau perms 2591 pairs 2703744 pass2 852481 fits 0 strict 0 slotfits 0
+H n18321 0 4 q4f vig perms 2591 pairs 2703744 pass2 3408047 fits 0 strict 0 slotfits 0
+H n18321 0 4 q4f beau perms 2591 pairs 2703744 pass2 3408047 fits 0 strict 0 slotfits 0
+O n18321 overflow 0 mismatch 0 cand 3408047 method 0 safe 0 nW1 8198
+END n18321 0 2591
+H n18321 0 1 q4r vig perms 2591 pairs 2703744 pass2 59139 fits 0 strict 0 slotfits 0
+H n18321 0 1 q4r beau perms 2591 pairs 2703744 pass2 59139 fits 0 strict 0 slotfits 0
+H n18321 0 2 q4r vig perms 2591 pairs 2703744 pass2 212036 fits 0 strict 0 slotfits 0
+H n18321 0 2 q4r beau perms 2591 pairs 2703744 pass2 212036 fits 0 strict 0 slotfits 0
+H n18321 0 3 q4r vig perms 2591 pairs 2703744 pass2 849261 fits 0 strict 0 slotfits 0
+H n18321 0 3 q4r beau perms 2591 pairs 2703744 pass2 849261 fits 0 strict 0 slotfits 0
+H n18321 0 4 q4r vig perms 2591 pairs 2703744 pass2 3399415 fits 0 strict 0 slotfits 0
+H n18321 0 4 q4r beau perms 2591 pairs 2703744 pass2 3399415 fits 0 strict 0 slotfits 0
+O n18321 overflow 0 mismatch 0 cand 3399415 method 1 safe 0 nW1 8198
+END n18321 0 2591
+H n18322 0 1 q4f vig perms 2591 pairs 2703744 pass2 57966 fits 0 strict 0 slotfits 0
+H n18322 0 1 q4f beau perms 2591 pairs 2703744 pass2 57966 fits 0 strict 0 slotfits 0
+H n18322 0 2 q4f vig perms 2591 pairs 2703744 pass2 223318 fits 0 strict 0 slotfits 0
+H n18322 0 2 q4f beau perms 2591 pairs 2703744 pass2 223318 fits 0 strict 0 slotfits 0
+H n18322 0 3 q4f vig perms 2591 pairs 2703744 pass2 867706 fits 0 strict 0 slotfits 0
+H n18322 0 3 q4f beau perms 2591 pairs 2703744 pass2 867706 fits 0 strict 0 slotfits 0
+H n18322 0 4 q4f vig perms 2591 pairs 2703744 pass2 3453056 fits 0 strict 0 slotfits 0
+H n18322 0 4 q4f beau perms 2591 pairs 2703744 pass2 3453056 fits 0 strict 0 slotfits 0
+O n18322 overflow 0 mismatch 0 cand 3453056 method 0 safe 0 nW1 8198
+END n18322 0 2591
+H n18322 0 1 q4r vig perms 2591 pairs 2703744 pass2 62172 fits 0 strict 0 slotfits 0
+H n18322 0 1 q4r beau perms 2591 pairs 2703744 pass2 62172 fits 0 strict 0 slotfits 0
+H n18322 0 2 q4r vig perms 2591 pairs 2703744 pass2 224132 fits 0 strict 0 slotfits 0
+H n18322 0 2 q4r beau perms 2591 pairs 2703744 pass2 224132 fits 0 strict 0 slotfits 0
+H n18322 0 3 q4r vig perms 2591 pairs 2703744 pass2 867049 fits 0 strict 0 slotfits 0
+H n18322 0 3 q4r beau perms 2591 pairs 2703744 pass2 867049 fits 0 strict 0 slotfits 0
+H n18322 0 4 q4r vig perms 2591 pairs 2703744 pass2 3457728 fits 0 strict 0 slotfits 0
+H n18322 0 4 q4r beau perms 2591 pairs 2703744 pass2 3457728 fits 0 strict 0 slotfits 0
+O n18322 overflow 0 mismatch 0 cand 3457728 method 1 safe 0 nW1 8198
+END n18322 0 2591
+H n18323 0 1 q4f vig perms 2591 pairs 2703744 pass2 63186 fits 0 strict 0 slotfits 0
+H n18323 0 1 q4f beau perms 2591 pairs 2703744 pass2 63186 fits 0 strict 0 slotfits 0
+H n18323 0 2 q4f vig perms 2591 pairs 2703744 pass2 224954 fits 0 strict 0 slotfits 0
+H n18323 0 2 q4f beau perms 2591 pairs 2703744 pass2 224954 fits 0 strict 0 slotfits 0
+H n18323 0 3 q4f vig perms 2591 pairs 2703744 pass2 869822 fits 0 strict 0 slotfits 0
+H n18323 0 3 q4f beau perms 2591 pairs 2703744 pass2 869822 fits 0 strict 0 slotfits 0
+H n18323 0 4 q4f vig perms 2591 pairs 2703744 pass2 3420285 fits 0 strict 0 slotfits 0
+H n18323 0 4 q4f beau perms 2591 pairs 2703744 pass2 3420285 fits 0 strict 0 slotfits 0
+O n18323 overflow 0 mismatch 0 cand 3420285 method 0 safe 0 nW1 8198
+END n18323 0 2591
+H n18323 0 1 q4r vig perms 2591 pairs 2703744 pass2 61005 fits 0 strict 0 slotfits 0
+H n18323 0 1 q4r beau perms 2591 pairs 2703744 pass2 61005 fits 0 strict 0 slotfits 0
+H n18323 0 2 q4r vig perms 2591 pairs 2703744 pass2 221160 fits 0 strict 0 slotfits 0
+H n18323 0 2 q4r beau perms 2591 pairs 2703744 pass2 221160 fits 0 strict 0 slotfits 0
+H n18323 0 3 q4r vig perms 2591 pairs 2703744 pass2 863874 fits 0 strict 0 slotfits 0
+H n18323 0 3 q4r beau perms 2591 pairs 2703744 pass2 863874 fits 0 strict 0 slotfits 0
+H n18323 0 4 q4r vig perms 2591 pairs 2703744 pass2 3418529 fits 0 strict 0 slotfits 0
+H n18323 0 4 q4r beau perms 2591 pairs 2703744 pass2 3418529 fits 0 strict 0 slotfits 0
+O n18323 overflow 0 mismatch 0 cand 3418529 method 1 safe 0 nW1 8198
+END n18323 0 2591
+H n18324 0 1 q4f vig perms 2591 pairs 2703744 pass2 63224 fits 0 strict 0 slotfits 0
+H n18324 0 1 q4f beau perms 2591 pairs 2703744 pass2 63224 fits 0 strict 0 slotfits 0
+H n18324 0 2 q4f vig perms 2591 pairs 2703744 pass2 226604 fits 0 strict 0 slotfits 0
+H n18324 0 2 q4f beau perms 2591 pairs 2703744 pass2 226604 fits 0 strict 0 slotfits 0
+H n18324 0 3 q4f vig perms 2591 pairs 2703744 pass2 868078 fits 0 strict 0 slotfits 0
+H n18324 0 3 q4f beau perms 2591 pairs 2703744 pass2 868078 fits 0 strict 0 slotfits 0
+H n18324 0 4 q4f vig perms 2591 pairs 2703744 pass2 3451787 fits 0 strict 0 slotfits 0
+H n18324 0 4 q4f beau perms 2591 pairs 2703744 pass2 3451787 fits 0 strict 0 slotfits 0
+O n18324 overflow 0 mismatch 0 cand 3451787 method 0 safe 0 nW1 8198
+END n18324 0 2591
+H n18324 0 1 q4r vig perms 2591 pairs 2703744 pass2 59234 fits 0 strict 0 slotfits 0
+H n18324 0 1 q4r beau perms 2591 pairs 2703744 pass2 59234 fits 0 strict 0 slotfits 0
+H n18324 0 2 q4r vig perms 2591 pairs 2703744 pass2 219486 fits 0 strict 0 slotfits 0
+H n18324 0 2 q4r beau perms 2591 pairs 2703744 pass2 219486 fits 0 strict 0 slotfits 0
+H n18324 0 3 q4r vig perms 2591 pairs 2703744 pass2 874635 fits 0 strict 0 slotfits 0
+H n18324 0 3 q4r beau perms 2591 pairs 2703744 pass2 874635 fits 0 strict 0 slotfits 0
+H n18324 0 4 q4r vig perms 2591 pairs 2703744 pass2 3449110 fits 0 strict 0 slotfits 0
+H n18324 0 4 q4r beau perms 2591 pairs 2703744 pass2 3449110 fits 0 strict 0 slotfits 0
+O n18324 overflow 0 mismatch 0 cand 3449110 method 1 safe 0 nW1 8198
+END n18324 0 2591
+H n18325 0 1 q4f vig perms 2591 pairs 2703744 pass2 61217 fits 0 strict 0 slotfits 0
+H n18325 0 1 q4f beau perms 2591 pairs 2703744 pass2 61217 fits 0 strict 0 slotfits 0
+H n18325 0 2 q4f vig perms 2591 pairs 2703744 pass2 222088 fits 0 strict 0 slotfits 0
+H n18325 0 2 q4f beau perms 2591 pairs 2703744 pass2 222088 fits 0 strict 0 slotfits 0
+H n18325 0 3 q4f vig perms 2591 pairs 2703744 pass2 848772 fits 0 strict 0 slotfits 0
+H n18325 0 3 q4f beau perms 2591 pairs 2703744 pass2 848772 fits 0 strict 0 slotfits 0
+H n18325 0 4 q4f vig perms 2591 pairs 2703744 pass2 3404952 fits 0 strict 0 slotfits 0
+H n18325 0 4 q4f beau perms 2591 pairs 2703744 pass2 3404952 fits 0 strict 0 slotfits 0
+O n18325 overflow 0 mismatch 0 cand 3404952 method 0 safe 0 nW1 8198
+END n18325 0 2591
+H n18325 0 1 q4r vig perms 2591 pairs 2703744 pass2 62098 fits 0 strict 0 slotfits 0
+H n18325 0 1 q4r beau perms 2591 pairs 2703744 pass2 62098 fits 0 strict 0 slotfits 0
+H n18325 0 2 q4r vig perms 2591 pairs 2703744 pass2 222834 fits 0 strict 0 slotfits 0
+H n18325 0 2 q4r beau perms 2591 pairs 2703744 pass2 222834 fits 0 strict 0 slotfits 0
+H n18325 0 3 q4r vig perms 2591 pairs 2703744 pass2 858073 fits 0 strict 0 slotfits 0
+H n18325 0 3 q4r beau perms 2591 pairs 2703744 pass2 858073 fits 0 strict 0 slotfits 0
+H n18325 0 4 q4r vig perms 2591 pairs 2703744 pass2 3405840 fits 0 strict 0 slotfits 0
+H n18325 0 4 q4r beau perms 2591 pairs 2703744 pass2 3405840 fits 0 strict 0 slotfits 0
+O n18325 overflow 0 mismatch 0 cand 3405840 method 1 safe 0 nW1 8198
+END n18325 0 2591
+H n18326 0 1 q4f vig perms 2591 pairs 2703744 pass2 62385 fits 0 strict 0 slotfits 0
+H n18326 0 1 q4f beau perms 2591 pairs 2703744 pass2 62385 fits 0 strict 0 slotfits 0
+H n18326 0 2 q4f vig perms 2591 pairs 2703744 pass2 224789 fits 0 strict 0 slotfits 0
+H n18326 0 2 q4f beau perms 2591 pairs 2703744 pass2 224789 fits 0 strict 0 slotfits 0
+H n18326 0 3 q4f vig perms 2591 pairs 2703744 pass2 869234 fits 0 strict 0 slotfits 0
+H n18326 0 3 q4f beau perms 2591 pairs 2703744 pass2 869234 fits 0 strict 0 slotfits 0
+H n18326 0 4 q4f vig perms 2591 pairs 2703744 pass2 3437713 fits 0 strict 0 slotfits 0
+H n18326 0 4 q4f beau perms 2591 pairs 2703744 pass2 3437713 fits 0 strict 0 slotfits 0
+O n18326 overflow 0 mismatch 0 cand 3437713 method 0 safe 0 nW1 8198
+END n18326 0 2591
+H n18326 0 1 q4r vig perms 2591 pairs 2703744 pass2 60779 fits 0 strict 0 slotfits 0
+H n18326 0 1 q4r beau perms 2591 pairs 2703744 pass2 60779 fits 0 strict 0 slotfits 0
+H n18326 0 2 q4r vig perms 2591 pairs 2703744 pass2 221273 fits 0 strict 0 slotfits 0
+H n18326 0 2 q4r beau perms 2591 pairs 2703744 pass2 221273 fits 0 strict 0 slotfits 0
+H n18326 0 3 q4r vig perms 2591 pairs 2703744 pass2 873660 fits 0 strict 0 slotfits 0
+H n18326 0 3 q4r beau perms 2591 pairs 2703744 pass2 873660 fits 0 strict 0 slotfits 0
+H n18326 0 4 q4r vig perms 2591 pairs 2703744 pass2 3430057 fits 0 strict 0 slotfits 0
+H n18326 0 4 q4r beau perms 2591 pairs 2703744 pass2 3430057 fits 0 strict 0 slotfits 0
+O n18326 overflow 0 mismatch 0 cand 3430057 method 1 safe 0 nW1 8198
+END n18326 0 2591
+H n18327 0 1 q4f vig perms 2591 pairs 2703744 pass2 58965 fits 0 strict 0 slotfits 0
+H n18327 0 1 q4f beau perms 2591 pairs 2703744 pass2 58965 fits 0 strict 0 slotfits 0
+H n18327 0 2 q4f vig perms 2591 pairs 2703744 pass2 216825 fits 0 strict 0 slotfits 0
+H n18327 0 2 q4f beau perms 2591 pairs 2703744 pass2 216825 fits 0 strict 0 slotfits 0
+H n18327 0 3 q4f vig perms 2591 pairs 2703744 pass2 859541 fits 0 strict 0 slotfits 0
+H n18327 0 3 q4f beau perms 2591 pairs 2703744 pass2 859541 fits 0 strict 0 slotfits 0
+H n18327 0 4 q4f vig perms 2591 pairs 2703744 pass2 3415620 fits 0 strict 0 slotfits 0
+H n18327 0 4 q4f beau perms 2591 pairs 2703744 pass2 3415620 fits 0 strict 0 slotfits 0
+O n18327 overflow 0 mismatch 0 cand 3415620 method 0 safe 0 nW1 8198
+END n18327 0 2591
+H n18327 0 1 q4r vig perms 2591 pairs 2703744 pass2 56354 fits 0 strict 0 slotfits 0
+H n18327 0 1 q4r beau perms 2591 pairs 2703744 pass2 56354 fits 0 strict 0 slotfits 0
+H n18327 0 2 q4r vig perms 2591 pairs 2703744 pass2 214068 fits 0 strict 0 slotfits 0
+H n18327 0 2 q4r beau perms 2591 pairs 2703744 pass2 214068 fits 0 strict 0 slotfits 0
+H n18327 0 3 q4r vig perms 2591 pairs 2703744 pass2 854081 fits 0 strict 0 slotfits 0
+H n18327 0 3 q4r beau perms 2591 pairs 2703744 pass2 854081 fits 0 strict 0 slotfits 0
+H n18327 0 4 q4r vig perms 2591 pairs 2703744 pass2 3404843 fits 0 strict 0 slotfits 0
+H n18327 0 4 q4r beau perms 2591 pairs 2703744 pass2 3404843 fits 0 strict 0 slotfits 0
+O n18327 overflow 0 mismatch 0 cand 3404843 method 1 safe 0 nW1 8198
+END n18327 0 2591
+H n18328 0 1 q4f vig perms 2591 pairs 2703744 pass2 64419 fits 0 strict 0 slotfits 0
+H n18328 0 1 q4f beau perms 2591 pairs 2703744 pass2 64419 fits 0 strict 0 slotfits 0
+H n18328 0 2 q4f vig perms 2591 pairs 2703744 pass2 226913 fits 0 strict 0 slotfits 0
+H n18328 0 2 q4f beau perms 2591 pairs 2703744 pass2 226913 fits 0 strict 0 slotfits 0
+H n18328 0 3 q4f vig perms 2591 pairs 2703744 pass2 866972 fits 0 strict 0 slotfits 0
+H n18328 0 3 q4f beau perms 2591 pairs 2703744 pass2 866972 fits 0 strict 0 slotfits 0
+H n18328 0 4 q4f vig perms 2591 pairs 2703744 pass2 3426769 fits 0 strict 0 slotfits 0
+H n18328 0 4 q4f beau perms 2591 pairs 2703744 pass2 3426769 fits 0 strict 0 slotfits 0
+O n18328 overflow 0 mismatch 0 cand 3426769 method 0 safe 0 nW1 8198
+END n18328 0 2591
+H n18328 0 1 q4r vig perms 2591 pairs 2703744 pass2 58048 fits 0 strict 0 slotfits 0
+H n18328 0 1 q4r beau perms 2591 pairs 2703744 pass2 58048 fits 0 strict 0 slotfits 0
+H n18328 0 2 q4r vig perms 2591 pairs 2703744 pass2 217800 fits 0 strict 0 slotfits 0
+H n18328 0 2 q4r beau perms 2591 pairs 2703744 pass2 217800 fits 0 strict 0 slotfits 0
+H n18328 0 3 q4r vig perms 2591 pairs 2703744 pass2 859749 fits 0 strict 0 slotfits 0
+H n18328 0 3 q4r beau perms 2591 pairs 2703744 pass2 859749 fits 0 strict 0 slotfits 0
+H n18328 0 4 q4r vig perms 2591 pairs 2703744 pass2 3428520 fits 0 strict 0 slotfits 0
+H n18328 0 4 q4r beau perms 2591 pairs 2703744 pass2 3428520 fits 0 strict 0 slotfits 0
+O n18328 overflow 0 mismatch 0 cand 3428520 method 1 safe 0 nW1 8198
+END n18328 0 2591
+H n18329 0 1 q4f vig perms 2591 pairs 2703744 pass2 65050 fits 0 strict 0 slotfits 0
+H n18329 0 1 q4f beau perms 2591 pairs 2703744 pass2 65050 fits 0 strict 0 slotfits 0
+H n18329 0 2 q4f vig perms 2591 pairs 2703744 pass2 227417 fits 0 strict 0 slotfits 0
+H n18329 0 2 q4f beau perms 2591 pairs 2703744 pass2 227417 fits 0 strict 0 slotfits 0
+H n18329 0 3 q4f vig perms 2591 pairs 2703744 pass2 871872 fits 0 strict 0 slotfits 0
+H n18329 0 3 q4f beau perms 2591 pairs 2703744 pass2 871872 fits 0 strict 0 slotfits 0
+H n18329 0 4 q4f vig perms 2591 pairs 2703744 pass2 3432387 fits 0 strict 0 slotfits 0
+H n18329 0 4 q4f beau perms 2591 pairs 2703744 pass2 3432387 fits 0 strict 0 slotfits 0
+O n18329 overflow 0 mismatch 0 cand 3432387 method 0 safe 0 nW1 8198
+END n18329 0 2591
+H n18329 0 1 q4r vig perms 2591 pairs 2703744 pass2 61181 fits 0 strict 0 slotfits 0
+H n18329 0 1 q4r beau perms 2591 pairs 2703744 pass2 61181 fits 0 strict 0 slotfits 0
+H n18329 0 2 q4r vig perms 2591 pairs 2703744 pass2 221270 fits 0 strict 0 slotfits 0
+H n18329 0 2 q4r beau perms 2591 pairs 2703744 pass2 221270 fits 0 strict 0 slotfits 0
+H n18329 0 3 q4r vig perms 2591 pairs 2703744 pass2 862005 fits 0 strict 0 slotfits 0
+H n18329 0 3 q4r beau perms 2591 pairs 2703744 pass2 862005 fits 0 strict 0 slotfits 0
+H n18329 0 4 q4r vig perms 2591 pairs 2703744 pass2 3415663 fits 0 strict 0 slotfits 0
+H n18329 0 4 q4r beau perms 2591 pairs 2703744 pass2 3415663 fits 0 strict 0 slotfits 0
+O n18329 overflow 0 mismatch 0 cand 3415663 method 1 safe 0 nW1 8198
+END n18329 0 2591

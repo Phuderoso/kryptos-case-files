@@ -1,0 +1,16 @@
+946402ca9cd1fcb962c51a16a76fef09  all.bin
+f45bc54b64f691e47d3f3ba927a84321  all_s64.bin
+92793b741a19ace55a1e410cd572ab8e  alpha172.txt
+255a21fad5a8d4e169127f28cf58589e  alpha_themed180.txt
+8c579973175223685ab27ff44baa4734  alpha_recount180.txt
+9e49013cd4f0518426c18efc722966df  quadgrams.json
+dc4df49dea72039372a86dae4b56fd9e  k4.txt
+12a41680cad9d2c480e3d97c3c491330  nulls183.txt
+dae240baac6978af0bc458111502aa16  lrk183
+5ed79c6d4ad06b0178edc01dfe1e7628  lrk183safe
+94a1a6c595377298dfde5fe51c8e0a67  all_s2048.bin
+5e35f72f08717bde8ed66cf8a168ad67  slice183.bin
+d096330724515a453970171d97aafa7e  ctl_rehearsal/plants.json
+main run (run_cycle183.sh) 11:56:46-12:00:39 PT elapsed 233 s; 6 threads, shared box (UTC-7). Per job: K4 full f 77 s (11:56:46-11:58:03), r 79 s, K4 L5 on all_s64 f 7 s / r 6 s, all_s2048 main+audit 4 x ~3 s, K4 all_s64 L1-4 5 s, 19 nulls x 2 directions 51 s
+controls: rehearsal before the push = registered control run (92 s, both directions on q+-100, main + audit builds on q+-20); smoke/timing ~95 s before the push (incl. one 66 s L 1-6 timing run on the reserved shuffle). Heavy total ~7.0 min. Recount niced, 1 thread, outside the budget.
+gcc -O3 -march=native -fopenmp; gcc (Debian 14.2.0-19) 14.2.0

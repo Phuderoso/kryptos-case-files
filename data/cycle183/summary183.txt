@@ -1,0 +1,39 @@
+== K4 full set (165,782 perms; 2,703,744 (A, B) pairs per direction x Vig/Beau), one error, L 1-4
+K4 f L1-3  fits 0 (strict 0, slot fits 0) pass2 73402165 END True bad []
+K4 f L4    fits 0 (strict 0, slot fits 0) pass2 219331568 END True bad []
+K4 r L1-3  fits 0 (strict 0, slot fits 0) pass2 73198863 END True bad []
+K4 r L4    fits 0 (strict 0, slot fits 0) pass2 219056254 END True bad []
+== K4 all_s64 (2,591 perms = 1/64), one error, L 5
+K4 f L5    fits 0 (strict 0, slot fits 0) pass2 13672172 END True bad []
+K4 r L5    fits 0 (strict 0, slot fits 0) pass2 13664700 END True bad []
+SAFE audit (method 2, no prefilter, 13-value loop on every slot) k4 f all_s2048 L 1-5 H lines identical: True
+SAFE audit (method 2, no prefilter, 13-value loop on every slot) k4 r all_s2048 L 1-5 H lines identical: True
+== all_s64 (K4 + 19 nulls), one error, L 1-4
+k4 fL1-3: fits 0 pass2 1153097 fL4: fits 0 pass2 3435762 rL1-3: fits 0 pass2 1144365 rL4: fits 0 pass2 3399419
+n18311 fL1-3: fits 0 pass2 1142493 fL4: fits 0 pass2 3434043 rL1-3: fits 0 pass2 1135279 rL4: fits 0 pass2 3434697
+n18312 fL1-3: fits 0 pass2 1137082 fL4: fits 0 pass2 3403736 rL1-3: fits 0 pass2 1129498 rL4: fits 0 pass2 3402095
+n18313 fL1-3: fits 0 pass2 1140165 fL4: fits 0 pass2 3426278 rL1-3: fits 0 pass2 1141507 rL4: fits 0 pass2 3404089
+n18314 fL1-3: fits 0 pass2 1174613 fL4: fits 0 pass2 3481989 rL1-3: fits 0 pass2 1175941 rL4: fits 0 pass2 3455906
+n18315 fL1-3: fits 0 pass2 1151942 fL4: fits 0 pass2 3447527 rL1-3: fits 0 pass2 1152799 rL4: fits 0 pass2 3448350
+n18316 fL1-3: fits 0 pass2 1146889 fL4: fits 0 pass2 3412747 rL1-3: fits 0 pass2 1160980 rL4: fits 0 pass2 3429274
+n18317 fL1-3: fits 0 pass2 1156759 fL4: fits 0 pass2 3429347 rL1-3: fits 0 pass2 1133796 rL4: fits 0 pass2 3419158
+n18318 fL1-3: fits 0 pass2 1132597 fL4: fits 0 pass2 3409643 rL1-3: fits 0 pass2 1143747 rL4: fits 0 pass2 3429650
+n18319 fL1-3: fits 0 pass2 1158977 fL4: fits 0 pass2 3423130 rL1-3: fits 0 pass2 1147731 rL4: fits 0 pass2 3435162
+n18320 fL1-3: fits 0 pass2 1153953 fL4: fits 0 pass2 3425508 rL1-3: fits 0 pass2 1148248 rL4: fits 0 pass2 3425565
+n18321 fL1-3: fits 0 pass2 1125129 fL4: fits 0 pass2 3408047 rL1-3: fits 0 pass2 1120436 rL4: fits 0 pass2 3399415
+n18322 fL1-3: fits 0 pass2 1148990 fL4: fits 0 pass2 3453056 rL1-3: fits 0 pass2 1153353 rL4: fits 0 pass2 3457728
+n18323 fL1-3: fits 0 pass2 1157962 fL4: fits 0 pass2 3420285 rL1-3: fits 0 pass2 1146039 rL4: fits 0 pass2 3418529
+n18324 fL1-3: fits 0 pass2 1157906 fL4: fits 0 pass2 3451787 rL1-3: fits 0 pass2 1153355 rL4: fits 0 pass2 3449110
+n18325 fL1-3: fits 0 pass2 1132077 fL4: fits 0 pass2 3404952 rL1-3: fits 0 pass2 1143005 rL4: fits 0 pass2 3405840
+n18326 fL1-3: fits 0 pass2 1156408 fL4: fits 0 pass2 3437713 rL1-3: fits 0 pass2 1155712 rL4: fits 0 pass2 3430057
+n18327 fL1-3: fits 0 pass2 1135331 fL4: fits 0 pass2 3415620 rL1-3: fits 0 pass2 1124503 rL4: fits 0 pass2 3404843
+n18328 fL1-3: fits 0 pass2 1158304 fL4: fits 0 pass2 3426769 rL1-3: fits 0 pass2 1135597 rL4: fits 0 pass2 3428520
+n18329 fL1-3: fits 0 pass2 1164339 fL4: fits 0 pass2 3432387 rL1-3: fits 0 pass2 1144456 rL4: fits 0 pass2 3415663
+== grid (empirical rank among 20 texts; D1 = q4f one-error mod-2 passes at L 4 (all L <= 4 by nesting), D2 = q4r the same; fit cells scored only if not all-zero)
+fL1-3: all zero (reported, not scored)
+fL4: all zero (reported, not scored)
+rL1-3: all zero (reported, not scored)
+rL4: all zero (reported, not scored)
+D1: K4 3435762 nulls 3403736-3481989 mean 3428661.3 p+ 0.30 p- 0.75
+D2: K4 3399419 nulls 3399415-3457728 mean 3425981.6 p+ 0.95 p- 0.10
+grid p+ 0.30 (min over cells) / p- 0.10  [no multiplicity correction; floor 0.05]
