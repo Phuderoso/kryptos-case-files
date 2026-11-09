@@ -1,0 +1,7 @@
+# Cycle 161 wall-clock (8 processes, box shared with a browser, 2026-11-08 PDT)
+resumed cycle-159 runner, 70 chunks (q2 for 29 nulls, q3 for 41)  22:13:31-22:19:35   364 s
+K4 full-range regression (4 chunks) + 3 planted windows (600k)      22:19:45-22:20:05    20 s
+exact single-primer plant checks                                                         ~1 s
+independent Python recount (7 windows x 20k primers, parallel)      22:20:37-22:20:49    12 s
+L 9 rank-matched null generation (checkpoint only, Python)                               <1 s
+total heavy compute                                                                     ~397 s (about 6.6 min, inside the ~8 min budget)
