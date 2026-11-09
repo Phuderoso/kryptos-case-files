@@ -1,0 +1,17 @@
+H ctl5x L=11 kw=CUBANSEDGIW ca=aca pa=az form=0 mis=1
+H ctl5x L=11 kw=CUBANSFDGIW ca=aca pa=az form=0 mis=1
+H ctl5x L=11 kw=CUBANSFEGIW ca=aca pa=az form=0 mis=1
+H ctl5x L=11 kw=DUBANSFEGIW ca=aca pa=az form=0 mis=1
+D null6 L=10 digits=1754908263 rankperms=1 configs=95611230 hits=0
+D null6 L=10 digits=1093627458 rankperms=1 configs=95611230 hits=0
+D null6 L=10 digits=1268903475 rankperms=1 configs=95611230 hits=0
+D null6 L=10 digits=5021964783 rankperms=1 configs=95611230 hits=0
+D K4 L=11 digits=09671814325 rankperms=2 configs=278141760 hits=0
+D ctl5x L=11 digits=30218954671 rankperms=2 configs=278141760 hits=4
+D K4 L=11 digits=13675291084 rankperms=2 configs=278141760 hits=0
+D K4 L=11 digits=11604327859 rankperms=2 configs=278141760 hits=0
+D null2 L=11 digits=03765189421 rankperms=2 configs=278141760 hits=0
+D null2 L=11 digits=43805271169 rankperms=2 configs=278141760 hits=0
+D null2 L=11 digits=31650879241 rankperms=2 configs=278141760 hits=0
+D null2 L=11 digits=54219380167 rankperms=2 configs=278141760 hits=0
+D K4 L=12 digits=908632145217 rankperms=4 configs=695354400 hits=0
