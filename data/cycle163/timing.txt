@@ -1,0 +1,9 @@
+Cycle 163 timing (8 cores, box local time PDT, 2026-11-08)
+timing probes (300 perms, K4, three solver versions)                ~15 s
+planted controls (split7 strict + split7e, 4 configurations)       <1 s
+main run (run_cycle163.sh: 9 direct texts; bank K4 + null1 + mnull01, 24 slices on 8 cores)  23:19:14 -> 23:27:48, 514 s wall
+independent recount (124 configurations, 8 parallel)                ~16 s
+decode163.py (K4, null1, controls)                                  ~2 s
+total heavy compute                                                 ~9.1 min (about 1 min over the ~8 min budget)
+Speed: split7e 2.4 s per 300 perms (1,200 configurations) on one core, about 3.7x the strict split7 cost (the naive 24-drop loop
+would be 24x).

@@ -1,0 +1,22 @@
+Cycle 163 summary (I-069: split period-7 key of cycle 162 under ONE error behind the bank; tools/cycle163/split7e.c)
+Model as cycle 162: key 1 / key 2 period 7, phase from position 0, boundary b free 0..97, Q-III on 86,731 alphabets, Vig/Beau per
+segment; behind 165,065 bank perms x 2 directions = 330,130 per index order; ix0 = key at plaintext index (model Q), ix1 = key at
+carved index.  One error = any one of the 24 cribs left out (drop-aware single pass: B2s <= B1e or B2e <= B1s).
+text    ix  configs  prefilter_1e  S_strict  S1e_cfg  S1e_hits  Z1e_cfg  X_strict  X1e_cfg
+K4       0  330130   329666        0         12       20        0        62        6558
+K4       1  330130   267956        0         0        0         0        10        1808
+null1    0  330130   329676        0         2        8         0        54        6758
+null1    1  330130   271398        0         0        0         0        26        2134
+mnull01  0  330130   329424        0         0        0         0        68        7768
+mnull01  1  330130   275342        0         0        0         0        4         2082
+Regression: X_strict equals cycle 162 exactly (K4 62+10 = 72, null1 54+26 = 80, mnull01 68+4 = 72); S_strict 0 as in cycle 162.
+Direct (identity), one error: K4 and all 8 nulls S1e 0, Z1e 0, X1e 0 (cycle 162 per-drop loop: also 0).
+Primary (pre-registered, preregistration.md): S1e configurations. K4 12 (= 6 adjacent inverse pairs = 6 distinct transpositions,
+5 alphabets: TIMELIEST, LAYERTWO+RQ, CIA+LUCID, CAUDAM (k/r twins), POSITION+LAYERTWO; all model Q, boundary at 28-33 or 64-67)
+vs null1 2 (1 transposition, BOUNDARY k/r twins), mnull01 0.  p = (#nulls >= K4 + 1)/(n + 1) = 1/3 (resolution floor with 2 nulls).
+Z1e (AZ/KRYPTOS cross): K4 0, nulls 0.
+Language gate: every K4 S1e survivor gives a fully keyed 97-letter decryption (no undetermined residue); best -7.208 per quadgram
+incl. cribs, off-crib -7.880 (null1 best -7.077 / -7.829); English plants -4.07 to -4.12 off-crib.  None reads as English.
+Secondary (count only): X1e K4 8366 vs null1 8892, mnull01 9850 (no power).
+Classification: S1e and Z1e under one error -> EXACT-EXCL for the model with the language gate (Z1e: exact, 0; S1e: 12 consistent
+configurations, all fully determined and gibberish); the S1e COUNT (12 vs 2, 0) is LOW-POWER (2 nulls, p floor 0.33) -> I-072.
