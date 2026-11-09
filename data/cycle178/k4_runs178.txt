@@ -1,0 +1,112 @@
+== out/k4.m0.txt
+H k4 0 1 az vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 1 az beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 1 ka vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 1 ka beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 2 az vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 2 az beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 2 ka vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 2 ka beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 3 az vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 3 az beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 0 3 ka vig cfg 165782 pass2 1 fits 0 sols 0 ovf 0
+H k4 0 3 ka beau cfg 165782 pass2 1 fits 0 sols 0 ovf 0
+H k4 0 4 az vig cfg 165782 pass2 4 fits 0 sols 0 ovf 0
+H k4 0 4 az beau cfg 165782 pass2 4 fits 0 sols 0 ovf 0
+H k4 0 4 ka vig cfg 165782 pass2 5 fits 0 sols 0 ovf 0
+H k4 0 4 ka beau cfg 165782 pass2 5 fits 0 sols 0 ovf 0
+H k4 0 5 az vig cfg 165782 pass2 16 fits 0 sols 0 ovf 0
+H k4 0 5 az beau cfg 165782 pass2 16 fits 0 sols 0 ovf 0
+H k4 0 5 ka vig cfg 165782 pass2 14 fits 0 sols 0 ovf 0
+H k4 0 5 ka beau cfg 165782 pass2 14 fits 0 sols 0 ovf 0
+H k4 0 6 az vig cfg 165782 pass2 60 fits 0 sols 0 ovf 0
+H k4 0 6 az beau cfg 165782 pass2 60 fits 0 sols 0 ovf 0
+H k4 0 6 ka vig cfg 165782 pass2 60 fits 0 sols 0 ovf 0
+H k4 0 6 ka beau cfg 165782 pass2 60 fits 0 sols 0 ovf 0
+H k4 0 7 az vig cfg 165782 pass2 207 fits 0 sols 0 ovf 0
+H k4 0 7 az beau cfg 165782 pass2 207 fits 0 sols 0 ovf 0
+H k4 0 7 ka vig cfg 165782 pass2 226 fits 0 sols 0 ovf 0
+H k4 0 7 ka beau cfg 165782 pass2 226 fits 0 sols 0 ovf 0
+H k4 0 8 az vig cfg 165782 pass2 832 fits 0 sols 0 ovf 0
+H k4 0 8 az beau cfg 165782 pass2 832 fits 0 sols 0 ovf 0
+H k4 0 8 ka vig cfg 165782 pass2 886 fits 0 sols 0 ovf 0
+H k4 0 8 ka beau cfg 165782 pass2 886 fits 0 sols 0 ovf 0
+END k4 0 165782
+== out/k4.m0L9.txt
+H k4 0 9 az vig cfg 165782 pass2 3321 fits 0 sols 0 ovf 0
+H k4 0 9 az beau cfg 165782 pass2 3321 fits 0 sols 0 ovf 0
+H k4 0 9 ka vig cfg 165782 pass2 3511 fits 0 sols 0 ovf 0
+H k4 0 9 ka beau cfg 165782 pass2 3511 fits 0 sols 0 ovf 0
+END k4 0 165782
+== out/k4.m0s8.txt
+H k4 0 9 az vig cfg 20723 pass2 409 fits 0 sols 0 ovf 0
+H k4 0 9 az beau cfg 20723 pass2 409 fits 0 sols 0 ovf 0
+H k4 0 9 ka vig cfg 20723 pass2 490 fits 0 sols 0 ovf 0
+H k4 0 9 ka beau cfg 20723 pass2 490 fits 0 sols 0 ovf 0
+END k4 0 20723
+== out/k4.m1.txt
+H k4 1 1 az vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 1 az beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 1 ka vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 1 ka beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 2 az vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 2 az beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 2 ka vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 2 ka beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 3 az vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 3 az beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 3 ka vig cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 3 ka beau cfg 165782 pass2 0 fits 0 sols 0 ovf 0
+H k4 1 4 az vig cfg 165782 pass2 1 fits 0 sols 0 ovf 0
+H k4 1 4 az beau cfg 165782 pass2 1 fits 0 sols 0 ovf 0
+H k4 1 4 ka vig cfg 165782 pass2 5 fits 0 sols 0 ovf 0
+H k4 1 4 ka beau cfg 165782 pass2 5 fits 0 sols 0 ovf 0
+H k4 1 5 az vig cfg 165782 pass2 8 fits 0 sols 0 ovf 0
+H k4 1 5 az beau cfg 165782 pass2 8 fits 0 sols 0 ovf 0
+H k4 1 5 ka vig cfg 165782 pass2 12 fits 0 sols 0 ovf 0
+H k4 1 5 ka beau cfg 165782 pass2 12 fits 0 sols 0 ovf 0
+END k4 0 165782
+== out/k4.w0.txt
+H k4 W0 6 az vig streams 229320 perms 165782 fits 0
+H k4 W0 6 az beau streams 229320 perms 165782 fits 0
+H k4 W0 6 ka vig streams 229320 perms 165782 fits 0
+H k4 W0 6 ka beau streams 229320 perms 165782 fits 0
+H k4 W0 7 az vig streams 376428 perms 165782 fits 0
+H k4 W0 7 az beau streams 376428 perms 165782 fits 0
+H k4 W0 7 ka vig streams 376428 perms 165782 fits 0
+H k4 W0 7 ka beau streams 376428 perms 165782 fits 0
+H k4 W0 8 az vig streams 609960 perms 165782 fits 0
+H k4 W0 8 az beau streams 609960 perms 165782 fits 0
+H k4 W0 8 ka vig streams 609960 perms 165782 fits 0
+H k4 W0 8 ka beau streams 609960 perms 165782 fits 0
+H k4 W0 9 az vig streams 983164 perms 165782 fits 0
+H k4 W0 9 az beau streams 983164 perms 165782 fits 0
+H k4 W0 9 ka vig streams 983164 perms 165782 fits 0
+H k4 W0 9 ka beau streams 983164 perms 165782 fits 0
+H k4 W0 10 az vig streams 1329900 perms 165782 fits 0
+H k4 W0 10 az beau streams 1329900 perms 165782 fits 0
+H k4 W0 10 ka vig streams 1329900 perms 165782 fits 0
+H k4 W0 10 ka beau streams 1329900 perms 165782 fits 0
+END k4 0 165782
+== out/k4.w1.txt
+H k4 W1 6 az vig streams 229320 perms 165782 fits 0
+H k4 W1 6 az beau streams 229320 perms 165782 fits 0
+H k4 W1 6 ka vig streams 229320 perms 165782 fits 0
+H k4 W1 6 ka beau streams 229320 perms 165782 fits 0
+H k4 W1 7 az vig streams 376428 perms 165782 fits 0
+H k4 W1 7 az beau streams 376428 perms 165782 fits 0
+H k4 W1 7 ka vig streams 376428 perms 165782 fits 0
+H k4 W1 7 ka beau streams 376428 perms 165782 fits 0
+H k4 W1 8 az vig streams 609960 perms 165782 fits 0
+H k4 W1 8 az beau streams 609960 perms 165782 fits 0
+H k4 W1 8 ka vig streams 609960 perms 165782 fits 0
+H k4 W1 8 ka beau streams 609960 perms 165782 fits 0
+H k4 W1 9 az vig streams 983164 perms 165782 fits 0
+H k4 W1 9 az beau streams 983164 perms 165782 fits 0
+H k4 W1 9 ka vig streams 983164 perms 165782 fits 0
+H k4 W1 9 ka beau streams 983164 perms 165782 fits 0
+H k4 W1 10 az vig streams 1329900 perms 165782 fits 0
+H k4 W1 10 az beau streams 1329900 perms 165782 fits 0
+H k4 W1 10 ka vig streams 1329900 perms 165782 fits 0
+H k4 W1 10 ka beau streams 1329900 perms 165782 fits 0
+END k4 0 165782

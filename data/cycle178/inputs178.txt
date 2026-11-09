@@ -1,0 +1,16 @@
+# Cycle 178 inputs and timing (all times PT, UTC-7)
+946402ca9cd1fcb962c51a16a76fef09  support/all.bin
+3dd34d3cc56297bdd2b8a98d7125ea23  support/all_s8.bin
+9e49013cd4f0518426c18efc722966df  support/quadgrams.json
+dc4df49dea72039372a86dae4b56fd9e  run/k4.txt
+cd8b64a7b9c24aad41568c9bff7e36a5  run/nulls178.txt
+e2dfcb1da67f4c3ca0cb7e06b45d0999  run/fresh133.txt
+f4d84b541a3e165069d78c2214b46952  run/matched133.txt
+10c14f09bc02f8ccb0dfd3dad10cab69  run/seeds178.txt
+c730f3c59623411d4e2146a3989064c1  run/lr178
+36a7982e61e73a3cfc50afea2569f2ef  run/gm177
+lr178 built: gcc -O3 -march=native -fopenmp lr178.c (gcc 14); gm177 = tools/cycle177/gm177.c unchanged
+pre-registration pushed: 202c378 + dd29766 (~07:59), before any K4/null run; smoke only on seed 9178
+main run (K4 + 19 nulls, run_cycle178.sh): Mon Nov  9 07:59:49 MST 2026 -> Mon Nov  9 08:03:49 MST 2026  (4.0 min, 6 threads)
+I-133 (match133.py 169 candidates + 61 gm177 runs): ~08:04:15 -> Mon Nov  9 08:07:33 MST 2026 (~3.3 min)
+controls: 16 s (+1 s N1b); blind-kit validation ~15 s; numpy recount 340 s single-thread (not in the 6-thread budget)

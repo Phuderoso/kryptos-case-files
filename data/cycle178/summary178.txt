@@ -1,0 +1,37 @@
+== M0 ix 0 (algebraic), fits per L [mod-2 pass count]  (full perm set; L 9 on 1/8, K4 full in brackets)
+M0 L1: K4 0 [pass2 0, null pass2 mean 0.1] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L2: K4 0 [pass2 0, null pass2 mean 0.8] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L3: K4 0 [pass2 2, null pass2 mean 3.6] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L4: K4 0 [pass2 18, null pass2 mean 13.2] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L5: K4 0 [pass2 60, null pass2 mean 53.9] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L6: K4 0 [pass2 240, null pass2 mean 219.4] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L7: K4 0 [pass2 866, null pass2 mean 861.2] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L8: K4 0 [pass2 3436, null pass2 mean 3432.8] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M0 L9 (1/8): K4 0 [K4 full 0, pass2 1/8 1798, null mean 1678.8] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+== M1 ix 1 (CRT), fits per L [mod-2 pass]
+M1 L1: K4 0 [pass2 0, null pass2 mean 0.1] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M1 L2: K4 0 [pass2 0, null pass2 mean 0.3] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M1 L3: K4 0 [pass2 0, null pass2 mean 1.6] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M1 L4: K4 0 [pass2 12, null pass2 mean 10.2] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+M1 L5: K4 0 [pass2 40, null pass2 mean 41.4] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+== W small weights, vocabulary seeds
+W0 L6: K4 0 [streams 917280] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W0 L7: K4 0 [streams 1505712] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W0 L8: K4 0 [streams 2439840] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W0 L9: K4 0 [streams 3932656] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W0 L10: K4 0 [streams 5319600] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W1 L6: K4 0 [streams 917280] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W1 L7: K4 0 [streams 1505712] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W1 L8: K4 0 [streams 2439840] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W1 L9: K4 0 [streams 3932656] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+W1 L10: K4 0 [streams 5319600] | nulls n=19 min/med/max 0/0/0 mean 0.00 -> EXACT-EXCL (null mean < 1: power from the analytic rate)
+overflow / undetermined lines (all texts): 0
+== grid (leave-one-out Poisson tails, I-120)
+R1 M0 L1-8 fits: K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+R2 M0 L9 fits (1/8): K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+R3 M1 L1-5 fits: K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+R4 W0 fits: K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+R5 W1 fits: K4 0 nulls min/med/max 0/0/0 scored=False K4 p+ 1.000 p- 1.000
+D1 M0 pass2 L7-8 + L9(1/8): K4 6100 nulls min/med/max 5696/5982/6268 scored=True K4 p+ 0.051 p- 0.950
+D2 M1 pass2 L1-5: K4 52 nulls min/med/max 32/50/90 scored=True K4 p+ 0.604 p- 0.450
+G+(K4) 0.051 grid p+ 0.35 ; G-(K4) 0.45 grid p- 0.75 ; best attainable 0.05
