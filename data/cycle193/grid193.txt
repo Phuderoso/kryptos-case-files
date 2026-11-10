@@ -1,0 +1,7 @@
+stat: K4 | nulls min-max | p+
+B1: K4 15440 | nulls 12809-20042 (median 15236) | p+ 0.45
+B2: K4 488 | nulls 235-815 (median 455) | p+ 0.40
+F3: K4 6 | nulls 4-17 (median 9) | p+ 0.90
+F4: K4 2 | nulls 0-2 (median 0) | p+ 0.10
+two_sols: K4 15218 | nulls 14113-17103 (median 15028) | p+ 0.40
+one_sols: K4 9808 | nulls 9184-21352 (median 14280) | p+ 0.85

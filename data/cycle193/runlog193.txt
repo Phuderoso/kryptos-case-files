@@ -1,0 +1,10 @@
+registered run start 16:54:25 PT (end ~16:57:08 PT, 163 s)
+C1 done 126 s
+grid done 132 s
+C3 done 155 s
+recount k4 identical 47163
+recount P1 identical 47535
+recount P2 identical 47363
+recount P6 identical 47241
+recount n19311 identical 47377
+recount done 163 s

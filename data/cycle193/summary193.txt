@@ -1,0 +1,24 @@
+== C1 K4, tab4 (AZ>KA, KA>AZ, AZ>AZ, KA>KA), all 165,782 routes: cells 20000, full-power 5024, low-power 14976
+   model S1: full-power cells 2512; distinct (m,n) 157 (m = n: 8; lcm > 26: 82; max lcm 105); E sum 4.805; fits 2
+   model S2: full-power cells 2512; distinct (m,n) 157 (m = n: 8; lcm > 26: 82; max lcm 105); E sum 4.805; fits 3
+   full-power cells with K4 fits: 5
+     ('1', 'AZ>KA', 'BV', 23, 2) configs 165782 fits 1 sols 1 E 0.0139 printed 1: ['11343 AZ>KA BV 1 23 2 8.417e-08 1']
+     ('1', 'KA>AZ', 'BV', 19, 4) configs 165782 fits 1 sols 1 E 0.013 printed 1: ['68647 KA>AZ BV 1 19 4 8.417e-08 1']
+     ('2', 'AZ>KA', 'BV', 2, 17) configs 165782 fits 1 sols 1 E 0.0139 printed 1: ['44016 AZ>KA BV 2 2 17 8.417e-08 1']
+     ('2', 'AZ>KA', 'BV', 14, 5) configs 165782 fits 1 sols 1 E 0.00507 printed 1: ['132931 AZ>KA BV 2 14 5 8.417e-08 1']
+     ('2', 'AZ>KA', 'VV', 10, 9) configs 165782 fits 1 sols 4 E 0.00917 printed 1: ['159516 AZ>KA VV 2 10 9 8.417e-08 4']
+   low-power two-tableau: cells 7488 fits 567254353, sols 7.3434056e+08, E 7.3469465e+08
+   low-power one-tableau: cells 7488 fits 441321772, sols 7.1764147e+08, E 7.3469465e+08
+   bands e: configs fits sols E -> 0: 590299712 135861292 5.73002e+08 5.903e+08; 1: 255167168 3613579 9.733e+06 9.81412e+06; 2: 198650080 125865 267136 293861; 3: 186270240 4706 8489 10598; 4: 165658368 179 384 362.51; 5: 161742016 12 115 13.6131; 6: 135729568 0 0 0.439374; 7: 127073024 1 1 0.0158212; 8: 105063744 0 0 0.000503114; 9: 100784192 0 0 1.85623e-05; 10: 75902464 0 0 5.37678e-07; 11: 67315904 0 0 1.83405e-08; 12: 59344064 0 0 6.21866e-10; 13: 51424320 0 0 2.0726e-11; 14: 43996704 0 0 6.82014e-13; 15: 36435904 0 0 2.17235e-14; 16: 29611872 0 0 6.79035e-16; 17: 22815168 0 0 2.01223e-17; 18: 17030592 0 0 5.77709e-19; 19: 10949184 0 0 1.42853e-20; 20: 5401248 0 0 2.71036e-22; 21: 3968 0 0 7.65828e-27
+== Power note (descriptive): planted-config E_config by band in the full-power (m, n) pairs of C1
+   S1: pairs 157, route configs 26027774; weakest band 4; 80th-percentile (weak end) band e = 6 (E_config ~ 26^-6); shares: e5 0.102, e6 0.104, e7 0.113, e8 0.101, e9 0.104, e10 0.080, e11 0.073, e12 0.066, e13 0.059, e14 0.051, e15 0.043, e16 0.035, e17 0.027, e18 0.020, e19 0.013, e20 0.006
+   S2: pairs 157, route configs 26027774; weakest band 4; 80th-percentile (weak end) band e = 6 (E_config ~ 26^-6); shares: e5 0.102, e6 0.104, e7 0.113, e8 0.101, e9 0.104, e10 0.080, e11 0.073, e12 0.066, e13 0.059, e14 0.051, e15 0.043, e16 0.035, e17 0.027, e18 0.020, e19 0.013, e20 0.006
+== C3 K4, 572 themed x {A-Z,KRYPTOS} pairs on all_s512 (cell = model, form, m, n over all 572 pairs): cells 5000, full-power 1248, low-power 3752
+   model S1: full-power cells 624; distinct (m,n) 156 (m = n: 8; lcm > 26: 81; max lcm 105); E sum 1.16; fits 1
+   model S2: full-power cells 624; distinct (m,n) 156 (m = n: 8; lcm > 26: 81; max lcm 105); E sum 1.16; fits 2
+   full-power cells with K4 fits: 3
+     ('1', 'ALL', 'VB', 17, 2) configs 185328 fits 1 sols 1 E 0.0156 printed 1: ['316 AZ>TIMEZONE/Z VB 1 17 2 8.417e-08 1']
+     ('2', 'ALL', 'BB', 4, 22) configs 185328 fits 1 sols 1 E 0.0145 printed 1: ['236 AZ>CENTRALINTELLIGENCE/Z BB 2 4 22 8.417e-08 1']
+     ('2', 'ALL', 'VV', 4, 15) configs 185328 fits 1 sols 1 E 0.0148 printed 1: ['241 GRANITE/K>KA VV 2 4 15 8.417e-08 1']
+   low-power two-tableau: cells 3752 fits 321142549, sols 4.1341405e+08, E 4.1226476e+08
+   bands e: configs fits sols E -> 0: 157794208 67446296 1.58927e+08 1.57794e+08; 1: 68557632 1876845 2.65258e+06 2.63683e+06; 2: 55479424 67996 82761 82070.1; 3: 51676768 2675 3086 2940.19; 4: 46043712 97 134 100.758; 5: 45407648 3 3 3.82175; 6: 37976224 0 0 0.122934; 7: 35303840 0 0 0.0043955; 8: 29185728 0 0 0.00013976; 9: 28156128 0 0 5.18576e-06; 10: 21310432 0 0 1.50959e-07; 11: 18999552 0 0 5.1765e-09; 12: 16912896 0 0 1.77231e-10; 13: 14647776 0 0 5.90362e-12; 14: 12570272 0 0 1.94858e-13; 15: 10460736 0 0 6.2368e-15; 16: 8543392 0 0 1.9591e-16; 17: 6479616 0 0 5.71482e-18; 18: 4791072 0 0 1.62522e-19; 19: 3084224 0 0 4.02395e-21; 20: 1510080 0 0 7.57762e-23
