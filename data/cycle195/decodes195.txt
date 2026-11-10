@@ -1,0 +1,48 @@
+## col1 row 189 (HAVE/inv) AZ>KA BB S2 17 x 4
+config row 189 2 BB m 17 n 4: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=XYVCQXQSNQJLTMVFA b=LLIV PT=wszdjctewwyqclpgozpvvEASTNORTHEASToqgqdeuouofaabsvpmcmfrbfrffnnBERLINCLOCKfsqwastswehumtjlmrxuqpp  known 97/97
+## col1 row 1070 (SHOOK/enc) AZ>KA BB S1 4 x 16
+config row 1070 1 BB m 4 n 16: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=MGTB b=ULGGTLSEKNDDEUXW PT=sxfvmhryssuvnulqhnryvEASTNORTHEASTktuhmbtawqjofekiktjwpwzeufprxBERLINCLOCKsrucgzsocvmyfxqaknhpoly  known 97/97
+## col1 row 1256 (MIGHTY/enc) KA>AZ VV S1 20 x 7
+config row 1256 1 VV m 20 n 7: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=?NDALOIIUKPAAS?????? b=CZMQEIN PT=?fbjnagehpchhy???????EASTNORTHEAST???????mdxrauumbeohf???????rrBERLINCLOCK???????fwehlpsvwhqei???  known 65/97
+## col1 row 2179 (DISAPPOINTMENT/inv) AZ>KA VV S1 2 x 19
+config row 2179 1 VV m 2 n 19: components 2 cyclic 2 (solutions per cyclic component [1, 1]); tree components 0 left free
+a=HY b=JZKSVZQXNDZOAPJPGYL PT=nfgabickbnwzoxymtjhneEASTNORTHEASTfxpvwhuojgnymbqtolubbamzrzvseBERLINCLOCKcxfmrdezdtmqziwoqrwjugy  known 97/97
+## col2 row 2048 (LAYERTWO+UNDERGROUND/enc) AZ>KA VB S2 7 x 20
+config row 2048 2 VB m 7 n 20: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=ALOJDYW b=?SUBOCNRVUQAJG?????? PT=?netyxhojlfokh???????EASTNORTHEAST???????hqkdkgamvhgrr???????fqBERLINCLOCK???????yvjtmnilcpbat???  known 65/97
+## col2 row 4064 (DESPARATLY+SHADOW/enc) AZ>KA BV S1 17 x 3
+config row 4064 1 BV m 17 n 3: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=JIAYILBSXXQFLGSON b=SGQ PT=pdejaulcpqwurtnzswauvEASTNORTHEASTlhozyxywmgfvtlgkcrkuvfnosrwlyBERLINCLOCKrsotzlfucotwxacfbiagluc  known 97/97
+## col2 row 4346 (CHAMBER+MESSAGE/enc) KA>AZ BV S1 16 x 3
+config row 4346 1 BV m 16 n 3: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=HWLRMERREYVYXFVR b=KEJ PT=igmhxpxkwjoloxcnonqtnEASTNORTHEASTjquwyvlnsdoxzrygvyrourgghdrjdBERLINCLOCKhbdkxpoclvvefhidvgurahh  known 97/97
+## col2 row 5609 (ILLUSION+VIGENERE/inv) AZ>KA VB S2 12 x 8
+config row 5609 2 VB m 12 n 8: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=VUCDSGWNZBZD b=ULYXEVEJ PT=exyztkarorlycfmcsysogEASTNORTHEASTdedndxaibxgmzqcmdpvmfqpdynpzfBERLINCLOCKsnkxccztbbxygiguylbhrdx  known 97/97
+## col2 row 6189 (DIGETAL+POSITION/inv) AZ>KA VV S2 14 x 6
+config row 6189 2 VV m 14 n 6: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=LRHRTPHIUQRWQL b=OCVATS PT=sutzelhhvvsnowwqvexnoEASTNORTHEASTfizebfsyozykhubkcxetnfrknhvarBERLINCLOCKwftznadxkkjhkoflwjfbgid  known 97/97
+## col2 row 7003 (COLUMNAR+BERLINCLOCK/inv) KA>AZ BV S2 5 x 22
+config row 7003 2 BV m 5 n 22: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=JVWWI b=KNEWLGUFOXYM???????OML PT=pfgwaezvilze???????iyEASTNORTHEAST???????kmlihlmloymdooe???????BERLINCLOCKctox???????mesinpdjydhf  known 69/97
+## col2 row 10944 (SECRET+VIGENERE/enc) KA>AZ VB S1 15 x 5
+config row 10944 1 VB m 15 n 5: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=DVOIUWSCUMMOMBA b=QIFOD PT=xsloncriexteaqecmmkrfEASTNORTHEASTfgmozeqxrxbjyivvpzarqaoryspugBERLINCLOCKpbfnulkpxvabsuhlgxygzty  known 97/97
+## col2 row 15199 (DARKNESS+WALL/inv) KA>AZ VB S2 13 x 7
+config row 15199 2 VB m 13 n 7: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=HEJWYBFFORVNV b=KMRXIHF PT=cacvhqnboddglqtnoxoooEASTNORTHEASTliueycsifamyeiamgtrftdzongsdfBERLINCLOCKjjavhhofufsssnmojcusepf  known 97/97
+## col2 row 15492 (BERLINWALL+CARTER/enc) AZ>KA BV S2 3 x 18
+config row 15492 2 BV m 3 n 18: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=NBJ b=VI?ZXEEHOAREMTAAYU PT=vi?sxrokioitspzinkji?EASTNORTHEASTaaiw?glweqpmetaflaftmw?qgykbxBERLINCLOCK?vofwocjqbvsnnzmwt?rwfp  known 91/97
+## col2 row 16425 (ENIGMA+TOMB/inv) AZ>KA BV S2 10 x 10
+config row 16425 2 BV m 10 n 10: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=AVBSKKTMMP b=VIJABOSNNO PT=ejaackktnywucgrzreikpEASTNORTHEASTnrmvybbbmdqbrbylcysiewyjzjiftBERLINCLOCKqsbvtefzhlgowipwexxyvnn  known 97/97
+## col1_th row 162 LAYERTWO/K>AZ BV S1 3 x 17
+config row 162 1 BV m 3 n 17: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=WDX b=PXMCUEMLQUZPJFUBZ PT=zjjvfxtwyeeokduatshrpEASTNORTHEASTdmfhjmhnbjesmynmygaqpssoyjvcyBERLINCLOCKypkzotpsejftoftepyqysrn  known 97/97
+## col1_th row 162 XLAYERTWO/K>AZ BV S1 3 x 17
+config row 162 1 BV m 3 n 17: components 1 cyclic 1 (solutions per cyclic component [1]); tree components 0 left free
+a=OFX b=PXMCUEMLQUZPJFUBZ PT=xjjvgztwyeeooduatshrpEASTNORTHEASTdmfhjmhnbjesmynmygaqpsskyjvcyBERLINCLOCKypklktpsejftoftepyqysrn  known 97/97

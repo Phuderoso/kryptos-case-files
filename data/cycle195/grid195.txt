@@ -1,0 +1,8 @@
+stat: K4 | 19 nulls min-max | p+
+FPfits: K4 4 | nulls 0-6 (median 2) | p+ 0.30
+B1: K4 197700 | nulls 165525-332453 (median 188560) | p+ 0.25
+B2: K4 6075 | nulls 3890-10062 (median 5213) | p+ 0.35
+F3: K4 127 | nulls 86-131 (median 106) | p+ 0.10
+F4: K4 5 | nulls 0-9 (median 3) | p+ 0.25
+two_sols_lp: K4 1.61619e+07 | nulls 1.59862e+07-1.68778e+07 (median 1.61574e+07) | p+ 0.50
+one_sols_lp: K4 1.57238e+07 | nulls 1.53309e+07-1.88407e+07 (median 1.56726e+07) | p+ 0.40

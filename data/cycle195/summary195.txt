@@ -1,0 +1,39 @@
+== C1 K4, tab4, 3,674 single keyed columnars (col1): cells 20000, full-power 5792, low-power 14208
+   S1 two-tableau: full-power cells 1448; distinct (m,n) 181 (m = n: 9; lcm > 26: 95; max lcm 140); E sum 1.888; fits 3
+   S1 one-tableau: full-power cells 1448; distinct (m,n) 181 (m = n: 9; lcm > 26: 95; max lcm 140); E sum 1.888; fits 0
+   S2 two-tableau: full-power cells 1448; distinct (m,n) 181 (m = n: 9; lcm > 26: 95; max lcm 140); E sum 1.888; fits 1
+   S2 one-tableau: full-power cells 1448; distinct (m,n) 181 (m = n: 9; lcm > 26: 95; max lcm 140); E sum 1.888; fits 0
+   full-power cells with K4 fits: 4; total full-power E 7.552, fits 4
+     ('1', 'AZ>KA', 'BB', 4, 16) configs 3674 fits 1 sols 1 E 0.00217 printed 1: ['1070 AZ>KA BB 1 4 16 2.188e-06 1']
+     ('1', 'AZ>KA', 'VV', 2, 19) configs 3674 fits 1 sols 1 E 0.0177 printed 1: ['2179 AZ>KA VV 1 2 19 5.69e-05 1']
+     ('1', 'KA>AZ', 'VV', 20, 7) configs 3674 fits 1 sols 1 E 0.00571 printed 1: ['1256 KA>AZ VV 1 20 7 2.188e-06 1']
+     ('2', 'AZ>KA', 'BB', 17, 4) configs 3674 fits 1 sols 1 E 0.0305 printed 1: ['189 AZ>KA BB 2 17 4 5.69e-05 1']
+   low-power two-tableau: cells 7104 fits 12582253, sols 16161938, E 16205353
+   low-power one-tableau: cells 7104 fits 9828348, sols 15723848, E 16205353
+   bands e: configs fits sols E -> 0: 12851488 2985279 1.23357e+07 1.28515e+07; 1: 5380800 76532 197700 206954; 2: 4044672 2619 6075 5983.24; 3: 4028096 122 239 229.182; 4: 3618240 5 5 7.91779; 5: 3657728 0 0 0.307854; 6: 3046592 0 0 0.00986221; 7: 3003072 0 0 0.000373897; 8: 2418528 0 0 1.15815e-05; 9: 2287328 0 0 4.21278e-07; 10: 1724064 0 0 1.22129e-08; 11: 1533888 0 0 4.17914e-10; 12: 1356352 0 0 1.42132e-11; 13: 1166944 0 0 4.70323e-13; 14: 1015744 0 0 1.57455e-14; 15: 855392 0 0 5.09994e-16; 16: 718432 0 0 1.64745e-17; 17: 585376 0 0 5.16283e-19; 18: 452480 0 0 1.5349e-20; 19: 261504 0 0 3.41181e-22; 20: 126784 0 0 6.36206e-24; 21: 448 0 0 8.64645e-28
+== C2 K4, tab4, 16,928 themed double keyed columnars (col2): cells 20000, full-power 5760, low-power 14240
+   S1 two-tableau: full-power cells 1440; distinct (m,n) 180 (m = n: 9; lcm > 26: 94; max lcm 140); E sum 4.551; fits 3
+   S1 one-tableau: full-power cells 1440; distinct (m,n) 180 (m = n: 9; lcm > 26: 94; max lcm 140); E sum 4.551; fits 0
+   S2 two-tableau: full-power cells 1440; distinct (m,n) 180 (m = n: 9; lcm > 26: 94; max lcm 140); E sum 4.551; fits 7
+   S2 one-tableau: full-power cells 1440; distinct (m,n) 180 (m = n: 9; lcm > 26: 94; max lcm 140); E sum 4.551; fits 0
+   full-power cells with K4 fits: 10; total full-power E 18.2, fits 10
+     ('1', 'AZ>KA', 'BV', 17, 3) configs 16928 fits 1 sols 1 E 0.0365 printed 1: ['4064 AZ>KA BV 1 17 3 2.188e-06 1']
+     ('1', 'KA>AZ', 'BV', 16, 3) configs 16928 fits 1 sols 1 E 0.00141 printed 1: ['4346 KA>AZ BV 1 16 3 8.417e-08 1']
+     ('1', 'KA>AZ', 'VB', 15, 5) configs 16928 fits 1 sols 1 E 0.0343 printed 1: ['10944 KA>AZ VB 1 15 5 2.188e-06 1']
+     ('2', 'AZ>KA', 'BV', 3, 18) configs 16928 fits 1 sols 1 E 0.0358 printed 1: ['15492 AZ>KA BV 2 3 18 2.188e-06 1']
+     ('2', 'AZ>KA', 'BV', 10, 10) configs 16928 fits 1 sols 1 E 0.0211 printed 1: ['16425 AZ>KA BV 2 10 10 2.188e-06 1']
+     ('2', 'AZ>KA', 'VB', 7, 20) configs 16928 fits 1 sols 1 E 0.03 printed 1: ['2048 AZ>KA VB 2 7 20 2.188e-06 1']
+     ('2', 'AZ>KA', 'VB', 12, 8) configs 16928 fits 1 sols 1 E 0.0129 printed 1: ['5609 AZ>KA VB 2 12 8 2.188e-06 1']
+     ('2', 'AZ>KA', 'VV', 14, 6) configs 16928 fits 1 sols 1 E 0.00762 printed 1: ['6189 AZ>KA VV 2 14 6 2.188e-06 1']
+     ('2', 'KA>AZ', 'BV', 5, 22) configs 16928 fits 1 sols 1 E 0.034 printed 1: ['7003 KA>AZ BV 2 5 22 2.188e-06 1']
+     ('2', 'KA>AZ', 'VB', 13, 7) configs 16928 fits 1 sols 1 E 0.00814 printed 1: ['15199 KA>AZ VB 2 13 7 2.188e-06 1']
+   low-power two-tableau: cells 7120 fits 57072052, sols 75288772, E 75365987
+   low-power one-tableau: cells 7120 fits 41199116, sols 74122816, E 75365987
+   bands e: configs fits sols E -> 0: 69140928 17324338 6.78318e+07 6.91409e+07; 1: 27195648 418999 1.03521e+06 1.04599e+06; 2: 20728736 13965 29913 30663.8; 3: 18874912 513 1347 1073.9; 4: 17155776 18 18 37.542; 5: 16535392 1 1 1.39171; 6: 14244352 0 0 0.0461108; 7: 12979456 0 0 0.00161601; 8: 10700160 0 0 5.12393e-05; 9: 10095968 0 0 1.85946e-06; 10: 7445024 0 0 5.27391e-08; 11: 6489632 0 0 1.76813e-09; 12: 5647168 0 0 5.91767e-11; 13: 4855008 0 0 1.95675e-12; 14: 4135744 0 0 6.41101e-14; 15: 3457120 0 0 2.06117e-15; 16: 2842208 0 0 6.51752e-17; 17: 2230784 0 0 1.96748e-18; 18: 1653728 0 0 5.60975e-20; 19: 1094656 0 0 1.42818e-21; 20: 544000 0 0 2.72981e-23; 21: 256 0 0 4.94083e-28
+== C3 K4, 572 themed x {A-Z,KRYPTOS} pairs on 184 themed columnar rows (col1_th): cells 5000, full-power 1264, low-power 3736
+   S1 two-tableau: full-power cells 632; distinct (m,n) 158 (m = n: 8; lcm > 26: 82; max lcm 105); E sum 0.9755; fits 2
+   S2 two-tableau: full-power cells 632; distinct (m,n) 158 (m = n: 8; lcm > 26: 82; max lcm 105); E sum 0.9755; fits 0
+   full-power cells with K4 fits: 1; total full-power E 1.951, fits 2
+     ('1', 'ALL', 'BV', 3, 17) configs 105248 fits 2 sols 2 E 0.0399 printed 2: ['162 LAYERTWO/K>AZ BV 1 3 17 2.188e-06 1', '162 XLAYERTWO/K>AZ BV 1 3 17 2.188e-06 1']
+   low-power two-tableau: cells 3736 fits 179594749, sols 2.3210539e+08, E 2.3202221e+08
+   bands e: configs fits sols E -> 0: 91776256 39793184 9.18681e+07 9.17765e+07; 1: 38712960 1051775 1.47971e+06 1.48896e+06; 2: 29075904 36033 43545 43011.7; 3: 28824224 1432 1622 1639.98; 4: 25941344 39 39 56.7674; 5: 26412672 0 0 2.22303; 6: 21772608 0 0 0.0704808; 7: 21342464 0 0 0.00265724; 8: 17283552 0 0 8.27649e-05; 9: 16372928 0 0 3.01555e-06; 10: 12272832 0 0 8.69384e-08; 11: 10900032 0 0 2.96976e-09; 12: 9609600 0 0 1.00699e-10; 13: 8396960 0 0 3.3843e-12; 14: 7317024 0 0 1.13425e-13; 15: 6200480 0 0 3.69679e-15; 16: 5134272 0 0 1.17735e-16; 17: 4136704 0 0 3.64844e-18; 18: 3216928 0 0 1.09124e-19; 19: 1894464 0 0 2.47168e-21; 20: 933504 0 0 4.68435e-23
