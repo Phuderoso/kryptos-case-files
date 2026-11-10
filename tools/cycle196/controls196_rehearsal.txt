@@ -1,0 +1,20 @@
+plants195 reproduced
+P1 AZ>KA_VV_7_11 slot 5: PASS (hit 1, reported slots ['4']; other low-U fits at row 0: [])
+P2 KA>AZ_BV_5_13 slot 15: PASS (hit 1, reported slots ['15']; other low-U fits at row 0: [])
+P3 AZ>KA_VB_8_12 slot 23: PASS (hit 1, reported slots ['4']; other low-U fits at row 0: [])
+P4 KA>AZ_VB_6_19 slot 4: PASS (hit 1, reported slots ['1']; other low-U fits at row 0: [])
+P5 AZ>KA_VV_10_8 slot 9: PASS (hit 1, reported slots ['9']; other low-U fits at row 0: [])
+P6 AZ>AZ_VV_3_25 slot 22: PASS (hit 1, reported slots ['3']; other low-U fits at row 1: ['AZ>AZ VV 2 25 3 8.417e-07 3'])
+P7 KA>KA_BB_4_9 slot 12: PASS (hit 1, reported slots ['12']; other low-U fits at row 12: ['KA>AZ BB 1 7 15 2.845e-05 0', 'KA>KA VV 1 4 18 1.488e-13 -1', 'KA>KA VV 1 8 9 2.366e-09 12', 'KA>KA VV 1 8 18 5.827e-08 -1'])
+P8 AZ>KA_VB_7_7 slot 6: PASS (hit 1, reported slots ['6']; other low-U fits at row 0: [])
+P9 KA>AZ_BB_6_10 slot 0: PASS (hit 1, reported slots ['0']; other low-U fits at row 3: ['KA>AZ BB 2 6 20 8.417e-07 -1', 'KA>AZ BB 2 12 10 3.064e-05 0', 'KA>AZ BB 2 18 10 8.417e-07 -1'])
+P0 AZ>KA_VV_7_11 slot -1: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: [])
+PD AZ>KA_VV_7_11 slot 0: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: []) -> undetectable error (expected): strict fit; the strict decryption is wrong at 8 positions [4, 5, 20, 36, 58, 59, 81, 82] (the pendant edge's residue class), right elsewhere
+N3 two_wrong_letters_slots_1_2: PASS (low-U fits at row: [])
+N1 three_passes: PASS (low-U fits at row: [])
+N2 random_key: PASS (low-U fits at row: [])
+N4 case-178_compound_key,_both_keys_on_the_plaintext_index: PASS (low-U fits at row: [])
+N5 K3-route_sandwich_(all.bin_12345):_must_not_fit_at_any_columnar_row: PASS (low-U fits at columnar rows: []; at its own route row 5: 1 ['AZ>KA VV 1 7 11 6.151e-08 -1'])
+controls 16/16
+P5 one-error on all of col1.bin (expect row 0 = KRYPTOS/enc, AZ>KA VV S1 10 8, slot 9 or its 2-core twin):       1 2471 AZ>KA VV 1 15 2 12;
+P6 one-error on all of col2.bin (cell 3 x 25 is LOW-POWER under one error, so only that pair is run, print U <= 1e-3; expect row 2 = KRYPTOS+PALIMPSEST/enc, AZ>AZ VV S1 3 25 among the lowest U):       1 2 AZ>AZ VV 1 3 25 3;

@@ -1,0 +1,84 @@
+== col1_m45 two-tableau (AZ>KA, KA>AZ):
+band 0: texts 40 configs 8867200 fits 6616595 U 8.31184e+06 S1 1.70757e+07 z +33.27  (capped band)
+band 1: texts 40 configs 2591360 fits 134774 U 208788 S1 206316 z -1.38
+band 2: texts 40 configs 1883520 fits 2258 U 2909.62 S1 2782 z -1.21
+band 3: texts 40 configs 1655040 fits 45 U 39.6418 S1 52 z +1.17
+band 4: texts 40 configs 1335680 fits 1 U 1.29818 S1 1 z -0.30
+band 5: texts 40 configs 1329920 fits 0 U 0.0542555 S1 0 z n/a (S1 = 0)
+band 6: texts 40 configs 1088640 fits 0 U 0.00194342 S1 0 z n/a (S1 = 0)
+band 7: texts 40 configs 1024640 fits 0 U 7.57768e-05 S1 0 z n/a (S1 = 0)
+band 8: texts 40 configs 768000 fits 0 U 2.5289e-06 S1 0 z n/a (S1 = 0)
+band 9: texts 40 configs 684800 fits 0 U 9.3992e-08 S1 0 z n/a (S1 = 0)
+band 10: texts 40 configs 606080 fits 0 U 3.40511e-09 S1 0 z n/a (S1 = 0)
+band 11: texts 40 configs 520960 fits 0 U 1.19222e-10 S1 0 z n/a (S1 = 0)
+band 12: texts 40 configs 455680 fits 0 U 4.13794e-12 S1 0 z n/a (S1 = 0)
+band 13: texts 40 configs 384000 fits 0 U 1.3811e-13 S1 0 z n/a (S1 = 0)
+band 14: texts 40 configs 314880 fits 0 U 4.42246e-15 S1 0 z n/a (S1 = 0)
+band 15: texts 40 configs 254720 fits 0 U 1.38321e-16 S1 0 z n/a (S1 = 0)
+band 16: texts 40 configs 200320 fits 0 U 4.1883e-18 S1 0 z n/a (S1 = 0)
+band 17: texts 40 configs 115840 fits 0 U 9.39824e-20 S1 0 z n/a (S1 = 0)
+band 18: texts 40 configs 57600 fits 0 U 1.80193e-21 S1 0 z n/a (S1 = 0)
+band 25: texts 40 configs 8661120 fits 8661120 U 8.66112e+06 S1 0 z n/a (S1 = 0)  (no cycle)
+== col1_m45 one-tableau stacks (AZ>AZ, KA>KA; additive, lumpy in 26-bundles, I-205):
+band 0: texts 40 configs 4433600 fits 1864456 U 4.15593e+06 S1 1.02822e+07 z +3.02  (capped band)
+band 1: texts 40 configs 1295680 fits 2342 U 104394 S1 188448 z +1.41
+band 2: texts 40 configs 941760 fits 44 U 1454.81 S1 1196 z -0.76
+band 3: texts 40 configs 827520 fits 0 U 19.821 S1 0 z n/a (S1 = 0)
+band 4: texts 40 configs 667840 fits 0 U 0.649094 S1 0 z n/a (S1 = 0)
+band 5: texts 40 configs 664960 fits 0 U 0.0271278 S1 0 z n/a (S1 = 0)
+band 6: texts 40 configs 544320 fits 0 U 0.000971712 S1 0 z n/a (S1 = 0)
+band 7: texts 40 configs 512320 fits 0 U 3.78884e-05 S1 0 z n/a (S1 = 0)
+band 8: texts 40 configs 384000 fits 0 U 1.26445e-06 S1 0 z n/a (S1 = 0)
+band 9: texts 40 configs 342400 fits 0 U 4.69958e-08 S1 0 z n/a (S1 = 0)
+band 10: texts 40 configs 303040 fits 0 U 1.70256e-09 S1 0 z n/a (S1 = 0)
+band 11: texts 40 configs 260480 fits 0 U 5.96113e-11 S1 0 z n/a (S1 = 0)
+band 12: texts 40 configs 227840 fits 0 U 2.06898e-12 S1 0 z n/a (S1 = 0)
+band 13: texts 40 configs 192000 fits 0 U 6.90547e-14 S1 0 z n/a (S1 = 0)
+band 14: texts 40 configs 157440 fits 0 U 2.21122e-15 S1 0 z n/a (S1 = 0)
+band 15: texts 40 configs 127360 fits 0 U 6.91605e-17 S1 0 z n/a (S1 = 0)
+band 16: texts 40 configs 100160 fits 0 U 2.09414e-18 S1 0 z n/a (S1 = 0)
+band 17: texts 40 configs 57920 fits 0 U 4.69913e-20 S1 0 z n/a (S1 = 0)
+band 18: texts 40 configs 28800 fits 0 U 9.00968e-22 S1 0 z n/a (S1 = 0)
+band 25: texts 40 configs 4330560 fits 4330560 U 4.33056e+06 S1 0 z n/a (S1 = 0)  (no cycle)
+== col2_m209 two-tableau (AZ>KA, KA>AZ):
+band 0: texts 40 configs 9852800 fits 7951312 U 9.34864e+06 S1 1.68272e+07 z +195.22  (capped band)
+band 1: texts 40 configs 2947840 fits 166607 U 255514 S1 253707 z -1.07
+band 2: texts 40 configs 1837440 fits 1855 U 2234.31 S1 2156 z -1.10
+band 3: texts 40 configs 1598080 fits 34 U 37.0274 S1 34 z -0.54
+band 4: texts 40 configs 1387520 fits 1 U 1.3689 S1 1 z -0.37
+band 5: texts 40 configs 1255040 fits 1 U 0.0525978 S1 1 z +0.95
+band 6: texts 40 configs 1029760 fits 0 U 0.00187992 S1 0 z n/a (S1 = 0)
+band 7: texts 40 configs 977920 fits 0 U 7.2901e-05 S1 0 z n/a (S1 = 0)
+band 8: texts 40 configs 720640 fits 0 U 2.37754e-06 S1 0 z n/a (S1 = 0)
+band 9: texts 40 configs 621440 fits 0 U 8.5128e-08 S1 0 z n/a (S1 = 0)
+band 10: texts 40 configs 548480 fits 0 U 3.07485e-09 S1 0 z n/a (S1 = 0)
+band 11: texts 40 configs 469120 fits 0 U 1.07043e-10 S1 0 z n/a (S1 = 0)
+band 12: texts 40 configs 395520 fits 0 U 3.59162e-12 S1 0 z n/a (S1 = 0)
+band 13: texts 40 configs 332800 fits 0 U 1.20093e-13 S1 0 z n/a (S1 = 0)
+band 14: texts 40 configs 273280 fits 0 U 3.85925e-15 S1 0 z n/a (S1 = 0)
+band 15: texts 40 configs 216960 fits 0 U 1.18714e-16 S1 0 z n/a (S1 = 0)
+band 16: texts 40 configs 156800 fits 0 U 3.31112e-18 S1 0 z n/a (S1 = 0)
+band 17: texts 40 configs 103680 fits 0 U 8.43216e-20 S1 0 z n/a (S1 = 0)
+band 18: texts 40 configs 52480 fits 0 U 1.64328e-21 S1 0 z n/a (S1 = 0)
+band 25: texts 40 configs 7622400 fits 7622400 U 7.6224e+06 S1 0 z n/a (S1 = 0)  (no cycle)
+== col2_m209 one-tableau stacks (AZ>AZ, KA>KA; additive, lumpy in 26-bundles, I-205):
+band 0: texts 40 configs 4926400 fits 2393392 U 4.67432e+06 S1 8.23689e+06 z +13.80  (capped band)
+band 1: texts 40 configs 1473920 fits 2704 U 127757 S1 102804 z -3.45
+band 2: texts 40 configs 918720 fits 38 U 1117.15 S1 1456 z +0.63
+band 3: texts 40 configs 799040 fits 0 U 18.5137 S1 0 z n/a (S1 = 0)
+band 4: texts 40 configs 693760 fits 0 U 0.684449 S1 0 z n/a (S1 = 0)
+band 5: texts 40 configs 627520 fits 0 U 0.0262989 S1 0 z n/a (S1 = 0)
+band 6: texts 40 configs 514880 fits 0 U 0.00093996 S1 0 z n/a (S1 = 0)
+band 7: texts 40 configs 488960 fits 0 U 3.64505e-05 S1 0 z n/a (S1 = 0)
+band 8: texts 40 configs 360320 fits 0 U 1.18877e-06 S1 0 z n/a (S1 = 0)
+band 9: texts 40 configs 310720 fits 0 U 4.2564e-08 S1 0 z n/a (S1 = 0)
+band 10: texts 40 configs 274240 fits 0 U 1.53742e-09 S1 0 z n/a (S1 = 0)
+band 11: texts 40 configs 234560 fits 0 U 5.35217e-11 S1 0 z n/a (S1 = 0)
+band 12: texts 40 configs 197760 fits 0 U 1.79581e-12 S1 0 z n/a (S1 = 0)
+band 13: texts 40 configs 166400 fits 0 U 6.00466e-14 S1 0 z n/a (S1 = 0)
+band 14: texts 40 configs 136640 fits 0 U 1.92962e-15 S1 0 z n/a (S1 = 0)
+band 15: texts 40 configs 108480 fits 0 U 5.93569e-17 S1 0 z n/a (S1 = 0)
+band 16: texts 40 configs 78400 fits 0 U 1.65556e-18 S1 0 z n/a (S1 = 0)
+band 17: texts 40 configs 51840 fits 0 U 4.21608e-20 S1 0 z n/a (S1 = 0)
+band 18: texts 40 configs 26240 fits 0 U 8.2164e-22 S1 0 z n/a (S1 = 0)
+band 25: texts 40 configs 3811200 fits 3811200 U 3.8112e+06 S1 0 z n/a (S1 = 0)  (no cycle)
