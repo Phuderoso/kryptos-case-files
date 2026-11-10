@@ -1,0 +1,9 @@
+Cycle 197 independent recount (recount197.py: Python BFS propagation with exhaustive roots, lib197 tables; no union-find) vs cmp197, K4, same subsets.
+dirA     direct 101 records, A-Z/KRYPTOS, all 520 A pairs (model D), vig/beau: cells 1040, mismatches 0, fits 50,813 = 50,813
+dirB     direct, AZ>KA/KA>AZ, 4 forms, pairs m+n <= 16: cells 672, mismatches 0, fits 0 = 0
+dirBbig  direct, AZ>KA/KA>AZ, 4 forms, pairs m, n >= 20: cells 336, mismatches 0, fits 33,936 = 33,936
+decA98   first 300 perms of dec98_s32, registered A del pairs, P and C: cells 452, mismatches 0, fits 0 = 0
+decA96   first 300 perms of dec96_s32, registered A ins pairs: cells 496, mismatches 0, fits 0 = 0
+decAbig  first 100 perms of dec98_s32, A pairs m >= 18, n >= 21 (low power): cells 264, mismatches 0, fits 931,473 = 931,473
+decB98   first 100 perms of decM98_s8, registered B del pairs m+n <= 16: cells 1344, mismatches 0, fits 0 = 0
+Total: 4,604 cells, 0 mismatches, 1,016,222 fits identical.

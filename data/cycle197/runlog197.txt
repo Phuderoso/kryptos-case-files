@@ -1,0 +1,6 @@
+start 23:57:18 MST
+k4 done 00:00:29 MST
+nulls done 00:03:19 MST
+(times PT, box clock labelled MST = UTC-7)
+registered run: run_cycle197.sh, own process group (setsid), timeout 600; every step under its own timeout; no step timed out (every output ends with END).
+heavy compute in the cycle: probe 19 s, structure pass 34 s, control rehearsal 12 s, meter 87 s, registered run 361 s, recount 102 s, control rerun 12 s = ~627 s.
