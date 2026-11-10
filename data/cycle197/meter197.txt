@@ -1,0 +1,10 @@
+D A 0.05-1 cells 2240 obs 343 E 295.9 z +2.74 | texts-with-obs 40 max1 25 (u19731) z_wo +1.74
+D A 1-10 cells 800 obs 1255 E 1351 z -2.60 | texts-with-obs 40 max1 57 (u19732) z_wo -3.27
+D A >10 cells 22400 obs 2029888 E 2.03e+06 z -0.23 | texts-with-obs 40 max1 50844 (u19730) z_wo -0.30
+D A fp<=0.05 cells 16160 obs 68 E 31.98 z +6.37 | texts-with-obs 16 max1 44 (u19733) z_wo -1.29
+D B 0.05-1 cells 8960 obs 550 E 583.9 z -1.40 | texts-with-obs 40 max1 50 (u19736) z_wo -2.90
+D B 1-10 cells 8320 obs 12932 E 1.35e+04 z -4.86 | texts-with-obs 40 max1 478 (u19736) z_wo -6.15
+D B >10 cells 112640 obs 10397297 E 1.055e+07 z -46.77 | texts-with-obs 40 max1 300253 (u19703) z_wo -58.76
+D B fp<=0.05 cells 62080 obs 36 E 46.44 z -1.53 | texts-with-obs 12 max1 15 (u19714) z_wo -3.61
+T A fp<=0.05 cells 9480 obs 1 E 1.03 z -0.03 | texts-with-obs 1 max1 1 (u19747) z_wo -0.96
+T B fp<=0.05 cells 45920 obs 25 E 17.56 z +1.78 | texts-with-obs 8 max1 5 (u19743) z_wo +1.06
