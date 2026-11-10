@@ -1,0 +1,16 @@
+# Cycle 196 run log (times PT, box clock UTC-7)
+registered control run 19:53:25-19:53:37 PT (16/16)
+registered run start 19:53:37 PT
+C1a done 6 s
+C1b done 9 s
+C2a done 38 s
+C2b done 56 s
+grid done 108 s
+recount k4 identical 45244
+recount P1 identical 45402
+recount P5 identical 45212
+recount P6 identical 45437
+recount n19611 identical 45305
+recount done 144 s
+registered run end 19:56:01 PT (144 s)
+pooled reference (PREREG196b) 19:57:27-19:58:33 PT (66 s)

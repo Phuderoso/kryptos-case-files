@@ -1,0 +1,75 @@
+# Cycle 196 summary (summarize196.py; one-tableau 'cells' include the masked BB/BV entries, which are exact equivalents of VV/VB and carry 0 configs: distinct run cells = 1,112 per bank)
+######## c1 (col1, 3,674 single keyed columnars)
+runs:
+  END k4 perms 0-3674 tabpairs 2 pairs 139 139 mode 0
+  END k4 perms 0-3674 tabpairs 2 pairs 139 139 mode 0
+
+two-tableau: cells 2224; FULL POWER 2224 (U sum 3.584, fits 3, strict 0); pairs per model: S1 139, S2 139
+  low-power 0: fits 0 vs U 0
+  S1: full-power cells 1112, max lcm 105, lcm > 26: 66 pairs, m = n: 8 pairs
+  S2: full-power cells 1112, max lcm 105, lcm > 26: 66 pairs, m = n: 8 pairs
+  FIT in full-power cell ('1', 'AZ>KA', 'VB', 5, 14): fits 1 (printed 1), cell U 0.03614: route 3536 U 2.407e-05 slot 12
+  FIT in full-power cell ('2', 'KA>AZ', 'BB', 13, 6): fits 1 (printed 1), cell U 0.04873: route 602 U 2.626e-05 slot 12
+  FIT in full-power cell ('2', 'KA>AZ', 'BV', 10, 8): fits 1 (printed 1), cell U 0.003311: route 1201 U 1.178e-06 slot 1
+
+one-tableau: cells 2224; FULL POWER 2224 (U sum 1.792, fits 0, strict 0); pairs per model: S1 139, S2 139
+  low-power 0: fits 0 vs U 0
+  S1: full-power cells 1112, max lcm 105, lcm > 26: 66 pairs, m = n: 8 pairs
+  S2: full-power cells 1112, max lcm 105, lcm > 26: 66 pairs, m = n: 8 pairs
+
+strongest printed fits (lowest config U, any cell):
+  route 1201 S2 KA>AZ BV 10x8 U 1.178e-06 slot 1 cell U 0.003311
+  route 3536 S1 AZ>KA VB 5x14 U 2.407e-05 slot 12 cell U 0.03614
+  route 602 S2 KA>AZ BB 13x6 U 2.626e-05 slot 12 cell U 0.04873
+######## c2 (col2, 16,928 themed double keyed columnars)
+runs:
+  END k4 perms 0-16928 tabpairs 2 pairs 136 136 mode 0
+  END k4 perms 0-16928 tabpairs 2 pairs 136 136 mode 0
+
+two-tableau: cells 2176; FULL POWER 2176 (U sum 4.689, fits 6, strict 0); pairs per model: S1 136, S2 136
+  low-power 0: fits 0 vs U 0
+  S1: full-power cells 1088, max lcm 105, lcm > 26: 63 pairs, m = n: 8 pairs
+  S2: full-power cells 1088, max lcm 105, lcm > 26: 63 pairs, m = n: 8 pairs
+  FIT in full-power cell ('1', 'KA>AZ', 'BB', 19, 3): fits 1 (printed 1), cell U 0.01256: route 14088 U 7.575e-07 slot 8
+  FIT in full-power cell ('1', 'KA>AZ', 'VB', 2, 17): fits 1 (printed 1), cell U 0.006647: route 5719 U 1.969e-05 slot 16
+  FIT in full-power cell ('1', 'KA>AZ', 'VB', 10, 8): fits 1 (printed 1), cell U 0.01581: route 12190 U 1.347e-06 slot 11
+  FIT in full-power cell ('1', 'KA>AZ', 'VV', 15, 3): fits 1 (printed 1), cell U 0.01265: route 12769 U 7.575e-07 slot 5
+  FIT in full-power cell ('1', 'KA>AZ', 'VV', 20, 5): fits 1 (printed 1), cell U 0.0143: route 11486 U 9.258e-07 slot 12
+  FIT in full-power cell ('2', 'AZ>KA', 'VB', 15, 3): fits 1 (printed 1), cell U 0.001361: route 6945 U 8.417e-07 slot 9
+
+one-tableau: cells 2176; FULL POWER 2176 (U sum 2.344, fits 0, strict 0); pairs per model: S1 136, S2 136
+  low-power 0: fits 0 vs U 0
+  S1: full-power cells 1088, max lcm 105, lcm > 26: 63 pairs, m = n: 8 pairs
+  S2: full-power cells 1088, max lcm 105, lcm > 26: 63 pairs, m = n: 8 pairs
+
+strongest printed fits (lowest config U, any cell):
+  route 12769 S1 KA>AZ VV 15x3 U 7.575e-07 slot 5 cell U 0.01265
+  route 14088 S1 KA>AZ BB 19x3 U 7.575e-07 slot 8 cell U 0.01256
+  route 6945 S2 AZ>KA VB 15x3 U 8.417e-07 slot 9 cell U 0.001361
+  route 11486 S1 KA>AZ VV 20x5 U 9.258e-07 slot 12 cell U 0.0143
+  route 12190 S1 KA>AZ VB 10x8 U 1.347e-06 slot 11 cell U 0.01581
+  route 5719 S1 KA>AZ VB 2x17 U 1.969e-05 slot 16 cell U 0.006647
+
+######## grid (grid196.py; K4 + 19 shuffles 19611-19629, tab2 + tab1s, col1_s8, all 625 pairs)
+tab2 e>=1: K4 22781, nulls 22602-23377 (median 23021), p+ 0.80
+tab2 e>=2: K4 312, nulls 257-390 (median 309), p+ 0.50
+tab2 e>=3: K4 12, nulls 1-8 (median 4), p+ 0.05
+tab2 e>=4: K4 0, nulls 0-0 (median 0), p+ 1.00
+tab1s e>=1: K4 410, nulls 330-442 (median 388), p+ 0.25
+tab1s e>=2: K4 8, nulls 0-10 (median 6), p+ 0.25
+tab1s e>=3: K4 0, nulls 0-4 (median 0), p+ 1.00
+tab1s e>=4: K4 0, nulls 0-0 (median 0), p+ 1.00
+pooled e>=1: K4 23191, nulls 22932-23759 (median 23401), p+ 0.80
+pooled e>=2: K4 320, nulls 263-396 (median 315), p+ 0.50
+pooled e>=3: K4 12, nulls 2-8 (median 4), p+ 0.05
+pooled e>=4: K4 0, nulls 0-0 (median 0), p+ 1.00
+
+######## pooled reference (PREREG196b; run_pool196.sh 19:57:27-19:58:33 PT)
+K4: R 12, D 6
+registered 19 (n 19) R: range 1-8, mean 4.00, SD 1.49, #>=K4 0, p 0.050 (SE of fraction 0.051)
+registered 19 (n 19) D: range 1-8, mean 3.79, SD 1.51, #>=K4 2, p 0.150 (SE of fraction 0.070)
+fresh 40 (n 40) R: range 1-11, mean 5.42, SD 2.85, #>=K4 0, p 0.024 (SE of fraction 0.025)
+fresh 40 (n 40) D: range 1-10, mean 4.85, SD 2.27, #>=K4 17, p 0.439 (SE of fraction 0.078)
+pooled (n 59) R: range 1-11, mean 4.97, SD 2.57, #>=K4 0, p 0.017 (SE of fraction 0.017)
+pooled (n 59) D: range 1-10, mean 4.51, SD 2.10, #>=K4 19, p 0.333 (SE of fraction 0.061)
+VERDICT (primary R, pooled): NOT REPLICATED (flag closed) p_pool 0.017
