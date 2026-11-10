@@ -1,0 +1,1 @@
+recount K4 direct, 101 records: cells 1280 (cmp198 1280), mismatches 0, fits python 57441 cmp198 57441
