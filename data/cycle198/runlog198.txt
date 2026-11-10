@@ -1,0 +1,12 @@
+start 03:58:40 MST
+chunk decM98 0 04:00:07 MST
+chunk decM98 1000 04:01:48 MST
+chunk decM98 2000 04:03:14 MST
+chunk decM98 3000 04:04:45 MST
+chunk decM98 4000 04:04:52 MST
+chunk decM96 0 04:05:53 MST
+chunk decM96 1000 04:06:55 MST
+chunk decM96 2000 04:07:58 MST
+chunk decM96 3000 04:08:04 MST
+k4 done 04:08:04 MST
+nulls done 04:09:56 MST

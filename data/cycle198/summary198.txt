@@ -1,0 +1,11 @@
+direct A: full-power cells 360, fits 0 (strict 0) vs U 1.294 | low-power cells 680: searched fits 38 vs U 33.9, strict fits 50813 of 68680 configs
+direct B: full-power cells 1328, fits 2 (strict 0) vs U 5.140 | low-power cells 3472: searched fits 146 vs U 249.4, strict fits 224702 of 350672 configs
+decM98 A: full-power cells 384, fits 0 (strict 0) vs U 0.981 | low-power cells 68: searched fits 10 vs U 9.7, strict fits 0 of 11954808 configs
+decM98 B: full-power cells 1488, fits 1 (strict 0) vs U 2.349 | low-power cells 624: searched fits 1581 vs U 1868.2, strict fits 6 of 109702944 configs
+decM96 A: full-power cells 460, fits 0 (strict 0) vs U 1.075 | low-power cells 36: searched fits 1 vs U 2.7, strict fits 0 of 2764800 configs
+decM96 B: full-power cells 1760, fits 1 (strict 0) vs U 1.855 | low-power cells 720: searched fits 1195 vs U 1589.8, strict fits 6 of 55296000 configs
+FULL-POWER FITS:
+direct M B K4dir 5 23 D KA>AZ BV 8 11 0.0005711 4
+direct M B K4dir 29 63 D KA>AZ VB 6 13 0.0005711 10
+decM96 M B K4decM 1415 10 C AZ>KA BV 11 6 5.516e-08 14
+decM98 M B K4decM 3671 63 P AZ>KA BV 3 20 3.25e-08 9
