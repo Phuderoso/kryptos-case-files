@@ -1,0 +1,12 @@
+tab2 e>=1: K4 22781, nulls 22602-23377 (median 23021), p+ 0.80
+tab2 e>=2: K4 312, nulls 257-390 (median 309), p+ 0.50
+tab2 e>=3: K4 12, nulls 1-8 (median 4), p+ 0.05
+tab2 e>=4: K4 0, nulls 0-0 (median 0), p+ 1.00
+tab1s e>=1: K4 410, nulls 330-442 (median 388), p+ 0.25
+tab1s e>=2: K4 8, nulls 0-10 (median 6), p+ 0.25
+tab1s e>=3: K4 0, nulls 0-4 (median 0), p+ 1.00
+tab1s e>=4: K4 0, nulls 0-0 (median 0), p+ 1.00
+pooled e>=1: K4 23191, nulls 22932-23759 (median 23401), p+ 0.80
+pooled e>=2: K4 320, nulls 263-396 (median 315), p+ 0.50
+pooled e>=3: K4 12, nulls 2-8 (median 4), p+ 0.05
+pooled e>=4: K4 0, nulls 0-0 (median 0), p+ 1.00

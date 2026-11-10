@@ -1,0 +1,35 @@
+=== c1 row 602 [602 ELECTRONIC/enc] S2 KA>AZ BB 13x6 config U 2.626e-05 reported slot 12
+CONSISTENT deletion 12: row 602 2 BB m 13 n 6: solutions per cyclic component [1]
+  del 12 a=QWAASPWCAKAPU b=TQDFFB PT=logncqkypjnzgqdaiowloEASTNORTHEASYcmbcjrynrctdjkxhhysdqrtwugedkBERLINCLOCKzzdyhimbeeyccwqvxcyxxsc  known 97/97
+=== c1 row 1201 [1201 SAILORS/inv] S2 KA>AZ BV 10x8 config U 1.178e-06 reported slot 1
+CONSISTENT deletion 1: row 1201 2 BV m 10 n 8: solutions per cyclic component [1]
+  del 1 a=AQVJKQCMFB b=DPRCMHFI PT=mezskswjqdihzxdcwatlqEESTNORTHEASTjaettjlajtctpbfndlkephptbtpxwBERLINCLOCKonctztdvzhmzstcfkfnvaqc  known 97/97
+=== c1 row 3536 [3536 ARRESTED/enc] S1 AZ>KA VB 5x14 config U 2.407e-05 reported slot 12
+CONSISTENT deletion 12: row 3536 1 VB m 5 n 14: solutions per cyclic component [1]
+  del 12 a=MLVSD b=NLSXHJRERFZYDI PT=viyjuhqhktbyqalvhaucdEASTNORTHEASMzltzccsxuvvevxxllmmrbphyayiyzBERLINCLOCKnjgoqahrtiliajmrdiykqdn  known 97/97
+=== c2 row 5719 [5719 IQLUSION+NORTHEAST/inv] S1 KA>AZ VB 2x17 config U 1.969e-05 reported slot 16
+CONSISTENT deletion 16: row 5719 1 VB m 2 n 17: solutions per cyclic component [1]
+  del 16 a=FX b=MVYFSHWSHTINTVVFE PT=gufyeziizkwuxieoyneewEASTNORTHEASTxfcjuwytmdvcafzvopjgxzjfjwzqsBERGINCLOCKosfztoklgetaoksamiwqsiw  known 97/97
+=== c2 row 6945 [6945 COLUMN+OBELISK/inv] S2 AZ>KA VB 15x3 config U 8.417e-07 reported slot 9
+CONSISTENT deletion 9: row 6945 2 VB m 15 n 3: solutions per cyclic component [1]
+  del 9 a=ACUIEDTYTTEOQIZ b=HHP PT=qdvhmhbimxfkoceunjaypEASTNORTHYASTqektjyhlsapyjrkcumffkkdnqbyrfBERLINCLOCKfdzzofhfmjodtjgaanqwrnz  known 97/97
+CONSISTENT deletion 23: row 6945 2 VB m 15 n 3: solutions per cyclic component [1]
+  del 23 a=ACUIEDTYNTEOQIZ b=HHP PT=qdvhmhbisxfkoceunpaypEASTNORTHEASTqektjyhlsapyjrkcamffkkdnqbyrlBERLINCLOCQfdzzofhfmjodtjgaanqwrnz  known 97/97
+=== c2 row 11486 [11486 LOCATION+DOUBLE/enc] S1 KA>AZ VV 20x5 config U 9.258e-07 reported slot 12
+CONSISTENT deletion 12: row 11486 1 VV m 20 n 5: solutions per cyclic component [1]
+  del 12 a=?KQQSKYLWESGYL?????? b=CUKWV PT=?emepuohqvdskd???????EASTNORTHEASS???????faphjthzoaczk???????xqBERLINCLOCK???????jgarzdxleplgt???  known 65/97
+CONSISTENT deletion 23: row 11486 1 VV m 20 n 5: solutions per cyclic component [1]
+  del 23 a=?KQQSKYLWESGYN?????? b=CUKWV PT=?emepuohqvdskb???????EASTNORTHEAST???????faphjthzoaczx???????xqBERLINCLOCX???????jgarzdxleplgy???  known 65/97
+=== c2 row 12190 [12190 ANTIPODES+CHAMBER/enc] S1 KA>AZ VB 10x8 config U 1.347e-06 reported slot 11
+CONSISTENT deletion 11: row 12190 1 VB m 10 n 8: solutions per cyclic component [1]
+  del 11 a=IVKDKGATFJ b=HCHYFZNR PT=jvepvvsjocojoeekaumnfEASTNORTHEAJTxsmgbohflntjahobjyxbxzfysnlaoBERLINCLOCKvnxtvrgfpsiossoypzoqvsa  known 97/97
+=== c2 row 12769 [12769 PETRIFIED+TRANSPOSITION/inv] S1 KA>AZ VV 15x3 config U 7.575e-07 reported slot 5
+CONSISTENT deletion 5: row 12769 1 VV m 15 n 3: solutions per cyclic component [1, 1]
+  del 5 a=CASMQETOKHWAIIR b=NLO PT=kxzkbxfpfvhvdbveoswqkEASTNBRTHEASThuohrnyjmairhknehqqaniaiokshlBERLINCLOCKymctdgxqrgekqsijtlpzxbq  known 97/97
+CONSISTENT deletion 21: row 12769 1 VV m 15 n 3: solutions per cyclic component [1, 1]
+  del 21 a=CASMQETOKHWDIIR b=NLO PT=kxzkbxfpfvhndbveoswqkEASTNORTHEASThuohrnygmairhknehqqanitiokshlBERLINCLYCKymctdgxqrgeklsijtlpzxbq  known 97/97
+=== c2 row 14088 [14088 TRUTH+WELTZEITUHR/enc] S1 KA>AZ BB 19x3 config U 7.575e-07 reported slot 8
+CONSISTENT deletion 8: row 14088 1 BB m 19 n 3: solutions per cyclic component [1]
+  del 8 a=??ALYIYELCQFUXUCS?? b=BLF PT=??cjwvyujjfewjpfk????EASTNORTZEASTsj????cvstdpvplolnasx????iwfeBERLINCLOCK????mkxftxjbocpsfbw????  known 75/97
+CONSISTENT deletion 17: row 14088 1 BB m 19 n 3: solutions per cyclic component [1]
+  del 17 a=??ALYIYELCCFUXUCS?? b=BLF PT=??cjwvyujjrewjpfk????EASTNORTHEASTsj????cvstdpvpsolnasx????iwfeBERLTNCLOCK????mkxftxjbqcpsfbw????  known 75/97

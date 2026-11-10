@@ -1,0 +1,8 @@
+K4: R 12, D 6
+registered 19 (n 19) R: range 1-8, mean 4.00, SD 1.49, #>=K4 0, p 0.050 (SE of fraction 0.051)
+registered 19 (n 19) D: range 1-8, mean 3.79, SD 1.51, #>=K4 2, p 0.150 (SE of fraction 0.070)
+fresh 40 (n 40) R: range 1-11, mean 5.42, SD 2.85, #>=K4 0, p 0.024 (SE of fraction 0.025)
+fresh 40 (n 40) D: range 1-10, mean 4.85, SD 2.27, #>=K4 17, p 0.439 (SE of fraction 0.078)
+pooled (n 59) R: range 1-11, mean 4.97, SD 2.57, #>=K4 0, p 0.017 (SE of fraction 0.017)
+pooled (n 59) D: range 1-10, mean 4.51, SD 2.10, #>=K4 19, p 0.333 (SE of fraction 0.061)
+VERDICT (primary R, pooled): NOT REPLICATED (flag closed) p_pool 0.017
