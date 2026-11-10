@@ -1,0 +1,14 @@
+P1e PASS: A P1e 27 34 D KA vig 8 10 1.068e-13 3 | wrong slot [3] | determined 47/98 | TH???I???O???ELD?????EASONORTHEAST?????FOL???T???????NTH????
+P1b PASS: A P1b 27 34 D KA vig 8 10 1.068e-13 -1 | wrong slot [1] | determined 40/98 | ?H???I???O???E?D?????E?STNORTHEAST?????F?L???T???????N?H????
+P2e PASS: A P2e 71 30 D AZ beau 6 7 1.558e-13 16 | wrong slot [16] | determined 95/96 | THEQUIETROOMHELDASINGEASTNORTHASTMAPWASFOLDEDTWICEWHENTHEMES
+P3e PASS: B P3e 51 0 D AZ>KA VV 5 9 3.868e-12 16 | wrong slot [16] | determined 95/96 | THEQUIETROOMHELDASINGEASTNORTHEASTAPWASFOLDEDTWICEWHENTHEMES
+P4e PASS: B P4e 43 70 D KA>AZ BV 8 10 1.188e-06 7 | wrong slot [7] | determined 78/98 | THEQ?IET?OOM?ELDAS?N?EASTNOR?HEASTAP?A?FOLDE?TWI?EWH?NTHEM?S
+P7e PASS: B P7e 300 56 C AZ>KA VB 4 7 2.41e-16 5 | wrong slot [5] | determined 96/98 | THEQUIETROOMHELDASINGEASTNCRTHEASTAPWASFOLDEDTWICEWHENTHEMES
+P8e PASS: B P8e 200 10 P KA>AZ VV 6 5 2.515e-16 0 | wrong slot [0] | determined 95/96 | THEQUIETROOMHELDASINGBASTNORTHEASTAPWASFOLDEDTWICEWHENTHEMES
+P10e PASS: A P10e 100 30 P KA vig 8 10 1.068e-13 6 | wrong slot [17] | determined 47/98 | TH???I???O????LD?????EASTNORTHEAST?????FOL???T???E???NTH????
+P11e PASS: A P11e 50 19 C AZ beau 5 6 9.673e-18 18 | wrong slot [18] | determined 95/96 | THEQUIETROOMHELDASINGEASTNORTHEASTAPWASFOLDEDTWICEWHENTHEMES
+P1s PASS: A P1s 27 34 D KA vig 8 10 1.068e-13 -1 | wrong slot - | determined 48/98 | TH???I???O???ELD?????EASTNORTHEAST?????FOL???T???????NTH????
+N3 NEGATIVE: 0 fits at the planted record in the planted cell: [] | fits at the planted record in other cells (chance, reported): 8 ['A N3 27 34 D KA vig 9 20 0.008933 4', 'A N3 27 34 D KA vig 10 16 0.004495 2', 'A N3 27 34 D KA vig 16 20 0.004495 2']
+N4 NEGATIVE: 0 fits at the planted record in the planted cell: [] | fits at the planted record in other cells (chance, reported): 0 []
+N1 NEGATIVE: 0 fits at the planted record in the planted cell: [] | fits at the planted record in other cells (chance, reported): 1 ['B N1 27 34 D AZ>KA VB 7 13 0.0005711 4']
+controls 13/13
