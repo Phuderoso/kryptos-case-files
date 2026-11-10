@@ -1,0 +1,4 @@
+Post-hoc descriptive check (cycle 193, I-206; no decision weight)
+K4 on all.bin row 3870 (tab4, 625 pairs, print E_config <= 1e-9):
+M k4 0 AZ>KA BV 2 14 9 1.245e-10 1
+route 3870, 1000 shuffles of K4 (random.Random(seed).shuffle, seeds 19400-20399): texts with any fit E_config<=1e-9: 0; at S2 AZ>KA BV 14x9: 0
