@@ -1,0 +1,75 @@
+# Cycle 194 pre-registration checks (before any K4 or registered-null run)
+## I-180 probe (reserved shuffle seed 9191, I-116; timeout 60)
+strict equivalence: cmp194 strict fits (slot -1 count) == cmp193 fits on probe81 (81 routes), tab4, 625 pairs, both models: identical (20,000 H lines)
+all_s512 timing, pairs_sel (136/model, est U <= 1): tab2 0.58 s, tab1s (VV/VB) 0.35 s -> all routes ~296 + 178 s (over budget); pairs_fp (116/model, est U <= 0.05): tab2 0.48 s, tab1s 0.33 s -> ~246 + 168 s; tab1s on all.bin rows 0-2000: 1.75 s -> ~145 s
+structure pass (mode 2, all_s512): est cell U <= 1: 136 pairs per model; <= 0.05: 116 per model (registered: pairs_fp)
+
+## Meter (I-193 one-error form; I-205 split), 40 uniform texts seeds 19440-19479, all_s2048, 625 pairs, both models
+two-tableau (AZ>KA, KA>AZ):
+band 0: texts 40 configs 8666880 fits 6267385 U 8.10224e+06 S1 1.73837e+07 z +42.46  (capped band)
+band 1: texts 40 configs 2853120 fits 143947 U 234486 S1 234721 z +0.09
+band 2: texts 40 configs 1800320 fits 1812 U 2303.04 S1 2253 z -0.50
+band 3: texts 40 configs 1600000 fits 27 U 38.0774 S1 27 z -2.11
+band 4: texts 40 configs 1324800 fits 3 U 1.29523 S1 3 z +1.01
+band 5: texts 40 configs 1258240 fits 0 U 0.0523538 S1 0 z n/a (S1 = 0)
+band 6: texts 40 configs 1011840 fits 0 U 0.00185676 S1 0 z n/a (S1 = 0)
+band 7: texts 40 configs 979200 fits 0 U 7.39099e-05 S1 0 z n/a (S1 = 0)
+band 8: texts 40 configs 744960 fits 0 U 2.49355e-06 S1 0 z n/a (S1 = 0)
+band 9: texts 40 configs 661120 fits 0 U 9.2056e-08 S1 0 z n/a (S1 = 0)
+band 10: texts 40 configs 597120 fits 0 U 3.38872e-09 S1 0 z n/a (S1 = 0)
+band 11: texts 40 configs 521600 fits 0 U 1.20067e-10 S1 0 z n/a (S1 = 0)
+band 12: texts 40 configs 445440 fits 0 U 4.07191e-12 S1 0 z n/a (S1 = 0)
+band 13: texts 40 configs 365440 fits 0 U 1.32514e-13 S1 0 z n/a (S1 = 0)
+band 14: texts 40 configs 298880 fits 0 U 4.22899e-15 S1 0 z n/a (S1 = 0)
+band 15: texts 40 configs 229760 fits 0 U 1.25758e-16 S1 0 z n/a (S1 = 0)
+band 16: texts 40 configs 170880 fits 0 U 3.61142e-18 S1 0 z n/a (S1 = 0)
+band 17: texts 40 configs 106880 fits 0 U 8.6992e-20 S1 0 z n/a (S1 = 0)
+band 18: texts 40 configs 53120 fits 0 U 1.66332e-21 S1 0 z n/a (S1 = 0)
+band 25: texts 40 configs 8710400 fits 8710400 U 8.7104e+06 S1 0 z n/a (S1 = 0)  (no cycle)
+one-tableau stacks (AZ>AZ, KA>KA; additive, lumpy in 26-bundles, I-205):
+band 0: texts 40 configs 4333440 fits 1680474 U 4.05114e+06 S1 7.39632e+06 z +11.10  (capped band)
+band 1: texts 40 configs 1426560 fits 2610 U 117243 S1 91104 z -3.39
+band 2: texts 40 configs 900160 fits 14 U 1151.52 S1 676 z -1.22
+band 3: texts 40 configs 800000 fits 0 U 19.0387 S1 0 z n/a (S1 = 0)
+band 4: texts 40 configs 662400 fits 0 U 0.647615 S1 0 z n/a (S1 = 0)
+band 5: texts 40 configs 629120 fits 0 U 0.0261769 S1 0 z n/a (S1 = 0)
+band 6: texts 40 configs 505920 fits 0 U 0.000928384 S1 0 z n/a (S1 = 0)
+band 7: texts 40 configs 489600 fits 0 U 3.6955e-05 S1 0 z n/a (S1 = 0)
+band 8: texts 40 configs 372480 fits 0 U 1.24678e-06 S1 0 z n/a (S1 = 0)
+band 9: texts 40 configs 330560 fits 0 U 4.60278e-08 S1 0 z n/a (S1 = 0)
+band 10: texts 40 configs 298560 fits 0 U 1.69436e-09 S1 0 z n/a (S1 = 0)
+band 11: texts 40 configs 260800 fits 0 U 6.00338e-11 S1 0 z n/a (S1 = 0)
+band 12: texts 40 configs 222720 fits 0 U 2.03596e-12 S1 0 z n/a (S1 = 0)
+band 13: texts 40 configs 182720 fits 0 U 6.6257e-14 S1 0 z n/a (S1 = 0)
+band 14: texts 40 configs 149440 fits 0 U 2.1145e-15 S1 0 z n/a (S1 = 0)
+band 15: texts 40 configs 114880 fits 0 U 6.28791e-17 S1 0 z n/a (S1 = 0)
+band 16: texts 40 configs 85440 fits 0 U 1.8057e-18 S1 0 z n/a (S1 = 0)
+band 17: texts 40 configs 53440 fits 0 U 4.3496e-20 S1 0 z n/a (S1 = 0)
+band 18: texts 40 configs 26560 fits 0 U 8.31656e-22 S1 0 z n/a (S1 = 0)
+band 25: texts 40 configs 4355200 fits 4355200 U 4.3552e+06 S1 0 z n/a (S1 = 0)  (no cycle)
+
+real	0m22.940s
+user	1m49.300s
+sys	0m0.722s
+
+## Recount exactness before K4
+pre-K4 recount identical 7355
+(uniform text seed 19440, slice191 row 1, tab2 x 4 forms + tab1s x VV/VB, all 1,250 model-pairs)
+
+## Control rehearsal (declared the registered control run)
+P1 AZ>KA_VV_7_11 slot 5: PASS (hit 1, reported slots ['5']; other low-U fits at row 0: [])
+P2 KA>AZ_BV_5_13 slot 15: PASS (hit 1, reported slots ['2']; other low-U fits at row 0: [])
+P3 AZ>KA_VB_8_12 slot 23: PASS (hit 1, reported slots ['4']; other low-U fits at row 0: [])
+P4 KA>AZ_VB_6_19 slot 4: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: [])
+P5 AZ>KA_VV_10_8 slot 9: PASS (hit 1, reported slots ['9']; other low-U fits at row 0: [])
+P6 AZ>AZ_VV_3_25 slot 21: PASS (hit 1, reported slots ['10']; other low-U fits at row 1: ['AZ>AZ VV 2 25 3 1.751e-05 10'])
+P7 KA>KA_BB_4_9 slot 12: PASS (hit 1, reported slots ['11']; other low-U fits at row 7: ['KA>KA VV 1 4 18 5.994e-15 11', 'KA>KA VV 1 8 9 2.366e-09 11', 'KA>KA VV 1 8 18 2.366e-09 11', 'KA>KA VV 2 9 4 5.994e-15 11'])
+P8 AZ>KA_VB_7_7 slot 6: PASS (hit 1, reported slots ['6']; other low-U fits at row 0: [])
+P9 KA>AZ_BB_6_10 slot 0: PASS (hit 1, reported slots ['0']; other low-U fits at row 2: ['KA>AZ BB 2 6 20 2.407e-05 -1', 'KA>AZ BB 2 12 10 2.845e-05 0'])
+P0 AZ>KA_VV_7_11 slot -1: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: [])
+PD AZ>KA_VV_7_11 slot 0: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: []) -> undetectable error (expected): strict fit; the strict decryption is wrong at 8 positions [1, 18, 38, 40, 57, 60, 77, 80] (the pendant edge's residue class), right elsewhere
+N3 two_wrong_letters_slots_1_3: PASS (low-U fits at row: [])
+N1 three_passes: PASS (low-U fits at row: [])
+N2 random_key: PASS (low-U fits at row: [])
+N4 case-178_compound_key,_both_keys_on_the_plaintext_index: PASS (low-U fits at row: [])
+controls 15/15
