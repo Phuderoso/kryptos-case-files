@@ -1,0 +1,1 @@
+post-run descriptive recount K4, slice191 7 rows, all 1,250 model-pairs, tab2 x 4 forms + tab1s x VV/VB: identical 47759 fits (7 s)

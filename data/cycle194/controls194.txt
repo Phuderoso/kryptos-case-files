@@ -1,0 +1,16 @@
+P1 AZ>KA_VV_7_11 slot 5: PASS (hit 1, reported slots ['5']; other low-U fits at row 0: [])
+P2 KA>AZ_BV_5_13 slot 15: PASS (hit 1, reported slots ['2']; other low-U fits at row 0: [])
+P3 AZ>KA_VB_8_12 slot 23: PASS (hit 1, reported slots ['4']; other low-U fits at row 0: [])
+P4 KA>AZ_VB_6_19 slot 4: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: [])
+P5 AZ>KA_VV_10_8 slot 9: PASS (hit 1, reported slots ['9']; other low-U fits at row 0: [])
+P6 AZ>AZ_VV_3_25 slot 21: PASS (hit 1, reported slots ['10']; other low-U fits at row 1: ['AZ>AZ VV 2 25 3 1.751e-05 10'])
+P7 KA>KA_BB_4_9 slot 12: PASS (hit 1, reported slots ['11']; other low-U fits at row 7: ['KA>KA VV 1 4 18 5.994e-15 11', 'KA>KA VV 1 8 9 2.366e-09 11', 'KA>KA VV 1 8 18 2.366e-09 11', 'KA>KA VV 2 9 4 5.994e-15 11'])
+P8 AZ>KA_VB_7_7 slot 6: PASS (hit 1, reported slots ['6']; other low-U fits at row 0: [])
+P9 KA>AZ_BB_6_10 slot 0: PASS (hit 1, reported slots ['0']; other low-U fits at row 2: ['KA>AZ BB 2 6 20 2.407e-05 -1', 'KA>AZ BB 2 12 10 2.845e-05 0'])
+P0 AZ>KA_VV_7_11 slot -1: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: [])
+PD AZ>KA_VV_7_11 slot 0: PASS (hit 1, reported slots ['-1']; other low-U fits at row 0: []) -> undetectable error (expected): strict fit; the strict decryption is wrong at 8 positions [1, 18, 38, 40, 57, 60, 77, 80] (the pendant edge's residue class), right elsewhere
+N3 two_wrong_letters_slots_1_3: PASS (low-U fits at row: [])
+N1 three_passes: PASS (low-U fits at row: [])
+N2 random_key: PASS (low-U fits at row: [])
+N4 case-178_compound_key,_both_keys_on_the_plaintext_index: PASS (low-U fits at row: [])
+controls 15/15

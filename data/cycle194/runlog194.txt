@@ -1,0 +1,18 @@
+registered run start 17:20:59 PT
+C1a done 208 s
+C1b chunk 0 (0-20723) done 225 s
+C1b chunk 1 (20723-41446) done 242 s
+C1b chunk 2 (41446-62169) done 260 s
+C1b chunk 3 (62169-82892) done 278 s
+C1b chunk 4 (82892-103615) done 296 s
+C1b chunk 5 (103615-124338) done 313 s
+C1b chunk 6 (124338-145061) done 331 s
+C1b chunk 7 (145061-165782) done 348 s
+grid done 360 s
+recount k4 identical 0
+recount P1 identical 0
+recount P4 identical 0
+recount P7 identical 4
+recount n19411 identical 0
+recount done 375 s
+registered run end 17:27:14 PT (375 s)
