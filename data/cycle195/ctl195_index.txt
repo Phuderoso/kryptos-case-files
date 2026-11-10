@@ -1,0 +1,7 @@
+0 col1 0 KRYPTOS/enc
+1 col1 2 PALIMPSEST/enc
+2 col1 33 LODESTONE/inv
+3 col1 108 ALEXANDERPLATZ/enc
+4 col2 2 KRYPTOS+PALIMPSEST/enc
+5 all 12345 route
+6 col1 7 BERLIN/inv
