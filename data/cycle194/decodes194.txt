@@ -1,0 +1,15 @@
+=== route 136483 S1 AZ>KA VB 2x16
+CONSISTENT deletion 2: row 136483 1 VB m 2 n 16: solutions per cyclic component [1]
+  del 2 a=UR b=PVJNFQLWZGCJIUNU PT=aybfhbwjvetrwgyeeevljEAITNORTHEASTljnzuqivrnxqnokkvbzdvirhssemmBERLINCLOCKpfkdomrnofommvprndictpg  known 97/97
+CONSISTENT deletion 10: row 136483 1 VB m 2 n 16: solutions per cyclic component [1]
+  del 10 a=UR b=PVJNFQLWZGCAIUNU PT=lybfhbwjvetrwgyeeevljEASTNORTHEVSTljnzuqivrnxqnokkvbzdwirhssemzBERLINCLOCKpfkdomrnofoamvprndictpg  known 97/97
+=== route 130922 S1 AZ>KA VB 11x6
+CONSISTENT deletion 9: row 130922 1 VB m 11 n 6: solutions per cyclic component [1]
+  del 9 a=WSFUFNHSRAZ b=CIQHGC PT=txspjudqoceuoterdblkgEASTNORTHTASTqtpoizhlfxbnjsrwanpewuqecgofiBERLINCLOCKlhcbmcacpnzcepqzqzwzcjw  known 97/97
+CONSISTENT deletion 13: row 130922 1 VB m 11 n 6: solutions per cyclic component [1]
+  del 13 a=WSFUFNHSGAZ b=CIQHGC PT=txspjudqzceuoterdblvgEASTNORTHEASTqtpoizhwfxbnjsrwanaewuqecgofiMERLINCLOCKwhcbmcacpnznepqzqzwzcjh  known 97/97
+=== route 3870 S2 AZ>KA BV 7x9
+CONSISTENT deletion 12: row 3870 2 BV m 7 n 9: solutions per cyclic component [1]
+  del 12 a=ZXWRUCS b=RCNQZJGYH PT=oesvozhrtectzeglezncpEASTNORTHEASYrqjlebxhbeqsoxzlunxqhzmiidfdaBERLINCLOCKkrrxhaylxqotilyhxtheaqn  known 97/97
+CONSISTENT deletion 14: row 3870 2 BV m 7 n 9: solutions per cyclic component [1]
+  del 14 a=ZSWRUCS b=RCNQZJGYH PT=oesvozhroecozeblezncpEASTNORTHEASTrqelewxhbeqsoxzlunxqhumiddfyaBZRLINCLOCKkrrxhatlxlotdlycxtheaqn  known 97/97

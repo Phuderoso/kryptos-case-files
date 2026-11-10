@@ -1,0 +1,28 @@
+runs:
+  END k4 perms 0-165782 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 0-20723 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 20723-41446 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 41446-62169 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 62169-82892 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 82892-103615 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 103615-124338 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 124338-145061 tabpairs 2 pairs 116 116 mode 0
+  END k4 perms 145061-165782 tabpairs 2 pairs 116 116 mode 0
+
+two-tableau: cells 1856; FULL POWER 1856 (U sum 2.448, fits 3, strict 0); pairs per model: S1 116, S2 116
+  low-power 0: fits 0 vs U 0
+  S1: full-power cells 928, max lcm 84, lcm > 26: 49 pairs, m = n: 7 pairs
+  S2: full-power cells 928, max lcm 84, lcm > 26: 49 pairs, m = n: 7 pairs
+  FIT in full-power cell ('1', 'AZ>KA', 'VB', 2, 16): fits 1 (printed 1), cell U 0.02559: route 136483 U 7.575e-07 slot 2
+  FIT in full-power cell ('1', 'AZ>KA', 'VB', 11, 6): fits 1 (printed 1), cell U 0.007114: route 130922 U 4.856e-08 slot 9
+  FIT in full-power cell ('2', 'AZ>KA', 'BV', 7, 9): fits 1 (printed 1), cell U 0.0003496: route 3870 U 2.241e-09 slot 12
+
+one-tableau: cells 1856; FULL POWER 1856 (U sum 1.224, fits 0, strict 0); pairs per model: S1 116, S2 116
+  low-power 0: fits 0 vs U 0
+  S1: full-power cells 928, max lcm 84, lcm > 26: 49 pairs, m = n: 7 pairs
+  S2: full-power cells 928, max lcm 84, lcm > 26: 49 pairs, m = n: 7 pairs
+
+strongest printed fits (lowest config U, any cell):
+  route 3870 S2 AZ>KA BV 7x9 U 2.241e-09 slot 12 cell U 0.0003496
+  route 130922 S1 AZ>KA VB 11x6 U 4.856e-08 slot 9 cell U 0.007114
+  route 136483 S1 AZ>KA VB 2x16 U 7.575e-07 slot 2 cell U 0.02559
