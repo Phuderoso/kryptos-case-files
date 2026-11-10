@@ -1,0 +1,14 @@
+== k4_decA_del.txt: full-power cells 436 fits 0 (B sols 0) vs E 1.2 | low-power cells 16 fits 0 (B sols 0) vs E 1.339
+== k4_decA_ins.txt: full-power cells 496 fits 0 (B sols 0) vs E 0.7202 | low-power cells 0 fits 0 (B sols 0) vs E 0
+== k4_decB_del.txt: full-power cells 2064 fits 2 (B sols 2) vs E 3.426 | low-power cells 48 fits 4 (B sols 5) vs E 3.99
+  FP-FIT B C AZ>KA BB 17 2 configs 175806 fits 1 E 0.0279 | printed: 1
+      M B K4decB 90 25 C AZ>KA BB 17 2 2.188e-06 1
+  FP-FIT B C KA>AZ BB 15 4 configs 175806 fits 1 E 0.0496 | printed: 1
+      M B K4decB 1671 5 C KA>AZ BB 15 4 2.188e-06 1
+== k4_decB_ins.txt: full-power cells 2432 fits 2 (B sols 2) vs E 3.783 | low-power cells 48 fits 4 (B sols 4) vs E 2.95
+  FP-FIT B P AZ>KA BV 6 20 configs 76800 fits 1 E 0.00646 | printed: 1
+      M B K4decB 2861 50 P AZ>KA BV 6 20 8.417e-08 1
+  FP-FIT B P KA>AZ VV 4 19 configs 76800 fits 1 E 0.00646 | printed: 1
+      M B K4decB 2568 24 P KA>AZ VV 4 19 8.417e-08 1
+== k4_dirA.txt: full-power cells 530 fits 0 (B sols 0) vs E 0.8703 | low-power cells 1030 fits 478101794 (B sols 0) vs E 4.781e+08
+== k4_dirB.txt: full-power cells 1552 fits 0 (B sols 0) vs E 1.161 | low-power cells 3248 fits 224702 (B sols 2.484e+05) vs E 2.641e+05
