@@ -1,0 +1,6 @@
+P7n dec98 q 10000 d 60 C AZ>KA VB 4 x 7 fits_at_planted_cell 3 PASS
+N7n dec98 q 10000 d 60 C AZ>KA VB 4 x 7 fits_at_planted_cell 0 PASS
+P8n dec96 q 20000 d 10 P KA>AZ VV 6 x 5 fits_at_planted_cell 1 PASS
+N8n dec96 q 20000 d 10 P KA>AZ VV 6 x 5 fits_at_planted_cell 0 PASS
+P9n dec98 q 27000 d 33 P KA>AZ BB 8 x 5 fits_at_planted_cell 3 PASS
+N9n dec98 q 27000 d 33 P KA>AZ BB 8 x 5 fits_at_planted_cell 0 PASS
