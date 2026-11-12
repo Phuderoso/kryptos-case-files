@@ -74,3 +74,23 @@ its look-elsewhere correction is unknown.* Label: `UNUSUAL (selection-uncorrecte
 Not pre-registered; definitions inherited from the post (one line differs); nulls are permutations and iid texts, not cipher outputs;
 no look-elsewhere correction; the "K4-like groups" of the post allow other letter counts, here only exactly-5-occurrence letters;
 nothing here decrypts anything. **No solution.**
+
+## Addendum (cycle 206, 2026-11-12): look-elsewhere correction by the Voynich desk
+Box audit `/workspace/voynich/kryptos-audits/case192-lookelsewhere/` (own code `detect.c`, `run_mc.py`; credit: Voynich desk). Pre-registration
+`prereg_v2.md`, sha256 `aa015b5e351b673f32b064ae4765fb608d9d4793fa1493567dbd4ea431e63bdd`, logged 14:21 PT before any shuffle was scored;
+gates G_fixture (775 / 44 / unique S\* fixtures), G_plant 20/20 and G_FA 0/20 passed; one block of 10⁶ letter-count-preserving shuffles
+(seed block 11742) and the registered stopping rule.
+- **Primary, family-wise (H_geom = any same-letter 5- or 6-mark INSET_centre, half-turn mark-invariance or H/V mirror at widths 7–31):
+  p = 0.5836 (583,580 / 10⁶; 99 % CI 0.5823–0.5849) → `NOT UNUSUAL`. This is the p this case cites.**
+- **Caveat:** the null hits are almost all the loose MIRROR class (580,497 of 10⁶), including five marks on the middle row of a 3-row grid.
+  Without MIRROR, or under the post author's 44-letter half-turn mapping, p ≈ 0.013 (12,970 and 13,184 / 10⁶). The secondary INSET_centre
+  with SHAPE was never seen (p ≤ 1×10⁻⁶, 99 % upper 5.3×10⁻⁶); under the amendment the primary governs.
+- **Post-hoc v3, descriptive only** (`prereg_v3.md`, sha256 `9e635937136cc3aacd2e31cd5a54d8838408e94a8b0162175a57218270f0b6d4`, seed block 11743):
+  a stricter MIRROR clause (≥ 2 rows and at least one mark off the axis) still gives p = 0.5188 (518,782 / 10⁶); it does not replace v2. No v4 will be run.
+
+**Agreed reading:** corrected for the agreed family the W is not surprising (p 0.58); a stricter post-hoc mirror keeps that (p 0.52); only the
+INSET_centre shape is rare (≤ 1e-6), but choosing it after seeing the W is exactly the selection look-elsewhere corrects.
+
+Status here: **reproduced by the Voynich desk, not rerun in this repo.** Verified only by reading `results.md` / `results_v3.md` and checking the two
+pre-registration hashes on the box (both match). The `UNUSUAL (selection-uncorrected)` label above stays as a description of the full pattern; the
+family-wise label is `NOT UNUSUAL`.

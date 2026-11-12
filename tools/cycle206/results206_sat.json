@@ -1,0 +1,348 @@
+{
+ "C2": true,
+ "C2b": true,
+ "C2c": true,
+ "G_mono_L1_UNSAT": {
+  "QI_vig": true,
+  "QI_beau": true,
+  "QII_vig": true,
+  "QII_beau": true,
+  "QIV_vig": true,
+  "QIV_beau": true
+ },
+ "K4_QI_vig": {
+  "first_SAT_L": 12,
+  "log": {
+   "1": {
+    "partitions": 1,
+    "SAT": null
+   },
+   "2": {
+    "partitions": 13,
+    "SAT": null
+   },
+   "3": {
+    "partitions": 39,
+    "SAT": null
+   },
+   "4": {
+    "partitions": 79,
+    "SAT": null
+   },
+   "5": {
+    "partitions": 97,
+    "SAT": null
+   },
+   "6": {
+    "partitions": 201,
+    "SAT": null
+   },
+   "7": {
+    "partitions": 283,
+    "SAT": null
+   },
+   "8": {
+    "partitions": 379,
+    "SAT": null
+   },
+   "9": {
+    "partitions": 489,
+    "SAT": null
+   },
+   "10": {
+    "partitions": 613,
+    "SAT": null
+   },
+   "11": {
+    "partitions": 749,
+    "SAT": null
+   },
+   "12": {
+    "partitions": 891,
+    "SAT": [
+     "EASTNORTHEAST",
+     "BERLIN|CLOCK",
+     4,
+     2
+    ]
+   }
+  }
+ },
+ "K4_QI_beau": {
+  "first_SAT_L": 12,
+  "log": {
+   "1": {
+    "partitions": 1,
+    "SAT": null
+   },
+   "2": {
+    "partitions": 13,
+    "SAT": null
+   },
+   "3": {
+    "partitions": 39,
+    "SAT": null
+   },
+   "4": {
+    "partitions": 79,
+    "SAT": null
+   },
+   "5": {
+    "partitions": 97,
+    "SAT": null
+   },
+   "6": {
+    "partitions": 201,
+    "SAT": null
+   },
+   "7": {
+    "partitions": 283,
+    "SAT": null
+   },
+   "8": {
+    "partitions": 379,
+    "SAT": null
+   },
+   "9": {
+    "partitions": 489,
+    "SAT": null
+   },
+   "10": {
+    "partitions": 613,
+    "SAT": null
+   },
+   "11": {
+    "partitions": 749,
+    "SAT": null
+   },
+   "12": {
+    "partitions": 891,
+    "SAT": [
+     "EASTNORTHEAST",
+     "BERLIN|CLOCK",
+     4,
+     2
+    ]
+   }
+  }
+ },
+ "K4_QII_vig": {
+  "first_SAT_L": 11,
+  "log": {
+   "1": {
+    "partitions": 1,
+    "SAT": null
+   },
+   "2": {
+    "partitions": 13,
+    "SAT": null
+   },
+   "3": {
+    "partitions": 39,
+    "SAT": null
+   },
+   "4": {
+    "partitions": 79,
+    "SAT": null
+   },
+   "5": {
+    "partitions": 97,
+    "SAT": null
+   },
+   "6": {
+    "partitions": 201,
+    "SAT": null
+   },
+   "7": {
+    "partitions": 283,
+    "SAT": null
+   },
+   "8": {
+    "partitions": 379,
+    "SAT": null
+   },
+   "9": {
+    "partitions": 489,
+    "SAT": null
+   },
+   "10": {
+    "partitions": 613,
+    "SAT": null
+   },
+   "11": {
+    "partitions": 749,
+    "SAT": [
+     "EASTNORTHEAST",
+     "BERLIN|CLOCK",
+     0,
+     4
+    ]
+   }
+  }
+ },
+ "K4_QII_beau": {
+  "first_SAT_L": 11,
+  "log": {
+   "1": {
+    "partitions": 1,
+    "SAT": null
+   },
+   "2": {
+    "partitions": 13,
+    "SAT": null
+   },
+   "3": {
+    "partitions": 39,
+    "SAT": null
+   },
+   "4": {
+    "partitions": 79,
+    "SAT": null
+   },
+   "5": {
+    "partitions": 97,
+    "SAT": null
+   },
+   "6": {
+    "partitions": 201,
+    "SAT": null
+   },
+   "7": {
+    "partitions": 283,
+    "SAT": null
+   },
+   "8": {
+    "partitions": 379,
+    "SAT": null
+   },
+   "9": {
+    "partitions": 489,
+    "SAT": null
+   },
+   "10": {
+    "partitions": 613,
+    "SAT": null
+   },
+   "11": {
+    "partitions": 749,
+    "SAT": [
+     "EASTNORTHEAST",
+     "BERLIN|CLOCK",
+     0,
+     4
+    ]
+   }
+  }
+ },
+ "K4_QIV_vig": {
+  "first_SAT_L": 6,
+  "log": {
+   "1": {
+    "partitions": 1,
+    "SAT": null
+   },
+   "2": {
+    "partitions": 13,
+    "SAT": null
+   },
+   "3": {
+    "partitions": 39,
+    "SAT": null
+   },
+   "4": {
+    "partitions": 79,
+    "SAT": null
+   },
+   "5": {
+    "partitions": 97,
+    "SAT": null
+   },
+   "6": {
+    "partitions": 201,
+    "SAT": [
+     "EASTNORTHEAST",
+     "BERLIN|CLOCK",
+     1,
+     5
+    ]
+   }
+  }
+ },
+ "K4_QIV_beau": {
+  "first_SAT_L": 6,
+  "log": {
+   "1": {
+    "partitions": 1,
+    "SAT": null
+   },
+   "2": {
+    "partitions": 13,
+    "SAT": null
+   },
+   "3": {
+    "partitions": 39,
+    "SAT": null
+   },
+   "4": {
+    "partitions": 79,
+    "SAT": null
+   },
+   "5": {
+    "partitions": 97,
+    "SAT": null
+   },
+   "6": {
+    "partitions": 201,
+    "SAT": [
+     "EASTNORTHEAST",
+     "BERLIN|CLOCK",
+     1,
+     5
+    ]
+   }
+  }
+ },
+ "null_QI_vig": [
+  12,
+  12,
+  12,
+  13,
+  11
+ ],
+ "null_QI_beau": [
+  12,
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped"
+ ],
+ "null_QII_vig": [
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped"
+ ],
+ "null_QII_beau": [
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped"
+ ],
+ "null_QIV_vig": [
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped"
+ ],
+ "null_QIV_beau": [
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped",
+  "stopped"
+ ],
+ "seconds": 300.0
+}
