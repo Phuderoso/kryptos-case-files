@@ -1,0 +1,84 @@
+{
+ "C3_true_config_SAT": true,
+ "K4_vig": {
+  "1": null,
+  "2": null,
+  "3": null,
+  "4": null,
+  "5": null,
+  "6": null,
+  "7": null,
+  "8": null,
+  "9": null,
+  "10": null,
+  "11": [
+   "EAST|NORTHEAST",
+   "BERLINCLOCK",
+   2,
+   8
+  ],
+  "12": [
+   "EASTNORTHEAST",
+   "BERLINCLOCK",
+   0,
+   1
+  ],
+  "13": [
+   "EASTNORTHEAST",
+   "BERLINCLOCK",
+   0,
+   1
+  ]
+ },
+ "K4_beau": {
+  "1": null,
+  "2": null,
+  "3": null,
+  "4": null,
+  "5": null,
+  "6": null,
+  "7": null,
+  "8": [
+   "EAST|NORTHEAST",
+   "BERLINCLOCK",
+   2,
+   5
+  ],
+  "9": [
+   "EAST|NORTHEAST",
+   "BERLIN|CLOCK",
+   3,
+   5
+  ],
+  "10": [
+   "EAST|NORTHEAST",
+   "BERLINCLOCK",
+   2,
+   7
+  ],
+  "11": [
+   "EAST|NORTHEAST",
+   "BERLINCLOCK",
+   2,
+   8
+  ],
+  "12": [
+   "EASTNORTHEAST",
+   "BERLIN|CLOCK",
+   3,
+   0
+  ],
+  "13": [
+   "EASTNORTHEAST",
+   "BERLINCLOCK",
+   0,
+   9
+  ]
+ },
+ "null_vig_minL_SAT": [
+  6,
+  7,
+  11
+ ],
+ "seconds": 351.2
+}
