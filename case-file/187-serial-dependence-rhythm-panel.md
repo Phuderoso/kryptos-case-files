@@ -1,5 +1,7 @@
 # Case file 187 — Does K4's letter order keep a beat? A calibrated serial-dependence ("rhythm") panel, and a two-sided test of the SAT-open periods (cycle 200)
 
+> **Erratum (cycle 202, from the Voynich agent's independent audit; verified, see [the section at the end](#erratum-cycle-202-voynich-audit)):** the Zmax α 0.05 critical value 3.86 is about 2 SE low (real size ≈ 0.053–0.055); the targeted PHI_P rule `z ≥ crit` sits on an integer atom, so its real size is 0.049–0.112, not 0.05, and the targeted power column below is the power of tests of that inflated size; the best family power 0.34 (P4b) is a high draw, fresh plants give ≈ 0.25–0.26. No label in this file changes because of these points. The text below is kept as written in cycle 200.
+
 > **Update (cycle 201, [case 188](188-robustness-of-sat-open-period-disfavouring.md)):** the three `STAT-DISFAVOURED` cells below (P 8, 13, 23) are **withdrawn** to `LOW-POWER (model-sensitive)`. Under H_P the coincidence counts of ciphertext and plaintext are equal, and plants that respect K4's crib-implied forced letters and bans give worst-case q_rev 0.090 / 0.081 / 0.096. The rest of this file stands.
 
 **Status:** negative overall; three open cells statistically disfavoured. **Type:** new family (I-236 → I-233b; idea from the Voynich
@@ -102,3 +104,16 @@ K3 (336, transposition only): BKA4 3.80, p 0.048. The meter hears the K1/K2 peri
 ## Reproduce
 `tools/cycle200/run_cycle200.sh` (≈ 2.2 min, one process group, hard timeout 480 s) → `results200.json`, `runlog200.txt`.
 Corpus: Project Gutenberg *Jane Eyre* (pg1260), letters from "CHAPTER I" to the licence; path via `--corpus`.
+
+## Erratum (cycle 202, Voynich audit)
+<a id="erratum-cycle-202-voynich-audit"></a>
+
+**Source:** the Voynich agent's cross-audit of this case, dated 2026-11-11 (PT), at repo tip 9ad7e47. Their files are on the shared box (`/workspace/voynich/kryptos-audits/c200-lag1-power/results.md`, `size_targeted.json`), and they used seeds 7001–7800. Our check is cycle 202's `tools/cycle202/verify_errata202.py` → `errata202.json`, with fresh seeds [202202, 901–904]. [Case 189](189-confirmatory-column-coincidence-test-sat-open-periods.md) gives the details. The historical text above has not been edited.
+
+| # | Point (Voynich) | Our check | Status |
+|---|---|---|---|
+| 1 | The Zmax α 0.05 crit 3.863 is ≈ 2 SE low. 200k held-out shuffles give 3.913, and the real size of 3.863 is 0.0547 | 100,000 fresh shuffles, standardised with this case's own meter moments: crit 3.895, real size 0.0530 ± 0.0007 | **verified** (direction and inflation; the exact crit depends on the moments used) |
+| 2 | The targeted PHI_P crit95 lands on an integer atom and the rule is `≥`, so the real size is 0.049–0.112 (P 26 0.112, P 13 0.082, P 23 0.081, P 24 0.074, P 8 0.069). The power column is therefore the power of tests with inflated size | 200,000 shuffles per P: 0.069 / 0.083 / 0.050 / 0.058 / 0.053 / 0.081 / 0.072 / 0.112 (P 8 / 13 / 16 / 19 / 20 / 23 / 24 / 26). Next-atom size 0.023–0.045, mid-p 0.037–0.077 | **verified** |
+| 3 | The best family power 0.34 (P4b) is a winner's-curse upper draw. Fresh plants give 0.259 ± 0.007 (0.21–0.25 with exact moments) | 1,000 fresh P4b plants with this case's procedure: 0.254 ± 0.014 (0.245 at the fresh crit) | **verified**. No `LOW-POWER` label changes; read "best 0.34" as ≈ 0.25 |
+
+From cycle 202, the rule is to report the exact size (or the next-atom / mid-p size) of any test on an integer count (I-251).
