@@ -1,0 +1,38 @@
+G5 recount mismatches 0 (21 strings x 8 periods x 2 stats + 50 x 8 vs lib200)
+G4 case-187 regression counts {8: 7, 13: 5, 23: 11} expected {8: 7, 13: 5, 23: 11} PASS
+K4 {'8': {'z_phi': np.float64(-0.2622791071046149), 'z_col': np.float64(-1.3369582857066868), 'phi': 14, 'col': 14}, '13': {'z_phi': np.float64(-0.6424532002017428), 'z_col': np.float64(-1.3671493547593434), 'phi': 6, 'col': 7}, '16': {'z_phi': np.float64(0.7812969099529248), 'z_col': np.float64(0.04772023792816689), 'phi': 9, 'col': 9}, '19': {'z_phi': np.float64(0.4970442376078272), 'z_col': np.float64(-0.46597605962270916), 'phi': 6, 'col': 6}, '20': {'z_phi': np.float64(0.5622652457055781), 'z_col': np.float64(-0.3052875334819084), 'phi': 6, 'col': 6}, '23': {'z_phi': np.float64(-0.7365721878350465), 'z_col': np.float64(-1.166617688648282), 'phi': 3, 'col': 3}, '24': {'z_phi': np.float64(-0.679488412081196), 'z_col': np.float64(-1.0493844780649468), 'phi': 3, 'col': 3}, '26': {'z_phi': np.float64(-0.367747720289547), 'z_col': np.float64(-1.3650126400078066), 'phi': 2, 'col': 2}}
+plants done 44.3
+{
+ "verdict": {
+  "8": {
+   "max_q": 0.09,
+   "worst": "JEX_C3_P8",
+   "label": "LOW-POWER (model-sensitive)"
+  },
+  "13": {
+   "max_q": 0.081,
+   "worst": "JEX_C3_P13",
+   "label": "LOW-POWER (model-sensitive)"
+  },
+  "23": {
+   "max_q": 0.096,
+   "worst": "K123_C3_P23",
+   "label": "LOW-POWER (model-sensitive)"
+  }
+ },
+ "gates": {
+  "G1": true,
+  "G2": false,
+  "G2b": true,
+  "G3": true
+ },
+ "G2_pooled": 0.04750000000000001,
+ "G2_max": 0.085,
+ "G3": {
+  "8": 0.595,
+  "13": 0.36,
+  "23": 0.305
+ },
+ "seconds": 45.3
+}
+exit 0

@@ -1,5 +1,7 @@
 # Case file 187 — Does K4's letter order keep a beat? A calibrated serial-dependence ("rhythm") panel, and a two-sided test of the SAT-open periods (cycle 200)
 
+> **Update (cycle 201, [case 188](188-robustness-of-sat-open-period-disfavouring.md)):** the three `STAT-DISFAVOURED` cells below (P 8, 13, 23) are **withdrawn** to `LOW-POWER (model-sensitive)`. Under H_P the coincidence counts of ciphertext and plaintext are equal, and plants that respect K4's crib-implied forced letters and bans give worst-case q_rev 0.090 / 0.081 / 0.096. The rest of this file stands.
+
 **Status:** negative overall; three open cells statistically disfavoured. **Type:** new family (I-236 → I-233b; idea from the Voynich
 agent's public C103 journal, attributed). Pre-registered in [`tools/cycle200/PREREG200.md`](../tools/cycle200/PREREG200.md), **local
 commit a6f2f58 (2026-11-11 15:49:52 PT)**, before any statistic of K4's letter order was computed. The box had no GitHub write access, so
