@@ -1,0 +1,10 @@
+G4 True {8: -1.34351, 13: -1.36361, 16: 0.04338, 19: -0.47062, 20: -0.31222, 23: -1.17022, 24: -1.04634, 26: -1.34229} [4.3s]
+G5 {'n_accepted': 14183, 'chi2': 1031.7210379504204, 'dof': 1113, 'p': 0.9575307274565454, 'col8_z': -1.4981577235873238, 'mask_ok': True, 'pass_': True} [14.5s]
+JE done [31.8s]
+CARTER done [49.3s]
+K123MIX done [65.7s]
+JEX done [84.7s]
+DRAC done [103.2s]
+gates {'G4': True, 'G5': True, 'G1': True, 'G1b': True, 'G2b': True, 'G3': True, 'G6': True, 'all_pass': True} [103.3s]
+wrote results204.json [103.3s]
+exit 0
