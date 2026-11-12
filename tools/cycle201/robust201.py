@@ -126,10 +126,13 @@ for P in CONF:
     worst = max(qs, key=qs.get)
     ver[str(P)] = dict(max_q=qs[worst], worst=worst, label="STAT-DISFAVOURED" if qs[worst] < 0.05 else "LOW-POWER (model-sensitive)")
 out["verdict"] = ver
+g2 = [r["G2_false_disfavour"] for r in tab.values() if "G2_false_disfavour" in r]
+out["G2_pooled"] = float(np.mean(g2)); out["G2_max"] = float(max(g2))
 out["gates"] = dict(G1=out["G1_invariance"] and out["G1b_crib_consistency"],
-                    G2=all(r.get("G2_false_disfavour", 0) <= 0.081 for r in tab.values()),
+                    G2=all(r.get("G2_false_disfavour", 0) <= 0.081 for r in tab.values()),   # as in PREREG201 (FWER ~0.69, I-243)
+                    G2b=bool(np.mean(g2) <= 0.0544 and max(g2) < 0.11),                       # PREREG201b: pooled + Bonferroni/48
                     G3=g3["8"] >= 0.25)
 out["seconds"] = round(time.time() - t0, 1)
-print(json.dumps(dict(verdict=ver, gates=out["gates"], G3=g3, seconds=out["seconds"]), indent=1))
+print(json.dumps(dict(verdict=ver, gates=out["gates"], G2_pooled=out["G2_pooled"], G2_max=out["G2_max"], G3=g3, seconds=out["seconds"]), indent=1))
 if a.out:
     json.dump(out, open(a.out, "w"), indent=1)
