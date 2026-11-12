@@ -1,0 +1,12 @@
+total 64446024
+EQ 1272384
+RECT 1129317
+SYM 26734
+SYM+centre 1815
+SYM+inset 775
+SYM+inset+centre(width-hits) 44
+EQ&RECT 21382
+EQ&SYM 650
+EQ&RECT&seg>=3 11011
+EQ&SYM&seg>=3 347
+K4 W check EQ=1

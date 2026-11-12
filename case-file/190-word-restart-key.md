@@ -45,3 +45,13 @@ Every K4 survivor at L ≥ 23 keeps both cribs unsegmented and needs BERLINCLOCK
 - **Budget note:** the registered runs took 84 s (direct, 1,000 nulls) and 351 s (SAT); with the 128 s SAT smoke the cycle's heavy compute was ≈ 9.5 min, a little over the 8-minute target (disclosed). The QIII null sample is 3, so its comparison is descriptive only.
 
 **No solution; K4 status unchanged.**
+
+## Addendum (cycle 205, 2026-11-12): independent recount by the Voynich desk
+Box audit `/workspace/voynich/kryptos-audits/c203-r1-recount/` (own code `r1_recount.py`, pair-chain consistency, not this repo's
+dict merge; credit: Voynich desk). **K4 survivors match results203.json exactly** at every L (0 at L 1–22; 2 / 184 / 414 / 692 at
+L 23–26). Exact iid-uniform expectation plus a 20,000-shuffle null (seed 7203): random text never survives at L ≤ 18 (E ≤ 7.5 × 10⁻⁶);
+P(any survivor) at L 19 / 20 / 21 / 22 = 5 × 10⁻⁵ / 0.0008 / 0.0106 / 0.156; L ≥ 23 every text survives with high probability.
+**Scope refinement (adopted):** R1 is a *clean* exact refutation at L ≤ 18; at L 19–22 the zero still refutes but the test is weakening
+(false-survivor rate up to 16 % at L 22, so the zero carries less evidence there); L ≥ 23 `NOT TESTABLE` (K4's 2 at L 23 sits below the null
+mean 15.8). Verified here only by reading the recount against results203.json (identical numbers); the null was not rerun. Secondary
+segmentation set not recounted.

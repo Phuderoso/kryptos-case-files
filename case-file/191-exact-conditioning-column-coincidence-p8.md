@@ -87,3 +87,19 @@ Jane Eyre. COL was selected as the statistic in cycle 201 (I-253). Margin is ins
 ## Next
 I-261 (registered replicate with a fresh seed block, or an analytic q, so the P 8 label stops resting on 0.06 SE), I-247 (Quagmire IV
 plants), I-253 remainder (newspaper / field-report models).
+
+## Addendum (cycle 205, 2026-11-12): the P 8 tail, estimated to ±2 × 10⁻⁵ (I-261 closed)
+**Voynich desk** (box audit `/workspace/voynich/kryptos-audits/c204-p8-gate/`, credit): this case's lib204 law, 10,000,000 plants per
+registered model (seeds [7204, model, chunk]). P(z ≤ z_K4) = JE 0.0033019, CARTER 0.0034586, K123MIX 0.0038084, **JEX 0.0054776 ±
+0.0000233** (binomial and between-chunk SE agree). Bit-exact reproduction of the registered P 8 cells from seed 204204. The registered
+q\* 0.0062 was a +0.98 SD draw.
+**Check here (cycle 205):** 2,000,000 fresh JEX plants, seed block [205205, 3, c], same lib204 code ([`check261.py`](../tools/cycle205/check261.py),
+[`check261.json`](../tools/cycle205/check261.json)): **0.0054005 ± 0.0000518**, −1.36 combined SE from the desk's value, **16 SE below
+the Holm bar 0.00625**. Independent seeds, *not* independent code.
+**Label:** P 8 `STAT-DISFAVOURED`, **the "borderline" qualifier is dropped** (I-262 rule: margin now ≫ 1 SE). Scope unchanged: statistical,
+model-dependent (four order-3 chain models of English, direct periodic substitution with arbitrary per-phase bijections), never an
+exclusion; the exact SAT cell is still open; power at this level ≈ 10 %.
+**G2b note (desk, adopted as method I-265):** the 32 registered held-false cells are *under*dispersed (D 9.4 on 32 dof, p 3.4 × 10⁻⁵),
+which makes the pooled bar conservative, not wrong; per-cell variance should include the reference-quantile term
+(n_h p(1−p)(1 + n_h/n_ref) ≈ 114, not 95); any reference built from real-text windows needs a cluster-aware bar (φ ≈ 4.4 in the desk's
+case 189 own-plant sizes).

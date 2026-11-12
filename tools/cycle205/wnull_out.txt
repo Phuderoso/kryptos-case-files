@@ -1,0 +1,48 @@
+== shuf_1.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 820462 | inset+centre 1267 | eq&sym(5-occ letter) 757 | eq&sym&shape 8 | inset+centre&eq 1 | inset+centre&eq&shape 0
+== shuf_2.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 819618 | inset+centre 1255 | eq&sym(5-occ letter) 786 | eq&sym&shape 4 | inset+centre&eq 2 | inset+centre&eq&shape 0
+== shuf_3.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 819463 | inset+centre 1247 | eq&sym(5-occ letter) 728 | eq&sym&shape 4 | inset+centre&eq 2 | inset+centre&eq&shape 0
+== shuf_4.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 820790 | inset+centre 1280 | eq&sym(5-occ letter) 794 | eq&sym&shape 4 | inset+centre&eq 2 | inset+centre&eq&shape 0
+== shuf_5.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 818721 | inset+centre 1276 | eq&sym(5-occ letter) 738 | eq&sym&shape 2 | inset+centre&eq 3 | inset+centre&eq&shape 0
+== shuf_6.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 820375 | inset+centre 1285 | eq&sym(5-occ letter) 798 | eq&sym&shape 7 | inset+centre&eq 6 | inset+centre&eq&shape 0
+== shuf_7.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 820235 | inset+centre 1315 | eq&sym(5-occ letter) 729 | eq&sym&shape 7 | inset+centre&eq 1 | inset+centre&eq&shape 0
+== shuf_8.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=25000000 any-letter: sym 820705 | inset+centre 1258 | eq&sym(5-occ letter) 762 | eq&sym&shape 3 | inset+centre&eq 1 | inset+centre&eq&shape 0
+== iid_11.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 230808 | inset+centre 478 | eq&sym(5-occ letter) 181 | eq&sym&shape 0 | inset+centre&eq 0 | inset+centre&eq&shape 0
+== iid_12.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 230744 | inset+centre 481 | eq&sym(5-occ letter) 176 | eq&sym&shape 1 | inset+centre&eq 0 | inset+centre&eq&shape 0
+== iid_13.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 231311 | inset+centre 448 | eq&sym(5-occ letter) 198 | eq&sym&shape 2 | inset+centre&eq 0 | inset+centre&eq&shape 0
+== iid_14.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 230422 | inset+centre 483 | eq&sym(5-occ letter) 215 | eq&sym&shape 1 | inset+centre&eq 1 | inset+centre&eq&shape 0
+== iid_15.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 230916 | inset+centre 467 | eq&sym(5-occ letter) 208 | eq&sym&shape 2 | inset+centre&eq 0 | inset+centre&eq&shape 0
+== iid_16.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 230726 | inset+centre 465 | eq&sym(5-occ letter) 175 | eq&sym&shape 0 | inset+centre&eq 0 | inset+centre&eq&shape 0
+== iid_17.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 230451 | inset+centre 476 | eq&sym(5-occ letter) 157 | eq&sym&shape 0 | inset+centre&eq 1 | inset+centre&eq&shape 0
+== iid_18.out
+K4 itself: sym=1 inset+centre=1 eq&sym(5-letter)=1 eq&sym&shape=1 ic&eq=1 ic&eq&shape=1
+N=5000000 any-letter: sym 231016 | inset+centre 458 | eq&sym(5-occ letter) 210 | eq&sym&shape 0 | inset+centre&eq 0 | inset+centre&eq&shape 0

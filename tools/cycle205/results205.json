@@ -1,0 +1,54 @@
+{
+ "shuffled_K4": {
+  "N": 200000000,
+  "counts": {
+   "sym": 6560369,
+   "inset+centre": 10183,
+   "eq&sym(5-occ letter)": 6092,
+   "eq&sym&shape": 39,
+   "inset+centre&eq": 18,
+   "inset+centre&eq&shape": 0
+  },
+  "rates": {
+   "sym": 0.032801845,
+   "inset+centre": 5.0915e-05,
+   "eq&sym(5-occ letter)": 3.046e-05,
+   "eq&sym&shape": 1.95e-07,
+   "inset+centre&eq": 9e-08,
+   "inset+centre&eq&shape": 0.0
+  },
+  "upper95_if_zero": 1.5e-08
+ },
+ "iid_uniform": {
+  "N": 40000000,
+  "counts": {
+   "sym": 1846394,
+   "inset+centre": 3756,
+   "eq&sym(5-occ letter)": 1520,
+   "eq&sym&shape": 6,
+   "inset+centre&eq": 2,
+   "inset+centre&eq&shape": 0
+  },
+  "rates": {
+   "sym": 0.04615985,
+   "inset+centre": 9.39e-05,
+   "eq&sym(5-occ letter)": 3.8e-05,
+   "eq&sym&shape": 1.5e-07,
+   "inset+centre&eq": 5e-08,
+   "inset+centre&eq&shape": 0.0
+  },
+  "upper95_if_zero": 7.5e-08
+ },
+ "exact_enumeration": "total 64446024\nEQ 1272384\nRECT 1129317\nSYM 26734\nSYM+centre 1815\nSYM+inset 775\nSYM+inset+centre(width-hits) 44\nEQ&RECT 21382\nEQ&SYM 650\nEQ&RECT&seg>=3 11011\nEQ&SYM&seg>=3 347\nK4 W check EQ=1\n",
+ "I261_check": {
+  "model": "JEX",
+  "n": 2000000,
+  "hits": 10801,
+  "p": 0.0054005,
+  "se": 5.1823424239189366e-05,
+  "voynich_p": 0.0054776,
+  "diff_in_se": -1.356515273261809,
+  "margin_to_holm_in_se": 16.392201257855138,
+  "secs": 112.71140599250793
+ }
+}
