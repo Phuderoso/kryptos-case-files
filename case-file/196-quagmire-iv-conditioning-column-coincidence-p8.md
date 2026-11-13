@@ -101,3 +101,17 @@ G0 reproduces case 11's consistency list: UNSAT at P 1–7, and SAT at exactly 8
 `python3 run209.py SUP results209.json` with PREREG209's code (in git at 28a0bc5). Corpora as case 191 (`/workspace/k4c209/sup`, sha256
 13414dee… / 05e90d80… / b81e8e7b… / 96cd16ea…). Seeds: [209210, …] run 1; [209211, …] run 2 and extension; probe [209000, 1].
 Next free seed: **209212**.
+
+## Addendum (cycle 210, 2026-11-13): the exact 85-ban C4 mask
+Text above preserved. The Voynich desk's independent SAT/SMT check (box-local `voynich/kryptos-audits/case196-c4-check/results.md`, sha256
+e06ce501…; CaDiCaL one-hot + Z3 integer model, hand certificates for 0-idx 37, 43, 50) confirmed all 81 CP-SAT bans and showed that the
+4 queries CP-SAT left UNKNOWN at 20 s are infeasible: **(37,T), (50,C), (50,E), (50,T)**. So exact C4 at P 8 has **85** extra bans (1,513 allowed
+cells), forced {35, 41, 43, 46, 61, 78}. Registered in PREREG210 Part 1 (local commit `a187f23`) before any rerun; script
+[`c4add210.py`](../tools/cycle210/c4add210.py), results [`results210_c4.json`](../tools/cycle210/results210_c4.json) (sha256 41272f46…).
+- **Gate Z (our own Z3, no time limit):** the 4 named timeouts are UNSAT; 6 sampled CP-SAT bans UNSAT; at 0-idx 43 only T is SAT; 6 sampled
+  allowed cells SAT with re-checked witnesses → pass. **Gate M:** 1,517 / 1,513 allowed, forced set as above → pass. **Gate R (I-283):** the 81-ban
+  mask with case 196's seed block 209211 reproduces JEX q 0.0074993 exactly → pass.
+- **Rerun (seed block 209212, 256-key pool, 10,000 plants per model, P 8):** q on the 85-ban mask (paired 81-ban, identical seeds) JE 0.0050 (0.0049),
+  CARTER 0.0031 (0.0034), K123MIX 0.0022 (0.0036), **JEX 0.0057 (0.0066)**. Worst model JEX, looks: 10k 0.00570 ± 0.00075; 40k 0.00575 ± 0.00038;
+  **160k 0.00595 ± 0.00019**. Bar 0.00625: |0.00595 − 0.00625| = 0.00030 < 2·SE 0.00038 → **`UNRESOLVED` (boundary band) after the 3 registered
+  looks.** The 4 extra bans move q by less than its noise. The label is unchanged; I-279 (≥ 10⁶ plants) is the way to close it, and is now cheap (160k plants in 7 s).

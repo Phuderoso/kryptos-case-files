@@ -1,0 +1,42 @@
+start 07:54:04
+g0 done 07:54:16
+Traceback (most recent call last):
+  File "<stdin>", line 6, in <module>
+FileNotFoundError: [Errno 2] No such file or directory: '$OUT/plant_0.bin'
+./run210.sh: line 24: 1185771 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185772 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185773 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185774 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185775 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185776 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185777 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185778 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185779 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185780 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185781 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+./run210.sh: line 24: 1185782 Segmentation fault      ./wrq $ct $OUT/plant_$id.bin 1 17 alph8.txt p62.txt 1 0 200000 > $OUT/plant_$id.txt
+plants done 07:54:16
+k4 bank done 07:55:34
+k4 all done 07:56:58
+null 0 07:57:06
+null 1 07:57:14
+null 2 07:57:21
+null 3 07:57:29
+null 4 07:57:37
+null 5 07:57:45
+null 6 07:57:53
+null 7 07:58:00
+null 8 07:58:08
+null 9 07:58:16
+null 10 07:58:25
+null 11 07:58:33
+null 12 07:58:42
+null 13 07:58:51
+null 14 07:58:59
+null 15 07:59:06
+null 16 07:59:14
+null 17 07:59:21
+null 18 07:59:29
+null 19 07:59:37
+end 07:59:37
+exit 0

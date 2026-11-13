@@ -1,0 +1,29 @@
+H 1 0
+H 2 0
+H 3 0
+H 4 0
+H 5 0
+H 6 0
+H 7 0
+H 8 0
+H 9 0
+H 10 0
+H 11 0
+H 12 0
+H 13 0
+H 14 0
+H 15 0
+H 16 0
+H 17 0
+H 18 2
+H 19 62
+H 20 540
+P 0 0 18 2
+P 0 0 19 44
+P 0 0 20 158
+P 0 1 19 12
+P 0 1 20 170
+P 1 0 20 84
+P 1 1 19 6
+P 1 1 20 128
+T rows=165065 dirs=2 pairs=2 L=1..20 survivors(cells, vig=variant counted once)=604 printed=604

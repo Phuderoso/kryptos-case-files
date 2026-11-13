@@ -1,0 +1,13 @@
+0 bank 12 beau EASTNORTH|EAST BERLIN|CLOCK 0 0 FOUND survivors_in_slice 152
+1 all 14 vig EASTNORTHEAST BERLIN|CLOCK 0 0 FOUND survivors_in_slice 10
+2 bank 16 vig EAST|NORTH|EAST BERLINCLOCK 0 0 FOUND survivors_in_slice 58
+3 all 12 beau EAST|NORTHEAST BERLINCLOCK 0 0 FOUND survivors_in_slice 134
+4 bank 14 beau EAST|NORTHEAST BERLIN|CLOCK 6 12 FOUND survivors_in_slice 34
+5 all 16 vig EASTNORTH|EAST BERLIN|CLOCK 5 5 FOUND survivors_in_slice 28
+6 bank 12 beau EAST|NORTH|EAST BERLINCLOCK 4 6 FOUND survivors_in_slice 154
+7 all 14 vig EAST|NORTH|EAST BERLIN|CLOCK 3 13 FOUND survivors_in_slice 338
+8 bank 16 beau EAST|NORTHEAST BERLINCLOCK 3 11 FOUND survivors_in_slice 18
+9 all 12 vig EASTNORTH|EAST BERLIN|CLOCK 4 0 FOUND survivors_in_slice 44
+10 bank 14 vig EASTNORTHEAST BERLIN|CLOCK 1 7 FOUND survivors_in_slice 24
+11 all 16 vig EASTNORTH|EAST BERLINCLOCK 9 14 FOUND survivors_in_slice 4
+plants recovered 12 / 12 PASS

@@ -1,0 +1,2 @@
+bank complete tenths 20 incomplete [] counts L15-17 {15: 0, 16: 0, 17: 4}
+all complete tenths 15 incomplete [35, 36, 37, 38, 39] counts L15-17 {15: 0, 16: 0, 17: 0}
