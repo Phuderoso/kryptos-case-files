@@ -41,3 +41,13 @@ Wall cap 330 s inside the script; if look 2 is not reached, the label says so. N
 ## Budget / process
 ≈ 8 min heavy compute in one owned process group (setsid + timeout); nothing outside the group touched. Nothing here is a solution
 claim: a solution must be a full 97-letter coherent English decryption with both cribs at their official positions.
+
+## Part C (added 2026-11-13 ~11:50 PT, PREREG211b, after parts A/B ran and before any part-C run) — measured L 16 false-survivor rate behind `all.bin`
+**Why.** The case 195 addendum (cycle 209) calls the L 16 chance false-survivor probability "well under 1 %" an *extrapolation* from the
+L 17–18 null means (soft). Measuring it directly is cheap (≈ 0.55 s per full-family run at one L).
+**Run.** 200 shuffled-K4 ciphertexts (letters permuted with Python `random.Random(209217)`, one stream, `null211.py`), each through the
+unchanged `wrbank.c` on full `all.bin`, L 16 only, counts only. Statistic: fraction of nulls with ≥ 1 survivor cell.
+**Decision.** 0 / 200 → measured per-ciphertext false-survivor rate < 1.49 % (one-sided 95 %), the "soft" L 16 rate label in case 195 is
+replaced by this measurement. k ≥ 1 → rate k/200 with Clopper–Pearson 95 %, compared with the 5 % bar of PREREG208 under the boundary
+band rule (|p − 0.05| < 2 SE → UNRESOLVED); the K4 zero at L 16 stays, but its rate statement is restated. Descriptive only: off-target
+rows among the 20 part-A plants. Next free seed after this: 209218.
