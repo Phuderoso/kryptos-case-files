@@ -77,3 +77,14 @@ five nulls (identical draw) were rerun for QII and QIV in parallel (`sat206_null
   ≈ 6 min of wall-clock heavy compute.
 
 **No solution; K4 status unchanged.**
+
+## Addendum (cycle 207, 2026-11-12): scope of the behind-bank exclusion, after the Voynich desk audit
+Text above preserved. The Voynich desk's independent recount (box-local audit c206-r1-bank, plan sha prefix 0b7210b2) **matches** this
+case's K4 counts: 0 / 4 / 106 cells at L 17 / 18 / 19 in the doubled Vigenère/variant convention (raw four-cell totals 0 / 2 / 62), and
+K4 at L 16 is 0. The **4 L 18 cells are a single configuration** (key GSBWSRDEUEMFPIXSTA, an inverse-twin pair of bank entries counted
+twice for Vigenère and variant). The verdict is rescoped as follows (this replaces "no null survives at L ≤ 17, so the test has power there"):
+- **L ≤ 16: clean exact exclusion.** Chance expectation E[N] ≈ 0.0052, P(any false survivor) ≈ 0.17 % (desk, analytic). Since cycle 207
+  this is also **plant-validated at L 16**, mid-block and grid-aligned word splits, 20 / 20 each ([case 194](194-word-restart-bank-plant-gate.md)).
+- **L 17: excluded, but weaker.** K4 has 0, yet the false-survivor rate is about 3–4 % (desk: analytic ≈ 3.8 %; Monte Carlo 1 / 40,
+  95 % CI 0.06–13 %). "0 / 20 nulls" alone does not show a rate below 5 % and should not be cited as the power argument.
+- **L 18–22:** `NO-DISCRIMINATION`, unchanged.
