@@ -90,3 +90,34 @@ triggered.
   above the 5 % bar, so it is **not excluded**. Both readings agree with the verdict above.
 - **Optional follow-up queued (I-280):** an aligned plant stratum on EAST|NORTHEAST + BERLINCLOCK, the largest split that is non-empty in
   both subfamilies (12,164 decimation + 723 route aligned pairs), with separate decimation and route sub-strata.
+
+## Addendum 2 (cycle 211, 2026-11-13): blind aligned plants 20/20 and a measured L 16 chance rate
+Text above preserved. Registered in [PREREG211](../tools/cycle211/PREREG211.md) (local commit `e358dda`, ~11:46 PT) before any plant ran and before
+the sealed truths were opened; part C added as PREREG211b (local `f406596`) before it ran.
+- **Input (Voynich desk, her own encoder, not our code):** 20 blind plants A01–A20 on the aligned EAST|NORTHEAST + BERLINCLOCK stratum
+  (boundary at layer index 25 a block edge), 10 decimations + 10 routes (fill modes 3/4/3), L 16, model Q, o1, o2 uniform 0..8 (9 plants with
+  o2 ≥ 6, so BERLINCLOCK's key indices wrap mod 16), English filler from Gutenberg #1661, her seed 6429. Ciphertexts sha256 e2466b0e…
+  (copied as `tools/cycle211/plants211_ciphertexts.txt`); sealed truths sha256 da448d89… (checked on opening: match).
+- **Blind run:** `wrbank.c` unchanged (sha256 1001272d…) on full `all.bin`, L 16, every survivor printed
+  ([`blind211.py`](../tools/cycle211/blind211.py)); [`results211_blind.json`](../tools/cycle211/results211_blind.json) sha256
+  **38e9fb60fb4feaae1880cff8a230f932ff29ae694416735003150f0ae18ee144**, committed (local `97a7c8b`) before the truths were opened. 11 s.
+- **Scored** ([`score211.py`](../tools/cycle211/score211.py), [`results211_scored.json`](../tools/cycle211/results211_scored.json) sha256 030c82c8…):
+  **20 / 20 recovered** at the true (row, dir, tm, L 16, EAST|NORTHEAST, BERLINCLOCK, o1, o2) with the planted key on every determined index →
+  **gate PASS** (≥ 19 / 20). Clopper–Pearson 95 % 0.83–1. Decimations 10 / 10, routes 10 / 10, wrapped offsets (o2 ≥ 6) 9 / 9. Undetermined key
+  indices per true line: 0–5. **Every survivor line in all 20 plants lies on the true row or its equivalent** (inverse row with the other direction,
+  or for A15 the true row's duplicate pair); 0 off-target rows. Extra lines on the true row (A04, A07, A08, A13, A15, A19: 40–92 lines) are other
+  segmentation/offset readings of the same layer that the crib letters cannot tell apart, not false survivors.
+- **Part C, measured L 16 chance rate** ([`null211.py`](../tools/cycle211/null211.py), [`results211_null.json`](../tools/cycle211/results211_null.json)
+  sha256 ed8d83e4…): 200 shuffled-K4 ciphertexts (seed 209217) over the full family at L 16: **0 / 200 with any survivor** → per-ciphertext
+  false-survivor rate **< 1.49 %** (one-sided 95 %). This replaces the extrapolated "well under 1 %" with a measured bound (still only a bound;
+  "under 1 %" would need ≈ 300 clean nulls). 111 s.
+- **Scope, restated.** The K4 zero at L 1–16 is unchanged. It is now plant-validated at L 16 on **mid-block** (48/48, cycle 208) **and on the aligned
+  EAST|NORTHEAST + BERLINCLOCK stratum, both subfamilies, including aligned routes and wrapped offsets (20/20 blind, independent encoder)**. Other
+  aligned splits (EASTNORTH|EAST, BERLIN|CLOCK, EAST|NORTH|EAST) were not drawn here; they run through the same code path. L 17–18 are unchanged
+  (`UNRESOLVED` / not excluded). Credit: the plant design, label map and sealed truths are the Voynich desk's (box-local
+  `voynich/kryptos-audits/case195-aligned-plants/`).
+- **Disclosure.** The message of commit `f406596` says "parts A/B results not yet committed". That is wrong. That commit itself added the
+  part A scoring (`score211.py`, `results211_scored.json`) and the part B results (`results211_c4look.json`), which had already run, together
+  with the part C registration. What the message should have said is that part C had not yet run. The true order: scripts `blind211.py` /
+  `c4look211.py` and PREREG211 (`e358dda`) → blind results (`97a7c8b`) → truths opened and scored, part B run → part C registered
+  (`f406596`) → part C run.

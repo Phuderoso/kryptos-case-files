@@ -115,3 +115,17 @@ cells), forced {35, 41, 43, 46, 61, 78}. Registered in PREREG210 Part 1 (local c
   CARTER 0.0031 (0.0034), K123MIX 0.0022 (0.0036), **JEX 0.0057 (0.0066)**. Worst model JEX, looks: 10k 0.00570 ± 0.00075; 40k 0.00575 ± 0.00038;
   **160k 0.00595 ± 0.00019**. Bar 0.00625: |0.00595 − 0.00625| = 0.00030 < 2·SE 0.00038 → **`UNRESOLVED` (boundary band) after the 3 registered
   looks.** The 4 extra bans move q by less than its noise. The label is unchanged; I-279 (≥ 10⁶ plants) is the way to close it, and is now cheap (160k plants in 7 s).
+
+## Addendum 2 (cycle 211, 2026-11-13): the large look, fresh seeds → P 8 `STAT-DISFAVOURED` under the worst model (I-279)
+Text above preserved. Registered in [PREREG211](../tools/cycle211/PREREG211.md) part B (local `e358dda`) before the run; script
+[`c4look211.py`](../tools/cycle211/c4look211.py), results [`results211_c4look.json`](../tools/cycle211/results211_c4look.json) (sha256 b1bd73c2…).
+- **Gates:** M (1,517 / 1,513 cells; forced {35, 41, 43, 46, 61, 78}) pass; R1 (81-ban, seed block 209211 → case 196 JEX q 0.0074993 exactly) pass;
+  R2 (85-ban, seed block 209212 → cycle 210 JEX q 0.0056994 exactly) pass.
+- **Run:** fresh seed block **209216** (new 256-key CP-SAT pool, 256 distinct), worst model JEX, exact 85-ban mask, 160,000-plant chunks.
+  **Look 1, n = 640,000: q = 0.005731 ± 0.000094.** bar − 2 SE = 0.006061, so q is outside the band (5.5 SE below 0.00625) → stopped at look 1 →
+  **`STAT-DISFAVOURED` for Quagmire IV at P 8 under the JEX model**, matching the C3 verdict (cycle 205, 0.00548 ± 0.00002). 38 s.
+- **Limits.** Statistical and model-dependent (order-3 chain models, single-position conditioning, non-uniform key pool), no transposition layer
+  (I-239), not a decryption test. Only JEX was re-looked (the registered worst model; at 10k in cycle 210 the others were 0.0050 / 0.0031 / 0.0022,
+  JE's 10k interval still reaching 0.0064 — re-looking JE is I-288). This is a fresh experiment with its own seeds; with cycle 210's three looks the
+  total number of looks at this question is five, and a 5.5-SE margin is far outside what that many looks can produce by chance. The exact SAT
+  cell at P 8 stays open.
