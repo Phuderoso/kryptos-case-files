@@ -121,3 +121,16 @@ the sealed truths were opened; part C added as PREREG211b (local `f406596`) befo
   with the part C registration. What the message should have said is that part C had not yet run. The true order: scripts `blind211.py` /
   `c4look211.py` and PREREG211 (`e358dda`) → blind results (`97a7c8b`) → truths opened and scored, part B run → part C registered
   (`f406596`) → part C run.
+
+## Addendum 3 (cycle 212, 2026-11-13): wording fixes from the Voynich desk's second count, and a commit-hash erratum
+Text above preserved. The Voynich desk independently re-scored the 20 blind plants with her own scorer and got **20 / 20** (decimations 10/10,
+routes 10/10, wrapped 9/9; box-local `voynich/kryptos-audits/case195-second-count/`). She asked for two wording fixes, adopted here:
+- **A15:** addendum 2 says "or for A15 the true row's duplicate pair". That is inexact. A15's extra lines sit on rows **164,727 (dir 0) and 164,980
+  (dir 1)**. Their maps match the true map (164,841 dir 1) at **76 of 97 positions, including all 24 crib positions**. They are
+  **crib-equivalent** rows, not duplicates. "0 off-target rows" holds under that crib-equivalence definition.
+- **`undetermined_key_idx`:** in `results211_scored.json` this field stores the **count** of undetermined key indices on each true line (e.g. A04 `[4]`),
+  not the indices. The values quoted above ("0–5") are counts. Cycle 212's scorer calls the field `undetermined_key_idx_count`.
+- **Commit-hash erratum.** The local hashes cited in addendum 2 were rewritten when the commits were published (same content, new parents). Map:
+  PREREG211 `e358dda` → published **`d543fc5`**; blind results `97a7c8b` → **`dc266c9`**; PREREG211b `f406596` → **`3f30a0a`**. The misstated
+  message disclosed above ("parts A/B results not yet committed") is on published commit **`3f30a0a`**. It was not amended (no force-push). This
+  addendum is the correction of record.

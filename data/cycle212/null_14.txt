@@ -1,0 +1,18 @@
+S perm=74854 dir=0 X=AGENCYKRPTOSBDFHIJLMQUVWXZ Y=LODESTNABCFGHIJKMPQRUVWXYZ ix=134 iy=30 form=vig L=16 segE=EASTNORTH|EAST segB=BERLINCLOCK o1=2 o2=5 key=GIXBYDOLONMDKXPZ
+H 1 0
+H 2 0
+H 3 0
+H 4 0
+H 5 0
+H 6 0
+H 7 0
+H 8 0
+H 9 0
+H 10 0
+H 11 0
+H 12 0
+H 13 0
+H 14 0
+H 15 0
+H 16 1
+T rows=16578 dirs=2 alphabets=144 L=1..16 configs=11968 groups=150 survivors(cells, vig=variant counted once)=1 printed=1

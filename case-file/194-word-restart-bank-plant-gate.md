@@ -56,3 +56,12 @@ See the addendum at the end of [case 193](193-word-restart-two-alphabets-and-beh
 but weaker (false-survivor rate ≈ 4 % analytic, 1 / 40 in the desk's nulls, not "0 of 20"); L 18 survivors are one configuration.
 
 **No solution; K4 status unchanged.**
+
+## Addendum (cycle 212, 2026-11-13): wrapped-offset blind plants behind the bank (I-287), 10/10
+Text above preserved. Registered in [PREREG212](../tools/cycle212/PREREG212.md) part B (local `83634a6`). The Voynich desk built 10 blind
+plants W01–W10 with her own encoder (seed 11784, sealed truths sha256 c0e20249…). They use R1 on AZ/KA × Vig/Beau at L 16, behind uniformly
+drawn non-identity bank rows, with BERLINCLOCK unsplit at **o2 ∈ {6, 7, 8}**, so its key indices wrap mod 16. That is the stratum this case's
+stratum design (o = 0) did not plant. Unchanged `wrbank.c` on the full bank recovered **10 / 10** at the true configuration with the planted
+key (blind results `fe71b46`, sha256 4fb86603…, committed before opening). Extra lines are inverse twins, crib-equivalent rows, or
+near-equivalent rows that agree on 19–23 of the 24 crib positions; none is a random off-target row. Details are in
+[case 198](198-word-restart-themed-keyword-tableaux-hash-join.md) part B. The case 193 L ≤ 16 bank exclusion is now plant-validated on wrapped offsets as well.
