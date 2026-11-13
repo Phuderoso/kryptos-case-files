@@ -88,3 +88,19 @@ twice for Vigenère and variant). The verdict is rescoped as follows (this repla
 - **L 17: excluded, but weaker.** K4 has 0, yet the false-survivor rate is about 3–4 % (desk: analytic ≈ 3.8 %; Monte Carlo 1 / 40,
   95 % CI 0.06–13 %). "0 / 20 nulls" alone does not show a rate below 5 % and should not be cited as the power argument.
 - **L 18–22:** `NO-DISCRIMINATION`, unchanged.
+
+## Addendum 2 (cycle 209, 2026-11-13): L 17 relabelled `UNRESOLVED`; independent blind validation at L 16
+Text above preserved.
+- **Boundary-band rule (Voynich desk, adopted cycle 208; IDEAS I-281):** a rate p estimated against a bar α is labelled
+  `UNRESOLVED` when |p − α| < 2·SE. At **L 17** the false-survivor rate is 1 / 40 = 0.025 (SE 0.025), so |0.025 − 0.05| = 0.025 < 0.049.
+  The desk's analytic ≈ 3.8 % also sits inside the band. **L 17 is therefore `UNRESOLVED`**, replacing the cycle-207 wording
+  "excluded, but weaker". K4's zero at L 17 stays a fact; it is not cited as an exclusion. Sharpening it is I-277.
+- **L ≤ 16 is unchanged, and now independently validated.** The Voynich desk enciphered 5 blind L 16 R1 plants with her own encoder
+  (seed 11774, ciphertexts and a sealed truth file, sha256 59f44d47…; box-local `voynich/kryptos-audits/case193-blind-plants/`,
+  read-only here). We ran them through the unchanged `wrbank.c` behind the same 165,065 bank before the reveal (box-local
+  `kryptos/blind-plants-c193/`, results json sha b6b3def9…). Survivor cells were 28 / 12 / 192 / 2 / 480, equal to her independent counter
+  on all five. After the reveal (salt b9bf7a3f…), **all 5 true configurations** (bank entry and direction, tableau / form,
+  segmentation, o1, o2, key) **are in the survivor listing**. That is 3 mid-block and 2 grid-aligned plants, with offsets o1 2–14 and o2 3–14, so they
+  include non-zero offsets at L 16. Re-checked this cycle line by line against `truths.json`: 5/5. Her non-crib filler was
+  monogram-frequency noise, which explains why no survivor read as English outside the cribs. This closes case 194's same-author blind
+  spot (I-274) for the bank at L 16. n = 5 is a spot check, not a rate.

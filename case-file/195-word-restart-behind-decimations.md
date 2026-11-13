@@ -73,3 +73,20 @@ planted key at every determined index. **Gate PASS**, 30 s.
 - **Compute:** gate 30 s + registered run 4 min 23 s (23:48:18–23:52:41 PT) on 6 threads, one owned process group; ≈ 5 min total.
 
 **No solution; K4 status unchanged.**
+
+## Addendum (cycle 209, 2026-11-13): plant coverage audit by the Voynich desk; L 16 scope
+Text above preserved. The Voynich desk counted mid-block vs block-aligned crib splits over the whole family
+(box-local `voynich/kryptos-audits/case195-coverage/results.md`; plan sha256 f331d1cd…, addenda 31b1ea41… and ab5b5577…, label map
+32142da5…, all hashed before counting; 0 unmatched rows). Of the 1,326,256 (row, segmentation) pairs, **84.4 %** are mid-block,
+**3.08 %** block-aligned, and 12.5 % unsegmented. Aligned pairs occur only for decimations with M > 97 and s ∉ {1, M−1}, and for routes. Of
+cycle 208's 55 recovered plants, **53 were mid-block and 2 aligned** (both stratum A, L 16, decimations M 109 / M 110 on
+EASTNORTH|EAST + BERLINCLOCK). No aligned route plant was drawn. Her locked rule calls the coverage adequate, so no new plant design was
+triggered.
+- **Scope, restated.** The K4 zero at L ≤ 16 runs over every (row, segmentation, offset), so the exclusion itself is unchanged. What changes is
+  how strongly it is plant-validated. **Mid-block: validated at L 16** (48 of 48 L-16 mid-block plants). **Grid-aligned: only weakly**
+  (2 / 2, Clopper–Pearson 95 % interval 0.16–1). **Aligned routes: not exercised.** The "chance false-survivor probability at L 16 well under 1 %"
+  above is an **extrapolation** from the L 17–18 null means, not a measured rate, so it is read as soft.
+- **L 17 under the boundary-band rule (I-281):** 1 / 20 nulls (p 0.05, SE 0.049) is `UNRESOLVED`. **L 18:** 6 / 20 (0.30, SE 0.10) is clearly
+  above the 5 % bar, so it is **not excluded**. Both readings agree with the verdict above.
+- **Optional follow-up queued (I-280):** an aligned plant stratum on EAST|NORTHEAST + BERLINCLOCK, the largest split that is non-empty in
+  both subfamilies (12,164 decimation + 723 route aligned pairs), with separate decimation and route sub-strata.

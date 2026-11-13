@@ -1,0 +1,24 @@
+{
+ "mask_stats": {
+  "queries": 1407,
+  "unknown_query": 4,
+  "unsat_query": 78,
+  "allowed_c3": 1598,
+  "allowed_c4": 1517,
+  "extra_bans_positions": 81,
+  "empty_rows": 0
+ },
+ "mask_same_as_run2": null,
+ "pool_distinct": 256,
+ "q_tag10": 0.007499250074992501,
+ "reproduces_run2": true,
+ "q_tag11_only": 0.00556648111729609,
+ "n": 40000,
+ "q_ext": 0.006024849378765531,
+ "se_ext": 0.0003869286293597541,
+ "other_models_max": 0.004299570042995701,
+ "qstar_decision": 0.006024849378765531,
+ "se_decision": 0.0003869286293597541,
+ "bar": 0.00625,
+ "label": "UNRESOLVED (boundary band)"
+}
