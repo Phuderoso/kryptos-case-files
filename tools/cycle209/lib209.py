@@ -120,3 +120,38 @@ def qiv_encipher_rows(X, key, P):
     finv, ginv, k = key                     # finv = PA^-1 (letter -> index), ginv = CA^-1
     CA = np.argsort(ginv)
     return CA[(finv[X] + k[np.arange(N) % P][None, :]) % 26]
+
+
+def _sample_key(args):
+    P, pairs, seed = args
+    r = np.random.default_rng(seed)
+    m, f, g, k = qiv_model(P, pairs)
+    for v in list(f.values())[1:] + list(g.values()) + k:
+        m.AddHint(v, int(r.integers(0, 26)))
+    s = cp_model.CpSolver(); s.parameters.num_workers = 1; s.parameters.max_time_in_seconds = 20
+    s.parameters.random_seed = int(r.integers(0, 2**31 - 1)); s.parameters.randomize_search = True
+    st = s.Solve(m)
+    if st not in (cp_model.OPTIMAL, cp_model.FEASIBLE): return None
+    return ({a: s.Value(v) for a, v in f.items()}, {a: s.Value(v) for a, v in g.items()}, [s.Value(v) for v in k])
+
+
+def key_pool(P, ct, seeds, procs=8):
+    """pool of crib-consistent Quagmire IV keys (reduced solutions) from randomised CP-SAT runs; duplicates kept out."""
+    from multiprocessing import Pool
+    pairs = crib_pairs(ct)
+    with Pool(procs) as pool:
+        sols = [s for s in pool.map(_sample_key, [(P, pairs, sd) for sd in seeds]) if s is not None]
+    uniq = {}
+    for s in sols:
+        uniq.setdefault((tuple(sorted(s[0].items())), tuple(sorted(s[1].items())), tuple(s[2])), s)
+    return list(uniq.values()), len(sols)
+
+
+def qiv_encipher_pool(rng, X, pool, P):
+    """each row enciphered by a key drawn from the pool, free letters completed uniformly at random per row."""
+    n = X.shape[0]; Y = np.empty_like(X)
+    idx = rng.integers(0, len(pool), size=n)
+    for i in range(n):
+        key = full_key_from_solution(rng, pool[idx[i]], P)
+        Y[i] = qiv_encipher_rows(X[i:i + 1], key, P)[0]
+    return Y
