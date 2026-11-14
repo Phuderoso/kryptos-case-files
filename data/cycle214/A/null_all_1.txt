@@ -1,0 +1,2 @@
+S perm=156141 dir=0 X=114 Y=61 form=0 k=637516699204758331184516
+T rows=16579 dirs=2 pairforms=2062692864 survivors=1

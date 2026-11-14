@@ -1,0 +1,106 @@
+{
+ "recovered": 10,
+ "n": 10,
+ "per_plant": [
+  {
+   "plant": "G01",
+   "recovered": true,
+   "lines": 2,
+   "off_target": 1,
+   "form": "AZ beau",
+   "o1": 4,
+   "o2": 6,
+   "perm": 237
+  },
+  {
+   "plant": "G02",
+   "recovered": true,
+   "lines": 2,
+   "off_target": 1,
+   "form": "KA vig",
+   "o1": 4,
+   "o2": 8,
+   "perm": 645
+  },
+  {
+   "plant": "G03",
+   "recovered": true,
+   "lines": 2,
+   "off_target": 1,
+   "form": "AZ vig",
+   "o1": 1,
+   "o2": 7,
+   "perm": 113509
+  },
+  {
+   "plant": "G04",
+   "recovered": true,
+   "lines": 2,
+   "off_target": 1,
+   "form": "AZ vig",
+   "o1": 1,
+   "o2": 7,
+   "perm": 227
+  },
+  {
+   "plant": "G05",
+   "recovered": true,
+   "lines": 2,
+   "off_target": 1,
+   "form": "AZ vig",
+   "o1": 2,
+   "o2": 6,
+   "perm": 1451
+  },
+  {
+   "plant": "G06",
+   "recovered": true,
+   "lines": 2,
+   "off_target": 1,
+   "form": "KA vig",
+   "o1": 4,
+   "o2": 8,
+   "perm": 112935
+  },
+  {
+   "plant": "G07",
+   "recovered": true,
+   "lines": 4,
+   "off_target": 3,
+   "form": "KA beau",
+   "o1": 5,
+   "o2": 6,
+   "perm": 135674
+  },
+  {
+   "plant": "G08",
+   "recovered": true,
+   "lines": 4,
+   "off_target": 3,
+   "form": "AZ beau",
+   "o1": 5,
+   "o2": 8,
+   "perm": 288
+  },
+  {
+   "plant": "G09",
+   "recovered": true,
+   "lines": 12,
+   "off_target": 11,
+   "form": "KA beau",
+   "o1": 4,
+   "o2": 6,
+   "perm": 789
+  },
+  {
+   "plant": "G10",
+   "recovered": true,
+   "lines": 4,
+   "off_target": 3,
+   "form": "AZ beau",
+   "o1": 2,
+   "o2": 6,
+   "perm": 980
+  }
+ ]
+}

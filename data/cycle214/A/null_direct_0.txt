@@ -1,0 +1,3 @@
+S perm=-1 dir=0 X=2400 Y=708 form=1 k=769289900165094579804427
+S perm=-1 dir=0 X=2400 Y=18488 form=1 k=769299900265090575904427
+T rows=1 dirs=1 pairforms=1128457041 survivors=2

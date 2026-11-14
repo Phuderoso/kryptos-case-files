@@ -1,0 +1,1 @@
+T rows=1 dirs=1 pairforms=1128196848 survivors=0

@@ -1,0 +1,231 @@
+[
+ {
+  "src": "k4_all",
+  "perm": 94432,
+  "dir": 1,
+  "X": [
+   "SLOWLYDESPARATLY/Z"
+  ],
+  "Y": [
+   "MAGNETIC/K"
+  ],
+  "form": 2,
+  "k": "353093431550239694766323",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   27,
+   29,
+   31,
+   32,
+   34,
+   39,
+   40
+  ]
+ },
+ {
+  "src": "k4_all",
+  "perm": 94433,
+  "dir": 0,
+  "X": [
+   "SLOWLYDESPARATLY/Z"
+  ],
+  "Y": [
+   "MAGNETIC/K"
+  ],
+  "form": 2,
+  "k": "353093431550239694766323",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   27,
+   29,
+   31,
+   32,
+   34,
+   39,
+   40
+  ]
+ },
+ {
+  "src": "null_all_1",
+  "perm": 156141,
+  "dir": 0,
+  "X": [
+   "WORLDCLOCK/K"
+  ],
+  "Y": [
+   "BILLWEBSTER/Z"
+  ],
+  "form": 0,
+  "k": "637516699204758331184516",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   38
+  ]
+ },
+ {
+  "src": "null_bank_4",
+  "perm": 107604,
+  "dir": 1,
+  "X": [
+   "MEMORY/K"
+  ],
+  "Y": [
+   "WHIRLPOOL/Z"
+  ],
+  "form": 0,
+  "k": "964606184489555425682133",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   40
+  ]
+ },
+ {
+  "src": "null_bank_7",
+  "perm": 154277,
+  "dir": 0,
+  "X": [
+   "WEBSTER/K"
+  ],
+  "Y": [
+   "JIMSANBORN/Z"
+  ],
+  "form": 2,
+  "k": "939716444062962905924858",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   30,
+   32,
+   34
+  ]
+ },
+ {
+  "src": "null_bank_9",
+  "perm": 144649,
+  "dir": 0,
+  "X": [
+   "SCHEIDT/K"
+  ],
+  "Y": [
+   "COPPER/K"
+  ],
+  "form": 2,
+  "k": "642431329457672535996899",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   31,
+   33,
+   34,
+   40
+  ]
+ },
+ {
+  "src": "null_direct_0",
+  "perm": -1,
+  "dir": 0,
+  "X": "c:ANTEROOM",
+  "Y": "k:ACTUATED",
+  "form": 1,
+  "k": "769289900165094579804427",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   27,
+   28,
+   29,
+   30
+  ]
+ },
+ {
+  "src": "null_direct_0",
+  "perm": -1,
+  "dir": 0,
+  "X": "c:ANTEROOM",
+  "Y": "k:EDUCATE",
+  "form": 1,
+  "k": "769299900265090575904427",
+  "grom_ix0": [],
+  "grom_ix1": [],
+  "per_ix0": [],
+  "per_ix1": [],
+  "grom_all_ix0": [
+   27,
+   28,
+   29,
+   30
+  ],
+  "grom_all_ix1": [
+   27,
+   28,
+   29,
+   30
+  ]
+ }
+]

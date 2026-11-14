@@ -1,0 +1,21 @@
+A01 direct REC gromark_true_L True L 2 ix 0 lines 1
+A02 direct REC gromark_true_L True L 5 ix 1 lines 120
+A03 direct REC gromark_true_L True L 5 ix 1 lines 1
+A04 direct REC gromark_true_L True L 4 ix 1 lines 519
+A05 direct REC gromark_true_L True L 4 ix 0 lines 1
+A06 direct REC gromark_true_L True L 10 ix 1 lines 7
+A07 direct REC gromark_true_L True L 3 ix 0 lines 37
+A08 direct REC gromark_true_L True L 5 ix 1 lines 23
+A09 direct REC gromark_true_L True L 7 ix 0 lines 142
+A10 direct REC gromark_true_L True L 7 ix 0 lines 3
+A11 bank REC gromark_true_L True L 4 ix 1 lines 12
+A12 all REC gromark_true_L True L 6 ix 0 lines 4
+A13 all REC gromark_true_L True L 10 ix 0 lines 2
+A14 bank REC gromark_true_L True L 3 ix 0 lines 2
+A15 all REC gromark_true_L True L 8 ix 0 lines 2
+A16 all REC gromark_true_L True L 6 ix 1 lines 2
+A17 bank REC gromark_true_L True L 3 ix 0 lines 2
+A18 bank REC gromark_true_L True L 4 ix 0 lines 2
+A19 bank REC gromark_true_L True L 5 ix 0 lines 2
+A20 all REC gromark_true_L True L 2 ix 1 lines 2
+gate 20 / 20 -> PASS

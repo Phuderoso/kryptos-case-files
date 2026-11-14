@@ -1,0 +1,3 @@
+S perm=50 dir=1 X=26 Y=82 form=2 k=486592102224197563292196
+S perm=51 dir=0 X=26 Y=82 form=2 k=486592102224197563292196
+T rows=101 dirs=2 pairforms=12566016 survivors=2

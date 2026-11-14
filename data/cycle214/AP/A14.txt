@@ -1,0 +1,3 @@
+S perm=49 dir=1 X=133 Y=85 form=2 k=717885631940397966521738
+S perm=50 dir=0 X=133 Y=85 form=2 k=717885631940397966521738
+T rows=101 dirs=2 pairforms=12566016 survivors=2

@@ -89,3 +89,11 @@ heuristic continuation of the last crib word):
 - **Compute:** part A 6 min 41 s wall (G0″ 14 s, plants 4 s, K4 bank 92 s, K4 all 95 s, nulls 196 s); part B 5 s. Total ≈ 6.8 min.
 
 **No solution; K4 status unchanged.**
+
+## Addendum 1 (cycle 214) — L 15 Poisson tail (Voynich desk, credit)
+The desk computed the chance of case 198's one all.bin L 15 line (2 cells = 1 inverse-twin configuration, key HYYWRQXIDKIFCPU) in
+`kryptos-audits/case198-L15-poisson/` (own code, no solver rerun; null shuffles and per-tenth counts reproduced exactly). Under the
+preregistered analytic E = 1.6134 cells: P(N_cells ≥ 2) = 0.479, P(N_config ≥ 1) = 0.554; calibrated to the L 16 null/E ratio:
+0.308 / 0.428. Zero null cells in 10 tenths only bound the rate (λ_U 3.0 at 95 %), they do not make one line rare. Caveats: inverse
+twins cannot re-form across tenths, and bank L 16 tenths are overdispersed. **Reading: the L 15 line is at chance; `NO-SIGNAL`
+stands.** Verified here only by re-reading her inputs and hashes, not by recomputation.

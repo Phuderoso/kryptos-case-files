@@ -65,3 +65,8 @@ stratum design (o = 0) did not plant. Unchanged `wrbank.c` on the full bank reco
 key (blind results `fe71b46`, sha256 4fb86603…, committed before opening). Extra lines are inverse twins, crib-equivalent rows, or
 near-equivalent rows that agree on 19–23 of the 24 crib positions; none is a random off-target row. Details are in
 [case 198](198-word-restart-themed-keyword-tableaux-hash-join.md) part B. The case 193 L ≤ 16 bank exclusion is now plant-validated on wrapped offsets as well.
+
+## Addendum (cycle 214) — aligned rows at wrapped offsets (I-292)
+The Voynich desk's 10 blind grid-aligned (all block widths | 30) L 16 plants with o2 ∈ {6, 7, 8} (BERLINCLOCK key indices wrapping)
+and o1 0–8 were recovered **10/10** by the unchanged `wrbank` on the full bank (blind file committed before unsealing).
+Details: [case 200](200-digit-key-two-keyed-alphabets.md) Part B.
