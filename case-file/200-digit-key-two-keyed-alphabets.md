@@ -67,3 +67,10 @@ recount is still open (I-291, pointer I-298).
 
 ## Part D — case 198 addendum
 Filed in [case 198](198-word-restart-themed-keyword-tableaux-hash-join.md) (addendum 1): the Voynich desk's L 15 Poisson tail.
+
+## Addendum 1 (cycle 216) — independent recount and one-error robustness
+- **Voynich desk recount** (own `dsearch.c`, own Gromark solver, counts frozen in her commit 861852c before diffing; she disclosed one
+  earlier view of `gron214.c` / `check214.py`): direct 0, bank 0, all.bin 2 cells = 1 cluster, Gromark / periodic L ≤ 25 none — **full
+  agreement**, verified here ([case 202](202-one-error-digit-keys-and-cluster-threshold-scan.md) Part C).
+- **One wrong letter (I-297):** the Gromark L 1–21 and periodic P 1–24 exclusions above hold with any one crib seat allowed to fail, in all
+  three scopes; the L 22–25 exclusions behind the families do **not** carry over (one-error `NO-SIGNAL`). Details in case 202 Part A.

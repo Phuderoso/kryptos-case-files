@@ -7,8 +7,10 @@ python3 plant216.py
 while IFS=$'\t' read pid scope q d X Y form model L ix j dig p C; do
   if [ $scope = direct ]; then ./gron216 $C x alpha.bin 1 0 1000 $((X%1000)) 100000 > AP/p$pid.txt
   else ./gron216 $C $scope.bin themed144.bin 2000 $((q%2000)) 1 0 100000 > AP/p$pid.txt; fi
-  if [ $scope = direct ]; then python3 check216.py $C x alpha.bin AP/p$pid.txt > AP/p$pid.json
-  else python3 check216.py $C $scope.bin themed144.bin AP/p$pid.txt > AP/p$pid.json; fi
+  # stage 2 on the planted cell's line only (deviation 1 in case 202: structured plant texts print thousands of neighbour lines;
+  # the pass rule only reads the planted cell, so this cannot change a pass/fail)
+  if [ $scope = direct ]; then grep "^S perm=-1 dir=0 X=$X Y=$Y form=$form " AP/p$pid.txt > AP/p$pid.cell.txt; python3 check216.py $C x alpha.bin AP/p$pid.cell.txt > AP/p$pid.json
+  else grep "^S perm=$q dir=$d X=$X Y=$Y form=$form " AP/p$pid.txt > AP/p$pid.cell.txt; python3 check216.py $C $scope.bin themed144.bin AP/p$pid.cell.txt > AP/p$pid.json; fi
 done < plants216.tsv
 echo "plants done $(date +%T)"
 # 2. K4, three scopes, full

@@ -1,0 +1,17 @@
+gate P 20 / 20
+direct K4 {'rows': 1, 'dirs': 1, 'pairforms': 22566799083, 'survivors': 41, 's24': 0, 's23': 41} maps 41 clusters 41 | null cells [0, 6, 0, 1, 1, 2, 2, 2, 2, 3, 15, 6, 1, 0, 1, 1, 0, 3, 1, 0] scaled 47.0 p 0.828
+   gromark:25 EXACT-EXCL (one-error scope, discriminating) K4 0 None | null 1 / 47 None
+   periodic:25 INSUFFICIENT-DISCRIMINATION K4 1 None | null 0 / 47 None
+bank K4 {'rows': 165065, 'dirs': 2, 'pairforms': 20536727040, 'survivors': 44, 's24': 0, 's23': 44} maps 21 clusters 21 | null cells [22, 4, 4, 6, 2, 7, 12, 3, 0, 11] scaled 71.0 p 0.9998
+   gromark:22 EXACT-EXCL (one-error scope; zero is exact, low power: null-eq 3.0) K4 0 None | null 3 / 71 -7.415
+   gromark:23 EXACT-EXCL (one-error scope; zero is exact, low power: null-eq 4.0) K4 0 None | null 4 / 71 -6.934
+   gromark:24 NO-SIGNAL (consistent, gibberish) K4 4 -7.04 | null 3 / 71 -6.762
+   gromark:25 NO-SIGNAL (consistent, gibberish) K4 2 -6.852 | null 13 / 71 -6.931
+all K4 {'rows': 165782, 'dirs': 2, 'pairforms': 20625933312, 'survivors': 78, 's24': 2, 's23': 76} maps 39 clusters 39 | null cells [9, 2, 7, 5, 9, 4, 18, 9, 8, 4] scaled 75.0 p 0.3797
+   gromark:21 EXACT-EXCL (one-error scope, discriminating) K4 0 None | null 1 / 75 -7.351
+   gromark:22 NO-SIGNAL (consistent, gibberish) K4 2 -7.251 | null 0 / 75 None
+   gromark:23 NO-SIGNAL (consistent, gibberish) K4 8 -6.891 | null 6 / 75 -6.989
+   gromark:24 NO-SIGNAL (consistent, gibberish) K4 12 -6.948 | null 10 / 75 -6.866
+   gromark:25 NO-SIGNAL (consistent, gibberish) K4 16 -6.743 | null 18 / 75 -6.586
+   periodic:24 EXACT-EXCL (one-error scope, discriminating) K4 0 None | null 1 / 75 -6.861
+   periodic:25 INSUFFICIENT-DISCRIMINATION K4 4 -7.193 | null 0 / 75 None

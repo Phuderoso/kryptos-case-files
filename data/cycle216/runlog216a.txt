@@ -1,0 +1,47 @@
+start 07:52:52
+plants done 07:52:57
+k4 direct 07:53:24 T rows=1 dirs=1 pairforms=22566799083 survivors=41 s24=0 s23=41
+k4 bank 07:53:55 T rows=165065 dirs=2 pairforms=20536727040 survivors=44 s24=0 s23=44
+k4 all 07:54:23 T rows=165782 dirs=2 pairforms=20625933312 survivors=78 s24=2 s23=76
+null direct 0 T rows=1 dirs=1 pairforms=1128457041 survivors=0 s24=0 s23=0
+null direct 1 T rows=1 dirs=1 pairforms=1128457041 survivors=6 s24=0 s23=6
+null direct 2 T rows=1 dirs=1 pairforms=1128457041 survivors=0 s24=0 s23=0
+null direct 3 T rows=1 dirs=1 pairforms=1128457041 survivors=1 s24=0 s23=1
+null direct 4 T rows=1 dirs=1 pairforms=1128457041 survivors=1 s24=0 s23=1
+null direct 5 T rows=1 dirs=1 pairforms=1128457041 survivors=2 s24=0 s23=2
+null direct 6 T rows=1 dirs=1 pairforms=1128457041 survivors=2 s24=0 s23=2
+null direct 7 T rows=1 dirs=1 pairforms=1128457041 survivors=2 s24=1 s23=1
+null direct 8 T rows=1 dirs=1 pairforms=1128457041 survivors=2 s24=1 s23=1
+null direct 9 T rows=1 dirs=1 pairforms=1128457041 survivors=3 s24=0 s23=3
+null direct 10 T rows=1 dirs=1 pairforms=1128457041 survivors=15 s24=0 s23=15
+null direct 11 T rows=1 dirs=1 pairforms=1128196848 survivors=6 s24=1 s23=5
+null direct 12 T rows=1 dirs=1 pairforms=1128196848 survivors=1 s24=0 s23=1
+null direct 13 T rows=1 dirs=1 pairforms=1128196848 survivors=0 s24=0 s23=0
+null direct 14 T rows=1 dirs=1 pairforms=1128196848 survivors=1 s24=0 s23=1
+null direct 15 T rows=1 dirs=1 pairforms=1128196848 survivors=1 s24=0 s23=1
+null direct 16 T rows=1 dirs=1 pairforms=1128196848 survivors=0 s24=0 s23=0
+null direct 17 T rows=1 dirs=1 pairforms=1128196848 survivors=3 s24=0 s23=3
+null direct 18 T rows=1 dirs=1 pairforms=1128196848 survivors=1 s24=0 s23=1
+null direct 19 T rows=1 dirs=1 pairforms=1128196848 survivors=0 s24=0 s23=0
+null bank 0 T rows=16507 dirs=2 pairforms=2053734912 survivors=22 s24=0 s23=22
+null bank 1 T rows=16507 dirs=2 pairforms=2053734912 survivors=4 s24=0 s23=4
+null bank 2 T rows=16507 dirs=2 pairforms=2053734912 survivors=4 s24=1 s23=3
+null bank 3 T rows=16507 dirs=2 pairforms=2053734912 survivors=6 s24=0 s23=6
+null bank 4 T rows=16507 dirs=2 pairforms=2053734912 survivors=2 s24=0 s23=2
+null bank 5 T rows=16506 dirs=2 pairforms=2053610496 survivors=7 s24=0 s23=7
+null bank 6 T rows=16506 dirs=2 pairforms=2053610496 survivors=12 s24=2 s23=10
+null bank 7 T rows=16506 dirs=2 pairforms=2053610496 survivors=3 s24=0 s23=3
+null bank 8 T rows=16506 dirs=2 pairforms=2053610496 survivors=0 s24=0 s23=0
+null bank 9 T rows=16506 dirs=2 pairforms=2053610496 survivors=11 s24=0 s23=11
+null all 0 T rows=16579 dirs=2 pairforms=2062692864 survivors=9 s24=0 s23=9
+null all 1 T rows=16579 dirs=2 pairforms=2062692864 survivors=2 s24=0 s23=2
+null all 2 T rows=16578 dirs=2 pairforms=2062568448 survivors=7 s24=0 s23=7
+null all 3 T rows=16578 dirs=2 pairforms=2062568448 survivors=5 s24=0 s23=5
+null all 4 T rows=16578 dirs=2 pairforms=2062568448 survivors=9 s24=1 s23=8
+null all 5 T rows=16578 dirs=2 pairforms=2062568448 survivors=4 s24=0 s23=4
+null all 6 T rows=16578 dirs=2 pairforms=2062568448 survivors=18 s24=0 s23=18
+null all 7 T rows=16578 dirs=2 pairforms=2062568448 survivors=9 s24=0 s23=9
+null all 8 T rows=16578 dirs=2 pairforms=2062568448 survivors=8 s24=0 s23=8
+null all 9 T rows=16578 dirs=2 pairforms=2062568448 survivors=4 s24=0 s23=4
+scan end 07:55:48
+end 07:55:57

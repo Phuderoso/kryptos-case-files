@@ -44,3 +44,9 @@ Cases 194 (plant gate) and 196 (Quagmire IV SAT q) have no survivor-cell tables:
 Case 197's null lines and case 193/195 nulls at L ≤ 16 were not regenerated (zeros there; nothing to cluster). One null-equivalent per family
 for case 198 is a single draw (tenths are overdispersed, I-296 note). The ≥ 16/24 threshold is the desk's; no threshold scan was done
 (I-300). **No solution.**
+
+## Addendum 1 (cycle 216) — independent recount, threshold scan, intervals
+The Voynich desk recounted every row with her own code (56/56, 0 discrepancies), swept the threshold T 12–24 (flat at 14–17; no reading
+moves), and gave Clopper–Pearson 95 % bands (L 18 ≥ 1 cluster 6/20 → [11.89 %, 54.28 %] per family; L 17 case 199 1/100 → [0.03 %, 5.45 %]).
+Cycle 216 reproduced the sweep line-for-line with `clus216b.py` and recomputed the bands. T 24 (identical maps) now sits beside T 16:
+bank L 19 K4 31 vs null mean 23.1 (5 above). The "no threshold scan" blind spot is closed (I-300). [Case 202](202-one-error-digit-keys-and-cluster-threshold-scan.md) Parts B–C.

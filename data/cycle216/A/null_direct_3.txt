@@ -1,0 +1,2 @@
+S perm=-1 dir=0 X=11583 Y=69037 form=1 bad=11 badk=17 k=1,7,2,2,8,1,0,1,2,7,3,17,7,6,4,4,1,5,9,6,0,3,8,8
+T rows=1 dirs=1 pairforms=1128457041 survivors=1 s24=0 s23=1
