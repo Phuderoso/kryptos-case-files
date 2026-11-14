@@ -139,3 +139,6 @@ routes 10/10, wrapped 9/9; box-local `voynich/kryptos-audits/case195-second-coun
 Text above preserved. 0/100 fresh shuffled-K4 nulls (seed 209221) at L 17 behind `all.bin`, K4 0, 30/30 L 17 plants (seed 209222) on top of
 cycle 208's 5/5: **L 17 relabelled `EXCLUDED` (exact, discriminating)** (was `UNRESOLVED`, 1/20). L 18 unchanged.
 See [case 199](199-r1-l17-frontier-measured-rate-and-je-relook.md).
+
+## Addendum (cycle 215, 2026-11-14): cluster recount
+Text above preserved. The survivor lines of this case were recounted in cells / distinct crib maps / clusters with the PREREG214 part C rule in [case 201](201-cluster-recount-cases-193-198.md). No label changes.

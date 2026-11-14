@@ -97,3 +97,6 @@ preregistered analytic E = 1.6134 cells: P(N_cells ≥ 2) = 0.479, P(N_config �
 0.308 / 0.428. Zero null cells in 10 tenths only bound the rate (λ_U 3.0 at 95 %), they do not make one line rare. Caveats: inverse
 twins cannot re-form across tenths, and bank L 16 tenths are overdispersed. **Reading: the L 15 line is at chance; `NO-SIGNAL`
 stands.** Verified here only by re-reading her inputs and hashes, not by recomputation.
+
+## Addendum (cycle 215, 2026-11-14): cluster recount
+Text above preserved. The survivor lines of this case were recounted in cells / distinct crib maps / clusters with the PREREG214 part C rule in [case 201](201-cluster-recount-cases-193-198.md). No label changes.
