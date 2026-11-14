@@ -1,0 +1,11 @@
+G01 23:50:12 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=2
+G02 23:50:15 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=2
+G03 23:50:18 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=2
+G04 23:50:21 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=2
+G05 23:50:24 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=2
+G06 23:50:27 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=2
+G07 23:50:30 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=4
+G08 23:50:33 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=4
+G09 23:50:35 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=12
+G10 23:50:38 T perms=165065 dirs=2 L=16..16 survivors(cells, vig counted once)=4
+end
