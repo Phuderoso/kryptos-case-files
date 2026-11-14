@@ -104,3 +104,8 @@ Text above preserved.
   include non-zero offsets at L 16. Re-checked this cycle line by line against `truths.json`: 5/5. Her non-crib filler was
   monogram-frequency noise, which explains why no survivor read as English outside the cribs. This closes case 194's same-author blind
   spot (I-274) for the bank at L 16. n = 5 is a spot check, not a rate.
+
+## Addendum 3 (cycle 213, 2026-11-13): L 17 measured and plant-gated
+Text above preserved. 100 fresh shuffled-K4 nulls (seed 209221) give 1/100 at L 17 behind the bank (one near-equivalent cluster, 8 cells),
+K4 0, and 30/30 L 17 plants are recovered (seed 209222): **L 17 relabelled `EXCLUDED` (exact, discriminating)**. L 18 unchanged.
+See [case 199](199-r1-l17-frontier-measured-rate-and-je-relook.md).

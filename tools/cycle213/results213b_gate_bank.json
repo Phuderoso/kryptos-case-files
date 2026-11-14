@@ -1,0 +1,352 @@
+{
+ "summary": {
+  "M17": [
+   10,
+   10
+  ],
+  "A17": [
+   10,
+   10
+  ],
+  "O17": [
+   10,
+   10
+  ],
+  "seed": 209222,
+  "next_free_seed": 209223,
+  "wall_s": 110.8,
+  "gate": "PASS"
+ },
+ "plants": [
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 0,
+   "q": 100747,
+   "dir": 1,
+   "key": "FRGWURPTRPEBDIRMY",
+   "survivors": 30,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=30"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 1,
+   "q": 46601,
+   "dir": 0,
+   "key": "HGCYWIEPBBBNNTXFL",
+   "survivors": 1968,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=1968"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 2,
+   "q": 42540,
+   "dir": 0,
+   "key": "YBTYOGEVXAKIUQISE",
+   "survivors": 32,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=32"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 3,
+   "q": 2627,
+   "dir": 1,
+   "key": "PKGQRPLSEMYYQRURG",
+   "survivors": 34,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=34"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 0,
+   "q": 13711,
+   "dir": 0,
+   "key": "SFDYWANXEODGADKZZ",
+   "survivors": 684,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=684"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 1,
+   "q": 77074,
+   "dir": 1,
+   "key": "LPODXTHZIRGSJXRBW",
+   "survivors": 1884,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=1884"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 2,
+   "q": 24685,
+   "dir": 1,
+   "key": "JYRYKFJJOLCMOSTOL",
+   "survivors": 32,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=32"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 3,
+   "q": 143126,
+   "dir": 1,
+   "key": "TYJJQPGZFSWOXDGMU",
+   "survivors": 30,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=30"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 0,
+   "q": 65066,
+   "dir": 0,
+   "key": "UZTDKBEDDOBLNSSAV",
+   "survivors": 30,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=30"
+  },
+  {
+   "stratum": "M",
+   "L": 17,
+   "tm": 1,
+   "q": 14053,
+   "dir": 0,
+   "key": "IEAFFXLBUQEOZVHEW",
+   "survivors": 696,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=696"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 0,
+   "q": 28791,
+   "dir": 0,
+   "key": "UFJPGUWQONJDDYUZF",
+   "survivors": 480,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=480"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 1,
+   "q": 161538,
+   "dir": 1,
+   "key": "UPAYPSPMIPTNBXMTS",
+   "survivors": 10,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=10"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 2,
+   "q": 8138,
+   "dir": 1,
+   "key": "GVZOJARIOODQDJLVO",
+   "survivors": 96,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=96"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 3,
+   "q": 113354,
+   "dir": 0,
+   "key": "LNXLBMGWQHYQGFVDK",
+   "survivors": 12,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=12"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 0,
+   "q": 90376,
+   "dir": 1,
+   "key": "SHQUKODUMJMLSSSNB",
+   "survivors": 480,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=480"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 1,
+   "q": 49629,
+   "dir": 1,
+   "key": "NYMMVMKEBUWMJXZXJ",
+   "survivors": 16,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=16"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 2,
+   "q": 86387,
+   "dir": 0,
+   "key": "THEUUYEKVBCLPYBYA",
+   "survivors": 480,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=480"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 3,
+   "q": 108208,
+   "dir": 0,
+   "key": "ZUDGDSANULTFLSFYJ",
+   "survivors": 10,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=10"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 0,
+   "q": 140763,
+   "dir": 0,
+   "key": "AYUHNLQSSVDOGVSQN",
+   "survivors": 10,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=10"
+  },
+  {
+   "stratum": "A",
+   "L": 17,
+   "tm": 1,
+   "q": 138353,
+   "dir": 1,
+   "key": "UGKUGJVIDRFIVSMUB",
+   "survivors": 12,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=12"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 0,
+   "q": 59505,
+   "dir": 0,
+   "key": "WVAXLOKCVCWEOAWPI",
+   "survivors": 2880,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=2880"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 1,
+   "q": 6076,
+   "dir": 1,
+   "key": "BYHXKIDUVQLFEPTMB",
+   "survivors": 504,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=504"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 2,
+   "q": 161656,
+   "dir": 1,
+   "key": "YHBOPRHRKWTJLCUCQ",
+   "survivors": 72,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=72"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 3,
+   "q": 66675,
+   "dir": 1,
+   "key": "NKZMFCSAGAYGXAIRA",
+   "survivors": 72,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=72"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 0,
+   "q": 151191,
+   "dir": 0,
+   "key": "CLAHZMMMBNSBBAELA",
+   "survivors": 72,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=72"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 1,
+   "q": 91503,
+   "dir": 1,
+   "key": "RDRXXDOSCHPWLWALW",
+   "survivors": 74,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=74"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 2,
+   "q": 80864,
+   "dir": 1,
+   "key": "SQQUMJSJUCBBJTJWS",
+   "survivors": 2880,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=2880"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 3,
+   "q": 142694,
+   "dir": 1,
+   "key": "SDIHYWKRCPFXSYQOK",
+   "survivors": 72,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=72"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 0,
+   "q": 33515,
+   "dir": 1,
+   "key": "KOZTIELCLTEJBQRTI",
+   "survivors": 72,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=72"
+  },
+  {
+   "stratum": "O",
+   "L": 17,
+   "tm": 1,
+   "q": 91976,
+   "dir": 1,
+   "key": "DBWMWNSGROHPEJUEC",
+   "survivors": 2880,
+   "recovered": true,
+   "total_line": "T perms=165065 dirs=2 L=17..17 survivors(cells, vig counted once)=2880"
+  }
+ ]
+}

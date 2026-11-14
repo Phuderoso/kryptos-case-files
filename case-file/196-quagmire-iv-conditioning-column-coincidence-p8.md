@@ -129,3 +129,8 @@ Text above preserved. Registered in [PREREG211](../tools/cycle211/PREREG211.md) 
   JE's 10k interval still reaching 0.0064 — re-looking JE is I-288). This is a fresh experiment with its own seeds; with cycle 210's three looks the
   total number of looks at this question is five, and a 5.5-SE margin is far outside what that many looks can produce by chance. The exact SAT
   cell at P 8 stays open.
+
+## Addendum 3 (cycle 213, 2026-11-13): JE at large n (I-288)
+Text above preserved. Model JE, fresh seed block 209220, gates M/R1/R2 exact: q = 0.003642 ± 0.000075 at 640,000 plants →
+`STAT-DISFAVOURED` under JE too, well below the worst model JEX. The P 8 verdict does not rest on the 10k worst-model choice.
+See [case 199](199-r1-l17-frontier-measured-rate-and-je-relook.md).

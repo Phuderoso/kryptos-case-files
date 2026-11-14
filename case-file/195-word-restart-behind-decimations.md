@@ -134,3 +134,8 @@ routes 10/10, wrapped 9/9; box-local `voynich/kryptos-audits/case195-second-coun
   PREREG211 `e358dda` → published **`d543fc5`**; blind results `97a7c8b` → **`dc266c9`**; PREREG211b `f406596` → **`3f30a0a`**. The misstated
   message disclosed above ("parts A/B results not yet committed") is on published commit **`3f30a0a`**. It was not amended (no force-push). This
   addendum is the correction of record.
+
+## Addendum 4 (cycle 213, 2026-11-13): L 17 measured and plant-gated
+Text above preserved. 0/100 fresh shuffled-K4 nulls (seed 209221) at L 17 behind `all.bin`, K4 0, 30/30 L 17 plants (seed 209222) on top of
+cycle 208's 5/5: **L 17 relabelled `EXCLUDED` (exact, discriminating)** (was `UNRESOLVED`, 1/20). L 18 unchanged.
+See [case 199](199-r1-l17-frontier-measured-rate-and-je-relook.md).
