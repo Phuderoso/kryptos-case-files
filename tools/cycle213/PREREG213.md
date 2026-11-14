@@ -23,3 +23,10 @@ Filed before any part below was run. Slots: 211 audit, 212 new family (I-284), s
 - **Blind spot, stated now:** no planted key at L 17 is run in this cycle. The solver is plant-validated at L 16 (cases 194/195: 20/20, 10/10,
   48/48 mid-block) and the L loop is the same code; an L 17 exclusion label is read within that scope.
 - Null survivor cells are also reported as distinct configurations where the S lines allow it (I-291, descriptive).
+
+## PREREG213b (added after parts A/B finished, before this part ran)
+Parts A and B finished in 136 s with labels computed; this add-on narrows the part B blind spot, it does not change those labels.
+- `gate213.py` = `tools/cycle208/gate208.py` (invented plaintext templates M/A/O, random L-letter keys, 4 tableau modes, uniform rows and
+  directions) with L 17 only, 10 plants per stratum, seed **209222**, run once on `bank.bin` and once on `all.bin` (same plan, the row index
+  is drawn from the bank's row count and applied to each file). Pass: ≥ 29/30 per family recovered at the true configuration with the
+  planted key. Fail → the part B labels are read as "measured null rate, solver recovery at L 17 not shown" for that family.

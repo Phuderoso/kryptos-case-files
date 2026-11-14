@@ -1,0 +1,22 @@
+{
+ "bank": {
+  "K4_cells": 0,
+  "n": 100,
+  "with_survivor": 1,
+  "p": 0.01,
+  "se": 0.0099498743710662,
+  "label": "L 17 EXCLUSION DISCRIMINATING (measured rate below 5 %, boundary band clear)",
+  "survivor_cells": [
+   8
+  ]
+ },
+ "all": {
+  "K4_cells": 0,
+  "n": 100,
+  "with_survivor": 0,
+  "p": 0.0,
+  "se": 0.0,
+  "label": "L 17 EXCLUSION DISCRIMINATING (0/100; rule-of-three upper bound 3 %)",
+  "survivor_cells": []
+ }
+}

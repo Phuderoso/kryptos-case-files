@@ -1,0 +1,42 @@
+{
+ "gate_M": {
+  "pass_": true,
+  "allowed81": 1517,
+  "allowed85": 1513,
+  "forced85": [
+   35,
+   41,
+   43,
+   46,
+   61,
+   78
+  ]
+ },
+ "gate_R1": {
+  "q": 0.007499250074992501,
+  "case196": 0.007499250074992501,
+  "pass_": true
+ },
+ "gate_R2": {
+  "q": 0.005699430056994301,
+  "cycle210": 0.005699430056994301,
+  "pass_": true
+ },
+ "pool": {
+  "solutions": 256,
+  "distinct": 256
+ },
+ "label": "STAT-DISFAVOURED (Quagmire IV at P 8, model JE)",
+ "decision": {
+  "model": "JE",
+  "seed_block": 209220,
+  "looks": [
+   {
+    "n": 640000,
+    "q": 0.003642181809090923,
+    "se": 7.530060923517288e-05
+   }
+  ],
+  "bar": 0.00625
+ }
+}
