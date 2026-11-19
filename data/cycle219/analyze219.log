@@ -1,0 +1,26 @@
+gateR {'K4_strict_p1_21_zero': True, 'K4_strict_p22': 720, 'null1_p21': 4, 'null1_p22': 144, 'null1_p1_20_zero': True, 'nperm_K4': 3991680, 'PASS': True}
+gateP 20 /20 []
+1 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+2 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+3 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+4 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+5 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+6 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+7 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+8 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+9 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+10 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+11 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+12 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+13 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+14 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+15 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+16 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+17 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 8, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 8, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+18 {'K4': 2, 'nulls': [0, 5, 0, 8, 5, 0, 7, 2], 'K4_distinct': 2, 'null_distinct': [0, 5, 0, 8, 5, 0, 7, 2], 'label': 'INSUFFICIENT-DISCRIMINATION'}
+19 {'K4': 14, 'nulls': [0, 8, 5, 56, 0, 52, 234, 14], 'K4_distinct': None, 'null_distinct': None, 'label': 'INSUFFICIENT-DISCRIMINATION (strict claim already underdetermined)'}
+20 {'K4': 3, 'nulls': [48, 70, 44, 15, 2, 27, 16, 18], 'K4_distinct': None, 'null_distinct': None, 'label': 'INSUFFICIENT-DISCRIMINATION (strict claim already underdetermined)'}
+21 {'K4': 1928, 'nulls': [1005, 1164, 599, 1071, 371, 842, 451, 1175], 'K4_distinct': None, 'null_distinct': None, 'label': 'INSUFFICIENT-DISCRIMINATION (strict claim already underdetermined)'}
+22 {'K4': 16488, 'nulls': [17278, 11937, 14548, 12158, 10031, 19205, 13204, 16055], 'K4_distinct': None, 'null_distinct': None, 'label': 'INSUFFICIENT-DISCRIMINATION (strict claim already underdetermined)'}
+-7.15 91 1 [10, 0, 0, 0, 0, 0, 18, 1, -1] RV?MDQPHEHAHZPQIEFES?EASTNORTHEASTAXVZ?ZSBUWBQYUYXVXIMXK?ZRLLQQBERLIOCLOCK?VTRVCQANMGNFZGNDH?RNMS
+-7.15 91 1 [10, 0, 1, 0, 0, 0, 18, 1, -1] RV?MDQPHEHAHZPQIEFES?EASTNORTHEASTAXVZ?ZSBUWBQYUYXVXIMXK?ZRLLQQBERLIOCLOCK?VTRVCQANMGNFZGNDY?PTGS

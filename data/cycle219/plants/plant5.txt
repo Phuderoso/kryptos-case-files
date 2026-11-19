@@ -1,0 +1,11 @@
+# scope=I-007 gate P, true pi[0] slice, p1-22
+# text=plant5 input_sha256=c2f72949dff9de359f36d9ab6ab4425ae606dc1b5aeae1faff1a70f084856db8 (97-letter string, no newline)
+# tool=tools/cycle219/col1e.c tool_sha256=1a602f0e18912a1018627f38735fbb8827349ad53a11418e767e71c1193d6c47
+# seed=209233 args=col1e CT w first 22 18
+H plant5 9 1 1 1 0 1 22 0 -2 0 3 6 7 2 1 8 4 5
+H plant5 9 1 1 1 0 1 22 0 -2 0 3 6 8 2 1 7 4 5
+H plant5 9 0 1 1 1 1 7 1 21 0 5 4 7 3 1 6 8 2
+H plant5 9 0 1 1 1 1 14 1 -1 0 5 4 7 3 1 6 8 2
+H plant5 9 0 0 1 1 1 7 1 21 0 5 8 4 2 1 6 3 7
+H plant5 9 0 0 1 1 1 14 1 -1 0 5 8 4 2 1 6 3 7
+C plant5 w9 first0 perms 40320 p1=0/0 p2=0/0 p3=0/0 p4=0/0 p5=0/0 p6=0/0 p7=0/2 p8=0/0 p9=0/0 p10=0/0 p11=0/0 p12=0/0 p13=0/0 p14=0/2 p15=0/0 p16=0/0 p17=0/0 p18=0/0 p19=0/0 p20=0/0 p21=0/2 p22=2/122

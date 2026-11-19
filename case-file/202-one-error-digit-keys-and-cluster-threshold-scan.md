@@ -96,3 +96,5 @@ Threshold sweep (T 12–24) — reproduced exactly in Part B. Descriptive map-on
 Status: **verified (hashes OK, sweep reproduced, CP intervals recomputed)**.
 
 **No solution. K4 still standing.**
+
+**Addendum (cycle 219).** The Voynich desk's independent recount of this case agrees with it; verified against the repo and filed in [case 205](205-columnar-w9-w10-one-error-audit.md) Part A (caveat: she had seen the git log subjects, so not fully blind).

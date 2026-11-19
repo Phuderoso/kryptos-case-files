@@ -1,0 +1,10 @@
+# MANIFEST (added cycle 219, PREREG219 Part B): scope and input sha256 of each zero-hit result file in this folder. The result files themselves stay frozen.
+# input_sha256 = sha256 of the 97-letter string without newline. K4 = data/k4.txt; null0 = random.Random(209230).shuffle(K4).
+# Caveat: this is a retroactive attribution from the run scripts and PREREG; a zero-hit file cannot itself prove which input produced it. From cycle 219 on, result files carry their own header.
+file	sha256(file)	text	input_sha256	scope
+k4_direct.txt	a2e197b3070316b82050178153db6154163a277565e6372758a57b84453ffdf8	K4	eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab	A1 direct, full scope
+k4_bank.txt	8c3708a8ceacfa5e9b28a926476f5590d20212b3c563175f7bcd4992396fa9b3	K4	eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab	A2 behind bank.bin, all rows
+k4_all.txt	4823ec86915de1c185011d71e8173002468e2065cfd54e662e0a47adf3f82db5	K4	eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab	A3 behind all.bin, all rows
+null0_direct.txt	a2e197b3070316b82050178153db6154163a277565e6372758a57b84453ffdf8	null0 seed 209230	a45dbdc468d18ec55bfdb1d115f749492cbdf2ff04f6ce840359171b354aedeb	A1 direct, full scope
+null0_bank_r10.txt	2de0e35517730de5b23f49cc37a1306cf708fed7d252fbecb03102a54246ecc1	null0 seed 209230	a45dbdc468d18ec55bfdb1d115f749492cbdf2ff04f6ce840359171b354aedeb	A2 behind bank.bin, 1/10 row slice
+null0_all_r10.txt	da8ec488376d557ad8cf5a1b29978414efeceab965437d01e5acdb27301823b5	null0 seed 209230	a45dbdc468d18ec55bfdb1d115f749492cbdf2ff04f6ce840359171b354aedeb	A3 behind all.bin, 1/10 row slice

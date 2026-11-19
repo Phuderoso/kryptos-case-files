@@ -45,3 +45,5 @@ plaintext; checker recount 0 mismatches (`data/cycle217/plants/`). Plant 0 also 
 Only these streams and offsets (other constants, other date spellings, the Berlin clock's lamp states, Sanborn's own numbers are not in
 it); two-digit groups only (no triples, no hex/byte regrouping, no A1Z26 with values > 26 dropped); mod 26 only; only the listed
 alphabet sets and transposition families; no two-error tolerance. A successful planted gate validates recovery within this scope only.
+
+**Addendum (cycle 219).** The Voynich desk's independent recount of this case agrees with it; verified against the repo and filed in [case 205](205-columnar-w9-w10-one-error-audit.md) Part A (caveat: she had seen the git log subjects, so not fully blind).
