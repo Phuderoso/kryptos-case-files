@@ -1,0 +1,22 @@
+complete True {'K4': (7257600, 0), 'null209243': (7257600, 0), 'null209244': (7257600, 0), 'null209245': (7257600, 0), 'null209246': (7257600, 0), 'null209247': (7257600, 0), 'null209248': (7257600, 0), 'null209249': (7257600, 0), 'null209250': (7257600, 0)}
+gateS {'nperm': 362880, 'files': 9, 'incomplete': 0, 'PASS': True}
+gateR {'K4_strict_all_zero': True, 'K4_orders': 7257600, 'PASS': True}
+gateP 20 /20 []
+1 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+2 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+3 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+4 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+5 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+6 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+7 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+8 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+9 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+10 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+11 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+12 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+13 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+14 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+15 {'K4': 0, 'nulls': [0, 0, 0, 0, 0, 0, 1, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 0, 0, 1, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+16 {'K4': 0, 'nulls': [0, 0, 0, 0, 1, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 0, 0, 1, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, discriminating)'}
+17 {'K4': 0, 'nulls': [0, 0, 24, 2, 2, 0, 0, 0], 'K4_distinct': 0, 'null_distinct': [0, 0, 24, 2, 2, 0, 0, 0], 'label': 'EXACT-EXCL (one-error scope, exact but saturated-null)'}
+18 {'K4': 0, 'nulls': [0, 15, 0, 0, 12, 4, 69, 2], 'K4_distinct': 0, 'null_distinct': [0, 15, 0, 0, 12, 4, 69, 2], 'label': 'EXACT-EXCL (one-error scope, exact but saturated-null)'}

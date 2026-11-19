@@ -1,0 +1,1192 @@
+{
+ "scope": "I-312 chunk 1: col1e4 NAL=4, w11 orders with pi[0] in {0,1} (7,257,600), ROW/COL, dir 0/1, AZ/KA/QuagI/QuagII, Vig(=variant)/Beau, model A/B, p 1-18; one error = excess <= 1",
+ "inputs": {
+  "K4": {
+   "input_sha256": "eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab"
+  },
+  "null209243": {
+   "input_sha256": "6494a70f09b56e58a9905c6c2c7e96cdc443f2957d9d666bc308842223640a4b"
+  },
+  "null209244": {
+   "input_sha256": "3494f69f50a18443d24446cba8728c75c9386b8b7aafa96d57c77a406aaa555a"
+  },
+  "null209245": {
+   "input_sha256": "daac3b594480ad08eed9dd8acc7c0911dc9dcc172a558f5a0669107df7aaa171"
+  },
+  "null209246": {
+   "input_sha256": "02e10fc3195eaa2f6dc3bb5844a52fa5bc30c4298dcf48487716db0f0ee263a0"
+  },
+  "null209247": {
+   "input_sha256": "c50aa84f7e3ff29573ed931c45bd0f3a4e2b494bbf5d8a73d2e0b410aacab974"
+  },
+  "null209248": {
+   "input_sha256": "f2f24807997fbce199daf5b3f95d12e9adf6b3e390009409b6271ef087e51f53"
+  },
+  "null209249": {
+   "input_sha256": "de9334943964c9be6aee0c0d8385e99393f07b58a6153eb3ede29329dd17834b"
+  },
+  "null209250": {
+   "input_sha256": "93e250ba08dd1afb0b24173eaf7468189125a04609b6acc6998f49a57b2408ca"
+  }
+ },
+ "gateS": {
+  "nperm": 362880,
+  "files": 9,
+  "incomplete": 0,
+  "PASS": true
+ },
+ "gateR": {
+  "K4_strict_all_zero": true,
+  "K4_orders": 7257600,
+  "PASS": true
+ },
+ "gateP": {
+  "passes": 20,
+  "n": 20,
+  "bar": 19,
+  "rows": [
+   {
+    "pid": 0,
+    "al": 0,
+    "p": 17,
+    "model": 1,
+    "form": 2,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 86
+   },
+   {
+    "pid": 1,
+    "al": 1,
+    "p": 12,
+    "model": 1,
+    "form": 2,
+    "seat": 10,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 2,
+    "al": 2,
+    "p": 6,
+    "model": 0,
+    "form": 0,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 3,
+    "al": 3,
+    "p": 10,
+    "model": 1,
+    "form": 1,
+    "seat": 5,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": 5,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 4,
+    "al": 0,
+    "p": 10,
+    "model": 0,
+    "form": 1,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 5,
+    "al": 1,
+    "p": 16,
+    "model": 0,
+    "form": 2,
+    "seat": 19,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": -1,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 6,
+    "al": 2,
+    "p": 6,
+    "model": 1,
+    "form": 0,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 7,
+    "al": 3,
+    "p": 5,
+    "model": 1,
+    "form": 2,
+    "seat": 6,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": 6,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 8,
+    "al": 0,
+    "p": 18,
+    "model": 0,
+    "form": 0,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 91
+   },
+   {
+    "pid": 9,
+    "al": 1,
+    "p": 4,
+    "model": 1,
+    "form": 2,
+    "seat": 6,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": 6,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 10,
+    "al": 2,
+    "p": 4,
+    "model": 1,
+    "form": 2,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 11,
+    "al": 3,
+    "p": 14,
+    "model": 1,
+    "form": 1,
+    "seat": 9,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": -1,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 12,
+    "al": 0,
+    "p": 9,
+    "model": 0,
+    "form": 1,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 13,
+    "al": 1,
+    "p": 18,
+    "model": 1,
+    "form": 0,
+    "seat": 13,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": -1,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 14,
+    "al": 2,
+    "p": 11,
+    "model": 0,
+    "form": 2,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 15,
+    "al": 3,
+    "p": 11,
+    "model": 1,
+    "form": 1,
+    "seat": 19,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": 19,
+    "mismatch": 0,
+    "known": 36
+   },
+   {
+    "pid": 16,
+    "al": 0,
+    "p": 4,
+    "model": 0,
+    "form": 1,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 17,
+    "al": 1,
+    "p": 11,
+    "model": 1,
+    "form": 0,
+    "seat": 20,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": 20,
+    "mismatch": 0,
+    "known": 88
+   },
+   {
+    "pid": 18,
+    "al": 2,
+    "p": 6,
+    "model": 0,
+    "form": 2,
+    "seat": -1,
+    "found": true,
+    "pass": true,
+    "excess": 0,
+    "bad": -2,
+    "mismatch": 0,
+    "known": 97
+   },
+   {
+    "pid": 19,
+    "al": 3,
+    "p": 6,
+    "model": 1,
+    "form": 0,
+    "seat": 3,
+    "found": true,
+    "pass": true,
+    "excess": 1,
+    "bad": 3,
+    "mismatch": 0,
+    "known": 97
+   }
+  ],
+  "PASS": true
+ },
+ "per_p": {
+  "1": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "2": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "3": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "4": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "5": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "6": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "7": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "8": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "9": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "10": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "11": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "12": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "13": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "14": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "15": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "16": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, discriminating)"
+  },
+  "17": {
+   "K4": 0,
+   "nulls": [
+    0,
+    0,
+    24,
+    2,
+    2,
+    0,
+    0,
+    0
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    0,
+    24,
+    2,
+    2,
+    0,
+    0,
+    0
+   ],
+   "label": "EXACT-EXCL (one-error scope, exact but saturated-null)"
+  },
+  "18": {
+   "K4": 0,
+   "nulls": [
+    0,
+    15,
+    0,
+    0,
+    12,
+    4,
+    69,
+    2
+   ],
+   "K4_distinct": 0,
+   "null_distinct": [
+    0,
+    15,
+    0,
+    0,
+    12,
+    4,
+    69,
+    2
+   ],
+   "label": "EXACT-EXCL (one-error scope, exact but saturated-null)"
+  }
+ },
+ "counts": {
+  "K4": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "null209243": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "null209244": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15
+   ]
+  },
+  "null209245": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    0
+   ]
+  },
+  "null209246": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+   ]
+  },
+  "null209247": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    12
+   ]
+  },
+  "null209248": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4
+   ]
+  },
+  "null209249": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    69
+   ]
+  },
+  "null209250": {
+   "nperm": 7257600,
+   "files": 20,
+   "incomplete": 0,
+   "strict": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "one": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2
+   ]
+  }
+ },
+ "K4_hits_distinct": [],
+ "complete": true
+}

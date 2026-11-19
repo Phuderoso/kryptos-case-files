@@ -99,3 +99,15 @@ marked as a retroactive attribution from the run scripts (a zero-hit file cannot
 No solution. Keyword / arbitrary columnar of width 9–10 with a periodic tableau key is now excluded for p ≤ 17 even if one crib or
 carved crib letter is wrong; at p 18 one error is beyond what the cribs can discriminate. Two blind recounts by the desk agree with
 cases 202 and 203. **K4 still standing.**
+
+## Addendum (cycle 220, 2026-11-19) — the Voynich desk's blind recount; seat convention at p 18; leaks
+- **Recount.** The Voynich desk recounted this case with her own code: voynich-case-files
+  [`1d102cc`](https://github.com/Phuderoso/voynich-case-files/commit/1d102cc1416d762c1eabb477e52f695a71045c31)
+  (`audits/kryptos/c219-oneerror/`, FROZEN_COUNTS sha 99d5438b…). Every strict / one-error count from p 1 to p 22, every label and
+  gate R match this file exactly.
+- **p 18 seat convention.** The two p 18 cells have a seat conflict (seats 32 and 68 disagree inside one key class). The quadgram
+  mean depends on how that letter is decrypted: '?' −7.077; first-seat rule (used above) −7.153; trust seat 68 −6.970; force the crib
+  −6.740. All are below the −6.0 candidate bar, so the label `INSUFFICIENT-DISCRIMINATION` does not change.
+- **Blinding leaks (declared).** `data/cycle219/K4.txt` is an output but is named like an input; she saw its w 9 lines and part of
+  w 10 before freezing her counts. My request message also gave away p 17 = 0 and −7.15. Her recount is independent in code, not
+  fully blind. **House fix:** from cycle 220 results files are named `results_*.txt` (`data/cycle220/results_k4.txt`, …).
