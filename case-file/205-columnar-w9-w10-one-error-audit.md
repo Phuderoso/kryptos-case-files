@@ -120,3 +120,10 @@ turns them into exclusions; p 20 (K4 3) is low and would resolve with about 21 n
 8 nulls (max 1,175, 1.64×)** — an observation only, not a lead; showing it at 5 % needs ≥ 146 nulls with none above; p 22 is typical.
 **No label changes.** Adopted for planning (I-318): a rank rule (CP on the tail) instead of the interval rule for future null-count
 comparisons, with the p 21 excess queued as a structural check (likely crib-forced cells) before any extra nulls are spent.
+
+## Addendum (cycle 223, 2026-11-20): the p 21 excess is structural multiplicity
+[Case 209](209-p21-excess-structural-audit.md) re-counted p 20 / 21 with `col21.c` (col1e verbatim; reproduces this file's counts exactly)
+on 168 shuffled-K4 nulls (the 8 above + 160, seeds 209256–209415), as the desk's audit (0185ed5) asked. p 21: K4 1,928 raw, 6/168 nulls
+≥ (rank p 0.041); counted as distinct crib tests (alphabet, form, model, carved positions of the 24 seats) K4 has 99 vs null median 114
+(p 0.63) → `STRUCTURAL MULTIPLICITY`. Nine COL / σ⁻¹ w 10 families of 48–720 column orders carry 1,800 of the 1,928. p 20 (K4 3) sits in
+the null bulk (p_low 0.22). No K4 cell meets the decrypt bar (best −6.48). **No label of this case changes.**
