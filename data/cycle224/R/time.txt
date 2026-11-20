@@ -1,0 +1,6 @@
+k4 bank 36s
+k4 all 71s
+nulls G/direct 72s
+nulls VQ r10 94s
+nulls VQ full x2 141s
+post-hoc V all.bin 100 nulls 89s

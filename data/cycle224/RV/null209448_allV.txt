@@ -1,0 +1,25 @@
+S V p=1 hits=0 exact=0 prim=0
+S V p=2 hits=0 exact=0 prim=0
+S V p=3 hits=0 exact=0 prim=0
+S V p=4 hits=0 exact=0 prim=0
+S V p=5 hits=0 exact=0 prim=0
+S V p=6 hits=0 exact=0 prim=0
+S V p=7 hits=0 exact=0 prim=0
+S V p=8 hits=0 exact=0 prim=0
+S V p=9 hits=0 exact=0 prim=0
+S V p=10 hits=0 exact=0 prim=0
+S V p=11 hits=0 exact=0 prim=0
+S V p=12 hits=0 exact=0 prim=0
+S V p=13 hits=0 exact=0 prim=0
+S V p=14 hits=0 exact=0 prim=0
+S V p=15 hits=0 exact=0 prim=0
+S V p=16 hits=0 exact=0 prim=0
+S V p=17 hits=0 exact=0 prim=0
+S V p=18 hits=0 exact=0 prim=0
+S V p=19 hits=0 exact=0 prim=0
+S V p=20 hits=12 exact=0 prim=12
+S V p=21 hits=66 exact=0 prim=66
+S V p=22 hits=1450 exact=10 prim=1450
+S V p=23 hits=5638 exact=158 prim=5638
+S V p=24 hits=25502 exact=1562 prim=25502
+T rows=165782 cfgV=2652512 cfgQ=0 printed=0

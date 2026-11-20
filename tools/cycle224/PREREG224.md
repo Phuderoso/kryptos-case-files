@@ -1,6 +1,6 @@
 # PREREG224 — cycle 224 pre-registration (filed before anything below is run on K4, the plants or the nulls)
 
-Filed 2026-11-20 ~08:05 PT (America/Vancouver). Slots: 222 free, 223 audit (case 209), so **224 must be a new family** (I-319 /
+Filed 2026-11-20 ~07:46 PT (America/Vancouver). Slots: 222 free, 223 audit (case 209), so **224 must be a new family** (I-319 /
 I-321). Base: main b304de5 (cycle 223 published by Firefly). Seeds: next free 209416. Reserved here: **209416** (plants),
 **209417–209436** (20 shuffled-K4 nulls). Next free after this cycle: **209437**.
 

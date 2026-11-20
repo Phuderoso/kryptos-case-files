@@ -1,0 +1,1 @@
+qg.bin sha256 4a02ba4eca0b6840a3a5eafe00678e854b25703c36b99e9e26a7697d4ed89f69 (support backup); bank.bin 004ffc248d17e1a3; all.bin 8a9e1b3200cf803c; H lines stripped from R/ (raw shas in raw_R.sha256; K4 bank/all H output was capped at 300,000 lines and is not used: scored RS/ runs replace it)

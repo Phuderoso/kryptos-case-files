@@ -1,0 +1,4 @@
+H V perm=8314 dir=0 ix=1 lay=0 p=19 err=1
+H V perm=8314 dir=0 ix=1 lay=1 p=19 err=1
+H V perm=8315 dir=1 ix=1 lay=0 p=19 err=1
+H V perm=8315 dir=1 ix=1 lay=1 p=19 err=1

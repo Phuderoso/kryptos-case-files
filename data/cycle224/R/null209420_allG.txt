@@ -1,0 +1,13 @@
+S G part=0 lay=0 hits=0 exact=0
+S G part=0 lay=1 hits=0 exact=0
+S G part=0 lay=2 hits=0 exact=0
+S G part=0 lay=3 hits=0 exact=0
+S G part=1 lay=0 hits=0 exact=0
+S G part=1 lay=1 hits=0 exact=0
+S G part=1 lay=2 hits=0 exact=0
+S G part=1 lay=3 hits=0 exact=0
+S G part=2 lay=0 hits=0 exact=0
+S G part=2 lay=1 hits=0 exact=0
+S G part=2 lay=2 hits=0 exact=0
+S G part=2 lay=3 hits=0 exact=0
+T rows=165782 cfgV=0 cfgQ=0 printed=0
