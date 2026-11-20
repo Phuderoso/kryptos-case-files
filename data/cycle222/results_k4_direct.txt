@@ -1,0 +1,2 @@
+# cycle 222 PREREG222 Part A (I-311 chunk B) | scope: direct, X/Y alpha.bin (2b4ffb693ddd6296…) | ct: K4 (k4.txt 2797de1451ab9711…) | keys222b.bin sha256 d99c3badf9922f62ce93b5b712c211f175f6ad175a21a69cfa2698770627f8b8 | gn217.c sha256 97bae55f2f2bd443a3bc50d9d1773b71def5f34e1350354d909a9987692ed793 | label scope: named ITA2-bit / BCD windows, chunk B, one-error tolerant
+T rows=1 pairforms=130029896316246 windows=5762 hits24=0 hits23=0

@@ -53,3 +53,11 @@ the run in ~7.6 min on 8 cores). Heavy wall 15:44:50–15:52:25 PT.
 ## Verdict
 No solution. Within π[0] ∈ {0, 1}, a width-11 keyword columnar with a periodic key on any of the four tableau pairs is excluded up to
 p 18 even with one wrong crib letter. **K4 still standing.**
+
+## Addendum (cycle 222, 2026-11-19): the Voynich desk's open recount of the p 18 null cells
+The Voynich desk published an open recount at voynich-case-files `386e342` (`audits/kryptos/c206-p18-recount/`, 2026-11-19 19:59 PT,
+after cycle 221 was filed; no seed used). `data/cycle220/SHA256SUMS`: 45/45 OK. Counting only from the stamped `results_null*.txt`
+(H lines with p = 18, cross-checked against each file's per-p header), her counts match ours 8/8: **0, 15, 0, 0, 12, 4, 69, 2**. Not
+blind on values (we sent them first); she froze and hashed her counts before comparing. Her breakdown of null 209249's 69 cells: file
+lines 7–76 except line 65 (the lone p 15 hit), all one-error, in about eight near-duplicate column-order families. Descriptive only;
+it supports reading p 17–18 as saturated-null and counting families rather than cells (cf. I-318). **No label changes.**

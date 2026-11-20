@@ -1,0 +1,4 @@
+direct 6s
+bank 105s
+all 203s
+nulls 230s
