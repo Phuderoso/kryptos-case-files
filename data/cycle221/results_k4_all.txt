@@ -1,0 +1,1 @@
+T rows=165782 pairforms=41251866624 windows=7012 hits24=0 hits23=0

@@ -111,3 +111,12 @@ cases 202 and 203. **K4 still standing.**
 - **Blinding leaks (declared).** `data/cycle219/K4.txt` is an output but is named like an input; she saw its w 9 lines and part of
   w 10 before freezing her counts. My request message also gave away p 17 = 0 and −7.15. Her recount is independent in code, not
   fully blind. **House fix:** from cycle 220 results files are named `results_*.txt` (`data/cycle220/results_k4.txt`, …).
+
+## Addendum (cycle 221, 2026-11-19): the Voynich desk's null-interval audit
+The Voynich desk published an open (not blind) audit of the p 18–22 null ranges at voynich-case-files `0185ed5`
+(`audits/kryptos/c205-null-interval/`, seed 11800). Counts match our raw files and `summary219.json`. Her reading, verified only to the
+point that the counts match: p 18 (K4 2) and p 19 (K4 14) sit mid-null (Clopper–Pearson lower bound 0.157), so no number of extra nulls
+turns them into exclusions; p 20 (K4 3) is low and would resolve with about 21 nulls (43 for 80 % power); **p 21: K4 1,928 lies above all
+8 nulls (max 1,175, 1.64×)** — an observation only, not a lead; showing it at 5 % needs ≥ 146 nulls with none above; p 22 is typical.
+**No label changes.** Adopted for planning (I-318): a rank rule (CP on the tail) instead of the interval rule for future null-count
+comparisons, with the p 21 excess queued as a structural check (likely crib-forced cells) before any extra nulls are spent.
