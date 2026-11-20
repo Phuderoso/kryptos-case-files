@@ -1,0 +1,163 @@
+{
+ "inputs": {
+  "W223": "/workspace/k4c223/w",
+  "n_nulls": 168
+ },
+ "strata": {
+  "p20_k5": {
+   "oracle_n": 396,
+   "oracle_median": -4.284193992614746,
+   "bar": null,
+   "null_cells": 99,
+   "null_fp_rate": null
+  },
+  "p20_k6": {
+   "oracle_n": 1064,
+   "oracle_median": -4.298729419708252,
+   "bar": -4.795166492462158,
+   "null_cells": 266,
+   "null_fp_rate": 0.0
+  },
+  "p20_k7": {
+   "oracle_n": 2108,
+   "oracle_median": -4.344183444976807,
+   "bar": -4.916482448577881,
+   "null_cells": 527,
+   "null_fp_rate": 0.0
+  },
+  "p21_k4": {
+   "oracle_n": 108,
+   "oracle_median": -4.295864105224609,
+   "bar": null,
+   "null_cells": 27,
+   "null_fp_rate": null
+  },
+  "p21_k5": {
+   "oracle_n": 13424,
+   "oracle_median": -4.2987542152404785,
+   "bar": -4.909668445587158,
+   "null_cells": 3356,
+   "null_fp_rate": 0.0
+  },
+  "p21_k6": {
+   "oracle_n": 56516,
+   "oracle_median": -4.28180456161499,
+   "bar": -4.812750339508057,
+   "null_cells": 14129,
+   "null_fp_rate": 0.0
+  },
+  "p21_k7": {
+   "oracle_n": 12572,
+   "oracle_median": -4.219514846801758,
+   "bar": -4.916482448577881,
+   "null_cells": 3143,
+   "null_fp_rate": 0.0
+  }
+ },
+ "cells": {
+  "p20": {
+   "K4_D2": 2,
+   "K4_barred": 2,
+   "K4_pass": 0,
+   "null_pass_occupancy": "0/168",
+   "null_pass_max": 0,
+   "p_up": 1.0,
+   "K4_top": [
+    {
+     "known": 92,
+     "nqnc": 46,
+     "nc": -8.103654861450195,
+     "oracle": [
+      -4.084335803985596,
+      -4.310546398162842,
+      -4.166396617889404,
+      -4.0015950202941895
+     ],
+     "pt": "TIBYAEEVB?RVHXNYFAKEZEASTNORTHEASTHPSVVMJ?RQKDGSVGQMDKTMOHWEN?LMERLINCLOCKGFIAYC?ROGFHKHYABB?DGZW"
+    },
+    {
+     "known": 92,
+     "nqnc": 50,
+     "nc": -8.320381164550781,
+     "oracle": [
+      -4.369965076446533,
+      -4.139871120452881,
+      -4.049725532531738,
+      -4.714919567108154
+     ],
+     "pt": "?XQEULHUZV?FJWIKTBTVWEASTNORTHEASTGUCJEGNPMRBNOKMHGEDRVZOSY?YCGBGRLINCLOCK?FVHRVKZPNA?YFWPBOBWOXJ"
+    }
+   ]
+  },
+  "p21": {
+   "K4_D2": 99,
+   "K4_barred": 99,
+   "K4_pass": 0,
+   "null_pass_occupancy": "0/168",
+   "null_pass_max": 0,
+   "p_up": 1.0,
+   "K4_top": [
+    {
+     "known": 92,
+     "nqnc": 47,
+     "nc": -7.361954212188721,
+     "oracle": [
+      -4.9681549072265625,
+      -4.373317241668701,
+      -4.240817546844482,
+      -3.860056161880493
+     ],
+     "pt": "KUFGFSEIOZHPSV?UBAPWTEASTNORTHEASTVB?NOBIWSAHYMGM?DGARTPRVSZU?YBERLIPCLOCKEARSMC?RMXNLMQCITIGHUBB"
+    },
+    {
+     "known": 93,
+     "nqnc": 50,
+     "nc": -7.406044960021973,
+     "oracle": [
+      -4.037887096405029,
+      -4.02971076965332,
+      -3.942458391189575,
+      -4.321557521820068
+     ],
+     "pt": "FVEPCESGEBO?THKNIUDLKEASTNORTHEASTOES?AVDEFHACRRAWOKERTEEMQ?NWCTERLINCLOCKF?DQCKHLQYVFMRVTGGDVYQF"
+    },
+    {
+     "known": 92,
+     "nqnc": 48,
+     "nc": -7.436303615570068,
+     "oracle": [
+      -5.152395725250244,
+      -4.3879218101501465,
+      -4.318197250366211,
+      -4.073165416717529
+     ],
+     "pt": "EH?KZVRPAITNHWEINW?ANEASTNORTHEASTSJADFPNUNQAGCFTG?BSTOATWSVWKPBERLIACLOCKM?IALSRNERGE?ORIVBKHOIX"
+    },
+    {
+     "known": 97,
+     "nqnc": 64,
+     "nc": -7.472661972045898,
+     "oracle": [
+      -4.376354217529297,
+      -4.219514846801758,
+      -4.052347183227539,
+      -4.916482448577881
+     ],
+     "pt": "ONLYZDPLBXDVCIEFTMAYHEASTNORTHEASTXIUYTAOIBUASNWPPFNZGUTTIQUOBDBERLINJLOCKBDSHWOOPSNJGHOBZCJTRUEE"
+    },
+    {
+     "known": 93,
+     "nqnc": 50,
+     "nc": -7.533123970031738,
+     "oracle": [
+      -4.0060038566589355,
+      -4.295398235321045,
+      -4.076777935028076,
+      -4.0264363288879395
+     ],
+     "pt": "FHEPUGSEENO?KHKUIDNLFEASTNORTHEASTO?YAEVDWFZTRRACIOKERTMEQE?JWQTERLINCLOCKFQDC?KHHQQMRPVFJGGDVYQF"
+    }
+   ]
+  }
+ }
+}
