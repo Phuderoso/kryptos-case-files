@@ -1,0 +1,1 @@
+heavy wall 2026-11-20 11:43:39-11:51:42 PT (~483 s), 201 jobs (1 gate T + 20 plants + 180 sub-slices), xargs -P 8, setsid + timeout 600; analysis analyze225.py <1 s

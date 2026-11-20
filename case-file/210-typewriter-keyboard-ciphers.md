@@ -100,3 +100,19 @@ The Voynich desk's independent D2 / D3 recount of case 209 (voynich-case-files b
 170 result files and every count (K4 99 vs null median 114, p_up 0.627; raw p 0.0414) and answered I-322: D3 adds nothing, and no
 collapse changes the zero / non-zero null pattern at p 17–19 (null occupancy 27 % / 54 % / 60 % for w 9–10). Integrated into IDEAS
 I-322 as `[external audit]`, not re-run by us.
+
+## Addendum (cycle 225, 2026-11-20): the Voynich desk's open recount of the V all.bin p 19 cell
+The Voynich desk published an open recount at voynich-case-files `b0793db` + `0128be8` (`audits/kryptos/c210-v-recount/`,
+2026-11-20 08:12–08:15 PT; rule `RULE.md` sha256 3b94f944…40d24 and counts `FROZEN.txt` 5a65fbe8…85fed hashed before she opened our
+labels, journal, case file or `summarize224.py`). She reran the 100 post hoc nulls (209437–209536) with her own printer
+`kb224_p19.c`: all 100 published `S V p=19` lines match. Her counts: occupancy **11/100** (p 12/101 ≈ 0.12), raw rank 4/101 ≈ 0.040,
+and K4's 4 raw hits are **2 distinct tests**, not one: rows 8314 / 8315 are exact inverses and collapse, but **QWERTY and QWERTZ do
+not** — their K4 decrypts differ in 16 of 97 letters, because crib seats 14 and 21 sit on carved **Z** (K4 positions 46 and 78).
+**Correction:** the sentence above "same geometry except Y ↔ Z, neither involved" is wrong; Z is involved (our own scores −6.99 vs
+−7.21 for the two layouts already showed the decrypts differ). Null 209438 has two independent families; only nulls 209501 and 209530
+show K4's layout-pair pattern.
+**Verified here (cycle 225):** the published files hash to the values her README states; K4 carries Z at 46, 47, 70, 78 (0-indexed).
+The 16/97 letter difference is taken from her recount, not recomputed. **Label:** `NO-SIGNAL` stands, on occupancy 11/100 (which does
+not depend on the layout collapse). The rank on distinct tests is 0.040 if the layouts stay distinct, 0.12 if they are forced
+together; either way one cell out of 2 models × 3 scopes × 24 periods, decrypt gibberish. Leaks as in her `LEAKS.md` (our message had
+already given raw p 0.040 and occupancy 11/100). **No label changes.**

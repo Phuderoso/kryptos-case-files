@@ -1,0 +1,16 @@
+# scope=I-312 chunk 2: col1e4 NAL=4, w11 orders with pi[0] in {2,3} (7,257,600), ROW/COL, dir 0/1, AZ/KA/QuagI/QuagII, Vig(=variant)/Beau, model A/B, p 1-18; one error = excess <= 1
+# text=null209539 input_sha256=b3d4012aac27314b98aa1ae632f3d536c0b7e1db4632c3a353d8d55d181268ec (97-letter string, no newline)
+# tool=tools/cycle220/col1e4.c tool_sha256=de865865b119fd6b013f813bb3b6ebb49d0ea3da048b4f7c98dfaf204bbe573f
+# seed=209539 args=col1e4 CT 11 first(2,3) 18 18 label 4 second(0..10)
+# orders=7257600 files=20 incomplete=0
+# per p strict/one-error: p1=0/0 p2=0/0 p3=0/0 p4=0/0 p5=0/0 p6=0/0 p7=0/0 p8=0/0 p9=0/0 p10=0/0 p11=0/0 p12=0/0 p13=0/0 p14=0/0 p15=0/0 p16=0/0 p17=0/0 p18=1/9
+H 11 1 0 0 0 0 18 1 -1 3,1,7,10,4,2,9,5,0,8,6
+H 11 1 0 1 0 0 18 1 -1 3,10,6,1,4,8,0,7,2,5,9
+H 11 1 0 1 0 0 18 1 -1 3,10,6,1,8,4,0,7,2,5,9
+H 11 1 0 0 0 0 18 1 -1 3,4,1,10,7,2,9,5,0,8,6
+H 11 1 0 0 0 0 18 1 -1 3,4,7,1,10,2,9,5,0,8,6
+H 11 1 0 0 0 0 18 1 -1 3,4,7,10,0,1,9,5,2,8,6
+H 11 1 0 0 0 0 18 0 -2 3,4,7,10,1,2,9,5,0,8,6
+H 11 1 0 0 0 0 18 1 -1 3,4,7,10,2,1,9,5,0,8,6
+H 11 1 0 0 0 0 18 1 -1 3,4,7,10,5,2,9,1,0,8,6
+H 11 1 0 0 0 0 18 1 -1 3,4,7,10,9,2,1,5,0,8,6
