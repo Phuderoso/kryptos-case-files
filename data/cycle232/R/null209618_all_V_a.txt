@@ -1,0 +1,287 @@
+# scope=case213-family all_V_a (all.bin geo227a V rowstride 1), kb229 args: ... 0 24 qg.bin oracle226.txt -6.0 200000; filtered to S/T/M/P/Y/N lines
+# text=null209618 input_sha256=fe0e8039d01b5c2e70f2c46e1233d6a72d3ea6cbb9ce475ec99700edd49b58ad (97-letter string, no newline)
+# tool=tools/cycle229/kb229.c tool_sha256=f727ed9e9506a7ae07b0fae9198b93265863711aa255258689f033c8142c4585
+# seed=209618 (random.Random(seed).shuffle of K4)
+S V p=1 hits=0 exact=0 prim=0
+S V p=2 hits=0 exact=0 prim=0
+S V p=3 hits=0 exact=0 prim=0
+S V p=4 hits=0 exact=0 prim=0
+S V p=5 hits=0 exact=0 prim=0
+S V p=6 hits=0 exact=0 prim=0
+S V p=7 hits=0 exact=0 prim=0
+S V p=8 hits=0 exact=0 prim=0
+S V p=9 hits=0 exact=0 prim=0
+S V p=10 hits=0 exact=0 prim=0
+S V p=11 hits=0 exact=0 prim=0
+S V p=12 hits=0 exact=0 prim=0
+S V p=13 hits=0 exact=0 prim=0
+S V p=14 hits=0 exact=0 prim=0
+S V p=15 hits=0 exact=0 prim=0
+S V p=16 hits=0 exact=0 prim=0
+S V p=17 hits=0 exact=0 prim=0
+S V p=18 hits=0 exact=0 prim=0
+S V p=19 hits=0 exact=0 prim=0
+S V p=20 hits=0 exact=0 prim=0
+S V p=21 hits=58 exact=0 prim=58
+S V p=22 hits=1114 exact=46 prim=1114
+S V p=23 hits=5512 exact=138 prim=5512
+S V p=24 hits=25666 exact=1424 prim=25666
+N model=V p=1 best=-99.000 cand=0
+N model=V p=2 best=-99.000 cand=0
+N model=V p=3 best=-99.000 cand=0
+N model=V p=4 best=-99.000 cand=0
+N model=V p=5 best=-99.000 cand=0
+N model=V p=6 best=-99.000 cand=0
+N model=V p=7 best=-99.000 cand=0
+N model=V p=8 best=-99.000 cand=0
+N model=V p=9 best=-99.000 cand=0
+N model=V p=10 best=-99.000 cand=0
+N model=V p=11 best=-99.000 cand=0
+N model=V p=12 best=-99.000 cand=0
+N model=V p=13 best=-99.000 cand=0
+N model=V p=14 best=-99.000 cand=0
+N model=V p=15 best=-99.000 cand=0
+N model=V p=16 best=-99.000 cand=0
+N model=V p=17 best=-99.000 cand=0
+N model=V p=18 best=-99.000 cand=0
+N model=V p=19 best=-99.000 cand=0
+N model=V p=20 best=-99.000 cand=0
+N model=V p=21 best=-5.849 cand=4
+N model=V p=22 best=-5.470 cand=12
+N model=V p=23 best=-5.447 cand=84
+N model=V p=24 best=-4.905 cand=992
+N model=Q p=1 best=-99.000 cand=0
+N model=Q p=2 best=-99.000 cand=0
+N model=Q p=3 best=-99.000 cand=0
+N model=Q p=4 best=-99.000 cand=0
+N model=Q p=5 best=-99.000 cand=0
+N model=Q p=6 best=-99.000 cand=0
+N model=Q p=7 best=-99.000 cand=0
+N model=Q p=8 best=-99.000 cand=0
+N model=Q p=9 best=-99.000 cand=0
+N model=Q p=10 best=-99.000 cand=0
+N model=Q p=11 best=-99.000 cand=0
+N model=Q p=12 best=-99.000 cand=0
+N model=Q p=13 best=-99.000 cand=0
+N model=Q p=14 best=-99.000 cand=0
+N model=Q p=15 best=-99.000 cand=0
+N model=Q p=16 best=-99.000 cand=0
+N model=Q p=17 best=-99.000 cand=0
+N model=Q p=18 best=-99.000 cand=0
+N model=Q p=19 best=-99.000 cand=0
+N model=Q p=20 best=-99.000 cand=0
+N model=Q p=21 best=-99.000 cand=0
+N model=Q p=22 best=-99.000 cand=0
+N model=Q p=23 best=-99.000 cand=0
+N model=Q p=24 best=-99.000 cand=0
+T rows=165782 cfgV=2652512 cfgQ=0 printed=0
+M model=V p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=21 ncbest=-7.311 ncpass=0 tie=q
+M model=V p=22 ncbest=-6.843 ncpass=0 tie=q
+M model=V p=23 ncbest=-6.312 ncpass=0 tie=q
+M model=V p=24 ncbest=-6.084 ncpass=0 tie=q
+M model=Q p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=21 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=22 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=23 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=24 ncbest=-99.000 ncpass=0 tie=q
+Y model=V p=21 nq=11 n=2 pass=0 max=-8.105
+Y model=V p=21 nq=12 n=2 pass=0 max=-8.277
+Y model=V p=21 nq=14 n=2 pass=0 max=-8.469
+Y model=V p=21 nq=15 n=2 pass=0 max=-7.311
+Y model=V p=21 nq=16 n=4 pass=0 max=-7.988
+Y model=V p=21 nq=17 n=2 pass=0 max=-7.912
+Y model=V p=21 nq=19 n=2 pass=0 max=-8.041
+Y model=V p=21 nq=21 n=2 pass=0 max=-8.469
+Y model=V p=21 nq=25 n=2 pass=0 max=-7.896
+Y model=V p=21 nq=27 n=4 pass=0 max=-7.898
+Y model=V p=21 nq=28 n=2 pass=0 max=-7.611
+Y model=V p=21 nq=30 n=6 pass=0 max=-8.205
+Y model=V p=21 nq=31 n=6 pass=0 max=-7.924
+Y model=V p=21 nq=32 n=2 pass=0 max=-7.831
+Y model=V p=21 nq=33 n=2 pass=0 max=-8.348
+Y model=V p=21 nq=34 n=2 pass=0 max=-8.200
+Y model=V p=21 nq=36 n=2 pass=0 max=-8.366
+Y model=V p=21 nq=37 n=2 pass=0 max=-7.888
+Y model=V p=21 nq=38 n=6 pass=0 max=-8.036
+Y model=V p=21 nq=40 n=2 pass=0 max=-8.217
+Y model=V p=21 nq=44 n=2 pass=0 max=-8.399
+Y model=V p=22 nq=7 n=2 pass=0 max=-8.469
+Y model=V p=22 nq=8 n=2 pass=0 max=-8.469
+Y model=V p=22 nq=11 n=2 pass=0 max=-8.260
+Y model=V p=22 nq=13 n=2 pass=0 max=-8.469
+Y model=V p=22 nq=14 n=4 pass=0 max=-8.106
+Y model=V p=22 nq=15 n=6 pass=0 max=-7.610
+Y model=V p=22 nq=16 n=6 pass=0 max=-7.774
+Y model=V p=22 nq=17 n=20 pass=0 max=-7.485
+Y model=V p=22 nq=18 n=12 pass=0 max=-7.761
+Y model=V p=22 nq=19 n=14 pass=0 max=-7.317
+Y model=V p=22 nq=20 n=12 pass=0 max=-7.587
+Y model=V p=22 nq=21 n=12 pass=0 max=-7.330
+Y model=V p=22 nq=22 n=24 pass=0 max=-7.286
+Y model=V p=22 nq=23 n=24 pass=0 max=-7.277
+Y model=V p=22 nq=24 n=58 pass=0 max=-7.450
+Y model=V p=22 nq=25 n=46 pass=0 max=-7.598
+Y model=V p=22 nq=26 n=56 pass=0 max=-7.463
+Y model=V p=22 nq=27 n=42 pass=0 max=-7.727
+Y model=V p=22 nq=28 n=68 pass=0 max=-7.284
+Y model=V p=22 nq=29 n=54 pass=0 max=-7.683
+Y model=V p=22 nq=30 n=68 pass=0 max=-7.375
+Y model=V p=22 nq=31 n=58 pass=0 max=-7.555
+Y model=V p=22 nq=32 n=56 pass=0 max=-7.474
+Y model=V p=22 nq=33 n=46 pass=0 max=-7.714
+Y model=V p=22 nq=34 n=38 pass=0 max=-6.843
+Y model=V p=22 nq=35 n=52 pass=0 max=-7.689
+Y model=V p=22 nq=36 n=52 pass=0 max=-7.525
+Y model=V p=22 nq=37 n=40 pass=0 max=-7.349
+Y model=V p=22 nq=38 n=52 pass=0 max=-7.670
+Y model=V p=22 nq=39 n=34 pass=0 max=-7.866
+Y model=V p=22 nq=40 n=28 pass=0 max=-7.708
+Y model=V p=22 nq=41 n=24 pass=0 max=-7.501
+Y model=V p=22 nq=42 n=16 pass=0 max=-7.545
+Y model=V p=22 nq=43 n=20 pass=0 max=-7.784
+Y model=V p=22 nq=44 n=16 pass=0 max=-7.771
+Y model=V p=22 nq=45 n=18 pass=0 max=-7.728
+Y model=V p=22 nq=46 n=10 pass=0 max=-7.647
+Y model=V p=22 nq=47 n=12 pass=0 max=-7.627
+Y model=V p=22 nq=48 n=2 pass=0 max=-8.126
+Y model=V p=22 nq=49 n=2 pass=0 max=-8.095
+Y model=V p=22 nq=51 n=2 pass=0 max=-7.887
+Y model=V p=22 nq=53 n=2 pass=0 max=-8.064
+Y model=V p=23 nq=6 n=2 pass=0 max=-8.469
+Y model=V p=23 nq=9 n=6 pass=0 max=-6.975
+Y model=V p=23 nq=10 n=4 pass=0 max=-8.469
+Y model=V p=23 nq=11 n=10 pass=0 max=-8.043
+Y model=V p=23 nq=12 n=24 pass=0 max=-7.595
+Y model=V p=23 nq=13 n=28 pass=0 max=-7.216
+Y model=V p=23 nq=14 n=34 pass=0 max=-6.312
+Y model=V p=23 nq=15 n=40 pass=0 max=-6.972
+Y model=V p=23 nq=16 n=52 pass=0 max=-6.954
+Y model=V p=23 nq=17 n=76 pass=0 max=-7.348
+Y model=V p=23 nq=18 n=92 pass=0 max=-7.221
+Y model=V p=23 nq=19 n=84 pass=0 max=-7.424
+Y model=V p=23 nq=20 n=118 pass=0 max=-7.280
+Y model=V p=23 nq=21 n=128 pass=0 max=-7.271
+Y model=V p=23 nq=22 n=184 pass=0 max=-7.226
+Y model=V p=23 nq=23 n=170 pass=0 max=-7.040
+Y model=V p=23 nq=24 n=194 pass=0 max=-7.295
+Y model=V p=23 nq=25 n=230 pass=0 max=-7.087
+Y model=V p=23 nq=26 n=230 pass=0 max=-7.419
+Y model=V p=23 nq=27 n=234 pass=0 max=-7.188
+Y model=V p=23 nq=28 n=254 pass=0 max=-7.132
+Y model=V p=23 nq=29 n=298 pass=0 max=-7.042
+Y model=V p=23 nq=30 n=274 pass=0 max=-7.063
+Y model=V p=23 nq=31 n=308 pass=0 max=-6.995
+Y model=V p=23 nq=32 n=278 pass=0 max=-6.891
+Y model=V p=23 nq=33 n=290 pass=0 max=-7.362
+Y model=V p=23 nq=34 n=260 pass=0 max=-7.257
+Y model=V p=23 nq=35 n=258 pass=0 max=-7.205
+Y model=V p=23 nq=36 n=208 pass=0 max=-7.330
+Y model=V p=23 nq=37 n=192 pass=0 max=-7.508
+Y model=V p=23 nq=38 n=186 pass=0 max=-7.273
+Y model=V p=23 nq=39 n=184 pass=0 max=-7.474
+Y model=V p=23 nq=40 n=110 pass=0 max=-7.215
+Y model=V p=23 nq=41 n=94 pass=0 max=-7.572
+Y model=V p=23 nq=42 n=66 pass=0 max=-7.635
+Y model=V p=23 nq=43 n=76 pass=0 max=-7.696
+Y model=V p=23 nq=44 n=70 pass=0 max=-7.635
+Y model=V p=23 nq=45 n=42 pass=0 max=-7.484
+Y model=V p=23 nq=46 n=38 pass=0 max=-7.325
+Y model=V p=23 nq=47 n=30 pass=0 max=-7.681
+Y model=V p=23 nq=48 n=24 pass=0 max=-7.879
+Y model=V p=23 nq=49 n=14 pass=0 max=-7.582
+Y model=V p=23 nq=50 n=4 pass=0 max=-7.796
+Y model=V p=23 nq=52 n=6 pass=0 max=-8.068
+Y model=V p=23 nq=55 n=2 pass=0 max=-8.113
+Y model=V p=23 nq=56 n=2 pass=0 max=-7.882
+Y model=V p=23 nq=57 n=2 pass=0 max=-8.266
+Y model=V p=23 nq=61 n=2 pass=0 max=-8.436
+Y model=V p=24 nq=3 n=2 pass=0 max=-7.643
+Y model=V p=24 nq=4 n=4 pass=0 max=-8.469
+Y model=V p=24 nq=6 n=14 pass=0 max=-7.859
+Y model=V p=24 nq=7 n=20 pass=0 max=-6.690
+Y model=V p=24 nq=8 n=24 pass=0 max=-6.878
+Y model=V p=24 nq=9 n=58 pass=0 max=-6.626
+Y model=V p=24 nq=10 n=86 pass=0 max=-7.111
+Y model=V p=24 nq=11 n=114 pass=0 max=-7.031
+Y model=V p=24 nq=12 n=168 pass=0 max=-6.084
+Y model=V p=24 nq=13 n=248 pass=0 max=-6.891
+Y model=V p=24 nq=14 n=356 pass=0 max=-7.162
+Y model=V p=24 nq=15 n=426 pass=0 max=-6.304
+Y model=V p=24 nq=16 n=480 pass=0 max=-6.449
+Y model=V p=24 nq=17 n=632 pass=0 max=-6.959
+Y model=V p=24 nq=18 n=776 pass=0 max=-6.584
+Y model=V p=24 nq=19 n=930 pass=0 max=-6.646
+Y model=V p=24 nq=20 n=1070 pass=0 max=-6.776
+Y model=V p=24 nq=21 n=1124 pass=0 max=-7.076
+Y model=V p=24 nq=22 n=1362 pass=0 max=-6.738
+Y model=V p=24 nq=23 n=1416 pass=0 max=-6.798
+Y model=V p=24 nq=24 n=1538 pass=0 max=-6.612
+Y model=V p=24 nq=25 n=1538 pass=0 max=-6.887
+Y model=V p=24 nq=26 n=1446 pass=0 max=-6.881
+Y model=V p=24 nq=27 n=1494 pass=0 max=-6.856
+Y model=V p=24 nq=28 n=1444 pass=0 max=-7.051
+Y model=V p=24 nq=29 n=1420 pass=0 max=-6.842
+Y model=V p=24 nq=30 n=1232 pass=0 max=-7.091
+Y model=V p=24 nq=31 n=1126 pass=0 max=-7.222
+Y model=V p=24 nq=32 n=994 pass=0 max=-6.827
+Y model=V p=24 nq=33 n=836 pass=0 max=-7.096
+Y model=V p=24 nq=34 n=696 pass=0 max=-7.288
+Y model=V p=24 nq=35 n=592 pass=0 max=-7.215
+Y model=V p=24 nq=36 n=502 pass=0 max=-7.257
+Y model=V p=24 nq=37 n=402 pass=0 max=-7.215
+Y model=V p=24 nq=38 n=244 pass=0 max=-7.233
+Y model=V p=24 nq=39 n=236 pass=0 max=-7.480
+Y model=V p=24 nq=40 n=148 pass=0 max=-7.427
+Y model=V p=24 nq=41 n=138 pass=0 max=-7.458
+Y model=V p=24 nq=42 n=92 pass=0 max=-7.327
+Y model=V p=24 nq=43 n=72 pass=0 max=-7.657
+Y model=V p=24 nq=44 n=52 pass=0 max=-7.514
+Y model=V p=24 nq=45 n=30 pass=0 max=-7.734
+Y model=V p=24 nq=46 n=22 pass=0 max=-7.574
+Y model=V p=24 nq=47 n=16 pass=0 max=-7.697
+Y model=V p=24 nq=48 n=14 pass=0 max=-7.750
+Y model=V p=24 nq=49 n=14 pass=0 max=-7.966
+Y model=V p=24 nq=50 n=4 pass=0 max=-8.059
+Y model=V p=24 nq=51 n=4 pass=0 max=-8.306
+Y model=V p=24 nq=52 n=4 pass=0 max=-7.971
+Y model=V p=24 nq=53 n=4 pass=0 max=-7.708
+Y model=V p=24 nq=57 n=2 pass=0 max=-7.897

@@ -1,0 +1,13 @@
+Cycle 232 (case 218, PREREG232). I-342 audit: NC bar(nq, ln N) calibrated on fresh nulls.
+Inputs: k4.txt, bank.bin / all.bin (house banks), qg.bin, kb227.bin / geo227a.txt / geo227b.txt (data/cycle227), oracle226.txt (data/cycle226);
+full sha256 in tools/cycle232/HASHES232.txt. Tool tools/cycle229/kb229.c (sha256 f727ed9e...) unchanged; run by tools/cycle232/run232.sh.
+nulls232.tsv: 32 fresh shuffled K4 (random.Random(seed).shuffle): calibration 209609-209628, holdout / replicate 209629-209640.
+plants232.tsv: 24 Q-model plants (seed 209641; nq bands 10-11/12-14/15-19/20-29/30-44/>=45, odd pid one corrupted crib letter).
+R/: one file per (text, run): '#' stamp header (scope, input sha256, tool sha256, seed) + S/T/M/P/Y/N lines (plants also H Q lines).
+    X (oracle histograms), B (thread-order running best) and C (retired bar) lines are dropped; unfiltered copies stay on the box
+    (/workspace/k4c232/w/R, 21 MB). time.txt = wall clock (MST, UTC-7) of the single run (15:48:03-15:55:13, 430 s, no resume needed).
+K4 is NOT re-run: the K4 side is data/cycle229/R/k4_* (published, deterministic).
+analyze232.log / summary232.json: tools/cycle232/analyze232.py output (bootstrap seed 209642). Re-running it on this directory
+    (python3 tools/cycle232/analyze232.py data/cycle232 .) reproduces analyze232.log byte for byte.
+gateT/: sorted S/T/M/P/Y/N lines of the rebuilt kb229 on K4 direct geo a and K4 bank Q r10 (equal to data/cycle229/R).
+smoke/smoke_seed1.tsv: the disclosed seed-1 plant sampler smoke test (not a result).

@@ -1,0 +1,87 @@
+== I-342 fit (calibration nulls 209609-209628, 1928 points, levels 1/2/5/10/20) ==
+max = -6.8417 +0.07860 ln N +0.000274 (ln N)^2 -0.01922 nq   R2 0.677   N range 10 .. 5320479   nq range 10 .. 64
+local slope b(N) = d max / d ln N: N=1e+01: +0.0799  N=1e+03: +0.0824  N=1e+05: +0.0849  N=1e+06: +0.0862  N=5e+06: +0.0870
+  level  1: 1040 pts, mean residual -0.0195, sd 0.1667, N 10..268549
+  level  2:  521 pts, mean residual +0.0087, sd 0.1614, N 10..534034
+  level  5:  209 pts, mean residual +0.0361, sd 0.1591, N 10..1331153
+  level 10:  105 pts, mean residual +0.0486, sd 0.1541, N 14..2661134
+  level 20:   53 pts, mean residual +0.0583, sd 0.1508, N 14..5320479
+bootstrap 95% (B=1000, seed 209642, resampling calibration texts): b1 (0.03462246715874396, 0.11996512254844162)  b2 (-0.0021859156911869884, 0.002256593152509979)  c (-0.019711600015180245, -0.017884353891896333)
+b(N) 95%: N=1e+01: [+0.0452,+0.1104]  N=1e+03: [+0.0660,+0.0917]  N=1e+05: [+0.0695,+0.0884]  N=1e+06: [+0.0601,+0.0980]
+k_text = +0.8789 (max of R_t over 20 calibration texts; nominal per-text level 1/21)   k05 (per-unit 95th pct) = +0.2834
+R_t calibration (sorted): +0.244 +0.247 +0.288 +0.293 +0.327 +0.353 +0.357 +0.370 +0.378 +0.379 +0.387 +0.430 +0.442 +0.446 +0.483 +0.512 +0.627 +0.654 +0.728 +0.879
+bar(nq, N) examples:
+  nq 10:  -5.973  -5.787  -5.599  -5.408  -5.214  -5.017  -4.878   (N = 1e1 1e2 1e3 1e4 1e5 1e6 5e6)
+  nq 15:  -6.069  -5.883  -5.695  -5.504  -5.310  -5.113  -4.974   (N = 1e1 1e2 1e3 1e4 1e5 1e6 5e6)
+  nq 20:  -6.165  -5.979  -5.791  -5.600  -5.406  -5.209  -5.070   (N = 1e1 1e2 1e3 1e4 1e5 1e6 5e6)
+  nq 30:  -6.357  -6.172  -5.983  -5.792  -5.598  -5.401  -5.262   (N = 1e1 1e2 1e3 1e4 1e5 1e6 5e6)
+  nq 45:  -6.645  -6.460  -6.272  -6.080  -5.886  -5.689  -5.550   (N = 1e1 1e2 1e3 1e4 1e5 1e6 5e6)
+  nq 60:  -6.933  -6.748  -6.560  -6.369  -6.175  -5.978  -5.838   (N = 1e1 1e2 1e3 1e4 1e5 1e6 5e6)
+Gate C (calibration covers N >= 1e6): max N 5320479 -> PASS
+
+== Holdout (fresh replicate nulls 209629-209640) ==
+per-text passes 0/12 Wilson (0.0, 0.2424940095530979); passing units 0 -> expected passing units per null text 0.000
+R_t holdout (sorted): +0.215 +0.300 +0.379 +0.400 +0.400 +0.454 +0.546 +0.586 +0.715 +0.732 +0.772 +0.824
+misfit by decade of N (holdout units, single + pooled g 2/4/12): stratum | units | mean residual | verdict (|mean| <= 0.15 when >= 10 units)
+  [1e1,1e2) | 10 | +0.0687 | ok
+  [1e2,1e3) | 89 | +0.0679 | ok
+  [1e3,1e4) | 281 | +0.0176 | ok
+  [1e4,1e5) | 585 | -0.0124 | ok
+  [1e5,1e6) | 171 | -0.0001 | ok
+  [1e6,1e7) | 8 | +0.0222 | ok (n<10, not gated)
+Gate H (holdout per-text passes <= 1/12): 0/12 -> PASS;  Gate M: PASS
+
+c229 published nulls 209559-209574 (descriptive third set): per-text passes 0/16 Wilson (0.0, 0.1936076829974049), units 0
+  case 215 pass null 209573 nq 13: unit N 679 max -5.945 bar -5.689 -> below (by -0.256)
+  case 215 pass null 209568 nq 13: unit N 692 max -5.994 bar -5.687 -> below (by -0.307)
+  case 215 pass null 209560 nq 12: unit N 570 max -5.998 bar -5.684 -> below (by -0.314)
+  case 215 pass null 209563 nq 19: unit N 3127 max -5.982 bar -5.678 -> below (by -0.304)
+
+== Plants (seed 209641, Q model, nq bands, odd pid one-error) ==
+plant  0 bad  -1 p 22 nq 10 NC  -4.172 (pred -4.172) rec 1 | N_ref    264 bar -5.708 PASS margin +1.536 | @1e6 P @5e6 P
+plant  1 bad   4 p 23 nq 10 NC  -4.092 (pred -4.092) rec 1 | N_ref    264 bar -5.708 PASS margin +1.616 | @1e6 P @5e6 P
+plant  2 bad  -1 p 18 nq 11 NC  -4.354 (pred -4.354) rec 1 | N_ref    368 bar -5.700 PASS margin +1.346 | @1e6 P @5e6 P
+plant  3 bad   4 p 21 nq 11 NC  -4.047 (pred -4.047) rec 1 | N_ref    368 bar -5.700 PASS margin +1.653 | @1e6 P @5e6 P
+plant  4 bad  -1 p  8 nq 14 NC  -4.406 (pred -4.406) rec 1 | N_ref    977 bar -5.678 PASS margin +1.272 | @1e6 P @5e6 P
+plant  5 bad  19 p 14 nq 14 NC  -4.842 (pred -4.842) rec 1 | N_ref    977 bar -5.678 PASS margin +0.836 | @1e6 P @5e6 P
+plant  6 bad  -1 p 24 nq 13 NC  -4.232 (pred -4.232) rec 1 | N_ref    721 bar -5.684 PASS margin +1.452 | @1e6 P @5e6 P
+plant  7 bad  21 p 21 nq 12 NC  -4.004 (pred -4.004) rec 1 | N_ref    491 bar -5.696 PASS margin +1.692 | @1e6 P @5e6 P
+plant  8 bad  -1 p 23 nq 18 NC  -4.913 (pred -4.913) rec 1 | N_ref   2650 bar -5.672 PASS margin +0.759 | @1e6 P @5e6 P
+plant  9 bad   4 p 21 nq 18 NC  -6.007 (pred -6.007) rec 1 | N_ref   2650 bar -5.672 FAIL margin -0.335 | @1e6 F @5e6 F
+plant 10 bad  -1 p 22 nq 15 NC  -3.984 (pred -3.984) rec 1 | N_ref   1191 bar -5.681 PASS margin +1.697 | @1e6 P @5e6 P
+plant 11 bad  23 p 23 nq 18 NC  -3.773 (pred -3.773) rec 1 | N_ref   2650 bar -5.672 PASS margin +1.899 | @1e6 P @5e6 P
+plant 12 bad  -1 p  9 nq 25 NC  -5.006 (pred -5.006) rec 1 | N_ref   6182 bar -5.736 PASS margin +0.730 | @1e6 P @5e6 P
+plant 13 bad   0 p 16 nq 28 NC  -4.953 (pred -4.953) rec 1 | N_ref   8245 bar -5.770 PASS margin +0.817 | @1e6 P @5e6 P
+plant 14 bad  -1 p 17 nq 23 NC  -4.133 (pred -4.133) rec 1 | N_ref   5515 bar -5.707 PASS margin +1.574 | @1e6 P @5e6 P
+plant 15 bad  11 p 14 nq 27 NC  -4.087 (pred -4.087) rec 1 | N_ref   7743 bar -5.756 PASS margin +1.669 | @1e6 P @5e6 P
+plant 16 bad  -1 p 12 nq 37 NC  -4.443 (pred -4.443) rec 1 | N_ref  12392 bar -5.909 PASS margin +1.466 | @1e6 P @5e6 P
+plant 17 bad   5 p 17 nq 37 NC  -4.418 (pred -4.418) rec 1 | N_ref  12392 bar -5.909 PASS margin +1.491 | @1e6 P @5e6 P
+plant 18 bad  -1 p 18 nq 30 NC  -4.244 (pred -4.244) rec 1 | N_ref  10609 bar -5.787 PASS margin +1.543 | @1e6 P @5e6 P
+plant 19 bad   2 p 22 nq 37 NC  -5.275 (pred -5.275) rec 1 | N_ref  12392 bar -5.909 PASS margin +0.634 | @1e6 P @5e6 P
+plant 20 bad  -1 p  9 nq 64 NC  -3.958 (pred -3.958) rec 1 | N_ref  40125 bar -6.329 PASS margin +2.371 | @1e6 P @5e6 P
+plant 21 bad  16 p 14 nq 64 NC  -5.043 (pred -5.043) rec 1 | N_ref  40125 bar -6.329 PASS margin +1.286 | @1e6 P @5e6 P
+plant 22 bad  -1 p 14 nq 64 NC  -4.203 (pred -4.203) rec 1 | N_ref  40125 bar -6.329 PASS margin +2.126 | @1e6 P @5e6 P
+plant 23 bad  16 p 11 nq 64 NC  -3.994 (pred -3.994) rec 1 | N_ref  40125 bar -6.329 PASS margin +2.335 | @1e6 P @5e6 P
+Gate P: 23/24 recovered and over bar(nq, N_ref) Wilson (0.7975819334115467, 0.9926065439164028) -> PASS; one-error 11/12 Wilson (0.6461200862787544, 0.9851349057603305); @1e6 23/24, @5e6 23/24; min margin -0.335
+
+DECISION (pre-registered): bar ADOPTED from cycle 233 for Y-type families (P True, H True, M True, C True)
+
+== K4 (published data/cycle229/R/k4_*, case 213 family at case 215 scale) ==
+K4 R = +0.3925 (k_text +0.8789); K4 passing units 0; closest unit nq 55 N 24177 max -6.685 bar -6.199 (gap -0.486)
+K4 rank p: calibration 0.476 (n 20), holdout 0.769 (n 12), c229 nulls 0.765 (n 16, descriptive)
+K4 label: NO-SIGNAL (robust); distance p/alpha = 9.52, 15.38 (calibration, holdout)
+K4 units over the descriptive per-unit bar (fit + k05): 3 of 52: nq 16 N 1637 -6.210; nq 28 N 8245 -6.349; nq 55 N 24177 -6.685
+  calibration nulls, units over fit+k05 per text: [3, 4, 0, 4, 4, 1, 2, 4, 1, 5, 0, 6, 4, 2, 1, 5, 1, 2, 2, 1] (mean 2.60)
+
+== Retroactive, descriptive: most lenient bar in domain (N 10, nq 10-64) = -7.010 ==
+  case 214 Part A (w11 chunk 3) K4 NC max: -7.940 -> below every bar value in the domain
+  case 214 Part B (cases 205/206/211 re-read) K4 NC max: -7.302 -> below every bar value in the domain
+  case 215 K4 best (this K4 data): -6.685 -> check per unit
+
+== I-350 / distance rule on case 216/217 count cells (descriptive; sources data/cycle231/an231.log, data/cycle230/analyze230.log, clus230.log) ==
+  direct W9  K4 raw   3 (cl  2) | c217 level 0.60: 0/8 [0.000,0.324] mid, exp. clusters full scale 0.0 | c216 level 0.15: 2/10 [0.057,0.510] nosig, exp. cl 4.0 | -> INSUFFICIENT-DISCRIMINATION-FRONTEIRA
+  direct W10 K4 raw  47 (cl 22) | c217 level 9.40: 1/8 [0.022,0.471] mid, exp. clusters full scale 4.4 | c216 level 2.35: 2/10 [0.057,0.510] nosig, exp. cl 10.0 | -> INSUFFICIENT-DISCRIMINATION-FRONTEIRA
+  bank W9    K4 raw   0 (cl  0) | c217 level 0.00: 1/20 [0.009,0.236] mid, exp. clusters full scale 1.0 | c216 level 0.00: 2/10 [0.057,0.510] nondisc, exp. cl 4.0 | -> EXACT-EXCL, INSUFFICIENT-DISCRIMINATION-FRONTEIRA
+  bank W10   K4 raw  44 (cl  8) | c217 level 2.20: 8/20 [0.219,0.613] nosig, exp. clusters full scale 21.0 | c216 level 2.20: 4/10 [0.168,0.687] nosig, exp. cl 30.0 | -> NO-SIGNAL
+  all W9     K4 raw   6 (cl  2) | c217 level 0.30: 2/20 [0.028,0.301] mid, exp. clusters full scale 2.0 | c216 level 0.30: 3/10 [0.108,0.603] nosig, exp. cl 6.0 | -> INSUFFICIENT-DISCRIMINATION-FRONTEIRA
+  all W10    K4 raw  48 (cl 20) | c217 level 2.40: 4/20 [0.081,0.416] nosig, exp. clusters full scale 25.0 | c216 level 2.40: 6/10 [0.313,0.832] nosig, exp. cl 38.0 | -> NO-SIGNAL-FRONTEIRA

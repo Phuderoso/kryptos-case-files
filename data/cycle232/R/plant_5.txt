@@ -1,0 +1,171 @@
+# scope=plant 5 (own row only, Q, printbar -99), filtered to S/T/M/P/Y/N + H Q lines
+# text=plant5 input_sha256=f0ff94f42a58bd6195910bd7ffc758f655f41330128fe97ca54cf8ecc057ec74
+# tool=tools/cycle229/kb229.c tool_sha256=f727ed9e9506a7ae07b0fae9198b93265863711aa255258689f033c8142c4585
+# seed=209641 (plant232.py)
+P Q perm=92712 dir=0 ix=1 X=2 Y=18 form=2 p=24 known=81 nqnc=33 nc=-7.749 qg=-6.861 pt=Z?DDPHK?Q?OYLOH?G?FFUEA?TNORTHEAST?D?XEFVVI??UTHCNJ??KHAFOK??A?BERLINCL?CKGDUHWEEENWXQDRAMFFZIAPK
+H Q perm=92712 dir=0 ix=1 X=2 Y=18 form=2 p=24 err=1
+P Q perm=92712 dir=0 ix=1 X=2 Y=19 form=2 p=24 known=81 nqnc=33 nc=-7.938 qg=-6.898 pt=S?DDFIK?I?OYLXX?K?ELTEA?TNORTHEAST?K?HURIDV??VFJXPS??AIAPED??V?BERLINCL?CKIYOHPTIUQPXBIHTGLUPIGID
+H Q perm=92712 dir=0 ix=1 X=2 Y=19 form=2 p=24 err=1
+P Q perm=92712 dir=0 ix=1 X=3 Y=18 form=2 p=24 known=81 nqnc=33 nc=-8.247 qg=-7.170 pt=D?ZZXHW?C?YOVYH?F?GGBEA?TNORTHEAST?X?PUGNLG??BFHCNY??WDAFYA??W?BERLINCL?CKAZBHKQQUQKPCZDBNWGDIAPA
+H Q perm=92712 dir=0 ix=1 X=3 Y=18 form=2 p=24 err=1
+P Q perm=92712 dir=0 ix=1 X=3 Y=19 form=2 p=24 known=81 nqnc=33 nc=-7.865 qg=-6.980 pt=S?ZZGIW?I?YOVPP?W?EVTEA?TNORTHEAST?A?HARGZN??LIMIXO??APAPEX??V?BERLINCL?CKKOYHXVGANXPUIKVGUBXIFGX
+H Q perm=92712 dir=0 ix=1 X=3 Y=19 form=2 p=24 err=1
+P Q perm=92712 dir=0 ix=1 X=6 Y=18 form=2 p=24 known=81 nqnc=33 nc=-8.320 qg=-7.287 pt=R?DDDHW?C?JYGOH?F?FFKEA?TNORTHEAST?D?PCXNLX??KLHCNO??WWAFOA??U?BERLINCL?CKFJKHZBBCNZPCJRKOXXRIAPA
+H Q perm=92712 dir=0 ix=1 X=6 Y=18 form=2 p=24 err=1
+P Q perm=92712 dir=0 ix=1 X=6 Y=19 form=2 p=24 known=81 nqnc=33 nc=-8.036 qg=-7.038 pt=S?DDXIW?I?JYGPP?W?BLTEA?TNORTHEAST?A?HEYXJN??LTMIDQ??AFAPED??V?BERLINCL?CKIQOHDGXECDPUIZGGGKDIFXD
+H Q perm=92712 dir=0 ix=1 X=6 Y=19 form=2 p=24 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=1 form=0 p=14 known=84 nqnc=30 nc=-7.998 qg=-6.902 pt=YGWVYE?RXTHBB?IHGAMH?EASTNO?THEAST?SEZKSK?HXQWZJ?XXXHCJ?JYFMGZ?BERLIN?LOCKSM?UPDVPG?DCRRYL?HZNKMO
+H Q perm=92712 dir=1 ix=0 X=13 Y=1 form=0 p=14 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=1 form=0 p=21 known=60 nqnc=18 nc=-8.230 qg=-6.603 pt=IQMMVC?TQCBII????????EASTNO?THEAST????????QIDNWX?RQFBEM????????BERLIN?LOCKSM????????MLEFVZ?MAXTPR
+H Q perm=92712 dir=1 ix=0 X=13 Y=1 form=0 p=21 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=1 form=1 p=14 known=84 nqnc=30 nc=-7.998 qg=-6.902 pt=YGWVYE?RXTHBB?IHGAMH?EASTNO?THEAST?SEZKSK?HXQWZJ?XXXHCJ?JYFMGZ?BERLIN?LOCKSM?UPDVPG?DCRRYL?HZNKMO
+H Q perm=92712 dir=1 ix=0 X=13 Y=1 form=1 p=14 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=1 form=1 p=21 known=60 nqnc=18 nc=-8.230 qg=-6.603 pt=IQMMVC?TQCBII????????EASTNO?THEAST????????QIDNWX?RQFBEM????????BERLIN?LOCKSM????????MLEFVZ?MAXTPR
+H Q perm=92712 dir=1 ix=0 X=13 Y=1 form=1 p=21 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=5 form=0 p=14 known=84 nqnc=30 nc=-7.998 qg=-6.902 pt=YGWVYE?RXTHBB?IHGAMH?EASTNO?THEAST?SEZKSK?HXQWZJ?XXXHCJ?JYFMGZ?BERLIN?LOCKSM?UPDVPG?DCRRYL?HZNKMO
+H Q perm=92712 dir=1 ix=0 X=13 Y=5 form=0 p=14 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=5 form=0 p=21 known=60 nqnc=18 nc=-8.230 qg=-6.603 pt=IQMMVC?TQCBII????????EASTNO?THEAST????????QIDNWX?RQFBEM????????BERLIN?LOCKSM????????MLEFVZ?MAXTPR
+H Q perm=92712 dir=1 ix=0 X=13 Y=5 form=0 p=21 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=5 form=1 p=14 known=84 nqnc=30 nc=-7.998 qg=-6.902 pt=YGWVYE?RXTHBB?IHGAMH?EASTNO?THEAST?SEZKSK?HXQWZJ?XXXHCJ?JYFMGZ?BERLIN?LOCKSM?UPDVPG?DCRRYL?HZNKMO
+H Q perm=92712 dir=1 ix=0 X=13 Y=5 form=1 p=14 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=5 form=1 p=21 known=60 nqnc=18 nc=-8.230 qg=-6.603 pt=IQMMVC?TQCBII????????EASTNO?THEAST????????QIDNWX?RQFBEM????????BERLIN?LOCKSM????????MLEFVZ?MAXTPR
+H Q perm=92712 dir=1 ix=0 X=13 Y=5 form=1 p=21 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=16 form=2 p=14 known=84 nqnc=30 nc=-7.998 qg=-6.902 pt=YGWVYE?RXTHBB?IHGAMH?EASTNO?THEAST?SEZKSK?HXQWZJ?XXXHCJ?JYFMGZ?BERLIN?LOCKSM?UPDVPG?DCRRYL?HZNKMO
+H Q perm=92712 dir=1 ix=0 X=13 Y=16 form=2 p=14 err=1
+P Q perm=92712 dir=1 ix=0 X=13 Y=16 form=2 p=21 known=60 nqnc=18 nc=-8.230 qg=-6.603 pt=IQMMVC?TQCBII????????EASTNO?THEAST????????QIDNWX?RQFBEM????????BERLIN?LOCKSM????????MLEFVZ?MAXTPR
+H Q perm=92712 dir=1 ix=0 X=13 Y=16 form=2 p=21 err=1
+P Q perm=92712 dir=1 ix=1 X=13 Y=1 form=0 p=14 known=69 nqnc=14 nc=-4.842 qg=-4.513 pt=VE?MINUTE??I?POIN?F??EASTNO?THEAST????NTYSEV?NDEGRE??E?GHTM?N??BERLIN?LOCKS???NDSW?STXL?YERT???SL
+H Q perm=92712 dir=1 ix=1 X=13 Y=1 form=0 p=14 err=1
+P Q perm=92712 dir=1 ix=1 X=13 Y=1 form=1 p=14 known=69 nqnc=14 nc=-4.842 qg=-4.513 pt=VE?MINUTE??I?POIN?F??EASTNO?THEAST????NTYSEV?NDEGRE??E?GHTM?N??BERLIN?LOCKS???NDSW?STXL?YERT???SL
+H Q perm=92712 dir=1 ix=1 X=13 Y=1 form=1 p=14 err=1
+P Q perm=92712 dir=1 ix=1 X=13 Y=5 form=0 p=14 known=69 nqnc=14 nc=-4.842 qg=-4.513 pt=VE?MINUTE??I?POIN?F??EASTNO?THEAST????NTYSEV?NDEGRE??E?GHTM?N??BERLIN?LOCKS???NDSW?STXL?YERT???SL
+H Q perm=92712 dir=1 ix=1 X=13 Y=5 form=0 p=14 err=1
+P Q perm=92712 dir=1 ix=1 X=13 Y=5 form=1 p=14 known=69 nqnc=14 nc=-4.842 qg=-4.513 pt=VE?MINUTE??I?POIN?F??EASTNO?THEAST????NTYSEV?NDEGRE??E?GHTM?N??BERLIN?LOCKS???NDSW?STXL?YERT???SL
+H Q perm=92712 dir=1 ix=1 X=13 Y=5 form=1 p=14 err=1
+P Q perm=92712 dir=1 ix=1 X=13 Y=16 form=2 p=14 known=69 nqnc=14 nc=-4.842 qg=-4.513 pt=VE?MINUTE??I?POIN?F??EASTNO?THEAST????NTYSEV?NDEGRE??E?GHTM?N??BERLIN?LOCKS???NDSW?STXL?YERT???SL
+H Q perm=92712 dir=1 ix=1 X=13 Y=16 form=2 p=14 err=1
+S Q p=1 hits=0 exact=0 prim=0
+S Q p=2 hits=0 exact=0 prim=0
+S Q p=3 hits=0 exact=0 prim=0
+S Q p=4 hits=0 exact=0 prim=0
+S Q p=5 hits=0 exact=0 prim=0
+S Q p=6 hits=0 exact=0 prim=0
+S Q p=7 hits=0 exact=0 prim=0
+S Q p=8 hits=0 exact=0 prim=0
+S Q p=9 hits=0 exact=0 prim=0
+S Q p=10 hits=0 exact=0 prim=0
+S Q p=11 hits=0 exact=0 prim=0
+S Q p=12 hits=0 exact=0 prim=0
+S Q p=13 hits=0 exact=0 prim=0
+S Q p=14 hits=10 exact=0 prim=10
+S Q p=15 hits=0 exact=0 prim=0
+S Q p=16 hits=0 exact=0 prim=0
+S Q p=17 hits=0 exact=0 prim=0
+S Q p=18 hits=0 exact=0 prim=0
+S Q p=19 hits=0 exact=0 prim=0
+S Q p=20 hits=0 exact=0 prim=0
+S Q p=21 hits=5 exact=0 prim=5
+S Q p=22 hits=0 exact=0 prim=0
+S Q p=23 hits=0 exact=0 prim=0
+S Q p=24 hits=6 exact=0 prim=6
+N model=V p=1 best=-99.000 cand=0
+N model=V p=2 best=-99.000 cand=0
+N model=V p=3 best=-99.000 cand=0
+N model=V p=4 best=-99.000 cand=0
+N model=V p=5 best=-99.000 cand=0
+N model=V p=6 best=-99.000 cand=0
+N model=V p=7 best=-99.000 cand=0
+N model=V p=8 best=-99.000 cand=0
+N model=V p=9 best=-99.000 cand=0
+N model=V p=10 best=-99.000 cand=0
+N model=V p=11 best=-99.000 cand=0
+N model=V p=12 best=-99.000 cand=0
+N model=V p=13 best=-99.000 cand=0
+N model=V p=14 best=-99.000 cand=0
+N model=V p=15 best=-99.000 cand=0
+N model=V p=16 best=-99.000 cand=0
+N model=V p=17 best=-99.000 cand=0
+N model=V p=18 best=-99.000 cand=0
+N model=V p=19 best=-99.000 cand=0
+N model=V p=20 best=-99.000 cand=0
+N model=V p=21 best=-99.000 cand=0
+N model=V p=22 best=-99.000 cand=0
+N model=V p=23 best=-99.000 cand=0
+N model=V p=24 best=-99.000 cand=0
+N model=Q p=1 best=-99.000 cand=0
+N model=Q p=2 best=-99.000 cand=0
+N model=Q p=3 best=-99.000 cand=0
+N model=Q p=4 best=-99.000 cand=0
+N model=Q p=5 best=-99.000 cand=0
+N model=Q p=6 best=-99.000 cand=0
+N model=Q p=7 best=-99.000 cand=0
+N model=Q p=8 best=-99.000 cand=0
+N model=Q p=9 best=-99.000 cand=0
+N model=Q p=10 best=-99.000 cand=0
+N model=Q p=11 best=-99.000 cand=0
+N model=Q p=12 best=-99.000 cand=0
+N model=Q p=13 best=-99.000 cand=0
+N model=Q p=14 best=-4.513 cand=5
+N model=Q p=15 best=-99.000 cand=0
+N model=Q p=16 best=-99.000 cand=0
+N model=Q p=17 best=-99.000 cand=0
+N model=Q p=18 best=-99.000 cand=0
+N model=Q p=19 best=-99.000 cand=0
+N model=Q p=20 best=-99.000 cand=0
+N model=Q p=21 best=-6.603 cand=0
+N model=Q p=22 best=-99.000 cand=0
+N model=Q p=23 best=-99.000 cand=0
+N model=Q p=24 best=-6.861 cand=0
+T rows=1 cfgV=0 cfgQ=4752 printed=21
+M model=V p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=21 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=22 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=23 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=24 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=14 ncbest=-4.842 ncpass=10 tie=q
+M model=Q p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=21 ncbest=-8.230 ncpass=5 tie=q
+M model=Q p=22 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=23 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=24 ncbest=-7.749 ncpass=6 tie=q
+Y model=Q p=14 nq=14 n=5 pass=5 max=-4.842
+Y model=Q p=14 nq=30 n=5 pass=5 max=-7.998
+Y model=Q p=21 nq=18 n=5 pass=5 max=-8.230
+Y model=Q p=24 nq=33 n=6 pass=6 max=-7.749
