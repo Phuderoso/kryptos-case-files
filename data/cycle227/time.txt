@@ -1,0 +1,17 @@
+k4 bank a 65s
+k4 bank b 66s
+k4 all a 175s
+k4 all b 176s
+nulls direct + G 180s
+null 209417 r10 194s
+null 209418 r10 207s
+null 209419 r10 220s
+null 209420 r10 233s
+null 209421 r10 246s
+null 209422 r10 259s
+null 209423 r10 272s
+null 209424 r10 285s
+null 209425 r10 298s
+null 209426 r10 311s
+null 209427 r10 324s
+null 209428 r10 337s

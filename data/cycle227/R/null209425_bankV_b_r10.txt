@@ -1,0 +1,178 @@
+B V perm=3840 dir=1 ix=1 lay=0 p=24 known=77 qg=-6.407 pt=?RQUCBOGEA?YAA???DP?OEASTNORTHEAST?JBW?YXOZL?QXNK??VSYS??TN??BF?ERLINCLOC??UFUQHBQ?UVRLQM?ATKNMQE
+B V perm=1280 dir=1 ix=1 lay=0 p=23 known=78 qg=-6.477 pt=L?U??E??TLQ??BA?KBGCN?ASTNORTHEASTOHJEBBJM?LVCGARZ?DM?P?WFBKEE?BERLINCLOC?HW??MAPZWPNX?ICGPVEHID?
+B V perm=3840 dir=1 ix=1 lay=1 p=24 known=77 qg=-6.052 pt=HOIXYS?EEH?Y????LQG?VEASTNORTHEAST?KXU??A?FDIJFKQETOCWM?B???QXQ?ERLINCLOC?UTYRIEMTOTUC?KFC?QA?VQE
+B V perm=1280 dir=1 ix=1 lay=3 p=23 known=79 qg=-6.115 pt=R?ILLF?ZXLRL?BBK?IGBF?ASTNORTHEASTSJHJ?QXT?JOUGAUA?D?IIZP??P?O?BERLINCLOC?HKWDTLD?XTFK?D?GP?WNICM
+B V perm=3880 dir=1 ix=1 lay=0 p=22 known=80 qg=-6.243 pt=A??T?QKA?Y?LPEO?LTJVO?ASTNORTHEASTORXMTZAVQUQ?VGE?LZX?MGDFEL?UIBERLI?CLOCKCVG?I?DY?IC?ETP?VJPROHV
+B V perm=120 dir=1 ix=1 lay=1 p=23 known=82 qg=-5.842 pt=DJOC?GVFRF?ENEANXM??D?ASTNORTHEASTAHTSHABOH???XIORPRKBULKDZWB?HBERLINCLOC???KUROPVYBAGLYW?EREP??O
+C V perm=120 dir=1 ix=1 lay=1 p=23 known=82 qg=-5.842 pt=DJOC?GVFRF?ENEANXM??D?ASTNORTHEASTAHTSHABOH???XIORPRKBULKDZWB?HBERLINCLOC???KUROPVYBAGLYW?EREP??O
+B V perm=210 dir=1 ix=1 lay=3 p=24 known=75 qg=-6.046 pt=LLVWNO??GV?HRGXW?JRF?EASTNORTHEAS?SUJXERTILPCRID??ELY??K????BSN?ERLINCLOCK?XW?TBV?P?M?LLCYTDUNU??
+C V perm=300 dir=1 ix=1 lay=0 p=23 known=76 qg=-5.986 pt=???WO?WI?JFANXIWJY?HGEASTNORTHEAS?ICJT?YHUW?HBLOHPYC?D?RP?T?VLG?ERLINCLOCKSSEH??TD??EEM?EDCJWYB??
+B V perm=3600 dir=1 ix=1 lay=3 p=24 known=78 qg=-6.033 pt=?MYDYZ?XEY?Y?PYMM?AX??ASTNORTHEAST?IXN?K?HUT??TBQETOFZK???NNRZTBERLINCLOC?TDSEMD?N?ABYPAYYTRO?VAE
+B V perm=4950 dir=1 ix=1 lay=3 p=24 known=76 qg=-5.853 pt=HKBEWAVG??LTZ?X?PB?OFEASTNORTHEAST?DJDS??UPJ??X?BQD?KAPGRO??MGI?ERLINCLOC??CNZXCPCL?DNQMQE?A?IYT?
+C V perm=4950 dir=1 ix=1 lay=3 p=24 known=76 qg=-5.853 pt=HKBEWAVG??LTZ?X?PB?OFEASTNORTHEAST?DJDS??UPJ??X?BQD?KAPGRO??MGI?ERLINCLOC??CNZXCPCL?DNQMQE?A?IYT?
+C V perm=2400 dir=1 ix=1 lay=1 p=24 known=77 qg=-5.979 pt=TUC?KFC?QA?VQE??LQG?VEASTNORTHEAST?KXU??A?FDIJFKQETOCWM?B???QXQ?ERLINCLOC?UTYRIEMTOHOIXYS?EEH?Y??
+B V perm=93530 dir=0 ix=1 lay=3 p=22 known=75 qg=-6.207 pt=OSMAXGG?LF?U?N?W??SWYEASTNORTHEAS?BUCV?XK???LK??AK?TFR?RSIEX?OZBERL?NCLOCKWCQLEPXX?X?FGKSR?A?CRB?
+C V perm=92960 dir=0 ix=1 lay=1 p=24 known=78 qg=-5.983 pt=?EDAFOGYD?CLWXD?VMVJI?ASTNORTHEAS?EORYUGS?C?XM?FSQ?I??ADRI?EYY?BERLINCLOCK?OCGUCRSITAA?BBFB?FV???
+B V perm=92960 dir=0 ix=1 lay=2 p=24 known=76 qg=-5.793 pt=?EDAPO?ZD?CLWXD?OMVJI?ASTNORTHEAS?EORZUGS?C?XF?FSQ?I??AORI?EZZ?BERLINCLOCK?OCGU?RSITAA?BBFB?FV???
+C V perm=92960 dir=0 ix=1 lay=2 p=24 known=76 qg=-5.793 pt=?EDAPO?ZD?CLWXD?OMVJI?ASTNORTHEAS?EORZUGS?C?XF?FSQ?I??AORI?EZZ?BERLINCLOCK?OCGU?RSITAA?BBFB?FV???
+C V perm=93660 dir=1 ix=1 lay=2 p=24 known=77 qg=-5.978 pt=O?WJWOI?TE?RYVMQSM?YE?ASTNORTHEAS?JPM?IKHJ?IZ?F?WERYF?P?RVJHXT?BERLINCLOCK?S?PQ?EPETBGG??JALK??OU
+C V perm=93330 dir=0 ix=1 lay=3 p=24 known=75 qg=-5.877 pt=LJ?N?KTI??JSLART?LY???ASTNORTHEAS?AFRMJ?LPV?QCOI?I???SX?X?CXIM?BERLINCLOCK?KPARRSZKUN??OYONQJ?SQX
+B V perm=92740 dir=0 ix=1 lay=1 p=24 known=72 qg=-5.650 pt=CEZ?XO?B?UFZ?LG?VDAJD?ASTNORTHEAS?LPS??KH??RNP?AJFMAAGK??O?DJS?BERLINCLOCK?I?JZL?DA????WFFB??YIWY
+C V perm=92740 dir=0 ix=1 lay=1 p=24 known=72 qg=-5.650 pt=CEZ?XO?B?UFZ?LG?VDAJD?ASTNORTHEAS?LPS??KH??RNP?AJFMAAGK??O?DJS?BERLINCLOCK?I?JZL?DA????WFFB??YIWY
+B V perm=92740 dir=0 ix=1 lay=2 p=24 known=72 qg=-5.492 pt=CEY?XD?B?UFY?LG?VDAJD?ASTNORTHEAS?LPS??KHZ??NP?UJPMAA?KG?V?DJS?BERLINCLOCK?I?JKL?DA????WFFB??ZIWZ
+C V perm=92740 dir=0 ix=1 lay=2 p=24 known=72 qg=-5.492 pt=CEY?XD?B?UFY?LG?VDAJD?ASTNORTHEAS?LPS??KHZ??NP?UJPMAA?KG?V?DJS?BERLINCLOCK?I?JKL?DA????WFFB??ZIWZ
+C V perm=95100 dir=0 ix=1 lay=0 p=24 known=68 qg=-5.897 pt=DVPNEFS?U??YC??YDJZX??ASTNORTHEAST???M?DF?MTV???DOFSPSGBR?B???TBERLINCL?CKF?APJUL??FE??NA?JE??A?J
+C V perm=100030 dir=0 ix=1 lay=3 p=24 known=77 qg=-5.915 pt=R?ZLKBQ?QTP?GVIB?OTG??ASTNORTHEAS?WOINKUY?ENJ?TLUEHY?YSBPY??AT?BERLINCLOCK??UDOP?XB??M?YR?AECIAVQ
+C V perm=97150 dir=1 ix=1 lay=1 p=24 known=76 qg=-5.492 pt=?JV?UN?MJ?GONWAKG?SOC?ASTNORTHEAS?MXC?BMKAOF?OABA???EDEIIVS??R?BERLINCLOCK?KTEISYD?QHE??STD?V?LIR
+C V perm=97150 dir=1 ix=1 lay=2 p=24 known=76 qg=-5.587 pt=?EV?XN?WJ?GONMAKQ?SOC?ASTNORTHEAS?MXC?BMRAOF?OABV???EDEIIVS??R?BERLINCLOCK?KTEISZO?QHE??STD?V?LCR
+C V perm=97160 dir=1 ix=1 lay=0 p=24 known=77 qg=-5.869 pt=Y?JWMWL?I?RFLM?F?WGT??ASTNORTHEAS?COCNANSMEQW?EMS?PSMAP?AE?VVM?BERLINCLOCK?CSX?HH?V?ZB?YI??JUZMYP
+B V perm=101120 dir=0 ix=1 lay=3 p=21 known=81 qg=-6.737 pt=AWGDWL?P??L?L?VULMPTE?ASTNORTHEAS?SQGTNJJR?OF?QFGIUO?UAQF?BZT??BERLINCLOCKMLI?C?XBKGQA?DVIGVKSQVA
+C V perm=105060 dir=0 ix=1 lay=2 p=24 known=75 qg=-5.794 pt=TO?B??A?SCZ?MKQ?E??AUEASTNORTHEAS?SI?SP?VIB?H?WGUSVWO?QVTF?IAVS?ERLINCLOCKE?Y??XLKIZL?JE?ETPEOG?L
+C V perm=109350 dir=1 ix=1 lay=1 p=24 known=70 qg=-5.759 pt=?FG?JE????WDI?LJL?S?U?ASTNORTHEAS?RWVK?DARNDI?IDO????ZNLEY?TSW?BERLINCLOCKH?ORNQNIFQIM?H??BCW????
+B V perm=149240 dir=0 ix=1 lay=0 p=21 known=84 qg=-6.552 pt=NU???UKSS?CSTF?IIEYWBEA?TNORTHEASTARXRUWO??UOHPETOODNVN?ORSUYXBBERLINCLOC?BNSC?NWT?HRGZ?VTWHMBGZY
+C V perm=155710 dir=0 ix=1 lay=1 p=24 known=75 qg=-5.953 pt=SABCH?TWQ???GLTNERD?LEASTNORTHEAS?SMDE?TZ?SRJKASJKBPCU?CRZ?H?BB?ERLINCLOCK?RANC???NJUH?????NFQT?O
+C V perm=155710 dir=0 ix=1 lay=2 p=24 known=75 qg=-5.882 pt=SABCH?TWQ???GLTNEKD?LEASTNORTHEAS?SMDE?TY?SRJKAS?KBPCURCRY?H?BB?ERLINCLOCK?RANC???NJUH?????NFGT?O
+C V perm=156470 dir=1 ix=1 lay=3 p=24 known=73 qg=-5.880 pt=??RDYTEAJGUITMBV?TVV??ASTNORTHEAST??RT?Z??L?Q?N?WCEZZT?AE?XQB??BERLINCLOC?BBA?SSUC?F?V?CNIKGQ?J?S
+S V p=1 hits=0 exact=0 prim=0
+S V p=2 hits=0 exact=0 prim=0
+S V p=3 hits=0 exact=0 prim=0
+S V p=4 hits=0 exact=0 prim=0
+S V p=5 hits=0 exact=0 prim=0
+S V p=6 hits=0 exact=0 prim=0
+S V p=7 hits=0 exact=0 prim=0
+S V p=8 hits=0 exact=0 prim=0
+S V p=9 hits=0 exact=0 prim=0
+S V p=10 hits=0 exact=0 prim=0
+S V p=11 hits=0 exact=0 prim=0
+S V p=12 hits=0 exact=0 prim=0
+S V p=13 hits=0 exact=0 prim=0
+S V p=14 hits=0 exact=0 prim=0
+S V p=15 hits=0 exact=0 prim=0
+S V p=16 hits=0 exact=0 prim=0
+S V p=17 hits=0 exact=0 prim=0
+S V p=18 hits=0 exact=0 prim=0
+S V p=19 hits=0 exact=0 prim=0
+S V p=20 hits=0 exact=0 prim=0
+S V p=21 hits=4 exact=0 prim=4
+S V p=22 hits=22 exact=0 prim=22
+S V p=23 hits=591 exact=20 prim=591
+S V p=24 hits=707 exact=62 prim=707
+N model=V p=1 best=-99.000 cand=0
+N model=V p=2 best=-99.000 cand=0
+N model=V p=3 best=-99.000 cand=0
+N model=V p=4 best=-99.000 cand=0
+N model=V p=5 best=-99.000 cand=0
+N model=V p=6 best=-99.000 cand=0
+N model=V p=7 best=-99.000 cand=0
+N model=V p=8 best=-99.000 cand=0
+N model=V p=9 best=-99.000 cand=0
+N model=V p=10 best=-99.000 cand=0
+N model=V p=11 best=-99.000 cand=0
+N model=V p=12 best=-99.000 cand=0
+N model=V p=13 best=-99.000 cand=0
+N model=V p=14 best=-99.000 cand=0
+N model=V p=15 best=-99.000 cand=0
+N model=V p=16 best=-99.000 cand=0
+N model=V p=17 best=-99.000 cand=0
+N model=V p=18 best=-99.000 cand=0
+N model=V p=19 best=-99.000 cand=0
+N model=V p=20 best=-99.000 cand=0
+N model=V p=21 best=-6.552 cand=0
+N model=V p=22 best=-6.207 cand=0
+N model=V p=23 best=-5.842 cand=2
+N model=V p=24 best=-5.492 cand=18
+N model=Q p=1 best=-99.000 cand=0
+N model=Q p=2 best=-99.000 cand=0
+N model=Q p=3 best=-99.000 cand=0
+N model=Q p=4 best=-99.000 cand=0
+N model=Q p=5 best=-99.000 cand=0
+N model=Q p=6 best=-99.000 cand=0
+N model=Q p=7 best=-99.000 cand=0
+N model=Q p=8 best=-99.000 cand=0
+N model=Q p=9 best=-99.000 cand=0
+N model=Q p=10 best=-99.000 cand=0
+N model=Q p=11 best=-99.000 cand=0
+N model=Q p=12 best=-99.000 cand=0
+N model=Q p=13 best=-99.000 cand=0
+N model=Q p=14 best=-99.000 cand=0
+N model=Q p=15 best=-99.000 cand=0
+N model=Q p=16 best=-99.000 cand=0
+N model=Q p=17 best=-99.000 cand=0
+N model=Q p=18 best=-99.000 cand=0
+N model=Q p=19 best=-99.000 cand=0
+N model=Q p=20 best=-99.000 cand=0
+N model=Q p=21 best=-99.000 cand=0
+N model=Q p=22 best=-99.000 cand=0
+N model=Q p=23 best=-99.000 cand=0
+N model=Q p=24 best=-99.000 cand=0
+T rows=16507 cfgV=264112 cfgQ=0 printed=0
+M model=V p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=21 ncbest=-7.698 ncpass=0 tie=q
+M model=V p=22 ncbest=-7.626 ncpass=0 tie=q
+M model=V p=23 ncbest=-6.606 ncpass=0 tie=q
+M model=V p=24 ncbest=-6.795 ncpass=0 tie=q
+M model=Q p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=21 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=22 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=23 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=24 ncbest=-99.000 ncpass=0 tie=q
+X hit model=V p=21 kbin=5 n=4 81:1 90:1 93:1 116:1
+X hit model=V p=22 kbin=4 n=6 95:2 97:1 99:1 104:1 110:1
+X hit model=V p=22 kbin=5 n=16 84:1 88:1 89:1 90:1 91:1 92:1 94:1 95:1 96:1 98:2 102:1 103:1 104:1 105:1 119:1
+X hit model=V p=23 kbin=3 n=2 77:1 115:1
+X hit model=V p=23 kbin=4 n=185 77:13 81:6 82:5 83:6 85:4 86:11 87:1 88:10 89:3 90:15 91:10 92:4 93:8 94:2 95:7 96:7 97:5 99:4 100:4 101:7 102:1 103:6 104:8 106:1 107:3 108:4 109:1 110:2 111:1 112:3 113:1 114:1 115:4 117:2 118:2 119:3 121:1 122:1 124:1 125:1 126:1 128:1 129:1 138:1 144:1 147:1
+X hit model=V p=23 kbin=5 n=384 77:13 80:3 81:19 82:7 83:2 84:14 85:13 86:7 87:14 88:6 89:9 90:5 91:9 92:7 93:5 94:11 95:16 96:10 97:17 98:16 99:12 100:7 101:12 102:14 103:10 104:12 105:7 106:4 107:9 108:6 109:8 110:8 111:6 112:7 113:2 114:7 115:4 116:8 117:4 118:4 119:4 120:2 121:3 122:1 123:2 125:1 126:2 128:2 129:3 131:1 133:2 134:1 140:3 141:1 142:1 170:1
+X hit model=V p=23 kbin=6 n=20 77:1 80:2 84:1 85:1 89:3 90:1 91:2 96:1 97:1 99:2 100:1 102:1 104:1 108:1 117:1
+X hit model=V p=24 kbin=3 n=15 0:2 82:1 87:1 90:1 91:1 98:1 100:1 104:2 106:1 107:1 111:1 112:1 118:1
+X hit model=V p=24 kbin=4 n=335 77:27 81:3 82:8 83:11 84:9 85:12 86:8 87:10 88:14 89:8 90:9 91:9 92:7 93:5 94:9 95:13 96:8 97:7 98:8 99:9 100:7 101:6 102:7 103:8 104:2 105:3 106:7 107:13 108:8 109:7 111:5 112:5 113:2 114:3 115:3 117:5 118:2 119:3 120:4 121:5 122:3 123:2 124:6 125:2 126:2 127:2 128:2 129:1 131:4 132:1 133:2 134:1 135:1 136:1 137:1 139:2 149:1 151:1 161:1
+X hit model=V p=24 kbin=5 n=338 77:9 80:9 81:9 82:10 83:5 84:5 85:8 86:7 87:10 88:10 89:8 90:10 91:6 92:8 93:14 94:9 95:16 96:10 97:12 98:12 99:8 100:6 101:8 102:9 103:7 104:9 105:13 106:7 107:5 108:8 109:8 110:6 111:7 112:3 113:6 114:7 115:2 116:4 117:2 118:2 119:2 120:4 121:2 122:2 123:2 124:1 125:3 127:2 128:2 130:1 131:1 138:1 139:1
+X hit model=V p=24 kbin=6 n=19 83:1 85:1 87:1 88:1 89:2 90:2 91:1 96:1 97:1 98:1 102:2 104:2 105:1 109:1 114:1
+X oracle model=V p=21 kbin=5 n=16 257:1 268:1 272:1 276:1 279:1 282:1 286:2 287:1 289:1 293:1 296:2 297:1 301:2
+X oracle model=V p=22 kbin=4 n=24 232:1 246:1 247:1 262:1 272:1 277:1 280:1 281:1 282:1 285:1 286:1 287:1 291:1 293:2 295:1 296:1 301:1 304:1 305:1 308:2 310:1 314:1
+X oracle model=V p=22 kbin=5 n=64 251:1 252:1 253:1 258:1 264:1 265:1 266:1 268:1 269:2 270:1 277:2 278:2 280:1 281:2 282:2 283:4 285:4 288:1 289:1 290:3 291:6 292:2 293:1 294:2 296:3 297:1 299:3 300:2 301:4 303:1 304:1 305:1 306:1 307:1 308:1 313:1
+X oracle model=V p=23 kbin=3 n=8 268:1 278:1 290:1 292:1 294:1 298:1 305:1 321:1
+X oracle model=V p=23 kbin=4 n=740 198:1 224:1 230:2 233:1 235:1 236:2 237:2 241:2 242:1 243:1 244:2 245:3 246:3 247:2 248:2 249:2 251:3 252:1 253:5 254:5 255:2 256:4 257:3 258:4 259:4 260:10 261:5 262:4 263:5 264:4 265:10 266:7 267:2 268:8 269:3 270:2 271:5 272:7 273:13 274:10 275:9 276:17 277:12 278:21 279:17 280:23 281:22 282:19 283:17 284:14 285:16 286:19 287:14 288:15 289:20 290:19 291:21 292:27 293:26 294:18 295:16 296:16 297:21 298:18 299:21 300:19 301:14 302:13 303:18 304:8 305:15 306:6 307:7 308:6 309:3 310:4 311:1 312:3 313:3 314:2 315:2 316:3 317:1
+X oracle model=V p=23 kbin=5 n=1536 218:1 225:1 227:1 229:1 230:3 231:1 235:3 236:1 238:1 239:2 240:1 241:4 242:2 243:6 244:2 245:4 246:3 247:5 248:4 249:2 250:5 251:3 252:3 253:5 254:7 255:10 256:9 257:12 258:10 259:13 260:11 261:11 262:10 263:12 264:16 265:12 266:17 267:11 268:9 269:21 270:19 271:14 272:15 273:15 274:18 275:22 276:32 277:29 278:37 279:21 280:29 281:47 282:39 283:34 284:30 285:43 286:40 287:37 288:52 289:49 290:41 291:50 292:44 293:41 294:44 295:41 296:53 297:48 298:36 299:43 300:33 301:24 302:27 303:24 304:17 305:23 306:12 307:11 308:13 309:12 310:7 311:4 312:3 313:4 314:2 315:1 316:1
+X oracle model=V p=23 kbin=6 n=80 234:1 247:1 258:1 263:1 264:1 265:1 266:3 267:2 268:1 269:1 270:2 271:1 273:1 274:4 276:1 277:2 278:2 279:4 280:1 281:1 282:4 283:3 284:1 285:1 286:2 287:2 288:2 289:4 290:1 291:4 292:3 293:1 294:2 295:1 296:2 298:2 300:2 301:2 302:3 303:1 304:1 305:1 307:1 309:1 311:1
+X oracle model=V p=24 kbin=3 n=60 0:8 221:2 222:1 224:1 234:1 249:1 254:1 258:1 262:1 269:1 275:1 276:2 277:2 278:1 279:1 280:2 282:1 283:1 286:1 287:3 291:1 292:2 293:2 294:1 297:1 300:1 301:1 302:1 303:4 304:1 306:2 307:1 312:1 313:1 314:3 315:2 316:2
+X oracle model=V p=24 kbin=4 n=1340 222:2 223:1 225:2 226:1 227:1 231:3 233:1 235:1 237:2 238:6 239:6 240:1 241:2 242:3 243:5 244:4 246:5 247:2 248:3 249:2 250:4 251:5 252:7 253:7 254:8 255:2 256:7 257:6 258:6 259:6 260:6 261:4 262:16 263:9 264:7 265:13 266:12 267:12 268:10 269:11 270:11 271:19 272:14 273:18 274:24 275:27 276:22 277:21 278:26 279:25 280:39 281:23 282:28 283:43 284:30 285:53 286:34 287:36 288:40 289:39 290:31 291:32 292:37 293:41 294:39 295:32 296:25 297:20 298:24 299:32 300:35 301:20 302:27 303:20 304:19 305:9 306:21 307:13 308:16 309:18 310:8 311:5 312:7 313:3 314:4 315:3 316:4 317:3 318:3 319:2 320:2 321:2
+X oracle model=V p=24 kbin=5 n=1352 222:1 225:1 227:1 233:1 235:1 237:1 238:2 240:1 241:2 242:2 244:2 245:2 246:2 247:6 248:3 249:6 250:5 251:3 252:13 253:5 254:3 255:5 256:6 257:11 258:9 259:11 260:13 261:11 262:7 263:10 264:13 265:16 266:8 267:13 268:19 269:13 270:13 271:13 272:13 273:23 274:24 275:15 276:17 277:22 278:19 279:26 280:36 281:32 282:47 283:37 284:25 285:37 286:33 287:43 288:32 289:41 290:50 291:43 292:41 293:32 294:52 295:38 296:31 297:34 298:30 299:33 300:31 301:24 302:26 303:22 304:19 305:13 306:17 307:10 308:5 309:7 310:7 311:3 312:1 313:3 314:1 315:2 316:1
+X oracle model=V p=24 kbin=6 n=76 246:1 250:1 260:1 261:1 264:2 266:1 267:1 269:1 270:2 271:2 273:1 274:1 275:1 276:2 277:2 278:1 279:1 280:3 281:1 282:4 283:2 284:3 285:2 286:1 287:2 288:2 289:4 290:1 291:3 293:2 294:3 295:1 296:3 297:2 298:2 299:1 300:2 301:3 303:1 304:2 305:1 308:2 311:1

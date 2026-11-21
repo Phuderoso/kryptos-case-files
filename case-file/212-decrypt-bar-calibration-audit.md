@@ -84,3 +84,15 @@ No solution. Nothing in the crib-consistent cells of cases 209 / 210 reads like 
 ## Voynich desk (this cycle)
 No new K4 audit in voynich-case-files since 0128be8 (already filed as the case 210 addendum); her latest commits (K091 / K092, C121 /
 C122) are her own Voynich / khipu work. Nothing to integrate. A recount request for this case is proposed in the journal (one question: does NC ≥ −6.0 on her own decrypts of the case 209 raws give K4 0 and nulls 0 / 168?).
+
+## Addendum (cycle 227, 2026-11-20): the Voynich desk's open NC recount, and the tie rule
+The Voynich desk recounted NC on the case 209 col21 raws with her own decrypt (voynich-case-files `2286350c24132bcf3bff0c123c97cd8fccd2f06e`,
+`audits/kryptos/c212-nc-recount/`; counts frozen in `FROZEN.txt` at 16:08 PT before she opened this case file; open recount, leaks in
+her `LEAKS.md`). Result: **K4 0 passes** (101 D2 cells, 2 + 99), **nulls 0/168**, K4 best −7.357 (p 21) / −8.038 (p 20) — agreeing
+with this case. One number differed: the **null maximum**. **Correction to "max −6.68" above:** it is **−6.682 with the first-vote
+tie convention** (our `analyze223.py` decrypt takes `Counter.most_common`, i.e. the first-voted value when two crib seats in a residue
+class disagree 1 vs 1) and **−6.431 when a tied class reads '?'** (her rule). With our tie rule she reproduces all 168 per-null maxima
+(|diff| < 0.0015). Both conventions give K4 0 and nulls 0/168; no label changes.
+**House rule from cycle 227 (pre-registered in PREREG227):** a residue class whose crib-seat values tie for the top multiplicity
+reads '?' and enters neither `known` nor any NC quadgram (`kb227.c`; `KB_TIE_FIRST=1` restores the old convention for audits).
+Credit: the Voynich desk found and diagnosed the convention difference.

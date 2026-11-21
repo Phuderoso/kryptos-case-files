@@ -1,0 +1,7 @@
+Cycle 227 (case 213, PREREG227). Inputs: k4.txt (K4), nulls224.tsv (case 210 shuffles 209417-209436, published in data/cycle224),
+bank.bin / all.bin (house transposition banks, as cases 200-212), qg.bin (sha256 4a02ba4e...), oracle226.txt (data/cycle226; only
+used for the X histograms), kb227.bin + kb227_names.txt + geo227a.txt + geo227b.txt (made by tools/cycle227/layouts227.py).
+R/: run227.sh outputs (K4 full scale; nulls direct + G full scale; first 12 nulls V / Q on every 10th row) and run227b.sh (K4 r10).
+RP/: post-run H-line listings of the K4-only cells and their single-row decrypts (printbar -99).
+gateT_*: S / T lines of kb226 vs kb227 on K4 bank r10 with geo224 / kb224 (identical).
+gateP227.tsv: 20 plants (seed 209548), found 20/20; summary227.json: every cell with K4 / null counts, NC best / passes, labels.

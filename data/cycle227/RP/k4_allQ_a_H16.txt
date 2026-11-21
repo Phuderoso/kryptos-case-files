@@ -1,0 +1,29 @@
+H Q perm=15064 dir=1 ix=0 X=18 Y=7 form=2 p=16 err=1
+H Q perm=15065 dir=0 ix=0 X=18 Y=7 form=2 p=16 err=1
+H Q perm=134838 dir=1 ix=0 X=7 Y=9 form=2 p=16 err=1
+H Q perm=134839 dir=0 ix=0 X=7 Y=9 form=2 p=16 err=1
+S Q p=1 hits=0 exact=0 prim=0
+S Q p=2 hits=0 exact=0 prim=0
+S Q p=3 hits=0 exact=0 prim=0
+S Q p=4 hits=0 exact=0 prim=0
+S Q p=5 hits=0 exact=0 prim=0
+S Q p=6 hits=0 exact=0 prim=0
+S Q p=7 hits=0 exact=0 prim=0
+S Q p=8 hits=0 exact=0 prim=0
+S Q p=9 hits=0 exact=0 prim=0
+S Q p=10 hits=0 exact=0 prim=0
+S Q p=11 hits=0 exact=0 prim=0
+S Q p=12 hits=0 exact=0 prim=0
+S Q p=13 hits=0 exact=0 prim=0
+S Q p=14 hits=0 exact=0 prim=0
+S Q p=15 hits=0 exact=0 prim=0
+S Q p=16 hits=4 exact=0 prim=4
+S Q p=17 hits=8 exact=0 prim=8
+S Q p=18 hits=16 exact=0 prim=16
+S Q p=19 hits=200 exact=0 prim=200
+S Q p=20 hits=3212 exact=12 prim=3212
+S Q p=21 hits=17062 exact=240 prim=17062
+S Q p=22 hits=468878 exact=9568 prim=468878
+S Q p=23 hits=1735340 exact=58034 prim=1735340
+S Q p=24 hits=7740948 exact=465160 prim=7740948
+T rows=165782 cfgV=0 cfgQ=787796064 printed=4
