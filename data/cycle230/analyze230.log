@@ -1,0 +1,40 @@
+PLANT B01 direct w 7 found survivor lines 15 T 15 decode (-3.432, -4.082, 0.493, True)
+PLANT B02 direct d 6 found survivor lines 6 T 6 decode (-3.668, -4.297, 0.438, True)
+PLANT B03 direct w 6 found survivor lines 96 T 96 decode (-3.794, -4.386, 0.384, True)
+PLANT B04 direct d 5 found survivor lines 2 T 2 decode (-3.716, -4.046, 0.658, True)
+PLANT B05 direct w 5 found survivor lines 2 T 2 decode (-3.798, -4.461, 0.329, True)
+PLANT B06 direct d 6 found survivor lines 6 T 6 decode (-3.532, -4.315, 0.575, True)
+PLANT B07 direct w 9 found survivor lines 54 T 54 decode (-3.304, -3.793, 0.493, True)
+PLANT B08 direct d 4 found survivor lines 111 T 111 decode (-3.661, -4.144, 0.781, True)
+PLANT B09 direct w 5 found survivor lines 36 T 36 decode (-3.827, -4.809, 0.589, True)
+PLANT B10 direct d 4 found survivor lines 9 T 9 decode (-3.991, -4.445, 0.671, True)
+PLANT B11 all w 6 found survivor lines 8 T 8 decode (-3.753, -4.64, 0.356, True)
+PLANT B12 all d 4 found survivor lines 4 T 4 decode (-4.103, -4.442, 0.603, True)
+PLANT B13 all w 7 found survivor lines 8 T 8 decode (-3.622, -4.46, 0.233, True)
+PLANT B14 bank d 4 found survivor lines 4 T 4 decode (-3.9, -4.934, 0.589, True)
+PLANT B15 bank w 5 found survivor lines 4 T 4 decode (-3.619, -3.992, 0.616, True)
+PLANT B16 all d 6 found survivor lines 4 T 4 decode (-3.791, -4.544, 0.589, True)
+PLANT B17 all w 6 found survivor lines 6 T 6 decode (-3.479, -3.901, 0.644, True)
+PLANT B18 all d 3 found survivor lines 4 T 4 decode (-3.979, -4.168, 0.877, True)
+PLANT B19 all w 6 found survivor lines 4 T 4 decode (-3.522, -3.998, 0.493, True)
+PLANT B20 bank d 5 found survivor lines 8 T 8 decode (-3.781, -4.199, 0.575, True)
+GATE P recovered 20/20 Wilson (0.839, 1) (pass >= 19/20); decode-read 20/20
+scope crit  K4 | null counts (1/20 scale) | null-equivalent
+direct W8 K4 0 | nulls [0, 0, 2, 0, 0, 2, 0, 0, 0, 0] | sum*20/10 per-null-equiv 8.0
+direct W9 K4 3 | nulls [0, 0, 2, 0, 0, 2, 0, 0, 0, 0] | sum*20/10 per-null-equiv 8.0
+direct W10 K4 47 | nulls [0, 0, 3, 0, 0, 2, 0, 6, 0, 0] | sum*20/10 per-null-equiv 22.0
+direct D5 K4 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 0.0
+direct D6 K4 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 0.0
+direct K4 T 47 nullT [0, 0, 3, 0, 0, 2, 0, 6, 0, 0]
+bank W8 K4 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 0.0
+bank W9 K4 0 | nulls [0, 0, 0, 0, 0, 0, 4, 0, 0, 10] | sum*20/10 per-null-equiv 28.0
+bank W10 K4 44 | nulls [2, 1, 0, 1, 3, 1, 9, 3, 0, 14] | sum*20/10 per-null-equiv 68.0
+bank D5 K4 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 0.0
+bank D6 K4 4 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 2] | sum*20/10 per-null-equiv 4.0
+bank K4 T 48 nullT [2, 1, 0, 1, 3, 1, 9, 3, 0, 16]
+all W8 K4 0 | nulls [0, 0, 2, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 4.0
+all W9 K4 6 | nulls [0, 0, 2, 0, 0, 0, 0, 2, 2, 0] | sum*20/10 per-null-equiv 12.0
+all W10 K4 48 | nulls [1, 3, 2, 3, 1, 0, 5, 3, 4, 7] | sum*20/10 per-null-equiv 58.0
+all D5 K4 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 0.0
+all D6 K4 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | sum*20/10 per-null-equiv 0.0
+all K4 T 48 nullT [1, 3, 2, 3, 1, 0, 5, 3, 4, 7]

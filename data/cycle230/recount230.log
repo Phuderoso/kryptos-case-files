@@ -1,0 +1,3 @@
+python 8919 C 8915 equal False
+diff cells 12892 min width among diffs 14 (loosened WMAX 14 / DMAX 12 test; tool exact only for width <= 13)
+restricted to registered thresholds (W<=10, D<=6): equal True 6

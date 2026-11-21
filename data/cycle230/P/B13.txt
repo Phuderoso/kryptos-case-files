@@ -1,0 +1,9 @@
+S perm=49 dir=1 X=31 Y=82 form=0 w=7 pop=6 k=GMHHHILGIHJGMHJGJGIMJIJH
+S perm=49 dir=1 X=31 Y=82 form=1 w=7 pop=6 k=UOTTTSPUSTRUOTRURUSORSRT
+S perm=49 dir=1 X=31 Y=114 form=0 w=9 pop=7 k=FLGHHHLGIGJFLGIGJGINJHJI
+S perm=49 dir=1 X=31 Y=114 form=1 w=9 pop=7 k=VPUTTTPUSURVPUSURUSNRTRS
+S perm=50 dir=0 X=31 Y=82 form=0 w=7 pop=6 k=GMHHHILGIHJGMHJGJGIMJIJH
+S perm=50 dir=0 X=31 Y=82 form=1 w=7 pop=6 k=UOTTTSPUSTRUOTRURUSORSRT
+S perm=50 dir=0 X=31 Y=114 form=0 w=9 pop=7 k=FLGHHHLGIGJFLGIGJGINJHJI
+S perm=50 dir=0 X=31 Y=114 form=1 w=9 pop=7 k=VPUTTTPUSURVPUSURUSNRTRS
+T rows=101 dirs=2 pairforms=12566016 survivors=8

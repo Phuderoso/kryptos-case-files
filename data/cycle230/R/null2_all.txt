@@ -1,0 +1,3 @@
+S perm=129724 dir=0 X=93 Y=34 form=0 w=8 pop=8 k=LIOHLKNMLKLOOIMILOLNJHIH
+S perm=129724 dir=0 X=93 Y=34 form=1 w=8 pop=8 k=PSMTPQNOPQPMMSOSPMPNRTST
+T rows=8289 dirs=2 pairforms=1031284224 survivors=2

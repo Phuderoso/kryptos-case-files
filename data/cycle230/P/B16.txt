@@ -1,0 +1,5 @@
+S perm=50 dir=1 X=70 Y=37 form=0 w=23 pop=6 k=BIRBBSSRSRIBRNNRIRXSRSXN
+S perm=50 dir=1 X=70 Y=37 form=1 w=23 pop=6 k=ZSJZZIIJIJSZJNNJSJDIJIDN
+S perm=51 dir=0 X=70 Y=37 form=0 w=23 pop=6 k=BIRBBSSRSRIBRNNRIRXSRSXN
+S perm=51 dir=0 X=70 Y=37 form=1 w=23 pop=6 k=ZSJZZIIJIJSZJNNJSJDIJIDN
+T rows=101 dirs=2 pairforms=12566016 survivors=4

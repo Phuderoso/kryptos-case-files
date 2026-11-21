@@ -1,0 +1,5 @@
+S perm=49 dir=0 X=120 Y=45 form=0 w=18 pop=4 k=CXSXXSCSJSSSCXSSJJXCCSCS
+S perm=49 dir=0 X=120 Y=45 form=1 w=18 pop=4 k=YDIDDIYIRIIIYDIIRRDYYIYI
+S perm=50 dir=1 X=120 Y=45 form=0 w=18 pop=4 k=CXSXXSCSJSSSCXSSJJXCCSCS
+S perm=50 dir=1 X=120 Y=45 form=1 w=18 pop=4 k=YDIDDIYIRIIIYDIIRRDYYIYI
+T rows=101 dirs=2 pairforms=12566016 survivors=4

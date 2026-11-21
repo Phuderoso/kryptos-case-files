@@ -1,0 +1,7 @@
+S perm=49 dir=0 X=78 Y=40 form=2 w=6 pop=6 k=MKOOOMKPMNLLKKLOPKMPKOKK
+S perm=49 dir=0 X=78 Y=85 form=2 w=10 pop=9 k=RULOTNPUNSLUNPQTUPRQPULQ
+S perm=49 dir=0 X=78 Y=106 form=2 w=9 pop=9 k=QTMOSNOTNRLTNOPSTOQQOTLP
+S perm=50 dir=1 X=78 Y=40 form=2 w=6 pop=6 k=MKOOOMKPMNLLKKLOPKMPKOKK
+S perm=50 dir=1 X=78 Y=85 form=2 w=10 pop=9 k=RULOTNPUNSLUNPQTUPRQPULQ
+S perm=50 dir=1 X=78 Y=106 form=2 w=9 pop=9 k=QTMOSNOTNRLTNOPSTOQQOTLP
+T rows=101 dirs=2 pairforms=12566016 survivors=6

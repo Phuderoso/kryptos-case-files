@@ -1,0 +1,5 @@
+S perm=49 dir=1 X=48 Y=7 form=0 w=9 pop=3 k=UUBCCBBBUUBCCUBUBBCUBUUB
+S perm=49 dir=1 X=48 Y=7 form=1 w=9 pop=3 k=GGZYYZZZGGZYYGZGZZYGZGGZ
+S perm=50 dir=0 X=48 Y=7 form=0 w=9 pop=3 k=UUBCCBBBUUBCCUBUBBCUBUUB
+S perm=50 dir=0 X=48 Y=7 form=1 w=9 pop=3 k=GGZYYZZZGGZYYGZGZZYGZGGZ
+T rows=101 dirs=2 pairforms=12566016 survivors=4

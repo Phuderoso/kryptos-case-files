@@ -1,0 +1,5 @@
+S perm=50 dir=0 X=86 Y=11 form=0 w=21 pop=4 k=CKCKQKQCQCCKQKYKYQQCKKQY
+S perm=50 dir=0 X=86 Y=11 form=1 w=21 pop=4 k=YQYQKQKYKYYQKQCQCKKYQQKC
+S perm=51 dir=1 X=86 Y=11 form=0 w=21 pop=4 k=CKCKQKQCQCCKQKYKYQQCKKQY
+S perm=51 dir=1 X=86 Y=11 form=1 w=21 pop=4 k=YQYQKQKYKYYQKQCQCKKYQQKC
+T rows=101 dirs=2 pairforms=12566016 survivors=4

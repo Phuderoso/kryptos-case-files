@@ -1,0 +1,9 @@
+W9 direct K4 clusters 2 | nulls [0, 0, 1, 0, 0, 1, 0, 0, 0, 0] | null-equiv 4
+W9 bank K4 clusters 0 | nulls [0, 0, 0, 0, 0, 0, 1, 0, 0, 1] | null-equiv 4
+W9 all K4 clusters 2 | nulls [0, 0, 1, 0, 0, 0, 0, 1, 1, 0] | null-equiv 6
+W10 direct K4 clusters 22 | nulls [0, 0, 2, 0, 0, 1, 0, 2, 0, 0] | null-equiv 10
+W10 bank K4 clusters 8 | nulls [1, 1, 0, 1, 2, 1, 2, 2, 0, 5] | null-equiv 30
+W10 all K4 clusters 20 | nulls [1, 2, 1, 2, 1, 0, 3, 2, 2, 5] | null-equiv 38
+D6 direct K4 clusters 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | null-equiv 0
+D6 bank K4 clusters 1 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 1] | null-equiv 2
+D6 all K4 clusters 0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | null-equiv 0

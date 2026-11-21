@@ -1,0 +1,4 @@
+S perm=116628 dir=0 X=117 Y=94 form=0 w=10 pop=9 k=NLOLHNFMHNHINNOIKJLNMKNF
+S perm=116628 dir=0 X=117 Y=94 form=1 w=10 pop=9 k=NPMPTNVOTNTSNNMSQRPNOQNV
+S perm=123968 dir=0 X=72 Y=133 form=2 w=10 pop=7 k=OUVOVWOUVVOVWQNQQNWVQRQV
+T rows=8253 dirs=2 pairforms=1026805248 survivors=3

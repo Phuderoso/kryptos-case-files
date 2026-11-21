@@ -1,0 +1,5 @@
+S perm=50 dir=1 X=77 Y=58 form=2 w=8 pop=8 k=EDEDHHHFHEHEEEGFCBHACDFD
+S perm=50 dir=1 X=77 Y=129 form=2 w=5 pop=5 k=EEFDHHHFHEHFEGGFFEHDFDHE
+S perm=51 dir=0 X=77 Y=58 form=2 w=8 pop=8 k=EDEDHHHFHEHEEEGFCBHACDFD
+S perm=51 dir=0 X=77 Y=129 form=2 w=5 pop=5 k=EEFDHHHFHEHFEGGFFEHDFDHE
+T rows=101 dirs=2 pairforms=12566016 survivors=4
