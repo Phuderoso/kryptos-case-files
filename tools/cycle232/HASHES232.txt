@@ -1,0 +1,16 @@
+# HASHES232 — cycle 232 (PREREG232), full sha256 of every input / tool used (I-352 convention)
+004ffc248d17e1a3fbb918122d580c4a0b2461ab4f4d43f3efbdc2e006e7e862  bank.bin
+8a9e1b3200cf803cc03fda7f60d0e181dacf479b127077c2632d818a45f9e857  all.bin
+4a02ba4eca0b6840a3a5eafe00678e854b25703c36b99e9e26a7697d4ed89f69  qg.bin
+2797de1451ab97118211735dcef370fc5acd70829f164aa043c47cbf40f0a5a3  k4.txt
+b499648af5168360abbbaa5b7d66e441b6cd19a34577d201559bd9fb092090a6  kb227.bin   (data/cycle227)
+96133c5cce6892c4f20d845a1685c7b3056a85a46025747bafa3968875111773  geo227a.txt (data/cycle227)
+fe5c2c4a923ba69e1b711383353c6267e8e675f07198d1ee32b1e2b5ab460646  geo227b.txt (data/cycle227)
+ee62b169849541a9bc9e159c04ca257b99a4acbae29835ade72b22e66823ce6a  oracle226.txt (data/cycle226; only feeds kb229's X lines)
+f727ed9e9506a7ae07b0fae9198b93265863711aa255258689f033c8142c4585  kb229.c (tools/cycle229, unchanged)
+b0b29ffaa1ef422466e23e67cdcb1bb00f46b42a16a069350b27a46ffcedfdd0  kb229 binary (c229 build; a fresh gcc -O3 -march=native -fopenmp build of kb229.c is byte-identical)
+b81e8e7bd91e55e060e7c0be69d445ce97017d42b115501e90f389deb65d2615  k123_eng.txt (published here: tools/cycle232/k123_eng.txt; same file used by plant229/230/232)
+13414dee2951c3ee731d76d2ffd822016b2479c892162760c5d0eb2aa5fa7631  rk_plain.txt (Project Gutenberg eBook #1260, Jane Eyre, as downloaded; not republished — plant ciphertexts are in plants232.tsv)
+5cbf990c79d572abb89e308dd5ade72e543d33b58d1c524acda67eb35a6498fa  plant232.py
+0ae2345285bfb7d3b3ab5d80f7a6938e38daf119c87d62f4c86ee72f5fc4268e  run232.sh
+4212a258294cb7a195d92b08f328ae1dbdb8883fd51736d3cf47444fa5c260a2  analyze232.py
