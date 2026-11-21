@@ -1,0 +1,518 @@
+C Q perm=113290 dir=0 ix=1 X=7 Y=3 form=2 p=24 known=72 qg=-5.978 pt=QTJQSND?W?EZ??ZZYY?Z?EASTNORTHEAS?IFR????GILQSFU?ILTCJE???V?VRI?ERLINCLOCK?H?L?CEAG???I?D?EIDFOYC
+C Q perm=128130 dir=0 ix=1 X=0 Y=0 form=2 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=0 Y=17 form=0 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=0 Y=17 form=1 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=0 Y=4 form=2 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=1 Y=1 form=2 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=1 Y=16 form=0 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=1 Y=16 form=1 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=1 Y=5 form=2 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=16 Y=1 form=0 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=16 Y=1 form=1 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=16 Y=16 form=2 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=16 Y=5 form=0 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=16 Y=5 form=1 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=17 Y=0 form=0 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=17 Y=0 form=1 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=17 Y=17 form=2 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=17 Y=4 form=0 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=17 Y=4 form=1 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=4 Y=0 form=2 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=4 Y=17 form=0 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=4 Y=17 form=1 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=4 Y=4 form=2 p=24 known=73 qg=-5.426 pt=UKYWXK?IZFWMO?O???FOO?ASTNORTHEASTOO?QFZ?LY???OUM??QL?HI?QLO?TE?ERLINCLOCK??DNI?SFC?DB??FXOOC?OOG
+C Q perm=128130 dir=0 ix=1 X=5 Y=1 form=2 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=5 Y=16 form=0 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=5 Y=16 form=1 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=128130 dir=0 ix=1 X=5 Y=5 form=2 p=24 known=73 qg=-5.426 pt=UFYHXT?IKIXQO?O???PPO?ASTNORTHEASTOO?OFP?FC???MUQ??OL?YI?DFM?LE?ERLINCLOCK??DNZ?CFC?MB??IXPZU?ZOG
+C Q perm=138150 dir=0 ix=1 X=19 Y=3 form=0 p=24 known=76 qg=-5.909 pt=?COJJZCO?IP?CX??NWL?FEASTNORTHEAS?MKG?CG?BU?ICB?WYP?VJ?TQ?NVANEBE?LINCLOCKTACMY??RN?EI??NKURJXXF?
+C Q perm=138150 dir=0 ix=1 X=19 Y=3 form=1 p=24 known=76 qg=-5.909 pt=?COJJZCO?IP?CX??NWL?FEASTNORTHEAS?MKG?CG?BU?ICB?WYP?VJ?TQ?NVANEBE?LINCLOCKTACMY??RN?EI??NKURJXXF?
+C Q perm=138730 dir=1 ix=1 X=3 Y=1 form=2 p=24 known=77 qg=-5.511 pt=RIF?PMMW?XQR??RWBD?MK?ASTNORTHEASTS?GMRH?NWFC?PZVI?WOLT?QBWB?JNBERLI?CLOCKEQ?ESD?YGO?XDS?YF??KYS?
+C Q perm=138730 dir=1 ix=1 X=3 Y=16 form=0 p=24 known=77 qg=-5.511 pt=RIF?PMMW?XQR??RWBD?MK?ASTNORTHEASTS?GMRH?NWFC?PZVI?WOLT?QBWB?JNBERLI?CLOCKEQ?ESD?YGO?XDS?YF??KYS?
+C Q perm=138730 dir=1 ix=1 X=3 Y=16 form=1 p=24 known=77 qg=-5.511 pt=RIF?PMMW?XQR??RWBD?MK?ASTNORTHEASTS?GMRH?NWFC?PZVI?WOLT?QBWB?JNBERLI?CLOCKEQ?ESD?YGO?XDS?YF??KYS?
+C Q perm=138730 dir=1 ix=1 X=3 Y=5 form=2 p=24 known=77 qg=-5.511 pt=RIF?PMMW?XQR??RWBD?MK?ASTNORTHEASTS?GMRH?NWFC?PZVI?WOLT?QBWB?JNBERLI?CLOCKEQ?ESD?YGO?XDS?YF??KYS?
+C Q perm=164770 dir=0 ix=1 X=19 Y=10 form=0 p=24 known=81 qg=-5.810 pt=TAUCSU?EVYEKJ?NW??OHDEA?TNORTHEAS?BZMNLUTIW?K?SGARR?NFGF?QISATIBERLINCLOCKA?INZ??PABQ?TOAS?BXDG?P
+C Q perm=164770 dir=0 ix=1 X=19 Y=10 form=1 p=24 known=81 qg=-5.810 pt=TAUCSU?EVYEKJ?NW??OHDEA?TNORTHEAS?BZMNLUTIW?K?SGARR?NFGF?QISATIBERLINCLOCKA?INZ??PABQ?TOAS?BXDG?P
+C Q perm=29050 dir=0 ix=1 X=8 Y=7 form=0 p=23 known=79 qg=-5.950 pt=K?CM?W?RMUSCQ?L?H?G?KEZSTNORTHEAST?DNLYKBLAH?YVLQXKWS?VOREI?FIEBERLINCLOCK??KDDT?YKL?NURSG?BK??SO
+C Q perm=29050 dir=0 ix=1 X=8 Y=7 form=1 p=23 known=79 qg=-5.950 pt=K?CM?W?RMUSCQ?L?H?G?KEZSTNORTHEAST?DNLYKBLAH?YVLQXKWS?VOREI?FIEBERLINCLOCK??KDDT?YKL?NURSG?BK??SO
+C Q perm=58760 dir=1 ix=1 X=11 Y=13 form=2 p=22 known=84 qg=-5.800 pt=FLYDINE?TTSC?JSOIBL?KEA?TNO?THEAST?GADMYDLMICJ?WBEFU?MUK?CNDIV?BERLINCLOCKELV?DDMITOULO?ZRN?WUNKK
+C Q perm=90380 dir=1 ix=1 X=11 Y=13 form=2 p=22 known=84 qg=-5.967 pt=BEFU?MUK?CND?JSOIBL?KEA?TNO?THEAST?GLO?ZRN?WUNKKFLYDINE?TTSCIV?BERLINCLOCKELV?DDMITOUADMYDLMICJ?W
+C Q perm=91100 dir=0 ix=1 X=8 Y=9 form=2 p=23 known=81 qg=-5.884 pt=PSM?EAZPX?LYPV?ZBU?EEEASTNO?THEAS?FNJB?XWC??JYDYE?WSBETCBG?LRG?BERLINCLOCKUAY??VFHKE?VRHEOUSTPAR?
+C Q perm=94860 dir=0 ix=1 X=9 Y=2 form=0 p=23 known=78 qg=-5.995 pt=LXTOT?T??NBA??Q?XR?GYEASTNORT?EAST?LIRTAHM?YZ?JHYI?RENTDUF?IO?ZBER?INCLOCK?YK?WYBT?PIVY?PKFSGBATD
+C Q perm=94860 dir=0 ix=1 X=9 Y=2 form=1 p=23 known=78 qg=-5.995 pt=LXTOT?T??NBA??Q?XR?GYEASTNORT?EAST?LIRTAHM?YZ?JHYI?RENTDUF?IO?ZBER?INCLOCK?YK?WYBT?PIVY?PKFSGBATD
+C Q perm=96290 dir=0 ix=1 X=12 Y=11 form=0 p=24 known=72 qg=-5.968 pt=BTL?PXHGKPXAW?HQL????EASTNO?THEASTZ?JR???EWWW?GCINAST?IV???CHUP?ERLINCLOCK???QSMU?NQTIBN?DG???VWE
+C Q perm=96290 dir=0 ix=1 X=12 Y=11 form=1 p=24 known=72 qg=-5.968 pt=BTL?PXHGKPXAW?HQL????EASTNO?THEASTZ?JR???EWWW?GCINAST?IV???CHUP?ERLINCLOCK???QSMU?NQTIBN?DG???VWE
+C V perm=100 dir=1 ix=1 lay=2 p=23 known=79 qg=-5.868 pt=BWQ?UELLUKCX?HIPSUBPA?ASTNORTHEASTORLX???Y?FDAIFP?JKEGWXN?NCE?LBERLINCLOC?KNH?I?WG??X??OHUQYH?JUS
+C V perm=100040 dir=0 ix=1 lay=1 p=24 known=81 qg=-5.728 pt=WB?JVATCZ??ZU?ULRQCEMEASTNORTHEASTISPULENEWH?XAXOT?DR?Y?XTECDC?BERLINCLOCK?IHSGH?FR?N??GVEE?KZKL?
+C V perm=106160 dir=1 ix=1 lay=2 p=24 known=75 qg=-5.841 pt=?CATPEARHCZ?M??RHSE???ASTNORTHEASTCLIDOU??L?AQM?WMHYFM?T??VOR?DBERLINCLOC??OI?HFDWFV??VFZVLAU?X?B
+C V perm=107330 dir=0 ix=1 lay=0 p=24 known=77 qg=-5.866 pt=MG??M??WWT?XS?ECY?ZPQ?ASTNORTHEA?TGBAR?NRUMZHIUY??ITDH?EJMMFK?RBERLINCLOCKM?KK?LGM?IHO?ZK?SII?YGY
+C V perm=125630 dir=1 ix=1 lay=0 p=24 known=76 qg=-5.766 pt=ARVL?NEA?IKYHJOTHX?SHEASTNORTHEAS?ISO?RPV?ZZ?I?F?KGVU?BR?SM?MYM?ERLINCLOCK?TFPJYJM?ZM?ZX???ZEMT??
+C V perm=125630 dir=1 ix=1 lay=1 p=24 known=71 qg=-5.370 pt=ARBL?NEAJIX?HJOTH??SHEASTNORTHEAS?ISO?RPBP???I?W?XKVU?GR?NY?YMC?ERLINCLOCK?TU?J?JM??M?Z???JZEMT??
+C V perm=139820 dir=0 ix=1 lay=0 p=24 known=72 qg=-5.962 pt=O??V??SDAL?OQ?LC?UWYSEASTNOR?HEASTJLC?S??YF?RDGL?TOPAS?QZBODYSOBER?INCLOCKGX???OJ??NPQUHV??R??WH?
+C V perm=148620 dir=0 ix=1 lay=1 p=24 known=75 qg=-5.692 pt=P?D?YW?QDKCRCP?IPC??E?ASTNORTHEAS?TJXD?V?FB?RCNL?NR?HH?N?POLLS?BERLINCLOCK?N?MBOORK?ZWKUZ??LK?JDQ
+C V perm=149250 dir=0 ix=1 lay=2 p=24 known=73 qg=-5.428 pt=FJV?FIUIWL?IDRG?Z?TOM?ASTNORTHEAST??L?EJI?R??MPK?XOTISSQ?N?U?J?BERLINCLO?K?Y?GLUVI?IKV?WYRI???YQQ
+C V perm=151530 dir=0 ix=1 lay=3 p=24 known=78 qg=-5.958 pt=XZE??DWJYYKME?QJD?VWF?ASTNORTHEASTFS?C?GTOACUU?OB?S?FAZZP?Z?BG?BERLINCLOC?J?ACFA?QFV?GRZFOIJ??QYU
+C V perm=151920 dir=0 ix=1 lay=3 p=24 known=76 qg=-5.998 pt=KI??UK?RBMSI?A??OITFMEASTNORTHEAS??JNPCMP?ZG?FODEVFI?EHQHZ?G?B??ERLINCLOCK??DA?BAA?ZVSDR?FDIR?PKG
+C V perm=154490 dir=0 ix=1 lay=1 p=23 known=73 qg=-5.937 pt=CW?LRLUGU??P?L??O?LP?EASTNORTHEAS?UMMQGSG?W?VF??Z?XHA?EY?O?NWG??ERLINCLOCK?HQVCN?ATB?YELVXBT?BEW?
+C V perm=155310 dir=0 ix=1 lay=0 p=23 known=73 qg=-5.938 pt=?YSZ?NUW?JIN??LZNF???EASTNORTHE?STP?GPIC?H?BYEXN?FNPQPOD???CYI??ERLINCLOCK??HJHJP?LNFKT?TOD?LH?CM
+C V perm=156980 dir=0 ix=1 lay=0 p=24 known=75 qg=-5.966 pt=YF??CRS?C?XHES?AAR?CPEASTNORTHEAS?PJPZRVMF?WB?TZ?HRNUL?Q?XMCG???ERLINCLOCK??OJCV?YQRS??XRPL?RMZ?T
+C V perm=156980 dir=0 ix=1 lay=1 p=24 known=74 qg=-5.683 pt=MFY?CRS?LP?HES?AAR?L?EASTNORTHEAS??VP?RBYW?PBPTZ?HRNUC?Q?ZMCG???ERLINCLOCK??OQCV?YBRSP?ZDWU?RM??T
+C V perm=158750 dir=0 ix=1 lay=0 p=24 known=69 qg=-5.722 pt=?NV?ZRY?BT??W?XGF??N?EASTNORTHEA?TOOQD?FSBS?LHSCZO?M??CLD?CSFMOB?RLINCLOCK??O?PL?NXL???J??LBOV?Q?
+C V perm=158750 dir=0 ix=1 lay=1 p=24 known=72 qg=-5.725 pt=?SVQ?R??BEYYW?ZGW??N?EASTNORTHEA?TROBR?USBS?LHSL?O?M??MLDYLOUYOB?RLINCLOCK??O??U?NZUJ?PQ??UGOB?QJ
+C V perm=210 dir=1 ix=1 lay=0 p=24 known=75 qg=-5.974 pt=GVY?LG?D?G?AB?DATFT??EASTNORTHEAS?MNTO?IT?UVGJ?W?PTBZ?BRNQ??AXR?ERLINCLOCK?SIZOFWNN??VZPJNZ??QRD?
+C V perm=2160 dir=1 ix=1 lay=0 p=24 known=80 qg=-5.997 pt=XFUZHSPQD?Z??VRH??MER?ASTNORTHEAST?OUO?SDKCYO?E?ZPFL?JY??ERYSIRBERLINCLOC??WELDBIAMMXSLI?YPAV?UBR
+C V perm=2400 dir=1 ix=1 lay=2 p=24 known=77 qg=-5.928 pt=?XXEFZ?RRP?CQO??DANECEASTNORTHEAST?HE??ZNIPCEXU??JSLKJY?JHP?OPZ?ERLINCLOC?U?BK?LQYDYCN??K?DAN?MFZ
+C V perm=300 dir=1 ix=1 lay=2 p=23 known=75 qg=-5.918 pt=??Y?FDAIFPUNRG?????AGEASTNORTHEAS?RLX??I?WG?KCNQ?CZ?ULPLW?DYX???ERLINCLOCKHQJKBJQ?RDQVY?X?HIPSUBP
+C V perm=3840 dir=1 ix=1 lay=2 p=24 known=77 qg=-5.689 pt=YCN??K?DAN?MFZ??DANECEASTNORTHEAST?HE??ZNIPCEXU??JSLKJY?JHP?OPZ?ERLINCLOC?U?BK?LQYD?XXEFZ?RRP?CQO
+C V perm=58120 dir=0 ix=1 lay=3 p=23 known=75 qg=-5.903 pt=TGQGK?VZX?MBH?B?YL?JUE?STNORTHE?STG??II?QIY?V?BBVWF?Z?CF?MTB?ACBERLINCLOCKG?JHAXQQ?CYM?AZ?SJI?OC?
+C V perm=73010 dir=0 ix=1 lay=2 p=23 known=68 qg=-5.562 pt=V???LCZ?AWQR??IM?LT?JEA?TNORTHEA?T?W?W?PP?WVZDO?DT?T?Q?V??Y?WCIBERLINCLOCKS??P?LF?L?J?RPUY?X?GKQK
+C V perm=73250 dir=0 ix=1 lay=2 p=23 known=68 qg=-5.562 pt=V??L?CZ?A?Q?R?IM?HT??EA?TNORTHEA?T??QW?PP?WZVDB?D???TQZV?FYC?CIBERLINCLOCKS?GP?LF?LJ??JPUY??XGXQK
+C V perm=73490 dir=0 ix=1 lay=2 p=23 known=73 qg=-5.910 pt=VM?LC?L?AAQF?RIM?HW?EEA?TNORTHEA?T??WQKVP?WZDVM?K???QTZV?FVMC?IBERLINCLOCKS?PG?BF?LJ??XPGY??GXXQK
+C V perm=90120 dir=1 ix=1 lay=2 p=23 known=77 qg=-5.994 pt=YA?ENU??JV?LIGMOTOHYSEASTNORTHEA?TJPT??XT?LSEL??VWC????GCGPUMCE?ERLINCLOCKOFDEHPUU??PEJJDL?ZUK?D?
+C V perm=92590 dir=0 ix=1 lay=3 p=24 known=76 qg=-5.972 pt=NSHZHIYI?WPKP?SIUXO?R?ASTNORTHEAST???DHK?C?R?UY?H?LLN?UWDVIMSSOBERLINCLOC?LVGU?MN?JFI?LN?Q??BSNO?
+C V perm=93700 dir=1 ix=1 lay=2 p=24 known=70 qg=-5.764 pt=?PHCP?UF?S?TF?S?Q??CWEASTNORTHEAS??WSYGO?Y?IEMN?V?GYP?TU??NHBGYBERLINCLO?K??XPE?EZML???LW?XB?WCT?
+C V perm=95450 dir=1 ix=1 lay=2 p=24 known=76 qg=-5.709 pt=?IS?ECGWN??B?L?HPTKG??ASTNORTHEAS?ITN?BWG?JCA?AUIS???GT?TBNAN??BERLINCLOCK?ANDSUZXKUCN?L?HEWEALSF
+C V perm=96070 dir=0 ix=1 lay=1 p=24 known=78 qg=-5.965 pt=B?BFD?RGE?WUDFMZ?FLBP?ASTNORTHEAS?NWOGD?IEIONGJENY?BWJUDE?EJDD?BERLINCLOCK??PQ?FFX?NA????LIVO?HKN
+C V perm=96780 dir=1 ix=1 lay=2 p=24 known=76 qg=-5.740 pt=N?GY?HLFJK?NSHVI?Q?CI?ASTNORTHEAS?HYMKCRX?FNO??VL?GUY?PTL?CO?S?BERLINCLOCK?GYGWG?TCN?P??RIA?EVEDM
+M model=Q p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=18 ncbest=-7.802 ncpass=0 tie=q
+M model=Q p=19 ncbest=-7.980 ncpass=0 tie=q
+M model=Q p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=20 ncbest=-7.716 ncpass=0 tie=q
+M model=Q p=21 ncbest=-7.254 ncpass=0 tie=q
+M model=Q p=22 ncbest=-6.349 ncpass=0 tie=q
+M model=Q p=23 ncbest=-6.685 ncpass=0 tie=q
+M model=Q p=24 ncbest=-6.694 ncpass=0 tie=q
+M model=Q p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=Q p=9 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=1 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=10 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=11 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=12 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=13 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=14 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=15 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=16 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=17 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=18 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=19 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=2 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=20 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=21 ncbest=-7.881 ncpass=0 tie=q
+M model=V p=22 ncbest=-7.101 ncpass=0 tie=q
+M model=V p=23 ncbest=-7.151 ncpass=0 tie=q
+M model=V p=24 ncbest=-6.925 ncpass=0 tie=q
+M model=V p=3 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=4 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=5 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=6 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=7 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=8 ncbest=-99.000 ncpass=0 tie=q
+M model=V p=9 ncbest=-99.000 ncpass=0 tie=q
+N model=Q p=1 best=-99.000 cand=0
+N model=Q p=10 best=-99.000 cand=0
+N model=Q p=11 best=-99.000 cand=0
+N model=Q p=12 best=-99.000 cand=0
+N model=Q p=13 best=-99.000 cand=0
+N model=Q p=14 best=-99.000 cand=0
+N model=Q p=15 best=-99.000 cand=0
+N model=Q p=16 best=-99.000 cand=0
+N model=Q p=17 best=-99.000 cand=0
+N model=Q p=18 best=-6.981 cand=0
+N model=Q p=19 best=-6.767 cand=0
+N model=Q p=2 best=-99.000 cand=0
+N model=Q p=20 best=-6.769 cand=0
+N model=Q p=21 best=-6.296 cand=0
+N model=Q p=22 best=-5.800 cand=2
+N model=Q p=23 best=-5.884 cand=5
+N model=Q p=24 best=-5.426 cand=37
+N model=Q p=3 best=-99.000 cand=0
+N model=Q p=4 best=-99.000 cand=0
+N model=Q p=5 best=-99.000 cand=0
+N model=Q p=6 best=-99.000 cand=0
+N model=Q p=7 best=-99.000 cand=0
+N model=Q p=8 best=-99.000 cand=0
+N model=Q p=9 best=-99.000 cand=0
+N model=V p=1 best=-99.000 cand=0
+N model=V p=10 best=-99.000 cand=0
+N model=V p=11 best=-99.000 cand=0
+N model=V p=12 best=-99.000 cand=0
+N model=V p=13 best=-99.000 cand=0
+N model=V p=14 best=-99.000 cand=0
+N model=V p=15 best=-99.000 cand=0
+N model=V p=16 best=-99.000 cand=0
+N model=V p=17 best=-99.000 cand=0
+N model=V p=18 best=-99.000 cand=0
+N model=V p=19 best=-99.000 cand=0
+N model=V p=2 best=-99.000 cand=0
+N model=V p=20 best=-99.000 cand=0
+N model=V p=21 best=-6.599 cand=0
+N model=V p=22 best=-6.292 cand=0
+N model=V p=23 best=-5.562 cand=9
+N model=V p=24 best=-5.370 cand=23
+N model=V p=3 best=-99.000 cand=0
+N model=V p=4 best=-99.000 cand=0
+N model=V p=5 best=-99.000 cand=0
+N model=V p=6 best=-99.000 cand=0
+N model=V p=7 best=-99.000 cand=0
+N model=V p=8 best=-99.000 cand=0
+N model=V p=9 best=-99.000 cand=0
+S Q p=1 hits=0 exact=0 prim=0
+S Q p=10 hits=0 exact=0 prim=0
+S Q p=11 hits=0 exact=0 prim=0
+S Q p=12 hits=0 exact=0 prim=0
+S Q p=13 hits=0 exact=0 prim=0
+S Q p=14 hits=0 exact=0 prim=0
+S Q p=15 hits=0 exact=0 prim=0
+S Q p=16 hits=0 exact=0 prim=0
+S Q p=17 hits=0 exact=0 prim=0
+S Q p=18 hits=9 exact=0 prim=9
+S Q p=19 hits=52 exact=0 prim=52
+S Q p=2 hits=0 exact=0 prim=0
+S Q p=20 hits=73 exact=0 prim=73
+S Q p=21 hits=1931 exact=34 prim=1931
+S Q p=22 hits=12529 exact=213 prim=12529
+S Q p=23 hits=193786 exact=5473 prim=193786
+S Q p=24 hits=211531 exact=19198 prim=211531
+S Q p=3 hits=0 exact=0 prim=0
+S Q p=4 hits=0 exact=0 prim=0
+S Q p=5 hits=0 exact=0 prim=0
+S Q p=6 hits=0 exact=0 prim=0
+S Q p=7 hits=0 exact=0 prim=0
+S Q p=8 hits=0 exact=0 prim=0
+S Q p=9 hits=0 exact=0 prim=0
+S V p=1 hits=0 exact=0 prim=0
+S V p=10 hits=0 exact=0 prim=0
+S V p=11 hits=0 exact=0 prim=0
+S V p=12 hits=0 exact=0 prim=0
+S V p=13 hits=0 exact=0 prim=0
+S V p=14 hits=0 exact=0 prim=0
+S V p=15 hits=0 exact=0 prim=0
+S V p=16 hits=0 exact=0 prim=0
+S V p=17 hits=0 exact=0 prim=0
+S V p=18 hits=0 exact=0 prim=0
+S V p=19 hits=0 exact=0 prim=0
+S V p=2 hits=0 exact=0 prim=0
+S V p=20 hits=0 exact=0 prim=0
+S V p=21 hits=1 exact=0 prim=1
+S V p=22 hits=33 exact=1 prim=33
+S V p=23 hits=663 exact=16 prim=663
+S V p=24 hits=705 exact=55 prim=705
+S V p=3 hits=0 exact=0 prim=0
+S V p=4 hits=0 exact=0 prim=0
+S V p=5 hits=0 exact=0 prim=0
+S V p=6 hits=0 exact=0 prim=0
+S V p=7 hits=0 exact=0 prim=0
+S V p=8 hits=0 exact=0 prim=0
+S V p=9 hits=0 exact=0 prim=0
+T rows=16507 cfgV=264112 cfgQ=78441264 printed=0
+Y model=Q p=18 nq=35 n=5 pass=0 max=-7.802
+Y model=Q p=18 nq=48 n=3 pass=0 max=-8.274
+Y model=Q p=18 nq=49 n=1 pass=0 max=-8.278
+Y model=Q p=19 nq=28 n=2 pass=0 max=-8.032
+Y model=Q p=19 nq=48 n=20 pass=0 max=-7.990
+Y model=Q p=19 nq=51 n=2 pass=0 max=-8.074
+Y model=Q p=19 nq=52 n=17 pass=0 max=-8.140
+Y model=Q p=19 nq=53 n=3 pass=0 max=-8.087
+Y model=Q p=19 nq=54 n=7 pass=0 max=-8.088
+Y model=Q p=19 nq=55 n=1 pass=0 max=-7.980
+Y model=Q p=20 nq=39 n=4 pass=0 max=-8.236
+Y model=Q p=20 nq=43 n=9 pass=0 max=-7.749
+Y model=Q p=20 nq=44 n=2 pass=0 max=-8.176
+Y model=Q p=20 nq=52 n=24 pass=0 max=-7.881
+Y model=Q p=20 nq=53 n=6 pass=0 max=-8.011
+Y model=Q p=20 nq=54 n=10 pass=0 max=-7.716
+Y model=Q p=20 nq=55 n=8 pass=0 max=-7.742
+Y model=Q p=20 nq=56 n=6 pass=0 max=-7.985
+Y model=Q p=20 nq=57 n=2 pass=0 max=-8.268
+Y model=Q p=20 nq=58 n=2 pass=0 max=-7.859
+Y model=Q p=21 nq=17 n=2 pass=0 max=-7.876
+Y model=Q p=21 nq=18 n=1 pass=0 max=-7.733
+Y model=Q p=21 nq=25 n=6 pass=0 max=-7.800
+Y model=Q p=21 nq=32 n=21 pass=0 max=-7.779
+Y model=Q p=21 nq=33 n=4 pass=0 max=-7.828
+Y model=Q p=21 nq=34 n=1 pass=0 max=-7.993
+Y model=Q p=21 nq=35 n=13 pass=0 max=-8.055
+Y model=Q p=21 nq=36 n=18 pass=0 max=-7.866
+Y model=Q p=21 nq=37 n=5 pass=0 max=-8.396
+Y model=Q p=21 nq=38 n=12 pass=0 max=-7.562
+Y model=Q p=21 nq=39 n=25 pass=0 max=-7.519
+Y model=Q p=21 nq=40 n=46 pass=0 max=-7.616
+Y model=Q p=21 nq=41 n=106 pass=0 max=-7.593
+Y model=Q p=21 nq=42 n=79 pass=0 max=-7.519
+Y model=Q p=21 nq=43 n=94 pass=0 max=-7.871
+Y model=Q p=21 nq=44 n=55 pass=0 max=-7.562
+Y model=Q p=21 nq=45 n=19 pass=0 max=-7.507
+Y model=Q p=21 nq=46 n=32 pass=0 max=-7.996
+Y model=Q p=21 nq=47 n=14 pass=0 max=-7.581
+Y model=Q p=21 nq=48 n=15 pass=0 max=-7.821
+Y model=Q p=21 nq=49 n=4 pass=0 max=-7.754
+Y model=Q p=21 nq=50 n=2 pass=0 max=-7.693
+Y model=Q p=21 nq=51 n=3 pass=0 max=-7.647
+Y model=Q p=21 nq=52 n=510 pass=0 max=-7.270
+Y model=Q p=21 nq=53 n=154 pass=0 max=-7.525
+Y model=Q p=21 nq=54 n=228 pass=0 max=-7.518
+Y model=Q p=21 nq=55 n=149 pass=0 max=-7.254
+Y model=Q p=21 nq=56 n=243 pass=0 max=-7.446
+Y model=Q p=21 nq=57 n=11 pass=0 max=-7.889
+Y model=Q p=21 nq=58 n=10 pass=0 max=-7.688
+Y model=Q p=21 nq=59 n=15 pass=0 max=-7.622
+Y model=Q p=21 nq=64 n=34 pass=0 max=-7.486
+Y model=Q p=22 nq=19 n=2 pass=0 max=-8.243
+Y model=Q p=22 nq=20 n=2 pass=0 max=-7.283
+Y model=Q p=22 nq=21 n=4 pass=0 max=-7.158
+Y model=Q p=22 nq=22 n=5 pass=0 max=-8.012
+Y model=Q p=22 nq=24 n=7 pass=0 max=-8.003
+Y model=Q p=22 nq=25 n=4 pass=0 max=-7.859
+Y model=Q p=22 nq=26 n=11 pass=0 max=-8.084
+Y model=Q p=22 nq=27 n=46 pass=0 max=-7.890
+Y model=Q p=22 nq=28 n=36 pass=0 max=-6.349
+Y model=Q p=22 nq=29 n=52 pass=0 max=-6.663
+Y model=Q p=22 nq=30 n=27 pass=0 max=-6.557
+Y model=Q p=22 nq=31 n=68 pass=0 max=-6.628
+Y model=Q p=22 nq=32 n=29 pass=0 max=-7.298
+Y model=Q p=22 nq=33 n=30 pass=0 max=-7.633
+Y model=Q p=22 nq=34 n=85 pass=0 max=-7.261
+Y model=Q p=22 nq=35 n=45 pass=0 max=-7.820
+Y model=Q p=22 nq=36 n=93 pass=0 max=-7.056
+Y model=Q p=22 nq=37 n=55 pass=0 max=-7.650
+Y model=Q p=22 nq=38 n=100 pass=0 max=-7.424
+Y model=Q p=22 nq=39 n=617 pass=0 max=-7.289
+Y model=Q p=22 nq=40 n=620 pass=0 max=-7.046
+Y model=Q p=22 nq=41 n=636 pass=0 max=-7.145
+Y model=Q p=22 nq=42 n=330 pass=0 max=-7.484
+Y model=Q p=22 nq=43 n=602 pass=0 max=-6.682
+Y model=Q p=22 nq=44 n=270 pass=0 max=-7.481
+Y model=Q p=22 nq=45 n=226 pass=0 max=-7.495
+Y model=Q p=22 nq=46 n=229 pass=0 max=-7.424
+Y model=Q p=22 nq=47 n=49 pass=0 max=-7.573
+Y model=Q p=22 nq=48 n=81 pass=0 max=-7.660
+Y model=Q p=22 nq=49 n=20 pass=0 max=-7.553
+Y model=Q p=22 nq=50 n=6 pass=0 max=-7.711
+Y model=Q p=22 nq=51 n=46 pass=0 max=-7.728
+Y model=Q p=22 nq=52 n=3088 pass=0 max=-7.252
+Y model=Q p=22 nq=53 n=694 pass=0 max=-7.438
+Y model=Q p=22 nq=54 n=730 pass=0 max=-7.535
+Y model=Q p=22 nq=55 n=1303 pass=0 max=-7.340
+Y model=Q p=22 nq=56 n=1690 pass=0 max=-7.169
+Y model=Q p=22 nq=57 n=123 pass=0 max=-7.419
+Y model=Q p=22 nq=59 n=112 pass=0 max=-7.304
+Y model=Q p=22 nq=64 n=356 pass=0 max=-7.577
+Y model=Q p=23 nq=12 n=8 pass=0 max=-7.652
+Y model=Q p=23 nq=13 n=4 pass=0 max=-8.045
+Y model=Q p=23 nq=14 n=8 pass=0 max=-7.527
+Y model=Q p=23 nq=15 n=7 pass=0 max=-8.023
+Y model=Q p=23 nq=16 n=17 pass=0 max=-8.080
+Y model=Q p=23 nq=17 n=22 pass=0 max=-7.985
+Y model=Q p=23 nq=18 n=4 pass=0 max=-8.230
+Y model=Q p=23 nq=19 n=16 pass=0 max=-7.006
+Y model=Q p=23 nq=20 n=34 pass=0 max=-7.601
+Y model=Q p=23 nq=21 n=34 pass=0 max=-6.700
+Y model=Q p=23 nq=22 n=36 pass=0 max=-7.289
+Y model=Q p=23 nq=23 n=66 pass=0 max=-7.653
+Y model=Q p=23 nq=24 n=64 pass=0 max=-7.505
+Y model=Q p=23 nq=25 n=85 pass=0 max=-7.471
+Y model=Q p=23 nq=26 n=121 pass=0 max=-7.351
+Y model=Q p=23 nq=27 n=124 pass=0 max=-7.429
+Y model=Q p=23 nq=28 n=208 pass=0 max=-7.401
+Y model=Q p=23 nq=29 n=281 pass=0 max=-7.338
+Y model=Q p=23 nq=30 n=498 pass=0 max=-7.244
+Y model=Q p=23 nq=31 n=463 pass=0 max=-7.282
+Y model=Q p=23 nq=32 n=769 pass=0 max=-7.086
+Y model=Q p=23 nq=33 n=796 pass=0 max=-7.312
+Y model=Q p=23 nq=34 n=1064 pass=0 max=-7.087
+Y model=Q p=23 nq=35 n=1018 pass=0 max=-7.139
+Y model=Q p=23 nq=36 n=1012 pass=0 max=-7.113
+Y model=Q p=23 nq=37 n=1318 pass=0 max=-7.214
+Y model=Q p=23 nq=38 n=1520 pass=0 max=-7.082
+Y model=Q p=23 nq=39 n=1611 pass=0 max=-6.921
+Y model=Q p=23 nq=40 n=3115 pass=0 max=-7.226
+Y model=Q p=23 nq=41 n=3830 pass=0 max=-7.211
+Y model=Q p=23 nq=42 n=7094 pass=0 max=-6.977
+Y model=Q p=23 nq=43 n=5682 pass=0 max=-6.962
+Y model=Q p=23 nq=44 n=5576 pass=0 max=-6.979
+Y model=Q p=23 nq=45 n=6260 pass=0 max=-6.967
+Y model=Q p=23 nq=46 n=7085 pass=0 max=-7.239
+Y model=Q p=23 nq=47 n=3909 pass=0 max=-6.934
+Y model=Q p=23 nq=48 n=2632 pass=0 max=-7.249
+Y model=Q p=23 nq=49 n=2238 pass=0 max=-7.038
+Y model=Q p=23 nq=50 n=422 pass=0 max=-7.497
+Y model=Q p=23 nq=51 n=861 pass=0 max=-7.394
+Y model=Q p=23 nq=52 n=21293 pass=0 max=-6.843
+Y model=Q p=23 nq=53 n=3680 pass=0 max=-7.122
+Y model=Q p=23 nq=54 n=8022 pass=0 max=-6.769
+Y model=Q p=23 nq=55 n=10341 pass=0 max=-6.685
+Y model=Q p=23 nq=56 n=71226 pass=0 max=-6.916
+Y model=Q p=23 nq=57 n=8078 pass=0 max=-7.020
+Y model=Q p=23 nq=58 n=2271 pass=0 max=-7.291
+Y model=Q p=23 nq=59 n=4590 pass=0 max=-6.961
+Y model=Q p=23 nq=64 n=4373 pass=0 max=-7.171
+Y model=Q p=24 nq=11 n=14 pass=0 max=-8.287
+Y model=Q p=24 nq=12 n=7 pass=0 max=-7.601
+Y model=Q p=24 nq=13 n=8 pass=0 max=-8.006
+Y model=Q p=24 nq=14 n=7 pass=0 max=-8.252
+Y model=Q p=24 nq=15 n=22 pass=0 max=-7.667
+Y model=Q p=24 nq=16 n=9 pass=0 max=-7.253
+Y model=Q p=24 nq=17 n=1 pass=0 max=-7.717
+Y model=Q p=24 nq=18 n=9 pass=0 max=-7.894
+Y model=Q p=24 nq=19 n=40 pass=0 max=-7.406
+Y model=Q p=24 nq=20 n=68 pass=0 max=-7.572
+Y model=Q p=24 nq=21 n=69 pass=0 max=-7.136
+Y model=Q p=24 nq=22 n=66 pass=0 max=-7.416
+Y model=Q p=24 nq=23 n=95 pass=0 max=-7.220
+Y model=Q p=24 nq=24 n=177 pass=0 max=-7.158
+Y model=Q p=24 nq=25 n=161 pass=0 max=-7.218
+Y model=Q p=24 nq=26 n=276 pass=0 max=-7.406
+Y model=Q p=24 nq=27 n=403 pass=0 max=-7.230
+Y model=Q p=24 nq=28 n=219 pass=0 max=-6.694
+Y model=Q p=24 nq=29 n=434 pass=0 max=-7.182
+Y model=Q p=24 nq=30 n=604 pass=0 max=-7.318
+Y model=Q p=24 nq=31 n=768 pass=0 max=-7.012
+Y model=Q p=24 nq=32 n=1105 pass=0 max=-7.069
+Y model=Q p=24 nq=33 n=1599 pass=0 max=-7.055
+Y model=Q p=24 nq=34 n=1238 pass=0 max=-7.309
+Y model=Q p=24 nq=35 n=1421 pass=0 max=-7.208
+Y model=Q p=24 nq=36 n=1542 pass=0 max=-7.165
+Y model=Q p=24 nq=37 n=1446 pass=0 max=-7.163
+Y model=Q p=24 nq=38 n=1298 pass=0 max=-7.252
+Y model=Q p=24 nq=39 n=1177 pass=0 max=-7.114
+Y model=Q p=24 nq=40 n=3137 pass=0 max=-7.071
+Y model=Q p=24 nq=41 n=1008 pass=0 max=-7.151
+Y model=Q p=24 nq=42 n=7158 pass=0 max=-6.809
+Y model=Q p=24 nq=43 n=14097 pass=0 max=-6.955
+Y model=Q p=24 nq=44 n=6019 pass=0 max=-6.942
+Y model=Q p=24 nq=45 n=14931 pass=0 max=-6.965
+Y model=Q p=24 nq=46 n=54009 pass=0 max=-7.045
+Y model=Q p=24 nq=47 n=18280 pass=0 max=-7.113
+Y model=Q p=24 nq=48 n=27501 pass=0 max=-6.983
+Y model=Q p=24 nq=49 n=17305 pass=0 max=-7.079
+Y model=Q p=24 nq=50 n=2597 pass=0 max=-7.169
+Y model=Q p=24 nq=51 n=4350 pass=0 max=-7.165
+Y model=Q p=24 nq=52 n=5981 pass=0 max=-7.202
+Y model=Q p=24 nq=53 n=770 pass=0 max=-7.527
+Y model=Q p=24 nq=54 n=6596 pass=0 max=-7.187
+Y model=Q p=24 nq=55 n=768 pass=0 max=-7.363
+Y model=Q p=24 nq=56 n=527 pass=0 max=-7.405
+Y model=Q p=24 nq=57 n=304 pass=0 max=-7.597
+Y model=Q p=24 nq=64 n=11880 pass=0 max=-7.196
+Y model=Q p=24 nq=7 n=4 pass=0 max=-8.083
+Y model=Q p=24 nq=8 n=26 pass=0 max=-8.469
+Y model=V p=21 nq=32 n=1 pass=0 max=-7.881
+Y model=V p=22 nq=18 n=1 pass=0 max=-8.099
+Y model=V p=22 nq=20 n=2 pass=0 max=-8.321
+Y model=V p=22 nq=22 n=2 pass=0 max=-8.131
+Y model=V p=22 nq=24 n=3 pass=0 max=-7.884
+Y model=V p=22 nq=26 n=1 pass=0 max=-8.143
+Y model=V p=22 nq=27 n=1 pass=0 max=-8.384
+Y model=V p=22 nq=28 n=1 pass=0 max=-7.753
+Y model=V p=22 nq=29 n=1 pass=0 max=-7.848
+Y model=V p=22 nq=31 n=1 pass=0 max=-8.255
+Y model=V p=22 nq=32 n=1 pass=0 max=-7.772
+Y model=V p=22 nq=33 n=2 pass=0 max=-8.055
+Y model=V p=22 nq=34 n=3 pass=0 max=-7.785
+Y model=V p=22 nq=36 n=2 pass=0 max=-7.766
+Y model=V p=22 nq=38 n=3 pass=0 max=-7.101
+Y model=V p=22 nq=39 n=2 pass=0 max=-7.181
+Y model=V p=22 nq=40 n=1 pass=0 max=-7.849
+Y model=V p=22 nq=41 n=1 pass=0 max=-8.097
+Y model=V p=22 nq=42 n=1 pass=0 max=-7.846
+Y model=V p=22 nq=43 n=1 pass=0 max=-8.153
+Y model=V p=22 nq=44 n=1 pass=0 max=-8.221
+Y model=V p=22 nq=46 n=2 pass=0 max=-7.508
+Y model=V p=23 nq=10 n=3 pass=0 max=-8.469
+Y model=V p=23 nq=11 n=1 pass=0 max=-8.469
+Y model=V p=23 nq=12 n=4 pass=0 max=-7.749
+Y model=V p=23 nq=13 n=4 pass=0 max=-8.032
+Y model=V p=23 nq=14 n=3 pass=0 max=-8.044
+Y model=V p=23 nq=15 n=6 pass=0 max=-7.457
+Y model=V p=23 nq=16 n=10 pass=0 max=-7.650
+Y model=V p=23 nq=17 n=11 pass=0 max=-7.537
+Y model=V p=23 nq=18 n=19 pass=0 max=-7.939
+Y model=V p=23 nq=19 n=17 pass=0 max=-7.765
+Y model=V p=23 nq=20 n=25 pass=0 max=-7.318
+Y model=V p=23 nq=21 n=25 pass=0 max=-7.174
+Y model=V p=23 nq=22 n=21 pass=0 max=-7.319
+Y model=V p=23 nq=23 n=25 pass=0 max=-7.195
+Y model=V p=23 nq=24 n=32 pass=0 max=-7.151
+Y model=V p=23 nq=25 n=27 pass=0 max=-7.369
+Y model=V p=23 nq=26 n=37 pass=0 max=-7.289
+Y model=V p=23 nq=27 n=44 pass=0 max=-7.457
+Y model=V p=23 nq=28 n=31 pass=0 max=-7.494
+Y model=V p=23 nq=29 n=22 pass=0 max=-7.401
+Y model=V p=23 nq=30 n=41 pass=0 max=-7.553
+Y model=V p=23 nq=31 n=29 pass=0 max=-7.600
+Y model=V p=23 nq=32 n=39 pass=0 max=-7.307
+Y model=V p=23 nq=33 n=32 pass=0 max=-7.697
+Y model=V p=23 nq=34 n=30 pass=0 max=-7.439
+Y model=V p=23 nq=35 n=18 pass=0 max=-7.690
+Y model=V p=23 nq=36 n=19 pass=0 max=-7.644
+Y model=V p=23 nq=37 n=21 pass=0 max=-7.902
+Y model=V p=23 nq=38 n=13 pass=0 max=-7.582
+Y model=V p=23 nq=39 n=6 pass=0 max=-7.979
+Y model=V p=23 nq=40 n=10 pass=0 max=-7.872
+Y model=V p=23 nq=41 n=8 pass=0 max=-7.676
+Y model=V p=23 nq=42 n=6 pass=0 max=-7.516
+Y model=V p=23 nq=43 n=6 pass=0 max=-7.522
+Y model=V p=23 nq=44 n=6 pass=0 max=-7.749
+Y model=V p=23 nq=45 n=2 pass=0 max=-8.140
+Y model=V p=23 nq=46 n=3 pass=0 max=-7.370
+Y model=V p=23 nq=47 n=1 pass=0 max=-7.909
+Y model=V p=23 nq=49 n=2 pass=0 max=-8.033
+Y model=V p=23 nq=5 n=1 pass=0 max=-8.469
+Y model=V p=23 nq=52 n=1 pass=0 max=-7.934
+Y model=V p=23 nq=6 n=1 pass=0 max=-8.469
+Y model=V p=23 nq=7 n=1 pass=0 max=-8.469
+Y model=V p=24 nq=10 n=2 pass=0 max=-7.646
+Y model=V p=24 nq=11 n=3 pass=0 max=-7.169
+Y model=V p=24 nq=12 n=3 pass=0 max=-7.806
+Y model=V p=24 nq=13 n=6 pass=0 max=-6.992
+Y model=V p=24 nq=14 n=6 pass=0 max=-7.969
+Y model=V p=24 nq=15 n=4 pass=0 max=-8.130
+Y model=V p=24 nq=16 n=14 pass=0 max=-7.672
+Y model=V p=24 nq=17 n=14 pass=0 max=-7.797
+Y model=V p=24 nq=18 n=21 pass=0 max=-7.219
+Y model=V p=24 nq=19 n=25 pass=0 max=-7.486
+Y model=V p=24 nq=20 n=35 pass=0 max=-6.925
+Y model=V p=24 nq=21 n=27 pass=0 max=-7.272
+Y model=V p=24 nq=22 n=34 pass=0 max=-7.384
+Y model=V p=24 nq=23 n=43 pass=0 max=-7.342
+Y model=V p=24 nq=24 n=46 pass=0 max=-7.335
+Y model=V p=24 nq=25 n=35 pass=0 max=-7.661
+Y model=V p=24 nq=26 n=39 pass=0 max=-7.307
+Y model=V p=24 nq=27 n=38 pass=0 max=-7.422
+Y model=V p=24 nq=28 n=36 pass=0 max=-7.509
+Y model=V p=24 nq=29 n=46 pass=0 max=-7.267
+Y model=V p=24 nq=30 n=47 pass=0 max=-7.442
+Y model=V p=24 nq=31 n=28 pass=0 max=-7.388
+Y model=V p=24 nq=32 n=29 pass=0 max=-7.516
+Y model=V p=24 nq=33 n=21 pass=0 max=-7.351
+Y model=V p=24 nq=34 n=19 pass=0 max=-7.729
+Y model=V p=24 nq=35 n=21 pass=0 max=-7.534
+Y model=V p=24 nq=36 n=12 pass=0 max=-7.751
+Y model=V p=24 nq=37 n=13 pass=0 max=-7.795
+Y model=V p=24 nq=38 n=7 pass=0 max=-7.837
+Y model=V p=24 nq=39 n=6 pass=0 max=-7.717
+Y model=V p=24 nq=40 n=9 pass=0 max=-7.799
+Y model=V p=24 nq=41 n=3 pass=0 max=-7.874
+Y model=V p=24 nq=42 n=3 pass=0 max=-7.652
+Y model=V p=24 nq=43 n=1 pass=0 max=-7.516
+Y model=V p=24 nq=44 n=2 pass=0 max=-7.783
+Y model=V p=24 nq=45 n=1 pass=0 max=-8.285
+Y model=V p=24 nq=46 n=2 pass=0 max=-8.114
+Y model=V p=24 nq=48 n=1 pass=0 max=-8.125
+Y model=V p=24 nq=51 n=1 pass=0 max=-8.022
+Y model=V p=24 nq=7 n=1 pass=0 max=-8.140
+Y model=V p=24 nq=8 n=1 pass=0 max=-8.469

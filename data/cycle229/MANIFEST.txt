@@ -1,0 +1,11 @@
+Cycle 229 (case 215, PREREG229). Inputs: k4.txt (K4), bank.bin / all.bin (house transposition banks), qg.bin (sha256 4a02ba4e...),
+oracle226.txt (data/cycle226; only feeds kb227's X histograms, which are dropped here), kb227.bin / geo227a.txt / geo227b.txt
+(data/cycle227). Tool tools/cycle229/kb229.c (sha256 f727ed9e...) = kb227.c + Y lines.
+plants229.tsv: 24-plant low-n ladder (seed 209558; columns incl. the Python-predicted known / n / NC and decrypt).
+nulls229.tsv: 16 shuffled K4 (seeds 209559-209574).
+R/: run229.sh + resume229.sh outputs, filtered to S / T / M / P / Y / N lines (plants: also H Q lines). X (oracle histograms),
+B (running-best, thread-order dependent) and C (retired all-letter bar) lines are dropped; the unfiltered files stay on the box
+(/workspace/k4c229/w/R, 12 MB). time.txt: wall clock (PT) of both runs.
+gateT/: sorted non-X / non-B lines of kb229 on K4 bank r10 and null 209425 all.bin r10 (equal to data/cycle227/R after the same
+filter); smoke_seed1.tsv: the disclosed seed-1 sampler smoke test.
+summary229.json / analyze229.log: analyze229.py output (floors, Y tables, plants, decision, Part B).

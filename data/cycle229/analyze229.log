@@ -1,0 +1,121 @@
+incomplete files: none
+
+== Part A: I-330 bar passes by floor (fresh nulls 209559-209574, 16 texts) ==
+floor nq>=10: nulls hits 8, distinct texts 4, null texts with a pass 4/16 Wilson (0.102, 0.495) best (-5.945, 'null209573', 'all_V_b', 'perm=107512 dir=1 ix=1 lay=3', 24, 13) | K4 hits 0
+   best null pt: AJJLZ??I?O?XNC?YEANIFEA?TNORTHEAS?Q?NPM??VGLR??CW?HP?A?O?VLY???BERLINCLOCK??CNRESANOR?E?J?VJ?NFSP
+floor nq>=11: nulls hits 8, distinct texts 4, null texts with a pass 4/16 Wilson (0.102, 0.495) best (-5.945, 'null209573', 'all_V_b', 'perm=107512 dir=1 ix=1 lay=3', 24, 13) | K4 hits 0
+   best null pt: AJJLZ??I?O?XNC?YEANIFEA?TNORTHEAS?Q?NPM??VGLR??CW?HP?A?O?VLY???BERLINCLOCK??CNRESANOR?E?J?VJ?NFSP
+floor nq>=12: nulls hits 8, distinct texts 4, null texts with a pass 4/16 Wilson (0.102, 0.495) best (-5.945, 'null209573', 'all_V_b', 'perm=107512 dir=1 ix=1 lay=3', 24, 13) | K4 hits 0
+   best null pt: AJJLZ??I?O?XNC?YEANIFEA?TNORTHEAS?Q?NPM??VGLR??CW?HP?A?O?VLY???BERLINCLOCK??CNRESANOR?E?J?VJ?NFSP
+
+== Null / K4 decrypts by number of non-crib quadgrams (known >= 49; all cells pooled) ==
+nq | null decrypts | null NC>=-6 | null max NC | K4 decrypts | K4 max NC
+ 1 |       10 |    0 | -8.469 |       0 | —
+ 2 |       26 |    0 | -6.723 |       2 | -7.12
+ 3 |       59 |    0 | -6.659 |       2 | -7.643
+ 4 |      137 |    6 | -5.449 |      18 | -6.668
+ 5 |      242 |    4 | -5.946 |      16 | -7.453
+ 6 |      457 |    4 | -5.836 |      27 | -7.909
+ 7 |      968 |    2 | -5.666 |      56 | -7.258
+ 8 |     1615 |    4 | -5.292 |     143 | -6.567
+ 9 |     2584 |    0 | -6.086 |     165 | -6.095
+10 |     3677 |    0 | -6.046 |     264 | -6.524
+11 |     5785 |    0 | -6.168 |     368 | -6.428
+12 |     8351 |    2 | -5.998 |     491 | -6.508
+13 |    11411 |    4 | -5.945 |     721 | -6.504
+14 |    15451 |    0 | -6.104 |     977 | -6.715
+15 |    20096 |    0 | -6.089 |    1191 | -6.423
+16 |    26415 |    0 | -6.195 |    1637 | -6.21
+17 |    33460 |    0 | -6.275 |    1943 | -6.449
+18 |    42074 |    0 | -6.115 |    2650 | -6.297
+19 |    49771 |    2 | -5.982 |    3196 | -6.804
+20 |    58689 |    0 | -6.278 |    3759 | -6.526
+21 |    67329 |    0 | -6.048 |    4396 | -6.435
+22 |    78053 |    0 | -6.298 |    4921 | -6.56
+23 |    84659 |    0 | -6.088 |    5515 | -6.417
+24 |    90361 |    0 | -6.335 |    5796 | -6.613
+25 |    98518 |    0 | -6.047 |    6182 | -6.756
+26 |   115964 |    0 | -6.325 |    7461 | -6.61
+27 |   120883 |    0 | -6.43 |    7743 | -6.747
+28 |   134361 |    0 | -6.426 |    8245 | -6.349
+29 |   143628 |    0 | -6.478 |    9271 | -6.663
+30 |   169448 |    0 | -6.411 |   10609 | -6.557
+31 |   165116 |    0 | -6.393 |   10621 | -6.628
+32 |   211215 |    0 | -6.52 |   13347 | -6.794
+33 |   224804 |    0 | -6.543 |   14663 | -6.836
+34 |   234682 |    0 | -6.524 |   16216 | -6.874
+35 |   209966 |    0 | -6.533 |   13109 | -6.858
+36 |   206588 |    0 | -6.666 |   12616 | -6.918
+37 |   196543 |    0 | -6.475 |   12392 | -6.926
+38 |   225580 |    0 | -6.398 |   13346 | -6.989
+39 |   229507 |    0 | -6.667 |   14039 | -6.813
+40 |   413342 |    0 | -6.583 |   25794 | -6.713
+nq > 40: null decrypts 20406218, passes 0, max -6.355
+
+== Published record, case 213 null P lines: distinct null texts passing: {10: 1, 11: 0, 12: 0}
+
+== Low-n plant ladder (seed 209558) ==
+plant  0 bank p 21 bad  -1 pred known 51 n 10 NC -4.296 | H hit True P True nq 10 NC -4.296 agree True
+plant  1 bank p 22 bad   7 pred known 72 n 10 NC -5.136 | H hit True P True nq 10 NC -5.136 agree True
+plant  2 all  p 21 bad  -1 pred known 70 n 10 NC -4.515 | H hit True P True nq 10 NC -4.515 agree True
+plant  3 all  p 22 bad  17 pred known 67 n 10 NC -5.351 | H hit True P True nq 10 NC -5.351 agree True
+plant  4 bank p 23 bad  -1 pred known 65 n 11 NC -4.068 | H hit True P True nq 11 NC -4.068 agree True
+plant  5 bank p 20 bad  19 pred known 69 n 11 NC -3.953 | H hit True P True nq 11 NC -3.953 agree True
+plant  6 all  p 24 bad  -1 pred known 69 n 11 NC -4.155 | H hit True P True nq 11 NC -4.155 agree True
+plant  7 all  p 21 bad  16 pred known 74 n 11 NC -4.615 | H hit True P True nq 11 NC -4.615 agree True
+plant  8 bank p 19 bad  -1 pred known 72 n 12 NC -4.331 | H hit True P True nq 12 NC -4.331 agree True
+plant  9 bank p 19 bad   5 pred known 62 n 12 NC -3.738 | H hit True P True nq 12 NC -3.738 agree True
+plant 10 all  p 23 bad  -1 pred known 60 n 12 NC -3.677 | H hit True P True nq 12 NC -3.677 agree True
+plant 11 all  p 23 bad   1 pred known 71 n 12 NC -4.869 | H hit True P True nq 12 NC -4.869 agree True
+plant 12 bank p 23 bad  -1 pred known 75 n 13 NC -4.252 | H hit True P True nq 13 NC -4.252 agree True
+plant 13 bank p 21 bad  13 pred known 78 n 13 NC -4.794 | H hit True P True nq 13 NC -4.794 agree True
+plant 14 all  p 20 bad  -1 pred known 73 n 13 NC -4.029 | H hit True P True nq 13 NC -4.029 agree True
+plant 15 all  p 20 bad  16 pred known 53 n 13 NC -3.959 | H hit True P True nq 13 NC -3.959 agree True
+plant 16 bank p 20 bad  -1 pred known 68 n 14 NC -4.034 | H hit True P True nq 14 NC -4.034 agree True
+plant 17 bank p 21 bad   0 pred known 70 n 14 NC -4.649 | H hit True P True nq 14 NC -4.649 agree True
+plant 18 all  p 20 bad  -1 pred known 72 n 14 NC -3.814 | H hit True P True nq 14 NC -3.814 agree True
+plant 19 all  p 19 bad   5 pred known 67 n 14 NC -4.120 | H hit True P True nq 14 NC -4.12 agree True
+plant 20 bank p 23 bad  -1 pred known 69 n 15 NC -4.131 | H hit True P True nq 15 NC -4.131 agree True
+plant 21 bank p 22 bad   2 pred known 75 n 15 NC -4.292 | H hit True P True nq 15 NC -4.292 agree True
+plant 22 all  p 19 bad  -1 pred known 71 n 15 NC -4.059 | H hit True P True nq 15 NC -4.059 agree True
+plant 23 all  p 24 bad   7 pred known 60 n 15 NC -4.262 | H hit True P True nq 15 NC -4.262 agree True
+Gate P0 (recovery + bar at floor 10): recovered 24/24, bar 24/24 Wilson (0.862, 1.0) -> PASS
+floor 10: plants n>=F pass 24/24 Wilson (0.862, 1.0) gate PASS; whole ladder 24/24 Wilson (0.862, 1.0); lost to the floor: []
+floor 11: plants n>=F pass 20/20 Wilson (0.839, 1.0) gate PASS; whole ladder 20/24 Wilson (0.641, 0.933); lost to the floor: [0, 1, 2, 3]
+floor 12: plants n>=F pass 16/16 Wilson (0.806, 1.0) gate PASS; whole ladder 16/24 Wilson (0.467, 0.82); lost to the floor: [0, 1, 2, 3, 4, 5, 6, 7]
+
+== Decision (pre-registered rule) == NO ADOPTION: floor stays at 10 with the case 213 caveat; quadgram-count-dependent bar queued
+
+== Part B (I-337): full-scale V behind bank / all.bin, K4 vs 16 fresh nulls ==
+bank_V_a  p 17: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+bank_V_a  p 18: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+bank_V_a  p 19: K4     2 | nulls [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 1/16 Wilson (0.011, 0.283) p_up 0.118 -> INSUFFICIENT-DISCRIMINATION
+bank_V_a  p 20: K4     2 | nulls [0, 0, 2, 0, 2, 6, 4, 0, 0, 2, 2, 4, 4, 14, 24, 6] occ 11/16 Wilson (0.444, 0.858) p_up 0.706 -> INSUFFICIENT-DISCRIMINATION
+bank_V_a  p 21: K4    10 | nulls [60, 34, 24, 92, 102, 30, 22, 32, 72, 40, 44, 26, 28, 24, 36, 16] occ 16/16 Wilson (0.806, 1.0) p_up 1.000 -> INSUFFICIENT-DISCRIMINATION
+bank_V_a  p 22: K4   372 | nulls [440, 386, 368, 518, 436, 370, 352, 510, 390, 384, 816, 450, 374, 298, 342, 338] occ 16/16 Wilson (0.806, 1.0) p_up 0.647 -> INSUFFICIENT-DISCRIMINATION
+bank_V_a  p 23: K4  6556 | nulls [6278, 5994, 5652, 6398, 5876, 5866, 5854, 5972, 5770, 5790, 5676, 6248, 5804, 5760, 6126, 6662] occ 16/16 Wilson (0.806, 1.0) p_up 0.118 -> INSUFFICIENT-DISCRIMINATION
+bank_V_a  p 24: K4  7274 | nulls [7294, 7296, 7240, 7250, 7272, 7300, 7248, 7190, 7304, 7288, 7358, 7264, 7232, 7260, 7204, 7230] occ 16/16 Wilson (0.806, 1.0) p_up 0.412 -> INSUFFICIENT-DISCRIMINATION
+bank_V_b  p 17: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+bank_V_b  p 18: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+bank_V_b  p 19: K4     0 | nulls [0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 1/16 Wilson (0.011, 0.283) p_up 1.000 -> EXACT-EXCL (discriminating)
+bank_V_b  p 20: K4     8 | nulls [2, 0, 0, 0, 2, 4, 4, 0, 0, 10, 12, 2, 2, 10, 6, 6] occ 11/16 Wilson (0.444, 0.858) p_up 0.235 -> INSUFFICIENT-DISCRIMINATION
+bank_V_b  p 21: K4    58 | nulls [30, 12, 42, 24, 36, 44, 48, 10, 42, 40, 18, 28, 50, 10, 26, 28] occ 16/16 Wilson (0.806, 1.0) p_up 0.059 -> INSUFFICIENT-DISCRIMINATION
+bank_V_b  p 22: K4   444 | nulls [536, 376, 354, 328, 304, 350, 274, 404, 324, 466, 448, 380, 324, 342, 340, 550] occ 16/16 Wilson (0.806, 1.0) p_up 0.294 -> INSUFFICIENT-DISCRIMINATION
+bank_V_b  p 23: K4  5920 | nulls [5920, 5692, 5926, 6886, 5534, 6360, 6496, 5168, 6252, 5472, 6200, 6452, 5822, 5106, 5308, 6182] occ 16/16 Wilson (0.806, 1.0) p_up 0.588 -> INSUFFICIENT-DISCRIMINATION
+bank_V_b  p 24: K4  7286 | nulls [7230, 7164, 7170, 7262, 7168, 7152, 7222, 7250, 7186, 7304, 7234, 7244, 7278, 7158, 7204, 7208] occ 16/16 Wilson (0.806, 1.0) p_up 0.118 -> INSUFFICIENT-DISCRIMINATION
+all_V_a   p 17: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+all_V_a   p 18: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2] occ 1/16 Wilson (0.011, 0.283) p_up 1.000 -> EXACT-EXCL (discriminating)
+all_V_a   p 19: K4     0 | nulls [0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 2, 0, 4, 0, 0, 0] occ 4/16 Wilson (0.102, 0.495) p_up 1.000 -> EXACT-EXCL (non-discriminating)
+all_V_a   p 20: K4     2 | nulls [4, 4, 6, 2, 8, 10, 10, 10, 8, 4, 8, 4, 2, 6, 2, 12] occ 16/16 Wilson (0.806, 1.0) p_up 1.000 -> INSUFFICIENT-DISCRIMINATION
+all_V_a   p 21: K4    52 | nulls [44, 50, 62, 44, 34, 48, 48, 36, 56, 28, 36, 48, 54, 38, 44, 36] occ 16/16 Wilson (0.806, 1.0) p_up 0.235 -> INSUFFICIENT-DISCRIMINATION
+all_V_a   p 22: K4  1242 | nulls [1466, 1446, 1448, 1318, 1412, 1316, 1386, 1560, 1318, 1294, 1312, 1686, 1530, 1190, 1184, 1108] occ 16/16 Wilson (0.806, 1.0) p_up 0.824 -> INSUFFICIENT-DISCRIMINATION
+all_V_a   p 23: K4  5720 | nulls [5596, 5656, 5632, 5614, 5770, 5456, 5578, 5572, 5656, 5576, 5526, 5622, 5652, 5816, 5638, 5620] occ 16/16 Wilson (0.806, 1.0) p_up 0.176 -> INSUFFICIENT-DISCRIMINATION
+all_V_a   p 24: K4 25644 | nulls [25618, 25712, 25634, 25544, 25768, 25508, 25708, 25724, 25560, 25562, 25986, 25364, 25422, 25632, 25702, 25476] occ 16/16 Wilson (0.806, 1.0) p_up 0.412 -> INSUFFICIENT-DISCRIMINATION
+all_V_b   p 17: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+all_V_b   p 18: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] occ 0/16 Wilson (0.0, 0.194) p_up 1.000 -> EXACT-EXCL (discriminating)
+all_V_b   p 19: K4     0 | nulls [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0] occ 1/16 Wilson (0.011, 0.283) p_up 1.000 -> EXACT-EXCL (discriminating)
+all_V_b   p 20: K4     4 | nulls [6, 10, 8, 2, 6, 6, 8, 2, 6, 4, 8, 8, 2, 16, 12, 4] occ 16/16 Wilson (0.806, 1.0) p_up 0.824 -> INSUFFICIENT-DISCRIMINATION
+all_V_b   p 21: K4    56 | nulls [56, 28, 46, 22, 36, 68, 62, 40, 32, 76, 72, 58, 50, 36, 52, 54] occ 16/16 Wilson (0.806, 1.0) p_up 0.412 -> INSUFFICIENT-DISCRIMINATION
+all_V_b   p 22: K4  1414 | nulls [1580, 1218, 1686, 1502, 1642, 1272, 1350, 1240, 1536, 1628, 1208, 1414, 1306, 1144, 1276, 1326] occ 16/16 Wilson (0.806, 1.0) p_up 0.471 -> INSUFFICIENT-DISCRIMINATION
+all_V_b   p 23: K4  5520 | nulls [5566, 5696, 5520, 5504, 5632, 5546, 5560, 5542, 5694, 5676, 5686, 5620, 5640, 5538, 5500, 5832] occ 16/16 Wilson (0.806, 1.0) p_up 0.882 -> INSUFFICIENT-DISCRIMINATION
+all_V_b   p 24: K4 25622 | nulls [25408, 25590, 25544, 25880, 25394, 25566, 25714, 25622, 25400, 25694, 25438, 25694, 25288, 25232, 25406, 25628] occ 16/16 Wilson (0.806, 1.0) p_up 0.412 -> INSUFFICIENT-DISCRIMINATION
