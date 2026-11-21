@@ -1,0 +1,3 @@
+S perm=-1 dir=0 X=7420 Y=19590 form=0 w=15 pop=5 k=KUUHUKHKKKVLUHUVLVHKUHKV
+S perm=-1 dir=0 X=7420 Y=19590 form=1 w=15 pop=5 k=QGGTGQTQQQFPGTGFPFTQGTQF
+T rows=1 dirs=1 pairforms=260193 survivors=2

@@ -1,0 +1,3 @@
+S perm=-1 dir=0 X=11440 Y=65522 form=0 w=10 pop=9 k=UYVZWXBTYVUXBCWTBYUUWUTU
+S perm=-1 dir=0 X=11440 Y=65522 form=1 w=10 pop=9 k=GCFBEDZHCFGDZYEHZCGGEGHG
+T rows=1 dirs=1 pairforms=4513307778 survivors=2

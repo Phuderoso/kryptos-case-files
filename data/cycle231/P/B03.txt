@@ -1,0 +1,3 @@
+S perm=-1 dir=0 X=63287 Y=59854 form=0 w=7 pop=7 k=TRNRQQTTONONTNTQSOTPRTPP
+S perm=-1 dir=0 X=63287 Y=59854 form=1 w=7 pop=7 k=HJNJKKHHMNMNHNHKIMHLJHLL
+T rows=1 dirs=1 pairforms=260193 survivors=2

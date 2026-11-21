@@ -1,0 +1,4 @@
+S perm=-1 dir=0 X=52599 Y=12349 form=0 w=15 pop=4 k=OOORRFOTOFFOFFTRFRRROOTF
+S perm=-1 dir=0 X=52599 Y=12349 form=1 w=15 pop=4 k=MMMJJVMHMVVMVVHJVJJJMMHV
+S perm=-1 dir=0 X=52599 Y=12351 form=2 w=15 pop=4 k=LLLIIULGLUULUUGIUIIILLGU
+T rows=1 dirs=1 pairforms=260193 survivors=3

@@ -1,0 +1,5 @@
+S perm=50 dir=0 X=115 Y=140 form=0 w=24 pop=5 k=QZXXAQQQQQADXAAQZAZDXDDZ
+S perm=50 dir=0 X=115 Y=140 form=1 w=14 pop=5 k=KBDDAKKKKKAXDAAKBABXDXXB
+S perm=51 dir=1 X=115 Y=140 form=0 w=24 pop=5 k=QZXXAQQQQQADXAAQZAZDXDDZ
+S perm=51 dir=1 X=115 Y=140 form=1 w=14 pop=5 k=KBDDAKKKKKAXDAAKBABXDXXB
+T rows=101 dirs=2 pairforms=12566016 survivors=4

@@ -1,0 +1,2 @@
+S perm=89736 dir=0 X=107 Y=9 form=2 w=10 pop=8 k=HFDAGCCIAIHJCDJJJCJCADJA
+T rows=8253 dirs=2 pairforms=1026805248 survivors=1

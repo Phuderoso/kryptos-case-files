@@ -1,0 +1,3 @@
+S perm=162714 dir=1 X=123 Y=51 form=0 w=10 pop=10 k=LPHKMMGIHJOPKJNLJMJJHHKN
+S perm=162714 dir=1 X=123 Y=51 form=1 w=10 pop=10 k=PLTQOOUSTRMLQRNPRORRTTQN
+T rows=8253 dirs=2 pairforms=1026805248 survivors=2

@@ -1,0 +1,5 @@
+S perm=49 dir=0 X=94 Y=38 form=0 w=12 pop=3 k=FQFIIFFQQQFFQFQIIIIQQFIQ
+S perm=49 dir=0 X=94 Y=38 form=1 w=12 pop=3 k=VKVSSVVKKKVVKVKSSSSKKVSK
+S perm=50 dir=1 X=94 Y=38 form=0 w=12 pop=3 k=FQFIIFFQQQFFQFQIIIIQQFIQ
+S perm=50 dir=1 X=94 Y=38 form=1 w=12 pop=3 k=VKVSSVVKKKVVKVKSSSSKKVSK
+T rows=101 dirs=2 pairforms=12566016 survivors=4

@@ -1,0 +1,4 @@
+S perm=-1 dir=0 X=22265 Y=80315 form=0 w=15 pop=5 k=MJPJBBJBIJMBJBIMBMIJMIIJ
+S perm=-1 dir=0 X=22265 Y=80315 form=1 w=15 pop=5 k=ORLRZZRZSROZRZSOZOSROSSR
+S perm=-1 dir=0 X=22265 Y=80316 form=2 w=15 pop=5 k=NQKQYYQYRQNYQYRNYNRQNRRQ
+T rows=1 dirs=1 pairforms=260193 survivors=3

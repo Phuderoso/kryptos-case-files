@@ -1,0 +1,6 @@
+direct W9 K4 raw 3 cl 2 | pooled nulls n=18 texts with>=1: 2 | pooled null-equiv raw 4.4 cl 2.2
+direct W10 K4 raw 47 cl 22 | pooled nulls n=18 texts with>=1: 6 | pooled null-equiv raw 16.7 cl 7.5
+bank W9 K4 raw 0 cl 0 | pooled nulls n=30 texts with>=1: 3 | pooled null-equiv raw 10.7 cl 2.0
+bank W10 K4 raw 44 cl 8 | pooled nulls n=30 texts with>=1: 22 | pooled null-equiv raw 52.0 cl 24.0
+all W9 K4 raw 6 cl 2 | pooled nulls n=30 texts with>=1: 5 | pooled null-equiv raw 6.0 cl 3.3
+all W10 K4 raw 48 cl 20 | pooled nulls n=30 texts with>=1: 24 | pooled null-equiv raw 44.0 cl 29.3

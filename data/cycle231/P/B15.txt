@@ -1,0 +1,5 @@
+S perm=49 dir=0 X=9 Y=11 form=0 w=9 pop=8 k=VSXXAUTVYZUTUVVUTVAVZVXT
+S perm=49 dir=0 X=9 Y=11 form=1 w=9 pop=8 k=FIDDAGHFCBGHGFFGHFAFBFDH
+S perm=50 dir=1 X=9 Y=11 form=0 w=9 pop=8 k=VSXXAUTVYZUTUVVUTVAVZVXT
+S perm=50 dir=1 X=9 Y=11 form=1 w=9 pop=8 k=FIDDAGHFCBGHGFFGHFAFBFDH
+T rows=101 dirs=2 pairforms=12566016 survivors=4

@@ -1,0 +1,4 @@
+S perm=95621 dir=1 X=52 Y=77 form=0 w=9 pop=8 k=CVCXCAAWACYWCVDCWAXYYVYZ
+S perm=95621 dir=1 X=52 Y=77 form=1 w=9 pop=8 k=YFYDYAAEAYCEYFXYEADCCFCB
+S perm=101821 dir=1 X=6 Y=100 form=2 w=10 pop=9 k=LKGJEHCEELKCFDGHEHJDCLCD
+T rows=8254 dirs=2 pairforms=1026929664 survivors=3

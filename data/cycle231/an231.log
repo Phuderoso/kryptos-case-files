@@ -1,0 +1,27 @@
+PLANT B01 direct w 5 found lines 1122
+PLANT B02 direct d 4 found lines 3
+PLANT B03 direct w 7 found lines 2
+PLANT B04 direct d 5 found lines 2
+PLANT B05 direct w 6 found lines 642
+PLANT B06 direct d 6 found lines 1
+PLANT B07 direct w 5 found lines 81
+PLANT B08 direct d 3 found lines 10
+PLANT B09 direct w 5 found lines 25
+PLANT B10 direct d 5 found lines 3
+PLANT B11 bank w 5 found lines 8
+PLANT B12 bank d 3 found lines 4
+PLANT B13 bank w 8 found lines 22
+PLANT B14 all d 6 found lines 8
+PLANT B15 bank w 9 found lines 4
+PLANT B16 bank d 5 found lines 4
+PLANT B17 all w 8 found lines 24
+PLANT B18 bank d 5 found lines 2
+PLANT B19 all w 5 found lines 12
+PLANT B20 all d 5 found lines 4
+GATE P recovered 20/20 Wilson (0.839, 1) (pass >= 19/20)
+direct W9 K4 full raw 3 clusters 2 | K4 per-slice mean raw 0.60 | fresh nulls n=8 raw [0, 0, 0, 0, 0, 0, 0, 0] clusters [0, 0, 0, 0, 0, 0, 0, 0] | null mean raw 0.00 cl 0.00 | null-equivalent full-scale raw 0.0 cl 0.0 | nulls with >=1: 0/8
+direct W10 K4 full raw 47 clusters 22 | K4 per-slice mean raw 9.40 | fresh nulls n=8 raw [0, 0, 0, 1, 0, 2, 0, 13] clusters [0, 0, 0, 1, 0, 1, 0, 5] | null mean raw 2.00 cl 0.88 | null-equivalent full-scale raw 10.0 cl 4.4 | nulls with >=1: 3/8
+bank W9 K4 full raw 0 clusters 0 | K4 per-slice mean raw 0.00 | fresh nulls n=20 raw [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] clusters [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] | null mean raw 0.10 cl 0.05 | null-equivalent full-scale raw 2.0 cl 1.0 | nulls with >=1: 1/20
+bank W10 K4 full raw 44 clusters 8 | K4 per-slice mean raw 2.20 | fresh nulls n=20 raw [0, 3, 2, 0, 4, 8, 1, 3, 0, 4, 6, 4, 3, 2, 2, 0, 1, 0, 1, 0] clusters [0, 2, 1, 0, 2, 1, 1, 1, 0, 2, 3, 2, 2, 1, 1, 0, 1, 0, 1, 0] | null mean raw 2.20 cl 1.05 | null-equivalent full-scale raw 44.0 cl 21.0 | nulls with >=1: 14/20
+all W9 K4 full raw 6 clusters 2 | K4 per-slice mean raw 0.30 | fresh nulls n=20 raw [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1] clusters [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1] | null mean raw 0.15 cl 0.10 | null-equivalent full-scale raw 3.0 cl 2.0 | nulls with >=1: 2/20
+all W10 K4 full raw 48 clusters 20 | K4 per-slice mean raw 2.40 | fresh nulls n=20 raw [2, 2, 2, 2, 3, 2, 2, 0, 2, 4, 2, 1, 2, 0, 0, 0, 0, 5, 5, 1] clusters [1, 2, 1, 1, 2, 1, 1, 0, 1, 3, 1, 1, 2, 0, 0, 0, 0, 4, 3, 1] | null mean raw 1.85 cl 1.25 | null-equivalent full-scale raw 37.0 cl 25.0 | nulls with >=1: 15/20

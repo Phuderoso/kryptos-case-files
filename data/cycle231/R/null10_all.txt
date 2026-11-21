@@ -1,0 +1,3 @@
+S perm=45050 dir=1 X=139 Y=121 form=0 w=10 pop=8 k=BXDDZVBZWXUBVUUXDZDXYBYX
+S perm=45050 dir=1 X=139 Y=121 form=1 w=10 pop=8 k=ZDXXBFZBEDGZFGGDXBXDCZCD
+T rows=8289 dirs=2 pairforms=1031284224 survivors=2
