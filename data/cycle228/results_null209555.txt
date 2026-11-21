@@ -1,0 +1,7 @@
+# scope=I-312 chunk 3: col1e4 NAL=4, w11 orders with pi[0] in {4,5} (7,257,600), ROW/COL, dir 0/1, AZ/KA/QuagI/QuagII, Vig(=variant)/Beau, model A/B, p 1-18; one error = excess <= 1
+# text=null209555 input_sha256=b5f628c87563b8b636924579be8820e776e6764b00300ff7ee53b4b33f8ce9f7 (97-letter string, no newline)
+# tool=tools/cycle220/col1e4.c tool_sha256=de865865b119fd6b013f813bb3b6ebb49d0ea3da048b4f7c98dfaf204bbe573f
+# seed=209555 args=col1e4 CT 11 first(4,5) 18 18 label 4 second(0..10)
+# orders=7257600 files=20 incomplete=0
+# per p strict/one-error: p1=0/0 p2=0/0 p3=0/0 p4=0/0 p5=0/0 p6=0/0 p7=0/0 p8=0/0 p9=0/0 p10=0/0 p11=0/0 p12=0/0 p13=0/0 p14=0/0 p15=0/0 p16=0/0 p17=0/0 p18=0/0
+# hit line: H w mode dir al be model p excess bad pi(comma)
