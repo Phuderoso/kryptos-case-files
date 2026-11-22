@@ -1,0 +1,6 @@
+Cycle 235 (PREREG235) raw results. R/: gn235 on K4 and 24 fresh nulls (set A 209647-209658, set B 209659-209670) x {direct full,
+bank.bin r10, all.bin r10}, keys233.bin, every surrogate decrypt printed (H lines with agree24, NC, plaintext), then Y / T lines.
+P/: 20 plants (209671). smoke/: the pre-filing timing smoke on the published null 209646 (maxprint 3; not a result).
+gateT.txt: check235.py on K4, nulls 209647 / 209659 and every plant (mismatches 0). analyze235.log / summary235.json: analyze235.py.
+Unpublished inputs (sha256 in tools/cycle235/HASHES235.txt): alpha.bin, bank.bin, all.bin, themed144.bin (same files as cases 217-220).
+Run wall: texts 459 s, all 461 s (2026-11-22 11:52:24-12:00:05 PT, UTC-7).

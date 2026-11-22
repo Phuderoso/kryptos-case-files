@@ -1,0 +1,7 @@
+# scope=all
+# text=plant15 input_sha256=589bbcdbbf2c67ae510691fea287fb5a2997aca82ff7e978169b45c1a25800db (97-letter string, no newline)
+# tool=tools/cycle235/gn235.c tool_sha256=4ca8d7d83b8c8297ae4ba93a8c5628d44b857080e7d89b1df5b08a2b7fbc142c
+# seed=209671 (plant235.py) args=gn235 plant15 all.bin themed144.bin themed144.bin keys233.bin 2000 1843 qg.bin 1000000
+H perm=27843 dir=0 ix=1 X=7 Y=16 form=1 w=668 agree8=8 agree24=24 nc=-4.4955 pt=UBTLESHADINGANDTHEABSEASTNORTHEASTESTHENUANCEOFIQMUSIONKASCARVEBERLINCLOCKLYINVISIBLEHOWSTHATPOSS
+Y nq=64 n=1 max=-4.4955
+T rows=82 pairforms=20404224 windows=4172 hits8=1 hits24ge23=1

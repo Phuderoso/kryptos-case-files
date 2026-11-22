@@ -1,0 +1,7 @@
+# scope=bank
+# text=plant8 input_sha256=3cbd55e6cc59206ec731007eb3dd0fe868c844fda2ce9a83651ca230e1c768a5 (97-letter string, no newline)
+# tool=tools/cycle235/gn235.c tool_sha256=4ca8d7d83b8c8297ae4ba93a8c5628d44b857080e7d89b1df5b08a2b7fbc142c
+# seed=209671 (plant235.py) args=gn235 plant8 bank.bin themed144.bin themed144.bin keys233.bin 2000 911 qg.bin 1000000
+H perm=108911 dir=0 ix=0 X=134 Y=56 form=1 w=492 agree8=8 agree24=24 nc=-4.6730 pt=EREXWHOKNOWSTHEEXACTLEASTNORTHEASTTHISWASHISLASTMESSAGEXTHIRTYEBERLINCLOCKFIFTYSEVENMINUTESSIXPOI
+Y nq=64 n=1 max=-4.6730
+T rows=83 pairforms=20653056 windows=4172 hits8=1 hits24ge23=1

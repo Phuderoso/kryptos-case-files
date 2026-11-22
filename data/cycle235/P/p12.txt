@@ -1,0 +1,7 @@
+# scope=bank
+# text=plant12 input_sha256=e620ea068aad5018e330c92a2cb608f6ebd275160d90f26f3a8dc5f874a480dc (97-letter string, no newline)
+# tool=tools/cycle235/gn235.c tool_sha256=4ca8d7d83b8c8297ae4ba93a8c5628d44b857080e7d89b1df5b08a2b7fbc142c
+# seed=209671 (plant235.py) args=gn235 plant12 bank.bin themed144.bin themed144.bin keys233.bin 2000 400 qg.bin 1000000
+H perm=54400 dir=0 ix=0 X=55 Y=141 form=1 w=2542 agree8=8 agree24=24 nc=-4.5975 pt=THIRTYEIGHTDEGREESFIFEASTNORTHEASTSSIXPOINTFIVESECONDSNORTHSEVEBERLINCLOCKREESEIGHTMINUTESFORTYFO
+Y nq=64 n=1 max=-4.5975
+T rows=83 pairforms=20653056 windows=4172 hits8=1 hits24ge23=1

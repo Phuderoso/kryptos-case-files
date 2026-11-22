@@ -1,0 +1,7 @@
+# scope=direct
+# text=plant4 input_sha256=86afd3c1efec65e9f4ecb7f5bf64985efed642073aa9dd570b2ce4695b9ffa2b (97-letter string, no newline)
+# tool=tools/cycle235/gn235.c tool_sha256=4ca8d7d83b8c8297ae4ba93a8c5628d44b857080e7d89b1df5b08a2b7fbc142c
+# seed=209671 (plant235.py) args=gn235 plant4 x alpha.bin alpha.bin keys233.bin 1000 368 qg.bin 1000000
+H perm=-1 dir=0 ix=0 X=40725 Y=84368 form=2 w=2285 agree8=8 agree24=24 nc=-4.3207 pt=IEDOUTTHERESOMEWHEREXEASTNORTHEASTACTLOCATIONONLYWWTHISWASHISLABERLINCLOCKHIRTYEIGHTDEGREESFIFTYS
+Y nq=64 n=1 max=-4.3207
+T rows=1 pairforms=94440692052 windows=4172 hits8=1 hits24ge23=1

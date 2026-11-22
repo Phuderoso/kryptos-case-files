@@ -1,0 +1,7 @@
+# scope=all
+# text=plant19 input_sha256=cc684828467feaef1abd41a97cedb941f0c06c156df5bf63feca449e8696abb1 (97-letter string, no newline)
+# tool=tools/cycle235/gn235.c tool_sha256=4ca8d7d83b8c8297ae4ba93a8c5628d44b857080e7d89b1df5b08a2b7fbc142c
+# seed=209671 (plant235.py) args=gn235 plant19 all.bin themed144.bin themed144.bin keys233.bin 2000 650 qg.bin 1000000
+H perm=30650 dir=0 ix=0 X=61 Y=108 form=1 w=3327 agree8=8 agree24=24 nc=-4.4045 pt=AGEDEBRISTHATENCUMBEREASTNORTHEASTTOFTHEDOORWAYWASREMOVEDWITHTRBERLINCLOCKSIMADEATINYBREACHIQTHEU
+Y nq=64 n=1 max=-4.4045
+T rows=83 pairforms=20653056 windows=4172 hits8=1 hits24ge23=1
