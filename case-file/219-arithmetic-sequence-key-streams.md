@@ -39,3 +39,6 @@ recurrences and were left out on purpose). `[speculation]`: no public source say
 
 ## Blind spots
 Other multipliers / constants; German and other-language number names; sequences read from a start other than n = 1 beyond o 39; two-digit groups of sequence values (primes written as digits); sequences as *alphabet permutations* (rank of n-th prime mod 26) rather than shifts; word lengths of other texts (Sanborn's statements, the Kryptos Morse plates). One-error beyond the 23 / 24 rule is not covered.
+
+## Addendum (cycle 234)
+The S18 (look-and-say) rows are **not** look-and-say beyond n 42: `keys233.py` cuts the string at 10⁵ characters and writes 0 afterwards, so every S18 window ends in a constant-zero tail that covers the BERLINCLOCK seats. Those rows test "look-and-say then zeros". The verdict for the other 21 sequences and the word-length streams is unchanged. Found in [case 220](220-multiplied-arithmetic-key-streams.md); fix queued as I-367.
