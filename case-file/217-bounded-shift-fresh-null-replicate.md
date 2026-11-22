@@ -64,3 +64,9 @@ and are descriptive. K4's selected cells were not re-tested on held-out K4 data 
 
 ## Solution?
 No. No candidate text was produced or read.
+
+
+## Addendum (cycle 233, I-357): bank W ≤ 10 relabelled FRONTEIRA
+Case 218 printed this cell as `NO-SIGNAL (robust)`. Under PREREG232's definition (upper 95 % Wilson bound of the per-text null rate over the K4 rate, per null set) Voynich's final reconciliation gives **1.01×** on the fresh
+set (inside the bar) and **1.04×** on her 31231000+i set (above): a cell is robust only if ≥ 2× on both sets, so the correct label is **`NO-SIGNAL-FRONTEIRA`**. The pooled "≥ 3.4 α" is descriptive only.
+Details in [case 219](219-arithmetic-sequence-key-streams.md) Part C.

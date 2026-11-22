@@ -1,0 +1,5 @@
+# scope=all.bin
+# text=null233 input_sha256=dd3db62d0ecfbd272435331af04ab6f246a42fd8737224a0b779f7ab9f6e2755 (97-letter string, no newline)
+# tool=gn217.c tool_sha256=97bae55f2f2bd443a3bc50d9d1773b71def5f34e1350354d909a9987692ed793
+# seed=209644 args=stride 10
+T rows=16579 pairforms=4125385728 windows=4172 hits24=0 hits23=0

@@ -1,0 +1,5 @@
+# scope=bank
+# text=K4 input_sha256=eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab (97-letter string, no newline)
+# tool=gn217.c tool_sha256=97bae55f2f2bd443a3bc50d9d1773b71def5f34e1350354d909a9987692ed793
+# seed=none args=gn217 K4 bank.bin themed144.bin themed144.bin keys233.bin 1 0
+T rows=165065 pairforms=41073454080 windows=4172 hits24=0 hits23=0
