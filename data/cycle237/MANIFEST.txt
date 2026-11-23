@@ -1,0 +1,8 @@
+# data/cycle237 (PREREG237, case 223): I-367 exact look-and-say S18 (keys237.bin sha b43e35db…e414f, 960 windows) + I-376 near-miss profile (case 222 list keys236.bin).
+R/        stamped gn217 outputs (rule 5): K4 direct / bank / all.bin full scale; 6 nulls 209680-209685 direct full, bank and all.bin at row stride 10 (DEVIATION from runA.sh, see case 223)
+NM/       stamped gn237nm outputs (I-376): K4 and 20 nulls 209686-209705, direct full and all.bin row stride 20; 'M maxagree= hist=' line (agreement 0..24 over index-matched candidates)
+P/        gate P checker lines (check237.py) for the 20 plants; summaryP.txt per-plant PASS (20/20)
+plants237.tsv  plants (seed 209679): id scope ct row dir ix X Y form w corrupted_seat plaintext
+nulls237.tsv / nulls237nm.tsv  shuffled nulls: seed text sha256
+b005341.txt    OEIS A005341 b-file (look-and-say lengths n=1..3000), fetched 2026-11-23 from oeis.org
+time_A.txt / time_P.txt / time_NM.txt  wall-clock (K4 scopes 171 s; nulls 107 s; gate P 3 s; I-376 398 s incl. 20 nulls)

@@ -1,0 +1,6 @@
+# scope=direct (I-376, keys236.bin)
+# text=null209704 input_sha256=a7274a64816d5c84caafca718fd34796e4497d03c08352f2e1a8d6fceb8e0977 (97-letter string, no newline)
+# tool=gn237nm.c tool_sha256=b93f791d1ae0bceac7260bc8692a172520b37e7ce89ab489ed1f7a8a1eeb9b41
+# seed=209704 args=gn237nm null x alpha.bin alpha.bin keys236.bin 1 0
+M maxagree=14 hist=0,0,0,0,409195990,316238231,117097798,27179027,4411777,534784,51445,4992,482,47,1,0,0,0,0,0,0,0,0,0,0
+T rows=1 pairforms=198407297537736 windows=8792 hits24=0 hits23=0

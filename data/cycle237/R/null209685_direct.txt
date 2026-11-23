@@ -1,0 +1,5 @@
+# scope=direct
+# text=null209685 input_sha256=22af390a0e9f6f85760115e13334f780fed2cd9c96f54152cf88ca000bcfec38 (97-letter string, no newline)
+# tool=gn217.c tool_sha256=97bae55f2f2bd443a3bc50d9d1773b71def5f34e1350354d909a9987692ed793
+# seed=209685 args=gn217 null x alpha.bin alpha.bin keys237.bin 1 0
+T rows=1 pairforms=21664127119680 windows=960 hits24=0 hits23=0

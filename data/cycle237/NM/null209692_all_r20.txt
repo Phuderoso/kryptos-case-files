@@ -1,0 +1,6 @@
+# scope=all.bin (I-376, keys236.bin, row stride 20)
+# text=null209692 input_sha256=8bd0d10f1c614f3b7ad8319788da87034f24678fa3b50198e250d64ae86938fd (97-letter string, no newline)
+# tool=gn237nm.c tool_sha256=b93f791d1ae0bceac7260bc8692a172520b37e7ce89ab489ed1f7a8a1eeb9b41
+# seed=209692 args=gn237nm null all.bin themed144.bin themed144.bin keys236.bin 20 0
+M maxagree=13 hist=0,0,0,0,36265723,28931514,10954551,2626215,445653,56875,5650,429,32,1,0,0,0,0,0,0,0,0,0,0,0
+T rows=8290 pairforms=2062817280 windows=8792 hits24=0 hits23=0

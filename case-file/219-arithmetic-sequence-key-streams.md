@@ -42,3 +42,6 @@ Other multipliers / constants; German and other-language number names; sequences
 
 ## Addendum (cycle 234)
 The S18 (look-and-say) rows are **not** look-and-say beyond n 42: `keys233.py` cuts the string at 10⁵ characters and writes 0 afterwards, so every S18 window ends in a constant-zero tail that covers the BERLINCLOCK seats. Those rows test "look-and-say then zeros". The verdict for the other 21 sequences and the word-length streams is unchanged. Found in [case 220](220-multiplied-arithmetic-key-streams.md); fix queued as I-367.
+
+## Addendum (cycle 237)
+S18 repaired and re-run in [case 223](223-look-and-say-s18-repaired.md): exact look-and-say lengths (Conway atoms, validated against OEIS A005341 n ≤ 3000), 160 windows with a = 1 (plus ×a variants): K4 0 hits in direct / bank / all.bin → `EXACT-EXCL` for the real look-and-say stream. The corrected S18 label supersedes the "look-and-say then zeros" reading above.

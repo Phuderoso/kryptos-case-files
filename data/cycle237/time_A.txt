@@ -1,0 +1,9 @@
+direct 1s
+bank 85s
+all 171s
+null 209680 18s
+null 209681 36s
+null 209682 53s
+null 209683 71s
+null 209684 88s
+null 209685 107s

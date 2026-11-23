@@ -39,3 +39,6 @@ key of period 1 on most seats (long excluded), so nothing is lost for K4, but th
 
 ## Blind spots
 Beaufort with −a (a ∈ 15–25); even multipliers and 13 (I-368); constants c > 1 beyond the A=0 / A=1 reading; offsets > 39; other-language names; sequence-rank alphabets; S18 proper (I-367). One-error beyond 23 / 24 not covered.
+
+## Addendum (cycle 237)
+The S18 ×a rows (I-367) are re-done with exact look-and-say lengths in [case 223](223-look-and-say-s18-repaired.md) (a ∈ {1, 3, 5, 7, 9, 11}, 960 windows): K4 0 hits in all three scopes → `EXACT-EXCL`.

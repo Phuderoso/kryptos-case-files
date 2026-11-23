@@ -1,0 +1,5 @@
+# scope=all (row stride 10)
+# text=null209682 input_sha256=192f46a297218835e977e19871e49cc4188e9889bd6b92ff4097ac9d4ae9e3d9 (97-letter string, no newline)
+# tool=gn217.c tool_sha256=97bae55f2f2bd443a3bc50d9d1773b71def5f34e1350354d909a9987692ed793
+# seed=209682 args=gn217 null all.bin themed144.bin themed144.bin keys237.bin 10 0
+T rows=16579 pairforms=4125385728 windows=960 hits24=0 hits23=0
