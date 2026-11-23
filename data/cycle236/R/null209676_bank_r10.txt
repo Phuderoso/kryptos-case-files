@@ -1,0 +1,5 @@
+# scope=bank
+# text=null209676 input_sha256=8229b4b5c9990caaeebb2594e3409df13f068508171d68fcf03850b9381361f2 (97-letter string, no newline)
+# tool=gn217.c tool_sha256=97bae55f2f2bd443a3bc50d9d1773b71def5f34e1350354d909a9987692ed793
+# seed=209676 args=gn217 null bank.bin themed144.bin themed144.bin keys236.bin 10 0
+T rows=16507 pairforms=4107469824 windows=8792 hits24=0 hits23=0

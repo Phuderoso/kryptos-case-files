@@ -1,0 +1,7 @@
+# data/cycle236 (PREREG236, case 222): compass-point key streams, keys236.bin sha 6707dda2…46cc (8,792 windows), gn217.c sha 97bae55f…d792
+R/        stamped gn217 outputs (rule 5): K4 direct / bank / all.bin full scale; nulls 209673-209678 direct full, bank and all.bin row stride 10
+P/        gate P checker lines (check236.py) for the 20 plants
+plants236.tsv  plants (seed 209672): id scope ct row dir ix X Y form w corrupted_seat plaintext
+nulls236.tsv   fresh shuffled nulls: seed text sha256
+summaryP.txt   gate P per-plant PASS / FAIL (20/20 PASS)
+time.txt       wall-clock per stage (373 s total)
