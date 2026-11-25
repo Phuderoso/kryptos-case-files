@@ -1,0 +1,9 @@
+Cycle 240 (PREREG240, I-371) raw results.
+ladder240.tsv / .json / .log: tier 1 ladder (ladder240.py, rng 209718): model, f, replicate, m, NC, plaintext (9,000 rows).
+P/: 20 tier-2 plants (seed 209717) through gn235 (keys233.bin; direct Y stride 1000, bank / all.bin row stride 2000 slices).
+R/: gn235 on 12 fresh nulls (set A 209719-209724, set B 209725-209730) x {direct full, bank.bin r10, all.bin r10}.
+analyze240.log / summary240.json: analyze240.py (frozen). gateT.txt: check235.py on every plant file and on the null 209719 / 209725
+files (2,224 lines, 0 mismatches). trace240.txt: trace240.py (POST HOC, descriptive) on non-planted plant lines over barSH.
+audit240.txt: audit238.py on keys233.bin (pasted in PREREG240). time.txt: run240.sh timestamps.
+Unpublished inputs (sha256 in tools/cycle240/HASHES240.txt): alpha.bin, bank.bin, all.bin, themed144.bin (same as cases 217-225).
+Run wall: 342 s (2026-11-25 11:49-11:54:45 MST, UTC-7), one process group (setsid timeout 480).

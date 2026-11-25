@@ -1,0 +1,37 @@
+bar218(343) -6.72457  barSH(343) -6.96338
+plant  0 direct f 1.0 S bad  -1 lines     2 rec 1 NC  -4.4575 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 1 hd [97]
+plant  1 direct f 1.0 S bad  56 lines     1 rec 1 NC  -4.1611 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant  2 direct f 1.0 B bad  -1 lines    13 rec 1 NC  -4.3803 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 5 other 6 hd [0, 97]
+plant  3 direct f 1.0 B bad  77 lines     1 rec 1 NC  -4.9608 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant  4 direct f 0.7 S bad  -1 lines     1 rec 1 NC  -6.0225 218 P SH P (cell 0.80/0.94)  other>=barSH: nb<=10 0 other 0 hd []
+plant  5 direct f 0.7 S bad  88 lines     1 rec 1 NC  -6.1895 218 P SH P (cell 0.80/0.94)  other>=barSH: nb<=10 0 other 0 hd []
+plant  6 direct f 0.7 B bad  -1 lines     1 rec 1 NC  -5.2272 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant  7 direct f 0.7 B bad  55 lines     1 rec 1 NC  -5.6976 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant  8 bank   f 0.5 S bad  -1 lines     3 rec 1 NC  -7.4771 218 - SH - (cell 0.03/0.14)  other>=barSH: nb<=10 0 other 0 hd []
+plant  9 bank   f 0.5 S bad  42 lines     1 rec 1 NC  -7.2681 218 - SH - (cell 0.03/0.14)  other>=barSH: nb<=10 0 other 0 hd []
+plant 10 bank   f 0.5 B bad  -1 lines     2 rec 1 NC  -6.6188 218 P SH P (cell 0.94/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant 11 bank   f 0.5 B bad  55 lines    74 rec 1 NC  -6.8332 218 - SH P (cell 0.94/1.00)  other>=barSH: nb<=10 0 other 1 hd [27]
+plant 12 bank   f 0.3 S bad  -1 lines     1 rec 1 NC  -7.4602 218 - SH - (cell 0.00/0.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant 13 bank   f 0.3 S bad  53 lines     9 rec 1 NC  -7.9134 218 - SH - (cell 0.00/0.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant 14 all    f 0.3 B bad  -1 lines     1 rec 1 NC  -7.1976 218 - SH - (cell 0.05/0.35)  other>=barSH: nb<=10 0 other 0 hd []
+plant 15 all    f 0.3 B bad  16 lines     2 rec 1 NC  -6.9919 218 - SH - (cell 0.05/0.35)  other>=barSH: nb<=10 0 other 0 hd []
+plant 16 all    f 1.0 S bad  -1 lines     2 rec 1 NC  -4.0134 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant 17 all    f 1.0 S bad   6 lines     2 rec 1 NC  -4.5756 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant 18 all    f 1.0 B bad  -1 lines     1 rec 1 NC  -4.5778 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+plant 19 all    f 1.0 B bad  44 lines     1 rec 1 NC  -4.6106 218 P SH P (cell 1.00/1.00)  other>=barSH: nb<=10 0 other 0 hd []
+Gate P recovered 20/20 Wilson (0.8389, 1.0) (one-error 10/10) -> PASS
+null 209719 A N  1217 max  -7.3081 R +0.1913 bar218 -6.6205 barSH -6.8594 - -
+null 209720 A N   591 max  -7.3139 R +0.2450 bar218 -6.6800 barSH -6.9188 - -
+null 209721 A N   555 max  -7.1714 R +0.3926 bar218 -6.6851 barSH -6.9240 - -
+null 209722 A N   558 max  -7.0733 R +0.4903 bar218 -6.6847 barSH -6.9235 - -
+null 209723 A N   573 max  -7.4614 R +0.1000 bar218 -6.6825 barSH -6.9213 - -
+null 209724 A N   449 max  -7.3822 R +0.1992 bar218 -6.7025 barSH -6.9413 - -
+null 209725 B N   887 max  -7.3726 R +0.1529 bar218 -6.6466 barSH -6.8854 - -
+null 209726 B N   658 max  -7.5433 R +0.0068 bar218 -6.6712 barSH -6.9100 - -
+null 209727 B N   489 max  -7.3906 R +0.1838 bar218 -6.6955 barSH -6.9343 - -
+null 209728 B N   762 max  -7.3950 R +0.1430 bar218 -6.6591 barSH -6.8979 - -
+null 209729 B N   542 max  -7.4154 R +0.1506 bar218 -6.6871 barSH -6.9259 - -
+null 209730 B N   474 max  -7.4665 R +0.1105 bar218 -6.6981 barSH -6.9369 - -
+H3 shifted-bar passes 0/12 Wilson (0.0, 0.2425) (A 0/6, B 0/6) -> HOLDS (robust); bar218 passes 0/12 Wilson (0.0, 0.2425)
+R_t fresh nulls median +0.1684 max +0.4903 | case 221 nulls median +0.1667 max +0.4166 | exact MW U 152.0 p 0.804
+headroom to shifted bar (k_text 0.6401) for best fresh null: +0.1498

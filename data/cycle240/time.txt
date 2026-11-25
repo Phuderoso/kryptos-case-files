@@ -1,0 +1,15 @@
+ladder 1s
+plants 3s
+null209719 done 11:49:25
+null209720 done 11:49:43
+null209721 done 11:50:03
+null209722 done 11:50:22
+null209723 done 11:50:41
+null209724 done 11:51:01
+null209725 done 11:52:39
+null209726 done 11:52:58
+null209727 done 11:53:16
+null209728 done 11:53:35
+null209729 done 11:53:54
+null209730 done 11:54:45
+all 342s
