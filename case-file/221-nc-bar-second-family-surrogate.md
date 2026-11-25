@@ -64,3 +64,6 @@ and N printed. Design credit is hers; the parameters (keys233, scopes, seeds, de
 ## Blind spots
 Only keys233 and the 8-seat EAST / BERL subset; other subsets (e.g. NORTHEAST / CLOCK seats) not run. Families at r10 only. Plants are
 K1–K3 English windows (the same source as earlier cycles); the quadgram table is unchanged. No other family than gn217 was added.
+
+## Addendum (cycle 239, [case 225](225-audioactive-digit-streams.md), I-377 a / c)
+Voynich's blind recount (I-377) agreed with this case. Exact two-sided Mann–Whitney p for H2 (24 null R_t vs 20 calibration R_t, U 33, no ties): **6.01 × 10⁻⁸** (`tools/cycle239/mw221.py`, `data/cycle239/mw221.txt`); the 1.1 × 10⁻⁶ printed above is the normal approximation with continuity correction (1.07 × 10⁻⁶ without). The reading (bar conservative in this family) is unchanged. The quadgram tables are now published in `data/support/` (shas as HASHES235) so `check235.py` can be rerun independently.

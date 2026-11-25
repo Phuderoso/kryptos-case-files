@@ -1,0 +1,3 @@
+# Support tables (published cycle 239, I-377 item c)
+- `quadgrams.json` — English quadgram log10 probabilities, built by `tools/build_quadgrams.py` (Project Gutenberg #1661, #1342, #2701, #84, #98); keys `floor`, `q`. sha256 `70c628cf1420cc6f6bae03450c068e2be9a53fe6e737c1e647b9e5bb2e99ee1c` (same as HASHES235 line 14).
+- `qg.bin` — the same table as 26⁴ little-endian float32, index ((a·26+b)·26+c)·26+d with A = 0, floor where unseen; used by the C tools (`gn235.c`, …). sha256 `4a02ba4eca0b6840a3a5eafe00678e854b25703c36b99e9e26a7697d4ed89f69` (same as HASHES232 line 4 / HASHES235 line 7). Max |json − bin| = 2.8 × 10⁻⁷ (float32 rounding), checked in cycle 239.

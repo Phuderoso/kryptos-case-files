@@ -1,0 +1,2 @@
+H perm=133751 dir=1 ix=1 X=96 Y=48 form=1 w=3580 agree=23
+T rows=82 pairforms=20404224 windows=6810 hits24=0 hits23=1

@@ -1,0 +1,2 @@
+H perm=-1 dir=0 ix=0 X=59475 Y=45131 form=2 w=375 agree=23
+T rows=1 pairforms=154156546710 windows=6810 hits24=0 hits23=1

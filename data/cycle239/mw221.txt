@@ -1,0 +1,4 @@
+n_null 24 n_cal 20 ties 0
+asymptotic U 33.0 p 1.13e-06
+exact      U 33.0 p 6.01e-08
+normal, no continuity correction U 33.0 p 1.07e-06
