@@ -52,3 +52,6 @@ No new solution. State per public pages: plaintext found in Sanborn's papers (Se
 
 ## Blind spots
 Even multipliers and 13; Beaufort with −a; S18 digit string; other audioactive streams (the string, not the length; Conway element indices); window offsets > 39; other-moduli reads; I-376 on lists other than case 222 and a global (not index-matched) best.
+
+## Addendum (cycle 238, [case 224](224-key-list-degeneracy-audit.md))
+The row-stride-10 deviation of the nulls is closed: two fresh nulls (209707, 209708) at full scale (stride 1) on `keys237.bin` give 0 hits in direct, bank and all.bin (machinery check, two nulls). The list passes the degeneracy detector with 0 flagged windows out of 960.

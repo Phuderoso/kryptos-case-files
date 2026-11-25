@@ -1,0 +1,8 @@
+../cycle217/keys217.py:9:    return s[:700]
+../cycle217/keys217.py:39:print('windows', len(rows), 'pi head', digits(mpmath.pi)[:12], 'ln2 head', digits(mpmath.log(2))[:8])
+../cycle218/keys218.py:14:    return mpmath.nstr(x, 940, strip_zeros=False).replace('.', '')[:900]
+../cycle218/keys218.py:70:print('windows', len(rows), 'dropped-as-in-217', n217, dict(Counter(r[0] for r in rows)), 'pi head', digits(mpmath.pi)[:12])
+../cycle233/keys233.py:43:            if m % q == 0: return 0
+../cycle233/keys233.py:72:        if len(s) > 10 ** 5: break
+../cycle237/las_exact.py:16:    full = evk(s, K) if len(s) < 3000 else None
+../cycle237/las_exact.py:74:    print('OEIS terms', len(ref), 'mismatches', len(bad), bad[:5])

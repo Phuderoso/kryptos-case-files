@@ -1,0 +1,3 @@
+# PREREG238 gates (audit238.py, plants seed 209706, random windows seed 209709)
+gate P: expected flag present 40 / 40 defective windows; clean flagged 0 / 20
+gate N: random windows flagged 0 / 100000
