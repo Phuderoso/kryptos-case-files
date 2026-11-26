@@ -1,0 +1,1 @@
+gate N: random windows flagged 0/20000; gate P (100 planted each): {'P4': 100, 'ENT': 100, 'AP': 100, 'TAIL': 100}

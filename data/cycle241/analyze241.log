@@ -1,0 +1,42 @@
+bar218(343) -6.72457  barSH(343) -6.96338
+plant  0 direct f 1.0 S bad  -1 lines    29 rec 1 NC  -4.2143 218 P SH P  other>=barSH: nb<=10 6 other 20 hd [0, 97]
+plant  1 direct f 1.0 S bad  11 lines     2 rec 1 NC  -4.3465 218 P SH P  other>=barSH: nb<=10 0 other 1 hd [37]
+plant  2 direct f 1.0 B bad  -1 lines    41 rec 1 NC  -4.6228 218 P SH P  other>=barSH: nb<=10 1 other 7 hd [0, 21, 36, 79, 97]
+plant  3 direct f 1.0 B bad  77 lines    43 rec 1 NC  -4.6388 218 P SH P  other>=barSH: nb<=10 11 other 12 hd [0, 97]
+plant  4 bank   f 1.0 S bad  -1 lines     1 rec 1 NC  -4.0752 218 P SH P  other>=barSH: nb<=10 0 other 0 hd []
+plant  5 bank   f 1.0 S bad   2 lines     3 rec 1 NC  -4.3919 218 P SH P  other>=barSH: nb<=10 0 other 0 hd []
+plant  6 bank   f 1.0 B bad  -1 lines     1 rec 1 NC  -4.0395 218 P SH P  other>=barSH: nb<=10 0 other 0 hd []
+plant  7 all    f 1.0 B bad  40 lines     4 rec 1 NC  -4.4455 218 P SH P  other>=barSH: nb<=10 0 other 0 hd []
+plant  8 all    f 1.0 S bad  -1 lines     1 rec 1 NC  -4.5136 218 P SH P  other>=barSH: nb<=10 0 other 0 hd []
+plant  9 all    f 1.0 S bad  34 lines     1 rec 1 NC  -4.0447 218 P SH P  other>=barSH: nb<=10 0 other 0 hd []
+Gate P recovered 10/10 Wilson (0.7225, 1.0) (one-error 5/5) -> PASS
+null 209731 C N   356 max  -7.4703 R +0.1301 bar218 -6.7215 barSH -6.9603 - -
+null 209732 C N   434 max  -7.3676 R +0.2166 bar218 -6.7053 barSH -6.9441 - -
+null 209733 C N   466 max  -7.1282 R +0.4502 bar218 -6.6995 barSH -6.9383 - -
+null 209734 C N   390 max  -7.4569 R +0.1361 bar218 -6.7141 barSH -6.9529 - -
+null 209735 C N   522 max  -7.4606 R +0.1085 bar218 -6.6902 barSH -6.9290 - -
+null 209736 C N   548 max  -7.3527 R +0.2124 bar218 -6.6862 barSH -6.9250 - -
+null 209737 C N   537 max  -7.2435 R +0.3232 bar218 -6.6878 barSH -6.9267 - -
+null 209738 C N   401 max  -7.4421 R +0.1486 bar218 -6.7118 barSH -6.9506 - -
+null 209739 C N   442 max  -7.4050 R +0.1777 bar218 -6.7038 barSH -6.9426 - -
+null 209740 C N   506 max  -7.2591 R +0.3125 bar218 -6.6927 barSH -6.9315 - -
+null 209741 C N   550 max  -7.3022 R +0.2626 bar218 -6.6859 barSH -6.9247 - -
+null 209742 C N   441 max  -7.4412 R +0.1417 bar218 -6.7040 barSH -6.9428 - -
+null 209743 D N   552 max  -7.4419 R +0.1226 bar218 -6.6856 barSH -6.9244 - -
+null 209744 D N   477 max  -7.3801 R +0.1964 bar218 -6.6976 barSH -6.9364 - -
+null 209745 D N   673 max  -7.3174 R +0.2308 bar218 -6.6693 barSH -6.9081 - -
+null 209746 D N   720 max  -7.2061 R +0.3366 bar218 -6.6638 barSH -6.9026 - -
+null 209747 D N   369 max  -7.5280 R +0.0695 bar218 -6.7186 barSH -6.9574 - -
+null 209748 D N   492 max  -7.3830 R +0.1909 bar218 -6.6950 barSH -6.9338 - -
+null 209749 D N   453 max  -7.1942 R +0.3865 bar218 -6.7018 barSH -6.9406 - -
+null 209750 D N   382 max  -7.4686 R +0.1261 bar218 -6.7158 barSH -6.9546 - -
+null 209751 D N   629 max  -7.2979 R +0.2559 bar218 -6.6749 barSH -6.9137 - -
+null 209752 D N   351 max  -7.2627 R +0.3389 bar218 -6.7227 barSH -6.9615 - -
+null 209753 D N   833 max  -7.5200 R +0.0107 bar218 -6.6518 barSH -6.8906 - -
+null 209754 D N   427 max  -7.3218 R +0.2637 bar218 -6.7066 barSH -6.9455 - -
+H3 shifted-bar passes 0/24 Wilson (0.0, 0.138) (C 0/12, D 0/12) -> ADOPT BSH for gn217 decrypts from 241; bar218 passes 0/24 Wilson (0.0, 0.138)
+OU0 (one-unit bar, fit + 0.4903) passes 0/24 Wilson (0.0, 0.138) -> HOLDS
+R_t fresh 24: median +0.2044 max +0.4502 | case 221 (24) median +0.1667 | case 240 (12) median +0.1684
+I-377(b) fresh R_t vs cal nq-64 single-unit residuals: exact MW p 0.0383 HL +0.067 -> NOT consistent
+        fresh R_t vs cal R_t (max over ~52 units): exact MW p 9.38e-07 HL -0.202 (case 221 got p 6.0e-8, HL -0.239)
+headroom to BSH (k_text-SH 0.6401) for best fresh null: +0.1899

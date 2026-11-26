@@ -1,0 +1,5 @@
+for details.
+anchors checked 21 sequences, mismatches 0 []
+windows 4172 checked 4012 S18 skipped (case 223 truncation, repaired in keys237) 160
+mismatching windows 0 {} first rows {}
+planted wrong-term control: detected 40 / 40 (one wrong term in the stream, window containing it)

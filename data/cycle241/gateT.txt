@@ -1,0 +1,16 @@
+plant 0 direct # lines 29 mismatches 0 maxdNC 4.94e-05
+plant 1 direct # lines 2 mismatches 0 maxdNC 2.15e-05
+plant 2 direct # lines 41 mismatches 0 maxdNC 4.72e-05
+plant 3 direct # lines 43 mismatches 0 maxdNC 3.81e-05
+plant 4 bank # lines 1 mismatches 0 maxdNC 1.26e-05
+plant 5 bank # lines 3 mismatches 0 maxdNC 4.31e-05
+plant 6 bank # lines 1 mismatches 0 maxdNC 3.40e-05
+plant 7 all # lines 4 mismatches 0 maxdNC 3.46e-05
+plant 8 all # lines 1 mismatches 0 maxdNC 2.37e-05
+plant 9 all # lines 1 mismatches 0 maxdNC 8.70e-06
+null209731 direct # lines 231 mismatches 0 maxdNC 4.96e-05
+null209731 bank # lines 46 mismatches 0 maxdNC 4.89e-05
+null209731 all # lines 79 mismatches 0 maxdNC 4.98e-05
+null209743 direct # lines 381 mismatches 0 maxdNC 5.00e-05
+null209743 bank # lines 80 mismatches 0 maxdNC 4.88e-05
+null209743 all # lines 91 mismatches 0 maxdNC 4.86e-05

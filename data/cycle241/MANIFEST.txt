@@ -1,0 +1,8 @@
+Cycle 241 (PREREG241, audit slot: I-389, I-377 (b), I-383, Voynich degeneracy criteria, I-390) raw results.
+P/: 10 full-English plants (seed 209755) through gn235 on keys233.bin. R/: gn235 on 24 fresh nulls (set C 209731-209742, set D 209743-209754) x {direct full, bank.bin r10, all.bin r10}.
+analyze241.log / summary241.json: analyze241.py (frozen). gateT.txt: check235.py on every plant file and on the null 209731 / 209743 files (0 mismatches).
+bar241.txt: bar241.py (run once before filing, descriptive; published data only). indep241.txt: indep241.py (value audit of keys233, run before filing).
+degen241_gate.txt / degen241.txt: degen241.py gates (before filing) and per-family counts (after filing, frozen limits). trace241.txt: trace241.py (I-390 rule).
+Unpublished inputs (sha256 in tools/cycle241/HASHES241.txt): alpha.bin, bank.bin, all.bin, themed144.bin, keys233.bin (= cases 217-226) and the key lists used by degen241.py.
+Run wall: 403 s (2026-11-25 19:44-19:51 MST, UTC-7), one process group (setsid timeout 660).
+degen241.txt: family label S22_primedigsum printed as S22_prime_digsum (gitleaks generic-api-key false positive on the original string); counts unchanged.

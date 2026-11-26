@@ -1,0 +1,22 @@
+recomputed k_text 0.878896 vs summary232 0.878896  diff 0.00e+00
+max |R_t - summary232 Rcal| 8.88e-16
+units per cal text: min 51 median 52 max 53  total 1040
+per-unit residual: mean -0.019 median -0.039 sd 0.167 p95 0.283 max 0.879
+R_t(max over units) cal: median +0.383 max 0.879 min 0.244
+cal texts with an nq 64 unit: 20
+case221 null R_t (24): median +0.167 max 0.417 ; case240 (12): median +0.168 max 0.490
+max of 1 random units of one cal text: median -0.041  p95 +0.284  P(>=0.879)=0.0007
+max of 2 random units of one cal text: median +0.048  p95 +0.360  P(>=0.879)=0.0026
+max of 3 random units of one cal text: median +0.095  p95 +0.404  P(>=0.879)=0.0025
+max of 5 random units of one cal text: median +0.165  p95 +0.442  P(>=0.879)=0.0046
+max of 8 random units of one cal text: median +0.217  p95 +0.483  P(>=0.879)=0.0075
+nq64 unit cal residuals n=20 median +0.143 max +0.331
+MW221 vs per-unit residuals (cal) p 1.5e-09 median diff 0.206
+exact MW case221 vs cal R_t: p 6.01e-08 (U 33.0)
+bar218(64,343) -6.72457 ; shifted -6.96338
+one-unit expectation: per-text one-unit bar at 1/21 level = 95th pct of per-unit residuals = 0.283 vs k_text 0.879 (diff 0.596)
+R_t cal sorted: +0.244 +0.247 +0.288 +0.293 +0.327 +0.353 +0.357 +0.370 +0.378 +0.379 +0.387 +0.430 +0.442 +0.446 +0.483 +0.512 +0.627 +0.654 +0.728 +0.879
+exact MW case221 nulls (24) vs cal nq64 single-unit residuals (20): p 0.237 U 291.0; HL shift 0.036
+same with 36 nulls (221+240): p 0.217 HL 0.036
+sorted nq64 cal residuals: +0.013 +0.019 +0.038 +0.042 +0.063 +0.081 +0.089 +0.103 +0.104 +0.126 +0.160 +0.163 +0.164 +0.211 +0.217 +0.225 +0.234 +0.250 +0.286 +0.331
+sorted R221: -0.003 +0.048 +0.080 +0.088 +0.088 +0.094 +0.100 +0.106 +0.109 +0.128 +0.140 +0.165 +0.168 +0.192 +0.206 +0.227 +0.246 +0.261 +0.261 +0.293 +0.297 +0.306 +0.342 +0.417
