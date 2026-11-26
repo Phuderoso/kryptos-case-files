@@ -1,0 +1,15 @@
+4161882be924a2b6  tri242
+8b1b4f1f0e661f60  tri242.c
+eb4761ee62dbc5eb  m242.py
+376e544f419780ff  plant242.py
+c8c7264c21a4794d  mknull242.py
+5c42b1c66bed3c86  run242.sh
+39da4f21534b2ebd  analyze242.py
+7082892df95e0406  check242.py
+2b4ffb693ddd6296  alpha.bin
+e0c1b627f6316b89  themed144.bin
+268dad8e1138c958  azka.bin
+70c628cf1420cc6f  quadgrams.json
+b81e8e7bd91e55e0  k123_eng.txt (= tools/cycle232/k123_eng.txt)
+f8896147bc43b59a  plants242.tsv
+deaa87f07a9ed535  nulls242.tsv
