@@ -1,0 +1,242 @@
+# scope=cycle242 S3b
+# text=P18 input_sha256=716d861a6771ee65bb47ae8824591a16246f78dc29565a8b823d435c39648b5d (97-letter string, no newline)
+# tool=../tools/cycle242/tri242.c tool_sha256=8b1b4f1f0e661f607267abc5c979b507fdb2d5fcbddf551e2ecb57b6a3d0d91e
+# seed=209757 args=S3b
+S PA 1 0 0 18802 46 1 1 7
+S PER 1 2 0 46880 47 - 1 -
+S PER 0 2 1 23144 35 - 1 -
+S PER 0 2 1 37293 47 - 1 -
+S PER 0 2 1 37296 47 - 1 -
+S PER 0 0 1 48440 6 - 0 -
+S PER 0 0 1 48440 12 - 0 -
+S PER 0 0 1 48440 14 - 0 -
+S PER 0 0 1 48440 18 - 0 -
+S PER 0 0 1 48440 21 - 0 -
+S PER 0 0 1 48440 36 - 0 -
+S PER 0 0 1 48440 42 - 0 -
+S PER 0 1 1 48440 6 - 0 -
+S PER 0 1 1 48440 12 - 0 -
+S PER 0 1 1 48440 14 - 0 -
+S PER 0 1 1 48440 18 - 0 -
+S PER 0 1 1 48440 21 - 0 -
+S PER 0 1 1 48440 36 - 0 -
+S PER 0 1 1 48440 42 - 0 -
+S PER 0 0 1 54527 18 - 1 -
+S PER 0 0 1 54527 36 - 1 -
+S PER 0 1 1 54527 18 - 1 -
+S PER 0 1 1 54527 36 - 1 -
+T pairforms 1040772
+T PER 1 ncons 23 strict 0 one 0
+T PER 2 ncons 22 strict 0 one 0
+T PER 3 ncons 21 strict 0 one 0
+T PER 4 ncons 20 strict 0 one 0
+T PER 5 ncons 19 strict 0 one 0
+T PER 6 ncons 18 strict 2 one 0
+T PER 7 ncons 17 strict 0 one 0
+T PER 8 ncons 16 strict 0 one 0
+T PER 9 ncons 15 strict 0 one 0
+T PER 10 ncons 14 strict 0 one 0
+T PER 11 ncons 13 strict 0 one 0
+T PER 12 ncons 12 strict 2 one 0
+T PER 13 ncons 11 strict 0 one 0
+T PER 14 ncons 11 strict 2 one 0
+T PER 15 ncons 9 strict 0 one 0
+T PER 16 ncons 8 strict 0 one 0
+T PER 17 ncons 7 strict 0 one 0
+T PER 18 ncons 7 strict 2 one 2
+T PER 19 ncons 9 strict 0 one 0
+T PER 20 ncons 11 strict 0 one 0
+T PER 21 ncons 11 strict 2 one 0
+T PER 22 ncons 9 strict 0 one 0
+T PER 23 ncons 7 strict 0 one 0
+T PER 24 ncons 5 strict 2 one 47
+T PER 25 ncons 3 strict 60 one 4018
+T PER 26 ncons 1 strict 30957 one 1009815
+T PER 27 ncons 0 strict 1040772 one 0
+T PER 28 ncons 0 strict 1040772 one 0
+T PER 29 ncons 0 strict 1040772 one 0
+T PER 30 ncons 1 strict 38367 one 1002405
+T PER 31 ncons 2 strict 841 one 72465
+T PER 32 ncons 3 strict 9 one 1882
+T PER 33 ncons 4 strict 0 one 58
+T PER 34 ncons 5 strict 0 one 1
+T PER 35 ncons 6 strict 0 one 1
+T PER 36 ncons 7 strict 2 one 2
+T PER 37 ncons 8 strict 0 one 0
+T PER 38 ncons 9 strict 0 one 0
+T PER 39 ncons 10 strict 0 one 0
+T PER 40 ncons 11 strict 0 one 0
+T PER 41 ncons 11 strict 0 one 0
+T PER 42 ncons 11 strict 2 one 0
+T PER 43 ncons 10 strict 0 one 0
+T PER 44 ncons 9 strict 0 one 0
+T PER 45 ncons 8 strict 0 one 0
+T PER 46 ncons 7 strict 0 one 0
+T PER 47 ncons 6 strict 0 one 3
+T PER 48 ncons 5 strict 2 one 47
+T CA 1 0 strict 0 one 0
+T CA 1 1 strict 0 one 0
+T CA 2 0 strict 0 one 0
+T CA 2 1 strict 0 one 0
+T CA 3 0 strict 0 one 0
+T CA 3 1 strict 0 one 0
+T CA 4 0 strict 0 one 0
+T CA 4 1 strict 0 one 0
+T CA 5 0 strict 0 one 0
+T CA 5 1 strict 0 one 0
+T CA 6 0 strict 0 one 0
+T CA 6 1 strict 0 one 0
+T CA 7 0 strict 0 one 0
+T CA 7 1 strict 0 one 0
+T CA 8 0 strict 0 one 0
+T CA 8 1 strict 0 one 0
+T CA 9 0 strict 0 one 0
+T CA 9 1 strict 0 one 0
+T CA 10 0 strict 0 one 0
+T CA 10 1 strict 0 one 0
+T CA 11 0 strict 0 one 0
+T CA 11 1 strict 0 one 0
+T CA 12 0 strict 0 one 0
+T CA 12 1 strict 0 one 0
+T CA 13 0 strict 0 one 0
+T CA 13 1 strict 0 one 0
+T CA 14 0 strict 0 one 0
+T CA 14 1 strict 0 one 0
+T CA 15 0 strict 0 one 0
+T CA 15 1 strict 0 one 0
+T CA 16 0 strict 0 one 0
+T CA 16 1 strict 0 one 0
+T CA 17 0 strict 0 one 0
+T CA 17 1 strict 0 one 0
+T CA 18 0 strict 0 one 0
+T CA 18 1 strict 0 one 0
+T CA 19 0 strict 0 one 0
+T CA 19 1 strict 0 one 0
+T CA 20 0 strict 0 one 0
+T CA 20 1 strict 0 one 0
+T CA 21 0 strict 0 one 0
+T CA 21 1 strict 0 one 0
+T CA 22 0 strict 0 one 0
+T CA 22 1 strict 0 one 0
+T CA 23 0 strict 0 one 0
+T CA 23 1 strict 0 one 0
+T CA 24 0 strict 0 one 0
+T CA 24 1 strict 0 one 0
+T CA 25 0 strict 0 one 0
+T CA 25 1 strict 0 one 0
+T CA 26 0 strict 0 one 0
+T CA 26 1 strict 0 one 0
+T CA 27 0 strict 0 one 0
+T CA 27 1 strict 0 one 0
+T CA 28 0 strict 0 one 0
+T CA 28 1 strict 0 one 0
+T CA 29 0 strict 0 one 0
+T CA 29 1 strict 0 one 0
+T CA 30 0 strict 0 one 0
+T CA 30 1 strict 0 one 0
+T CA 31 0 strict 0 one 0
+T CA 31 1 strict 0 one 0
+T CA 32 0 strict 0 one 0
+T CA 32 1 strict 0 one 0
+T CA 33 0 strict 0 one 0
+T CA 33 1 strict 0 one 0
+T CA 34 0 strict 0 one 0
+T CA 34 1 strict 0 one 0
+T CA 35 0 strict 0 one 0
+T CA 35 1 strict 0 one 0
+T CA 36 0 strict 0 one 0
+T CA 36 1 strict 0 one 0
+T CA 37 0 strict 0 one 0
+T CA 37 1 strict 0 one 0
+T CA 38 0 strict 0 one 0
+T CA 38 1 strict 0 one 0
+T CA 39 0 strict 0 one 0
+T CA 39 1 strict 0 one 0
+T CA 40 0 strict 0 one 0
+T CA 40 1 strict 0 one 0
+T CA 41 0 strict 0 one 0
+T CA 41 1 strict 0 one 0
+T CA 42 0 strict 0 one 0
+T CA 42 1 strict 0 one 0
+T CA 43 0 strict 0 one 0
+T CA 43 1 strict 0 one 0
+T CA 44 0 strict 0 one 0
+T CA 44 1 strict 0 one 0
+T CA 45 0 strict 0 one 0
+T CA 45 1 strict 0 one 0
+T CA 46 0 strict 0 one 0
+T CA 46 1 strict 0 one 0
+T CA 47 0 strict 0 one 0
+T CA 47 1 strict 0 one 0
+T CA 48 0 strict 0 one 0
+T CA 48 1 strict 0 one 0
+T PA 1 0 ncons 22 strict 0 one 0
+T PA 1 1 ncons 22 strict 0 one 0
+T PA 2 0 ncons 20 strict 0 one 0
+T PA 2 1 ncons 20 strict 0 one 0
+T PA 3 0 ncons 18 strict 0 one 0
+T PA 3 1 ncons 18 strict 0 one 0
+T PA 4 0 ncons 16 strict 0 one 0
+T PA 4 1 ncons 16 strict 0 one 0
+T PA 5 0 ncons 14 strict 0 one 0
+T PA 5 1 ncons 14 strict 0 one 0
+T PA 6 0 ncons 12 strict 0 one 0
+T PA 6 1 ncons 12 strict 0 one 0
+T PA 7 0 ncons 10 strict 0 one 0
+T PA 7 1 ncons 10 strict 0 one 0
+T PA 8 0 ncons 8 strict 0 one 0
+T PA 8 1 ncons 8 strict 0 one 0
+T PA 9 0 ncons 6 strict 0 one 0
+T PA 9 1 ncons 6 strict 0 one 0
+T PA 10 0 ncons 4 strict 0 one 77
+T PA 10 1 ncons 4 strict 0 one 76
+T PA 11 0 ncons 2 strict 1372 one 69019
+T PA 11 1 ncons 2 strict 1423 one 77835
+T PA 12 0 ncons 1 strict 31375 one 1009397
+T PA 12 1 ncons 1 strict 42060 one 998712
+T PA 30 0 ncons 1 strict 46733 one 994039
+T PA 30 1 ncons 1 strict 31089 one 1009683
+T PA 31 0 ncons 2 strict 3734 one 80261
+T PA 31 1 ncons 2 strict 1427 one 78293
+T PA 32 0 ncons 3 strict 34 one 4613
+T PA 32 1 ncons 3 strict 150 one 12602
+T PA 33 0 ncons 4 strict 1 one 346
+T PA 33 1 ncons 4 strict 0 one 98
+T PA 34 0 ncons 5 strict 0 one 0
+T PA 34 1 ncons 5 strict 0 one 2
+T PA 35 0 ncons 6 strict 0 one 0
+T PA 35 1 ncons 6 strict 0 one 0
+T PA 36 0 ncons 7 strict 0 one 0
+T PA 36 1 ncons 7 strict 0 one 0
+T PA 37 0 ncons 8 strict 0 one 0
+T PA 37 1 ncons 8 strict 0 one 0
+T PA 38 0 ncons 9 strict 0 one 0
+T PA 38 1 ncons 9 strict 0 one 0
+T PA 39 0 ncons 10 strict 0 one 0
+T PA 39 1 ncons 10 strict 0 one 0
+T PA 40 0 ncons 11 strict 0 one 0
+T PA 40 1 ncons 11 strict 0 one 0
+T PA 41 0 ncons 11 strict 0 one 0
+T PA 41 1 ncons 11 strict 0 one 0
+T PA 42 0 ncons 11 strict 0 one 0
+T PA 42 1 ncons 11 strict 0 one 0
+T PA 43 0 ncons 10 strict 0 one 0
+T PA 43 1 ncons 10 strict 0 one 0
+T PA 44 0 ncons 9 strict 0 one 0
+T PA 44 1 ncons 9 strict 0 one 0
+T PA 45 0 ncons 8 strict 0 one 0
+T PA 45 1 ncons 8 strict 0 one 0
+T PA 46 0 ncons 7 strict 0 one 0
+T PA 46 1 ncons 7 strict 0 one 1
+T PA 47 0 ncons 6 strict 0 one 0
+T PA 47 1 ncons 6 strict 0 one 0
+T PA 48 0 ncons 5 strict 0 one 4
+T PA 48 1 ncons 5 strict 0 one 4
+T PA 49 0 ncons 4 strict 0 one 89
+T PA 49 1 ncons 4 strict 2 one 138
+T PA 50 0 ncons 3 strict 30 one 3263
+T PA 50 1 ncons 3 strict 32 one 3093
+T PA 51 0 ncons 2 strict 858 one 64152
+T PA 51 1 ncons 2 strict 1299 one 64955
+T PA 52 0 ncons 1 strict 39120 one 1001652
+T PA 52 1 ncons 1 strict 27827 one 1012945

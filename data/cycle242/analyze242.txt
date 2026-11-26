@@ -1,0 +1,38 @@
+# scope=cycle242 summary (all texts)
+# text=K4 input_sha256=eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab (97-letter string, no newline)
+# tool=../tools/cycle242/analyze242.py tool_sha256=39da4f21534b2ebd2b645b9952c975ac6861d2a2b30265aa56facfe8052b036e
+# seed=209757 args=analyze242.log
+plant {'pid': 0, 'scope': 'S1', 'model': 'PER', 'g': 0, 'f': 0, 'par': 2, 'M': 0, 'err': -1, 'rec': True, 'lines': 112, 'prim': 72, 'v': 0, 'nc': -4.2868, 'nq': 64, 'agree': 97, 'known': 97}
+plant {'pid': 1, 'scope': 'S1', 'model': 'CA', 'g': 1, 'f': 0, 'par': 16, 'M': 0, 'err': 66, 'rec': True, 'lines': 8, 'prim': 2, 'v': 1, 'nc': -4.6384, 'nq': 48, 'agree': 80, 'known': 81}
+plant {'pid': 2, 'scope': 'S1', 'model': 'PA', 'g': 0, 'f': 0, 'par': 4, 'M': 0, 'err': -1, 'rec': True, 'lines': 10, 'prim': 2, 'v': 0, 'nc': -4.0001, 'nq': 64, 'agree': 97, 'known': 97}
+plant {'pid': 3, 'scope': 'S1', 'model': 'PER', 'g': 1, 'f': 1, 'par': 8, 'M': 1, 'err': 23, 'rec': True, 'lines': 27, 'prim': 12, 'v': 1, 'nc': -3.8543, 'nq': 64, 'agree': 97, 'known': 97}
+plant {'pid': 4, 'scope': 'S1', 'model': 'CA', 'g': 0, 'f': 0, 'par': 18, 'M': 1, 'err': -1, 'rec': True, 'lines': 9, 'prim': 2, 'v': 0, 'nc': -3.9792, 'nq': 46, 'agree': 79, 'known': 79}
+plant {'pid': 5, 'scope': 'S1', 'model': 'PA', 'g': 1, 'f': 0, 'par': 40, 'M': 0, 'err': 21, 'rec': True, 'lines': 2, 'prim': 2, 'v': 0, 'nc': nan, 'nq': 0, 'agree': 26, 'known': 26}
+plant {'pid': 6, 'scope': 'S1', 'model': 'PER', 'g': 0, 'f': 1, 'par': 22, 'M': 1, 'err': -1, 'rec': True, 'lines': 10, 'prim': 4, 'v': 0, 'nc': -4.7913, 'nq': 31, 'agree': 69, 'known': 69}
+plant {'pid': 7, 'scope': 'S1', 'model': 'CA', 'g': 1, 'f': 1, 'par': 10, 'M': 0, 'err': 63, 'rec': True, 'lines': 5, 'prim': 2, 'v': 1, 'nc': -4.5709, 'nq': 54, 'agree': 87, 'known': 87}
+plant {'pid': 8, 'scope': 'S2', 'model': 'PA', 'g': 0, 'f': 1, 'par': 42, 'M': 0, 'err': -1, 'rec': True, 'lines': 13, 'prim': 2, 'v': 0, 'nc': nan, 'nq': 0, 'agree': 26, 'known': 26}
+plant {'pid': 9, 'scope': 'S2', 'model': 'PER', 'g': 1, 'f': 0, 'par': 14, 'M': 0, 'err': 64, 'rec': True, 'lines': 9, 'prim': 6, 'v': 1, 'nc': -4.1487, 'nq': 46, 'agree': 90, 'known': 90}
+plant {'pid': 10, 'scope': 'S2', 'model': 'CA', 'g': 0, 'f': 0, 'par': 16, 'M': 0, 'err': -1, 'rec': True, 'lines': 3, 'prim': 1, 'v': 0, 'nc': -4.1614, 'nq': 48, 'agree': 81, 'known': 81}
+plant {'pid': 11, 'scope': 'S2', 'model': 'PA', 'g': 1, 'f': 0, 'par': 44, 'M': 1, 'err': 21, 'rec': True, 'lines': 34, 'prim': 1, 'v': 0, 'nc': -3.7139, 'nq': 1, 'agree': 30, 'known': 30}
+plant {'pid': 12, 'scope': 'S2', 'model': 'PER', 'g': 0, 'f': 0, 'par': 45, 'M': 1, 'err': -1, 'rec': True, 'lines': 8, 'prim': 4, 'v': 0, 'nc': -3.7739, 'nq': 2, 'agree': 32, 'known': 32}
+plant {'pid': 13, 'scope': 'S2', 'model': 'CA', 'g': 1, 'f': 2, 'par': 18, 'M': 0, 'err': 27, 'rec': True, 'lines': 11, 'prim': 1, 'v': 1, 'nc': -5.0183, 'nq': 46, 'agree': 78, 'known': 79}
+plant {'pid': 14, 'scope': 'S3', 'model': 'PA', 'g': 0, 'f': 1, 'par': 41, 'M': 1, 'err': -1, 'rec': True, 'lines': 7, 'prim': 2, 'v': 0, 'nc': nan, 'nq': 0, 'agree': 26, 'known': 26}
+plant {'pid': 15, 'scope': 'S3', 'model': 'PER', 'g': 1, 'f': 2, 'par': 20, 'M': 1, 'err': 32, 'rec': True, 'lines': 11, 'prim': 2, 'v': 1, 'nc': -4.4777, 'nq': 30, 'agree': 62, 'known': 65}
+plant {'pid': 16, 'scope': 'S3', 'model': 'CA', 'g': 0, 'f': 2, 'par': 10, 'M': 0, 'err': -1, 'rec': True, 'lines': 7, 'prim': 1, 'v': 0, 'nc': -4.0581, 'nq': 54, 'agree': 87, 'known': 87}
+plant {'pid': 17, 'scope': 'S3', 'model': 'PA', 'g': 1, 'f': 2, 'par': 42, 'M': 0, 'err': 66, 'rec': True, 'lines': 16, 'prim': 14, 'v': 1, 'nc': nan, 'nq': 0, 'agree': 26, 'known': 26}
+plant {'pid': 18, 'scope': 'S3', 'model': 'PER', 'g': 0, 'f': 0, 'par': 6, 'M': 0, 'err': -1, 'rec': True, 'lines': 23, 'prim': 14, 'v': 0, 'nc': -3.9357, 'nq': 64, 'agree': 97, 'known': 97}
+plant {'pid': 19, 'scope': 'S3', 'model': 'CA', 'g': 1, 'f': 2, 'par': 16, 'M': 1, 'err': 33, 'rec': True, 'lines': 6, 'prim': 1, 'v': 1, 'nc': -4.7755, 'nq': 48, 'agree': 80, 'known': 81}
+GATE P 20/20
+K4 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209758 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209759 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209760 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209761 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209762 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209763 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209764 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209765 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209766 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209767 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209768 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}
+N209769 pairforms 2726346 primary 0 strict 0 one 0 trig 0 {}

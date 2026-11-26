@@ -1,0 +1,5 @@
+# scope=cycle242 summary (all texts)
+# text=K4 input_sha256=eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab (97-letter string, no newline)
+# tool=../tools/cycle242/analyze242.py tool_sha256=39da4f21534b2ebd2b645b9952c975ac6861d2a2b30265aa56facfe8052b036e
+# seed=209757 args=gateT242.txt
+gate T: 254 lines rechecked, 0 mismatches
