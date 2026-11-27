@@ -1,0 +1,41 @@
+# scope=cycle243 analyze243.log
+# text=all (K4 input_sha256=eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab)
+# tool=../tools/cycle243/analyze243.py tool_sha256=7aef594fcdc64b74dbf35f69d464b184a3152d039d234e81568b41be5acc92ed
+# seed=209770-209782
+gate E 10 /10; gate H 9 /10
+P 0 {'gate': 'E', 'pass': True, 'class': 'clean', 'lines': 1, 'strict': 1, 'one': 0}
+P 1 {'gate': 'E', 'pass': True, 'class': 'anchorA', 'lines': 1, 'strict': 0, 'one': 1}
+P 2 {'gate': 'E', 'pass': True, 'class': 'clean', 'lines': 4, 'strict': 4, 'one': 0}
+P 3 {'gate': 'E', 'pass': True, 'class': 'anchorB', 'lines': 2, 'strict': 0, 'one': 2}
+P 4 {'gate': 'E', 'pass': True, 'class': 'clean', 'lines': 1, 'strict': 1, 'one': 0}
+P 5 {'gate': 'E', 'pass': True, 'class': 'other', 'lines': 1, 'strict': 0, 'one': 1}
+P 6 {'gate': 'E', 'pass': True, 'class': 'clean', 'lines': 3, 'strict': 3, 'one': 0}
+P 7 {'gate': 'E', 'pass': True, 'class': 'other', 'lines': 3, 'strict': 0, 'one': 3}
+P 8 {'gate': 'E', 'pass': True, 'class': 'clean', 'lines': 4, 'strict': 4, 'one': 0}
+P 9 {'gate': 'E', 'pass': True, 'class': 'other', 'lines': 1, 'strict': 0, 'one': 1}
+P 10 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.13589, 'top': -4.13589, 'frag': 'NNONEUPONTHEH EOFRENEWEDD'}
+P 11 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.03425, 'top': -4.03425, 'frag': 'FTNESSOFAWOMA THEDIFFEREN'}
+P 12 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.28163, 'top': -4.28163, 'frag': 'THEBEATINGOFT INGHAILHUNG'}
+P 13 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.16189, 'top': -4.16189, 'frag': 'ITOFFATADRAUG RIGHTERANDA'}
+P 14 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -3.87745, 'top': -3.87745, 'frag': 'GINGPEELANDST NINGSINTHES'}
+P 15 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.0525, 'top': -4.0525, 'frag': 'EMERETOUCHOFT CTEDHAPPENE'}
+P 16 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.3475, 'top': -4.3475, 'frag': 'MINETHEMCLOSE LEFTDESERTE'}
+P 17 {'gate': 'H', 'pass': False, 'rank': 2, 'score': -4.11196, 'top': -4.11196, 'frag': 'EOTHERMENWERE CERTAINJOUR'}
+P 18 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -3.98629, 'top': -3.98629, 'frag': 'SNEVERRETURNE NDERWILLHEE'}
+P 19 {'gate': 'H', 'pass': True, 'rank': 1, 'score': -4.79057, 'top': -4.79057, 'frag': 'SKYBLUEIBREAT UATINGCONTO'}
+nulls {'209771': (0, 0, 13, -5.2492), '209772': (0, 0, 12, -5.3852), '209773': (0, 0, 12, -5.0206), '209774': (0, 0, 13, -5.1127), '209775': (0, 0, 12, -5.2328), '209776': (0, 0, 12, -5.1922), '209777': (0, 0, 14, -4.8841), '209778': (0, 0, 12, -5.2456), '209779': (0, 0, 12, -5.2984), '209780': (0, 0, 12, -5.0794), '209781': (0, 0, 12, -5.2763), '209782': (0, 0, 13, -5.272)}
+K4 strict 0 one 0 maxdepth 12 depth p 1.0 Hmax -5.2598 rank p 0.692 z -0.52 {'S1': -5.56459, 'S2': -99, 'S3': -5.25975}
+  (-5.25975, 'S3a', 0, 1, 5145, 0, 1, 'WNTBEDTRESOPE', 'MATTYTRYROE')
+  (-5.29068, 'S3a', 1, 2, 81227, 1, 2, 'RROMIMPSKSATX', 'OHPEATTHEEL')
+  (-5.30651, 'S3a', 0, 1, 14788, 0, 1, 'WNTBEDTRESOPE', 'KATTYTRYROE')
+  (-5.41815, 'S3b', 1, 1, 1, 35447, 1, 'FOFWRATMEDPEZ', 'NOTIDOFDORU')
+  (-5.4637, 'S3b', 0, 0, 1, 38680, 1, 'LASSERENGESBY', 'RHEIRCTPYQK')
+  (-5.46678, 'S3b', 0, 0, 1, 73758, 0, 'PWINONNEBADSY', 'HUNINIDECEL')
+  (-5.46678, 'S3b', 0, 0, 1, 73702, 0, 'PWINONNEBADSY', 'HUNINIDECEL')
+  (-5.50126, 'S3a', 0, 2, 49265, 1, 2, 'DAITANTHHEWED', 'NUTHTOLBIXN')
+  (-5.53622, 'S3b', 1, 1, 1, 916, 1, 'DICUPORYEAMAX', 'MIRCALRAILS')
+  (-5.55826, 'S3a', 1, 0, 51210, 1, 0, 'DBEMONDALFRLH', 'CEDOESARWTF')
+S1 T confs 1040766 one26_or_more 619770 cand 2331589 strict 0 one 0 texts 28 letters 783984
+S2 T confs 370662 one26_or_more 218538 cand 898460 strict 0 one 0 texts 28 letters 783984
+S3a T confs 2601912 one26_or_more 1525548 cand 6253232 strict 0 one 0 texts 28 letters 783984
+S3b T confs 2601912 one26_or_more 1535586 cand 6357640 strict 0 one 0 texts 28 letters 783984

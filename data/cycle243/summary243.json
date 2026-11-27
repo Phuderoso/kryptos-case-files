@@ -1,0 +1,462 @@
+{
+ "nulls": {
+  "209771": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 13,
+   "Hmax": -5.24922,
+   "Hmax_scope": {
+    "S1": -5.59661,
+    "S2": -5.44395,
+    "S3": -5.24922
+   }
+  },
+  "209772": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.38524,
+   "Hmax_scope": {
+    "S1": -99,
+    "S2": -99,
+    "S3": -5.38524
+   }
+  },
+  "209773": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.02058,
+   "Hmax_scope": {
+    "S1": -5.44233,
+    "S2": -99,
+    "S3": -5.02058
+   }
+  },
+  "209774": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 13,
+   "Hmax": -5.1127,
+   "Hmax_scope": {
+    "S1": -99,
+    "S2": -99,
+    "S3": -5.1127
+   }
+  },
+  "209775": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.23283,
+   "Hmax_scope": {
+    "S1": -5.4845,
+    "S2": -99,
+    "S3": -5.23283
+   }
+  },
+  "209776": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.19223,
+   "Hmax_scope": {
+    "S1": -5.55754,
+    "S2": -99,
+    "S3": -5.19223
+   }
+  },
+  "209777": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 14,
+   "Hmax": -4.88413,
+   "Hmax_scope": {
+    "S1": -5.45726,
+    "S2": -99,
+    "S3": -4.88413
+   }
+  },
+  "209778": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.24559,
+   "Hmax_scope": {
+    "S1": -5.24559,
+    "S2": -99,
+    "S3": -5.30984
+   }
+  },
+  "209779": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.29843,
+   "Hmax_scope": {
+    "S1": -5.29843,
+    "S2": -5.51579,
+    "S3": -5.4327
+   }
+  },
+  "209780": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.07938,
+   "Hmax_scope": {
+    "S1": -5.07938,
+    "S2": -99,
+    "S3": -5.14516
+   }
+  },
+  "209781": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 12,
+   "Hmax": -5.27631,
+   "Hmax_scope": {
+    "S1": -5.53854,
+    "S2": -5.27631,
+    "S3": -5.38968
+   }
+  },
+  "209782": {
+   "strict": 0,
+   "one": 0,
+   "maxdepth": 13,
+   "Hmax": -5.27199,
+   "Hmax_scope": {
+    "S1": -5.59367,
+    "S2": -99,
+    "S3": -5.27199
+   }
+  }
+ },
+ "plants": {
+  "0": {
+   "gate": "E",
+   "pass": true,
+   "class": "clean",
+   "lines": 1,
+   "strict": 1,
+   "one": 0
+  },
+  "1": {
+   "gate": "E",
+   "pass": true,
+   "class": "anchorA",
+   "lines": 1,
+   "strict": 0,
+   "one": 1
+  },
+  "2": {
+   "gate": "E",
+   "pass": true,
+   "class": "clean",
+   "lines": 4,
+   "strict": 4,
+   "one": 0
+  },
+  "3": {
+   "gate": "E",
+   "pass": true,
+   "class": "anchorB",
+   "lines": 2,
+   "strict": 0,
+   "one": 2
+  },
+  "4": {
+   "gate": "E",
+   "pass": true,
+   "class": "clean",
+   "lines": 1,
+   "strict": 1,
+   "one": 0
+  },
+  "5": {
+   "gate": "E",
+   "pass": true,
+   "class": "other",
+   "lines": 1,
+   "strict": 0,
+   "one": 1
+  },
+  "6": {
+   "gate": "E",
+   "pass": true,
+   "class": "clean",
+   "lines": 3,
+   "strict": 3,
+   "one": 0
+  },
+  "7": {
+   "gate": "E",
+   "pass": true,
+   "class": "other",
+   "lines": 3,
+   "strict": 0,
+   "one": 3
+  },
+  "8": {
+   "gate": "E",
+   "pass": true,
+   "class": "clean",
+   "lines": 4,
+   "strict": 4,
+   "one": 0
+  },
+  "9": {
+   "gate": "E",
+   "pass": true,
+   "class": "other",
+   "lines": 1,
+   "strict": 0,
+   "one": 1
+  },
+  "10": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.13589,
+   "top": -4.13589,
+   "frag": "NNONEUPONTHEH EOFRENEWEDD"
+  },
+  "11": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.03425,
+   "top": -4.03425,
+   "frag": "FTNESSOFAWOMA THEDIFFEREN"
+  },
+  "12": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.28163,
+   "top": -4.28163,
+   "frag": "THEBEATINGOFT INGHAILHUNG"
+  },
+  "13": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.16189,
+   "top": -4.16189,
+   "frag": "ITOFFATADRAUG RIGHTERANDA"
+  },
+  "14": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -3.87745,
+   "top": -3.87745,
+   "frag": "GINGPEELANDST NINGSINTHES"
+  },
+  "15": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.0525,
+   "top": -4.0525,
+   "frag": "EMERETOUCHOFT CTEDHAPPENE"
+  },
+  "16": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.3475,
+   "top": -4.3475,
+   "frag": "MINETHEMCLOSE LEFTDESERTE"
+  },
+  "17": {
+   "gate": "H",
+   "pass": false,
+   "rank": 2,
+   "score": -4.11196,
+   "top": -4.11196,
+   "frag": "EOTHERMENWERE CERTAINJOUR"
+  },
+  "18": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -3.98629,
+   "top": -3.98629,
+   "frag": "SNEVERRETURNE NDERWILLHEE"
+  },
+  "19": {
+   "gate": "H",
+   "pass": true,
+   "rank": 1,
+   "score": -4.79057,
+   "top": -4.79057,
+   "frag": "SKYBLUEIBREAT UATINGCONTO"
+  }
+ },
+ "K4": {
+  "strict": 0,
+  "one": 0,
+  "lines": [],
+  "maxdepth": 12,
+  "depth": {
+   "4": 7320916,
+   "5": 5759721,
+   "6": 2155380,
+   "7": 508605,
+   "8": 84709,
+   "9": 10444,
+   "10": 1069,
+   "11": 72,
+   "12": 5
+  },
+  "Hmax": -5.25975,
+  "top10": [
+   [
+    -5.25975,
+    "S3a",
+    0,
+    1,
+    5145,
+    0,
+    1,
+    "WNTBEDTRESOPE",
+    "MATTYTRYROE"
+   ],
+   [
+    -5.29068,
+    "S3a",
+    1,
+    2,
+    81227,
+    1,
+    2,
+    "RROMIMPSKSATX",
+    "OHPEATTHEEL"
+   ],
+   [
+    -5.30651,
+    "S3a",
+    0,
+    1,
+    14788,
+    0,
+    1,
+    "WNTBEDTRESOPE",
+    "KATTYTRYROE"
+   ],
+   [
+    -5.41815,
+    "S3b",
+    1,
+    1,
+    1,
+    35447,
+    1,
+    "FOFWRATMEDPEZ",
+    "NOTIDOFDORU"
+   ],
+   [
+    -5.4637,
+    "S3b",
+    0,
+    0,
+    1,
+    38680,
+    1,
+    "LASSERENGESBY",
+    "RHEIRCTPYQK"
+   ],
+   [
+    -5.46678,
+    "S3b",
+    0,
+    0,
+    1,
+    73758,
+    0,
+    "PWINONNEBADSY",
+    "HUNINIDECEL"
+   ],
+   [
+    -5.46678,
+    "S3b",
+    0,
+    0,
+    1,
+    73702,
+    0,
+    "PWINONNEBADSY",
+    "HUNINIDECEL"
+   ],
+   [
+    -5.50126,
+    "S3a",
+    0,
+    2,
+    49265,
+    1,
+    2,
+    "DAITANTHHEWED",
+    "NUTHTOLBIXN"
+   ],
+   [
+    -5.53622,
+    "S3b",
+    1,
+    1,
+    1,
+    916,
+    1,
+    "DICUPORYEAMAX",
+    "MIRCALRAILS"
+   ],
+   [
+    -5.55826,
+    "S3a",
+    1,
+    0,
+    51210,
+    1,
+    0,
+    "DBEMONDALFRLH",
+    "CEDOESARWTF"
+   ]
+  ],
+  "T": {
+   "S1": "T confs 1040766 one26_or_more 619770 cand 2331589 strict 0 one 0 texts 28 letters 783984",
+   "S2": "T confs 370662 one26_or_more 218538 cand 898460 strict 0 one 0 texts 28 letters 783984",
+   "S3a": "T confs 2601912 one26_or_more 1525548 cand 6253232 strict 0 one 0 texts 28 letters 783984",
+   "S3b": "T confs 2601912 one26_or_more 1535586 cand 6357640 strict 0 one 0 texts 28 letters 783984"
+  },
+  "Hmax_scope": {
+   "S1": -5.56459,
+   "S2": -99,
+   "S3": -5.25975
+  },
+  "Hrank_p": 0.6923076923076923,
+  "H_z": -0.5201861718568259,
+  "depth_rank_p": 1.0
+ },
+ "gateE": "10/10",
+ "gateH": "9/10",
+ "null_Hmax": [
+  -5.38524,
+  -5.29843,
+  -5.27631,
+  -5.27199,
+  -5.24922,
+  -5.24559,
+  -5.23283,
+  -5.19223,
+  -5.1127,
+  -5.07938,
+  -5.02058,
+  -4.88413
+ ],
+ "null_Hmax_mean_sd": [
+  -5.187385833333333,
+  0.1391120536871647
+ ]
+}

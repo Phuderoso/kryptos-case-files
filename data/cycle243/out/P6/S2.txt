@@ -1,0 +1,52 @@
+# scope=cycle243 S2
+# text=P6 input_sha256=971e9e0aa4d668b65369e8fe0ab2b138e9ceae493f18616fafa996ddc26f3bfa (97-letter string, no newline)
+# tool=../tools/cycle243/rk243.c tool_sha256=b10d242f2a8168dd914d2268ad0f84e1e500897516a02564407fe137ed49582f
+# seed=209770 args=texts243.txt sha256 28b9e852f588dac5b2ae2552b6db81540018cbfc2808c1910369c1a32d287a43
+S 0 1 31 87 2 K123pt_K0_rev 24 0 -1
+S 0 1 31 87 2 K123pt_rev 24 0 -1
+S 0 1 31 87 2 K3pt_rev 24 0 -1
+H -5.42156 0 1 31 101 2 ORADSLOHHIPTE UCESSEPRIAM
+D 4 386271
+D 5 302256
+D 6 112441
+D 7 26340
+D 8 4388
+D 9 575
+D 10 56
+D 11 4
+D 12 4
+D 13 6
+D 14 1
+D 15 3
+D 21 3
+D 24 3
+B -85 22002
+B -84 19617
+B -83 14591
+B -82 17186
+B -81 13772
+B -80 12093
+B -79 9959
+B -78 7917
+B -77 6210
+B -76 4646
+B -75 3481
+B -74 2481
+B -73 1770
+B -72 1241
+B -71 902
+B -70 591
+B -69 401
+B -68 260
+B -67 121
+B -66 134
+B -65 65
+B -64 32
+B -63 28
+B -62 13
+B -61 7
+B -60 3
+B -59 2
+B -58 2
+B -55 1
+T confs 370662 one26_or_more 231134 cand 832351 strict 3 one 0 texts 28 letters 783984

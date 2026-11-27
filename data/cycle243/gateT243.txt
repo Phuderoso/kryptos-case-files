@@ -1,0 +1,5 @@
+# scope=cycle243 gateT243.txt
+# text=all (K4 input_sha256=eea813570c7f1fd3b34674e47b5c3da8948026f5cefee612a0b38ffaa515ceab)
+# tool=../tools/cycle243/check243.py tool_sha256=6b61ae48af64d4f42898d0cabda4a7d466d2b9d0e1b3561257a53b8274bf1def
+# seed=209770-209782
+gate T lines 370 mismatches 0

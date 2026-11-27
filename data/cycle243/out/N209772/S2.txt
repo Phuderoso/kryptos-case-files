@@ -1,0 +1,43 @@
+# scope=cycle243 S2
+# text=N209772 input_sha256=7871a1fd2b48ec4be756502b9c2b70f7b6995c45d581ffc00cdcc245a4f95a47 (97-letter string, no newline)
+# tool=../tools/cycle243/rk243.c tool_sha256=b10d242f2a8168dd914d2268ad0f84e1e500897516a02564407fe137ed49582f
+# seed=209772 args=texts243.txt sha256 28b9e852f588dac5b2ae2552b6db81540018cbfc2808c1910369c1a32d287a43
+D 4 393267
+D 5 302847
+D 6 109565
+D 7 25148
+D 8 3998
+D 9 462
+D 10 41
+D 11 3
+D 12 1
+B -85 23980
+B -84 21044
+B -83 15513
+B -82 18336
+B -81 14792
+B -80 12724
+B -79 10268
+B -78 8066
+B -77 6203
+B -76 4616
+B -75 3475
+B -74 2459
+B -73 1733
+B -72 1201
+B -71 762
+B -70 538
+B -69 339
+B -68 235
+B -67 136
+B -66 96
+B -65 61
+B -64 27
+B -63 21
+B -62 9
+B -61 3
+B -60 3
+B -59 2
+B -58 1
+B -57 1
+T confs 370662 one26_or_more 224018 cand 835332 strict 0 one 0 texts 28 letters 783984
