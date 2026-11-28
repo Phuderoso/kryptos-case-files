@@ -1,0 +1,16 @@
+case | statistic | parametric p (recomputed) | rank p | floor | at floor? | discordant? | decided by
+165 | C2 one-error Gromark ix0 L6, K4 230 vs 19 nulls (LOO mean 191.5) | Poisson P(X>=230|191.5) = 0.0038 | 0.05 | 0.050 | FLOOR | yes | rank: grid p+ 0.05 = floor, not called a signal; replication case 166 NOT REPLICATED (p_F 0.073, p_M 0.143, pooled 60 p 0.082)
+166 | C2 replication, fresh 40 | z +1.82 -> 0.0344 | 0.073 | 0.024 |  | yes | rank (pre-registered): NOT REPLICATED
+166 | C2 replication, matched 20 | z +1.21 -> 0.1131 | 0.143 | 0.048 |  |  | rank: NOT REPLICATED
+168 | grid upper tail, K4 above all 19 | I-120 Poisson tails called meaningless in the case | 0.05 | 0.050 | FLOOR |  | rank; fresh 40 p_F 0.122 (z +1.44) -> no signal
+168 | fresh 40 shuffles | z +1.44 -> 0.0749 | 0.122 | 0.024 |  |  | rank
+170 | fresh 40 plain shuffles | z +1.44 -> 0.0749 | 0.073 | 0.024 |  |  | rank (concordant)
+170 | second set | z +1.19 -> 0.1170 | 0.143 | 0.024 |  |  | rank (concordant)
+174 | direction r D, K4 3,771 vs 19 nulls | z +2.39 -> 0.0084 | 0.05 | 0.050 | FLOOR | yes | rank flag only; replication case 175 NOT REPLICATED (p_F 0.610, z -0.20)
+167 | D1 mod-2 pass count (lower tail) | single Poisson p- 0.012 printed | 0.25 | 0.050 |  |  | rank: K4 5th lowest of 20, diagnostic only
+184 | sample bank B 25 vs 17.6 | z +1.78 -> 0.0375 | - | - |  |  | neither: case states Poisson z is no test on heavy-tailed bands; no label from it
+202 | stage 1 Poisson p (K4 >=) 0.83 / 1.00 / 0.38 | Poisson vs one null-equivalent; tenths overdispersed | - | - |  |  | parametric only, all >= 0.38: NO-SIGNAL either way; caveat: anti-conservative under overdispersion, nothing to reverse
+221 | H2 Mann-Whitney, 24 nulls R_t vs 20 calibration R_t | normal approx 1.13e-6 vs exact 6.01e-8 (c239) | 6.01e-08 | - |  |  | exact rank test (corrected in c239); reading unchanged
+229 | Part H Hmax, 12 nulls | z -0.52 -> 0.6985 | 0.692 | 0.077 |  |  | rank: NO-SIGNAL (concordant)
+230 | Part H Hmax, 36 nulls (this cycle, T5) | z -0.33 -> 0.6293 | 0.622 | 0.027 |  |  | rank: NO-SIGNAL (concordant)
+rows 14; rank p at floor 3; parametric/rank discordant 3; labels that rested on a parametric p with rank at floor: 0 -> no relabel

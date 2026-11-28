@@ -1,0 +1,41 @@
+gate T: K4 -5.25975 (case 229 -5.25975), N209771 -5.24922 (case 229 -5.24922) -> PASS
+fresh 209783 -5.13001
+fresh 209784 -5.33558
+fresh 209785 -5.28420
+fresh 209786 -4.92673
+fresh 209787 -5.10621
+fresh 209788 -5.31898
+fresh 209789 -5.43869
+fresh 209790 -5.14201
+fresh 209791 -5.38794
+fresh 209792 -5.18981
+fresh 209793 -5.07906
+fresh 209794 -5.17841
+fresh 209795 -5.47360
+fresh 209796 -4.91385
+fresh 209797 -5.44514
+fresh 209798 -5.25934
+fresh 209799 -5.49353
+fresh 209800 -5.30802
+fresh 209801 -5.33507
+fresh 209802 -5.18719
+fresh 209803 -5.23829
+fresh 209804 -5.05795
+fresh 209805 -4.97717
+fresh 209806 -4.99907
+fresh24: max -4.91385 min -5.49353 mean -5.21691 sd 0.17198
+old12: max -4.88413 min -5.38524 mean -5.18739 sd 0.13911
+pooled36: max -4.88413 min -5.49353 mean -5.20707 sd 0.16037
+K4 Hmax -5.25975: rank p among 36 = 0.622 (floor 1/37 = 0.027); z -0.33, one-sided normal p 0.629 -> decided by rank: NO-SIGNAL
+PH36 (registered Part H bar) = -4.88413
+plant 10: score -4.13589  margin vs PH36 +0.748  margin vs old max +0.748
+plant 11: score -4.03425  margin vs PH36 +0.850  margin vs old max +0.850
+plant 12: score -4.28163  margin vs PH36 +0.603  margin vs old max +0.603
+plant 13: score -4.16189  margin vs PH36 +0.722  margin vs old max +0.722
+plant 14: score -3.87745  margin vs PH36 +1.007  margin vs old max +1.007
+plant 15: score -4.05250  margin vs PH36 +0.832  margin vs old max +0.832
+plant 16: score -4.34750  margin vs PH36 +0.537  margin vs old max +0.537
+plant 17: score -4.11196  margin vs PH36 +0.772  margin vs old max +0.772
+plant 18: score -3.98629  margin vs PH36 +0.898  margin vs old max +0.898
+plant 19: score -4.79057  margin vs PH36 +0.094  margin vs old max +0.094
+weakest plant -4.79057 -> above PH36 by 0.094

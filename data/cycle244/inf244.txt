@@ -1,0 +1,30 @@
+# reproduction of lowcells242.txt: 214 cells, 0 mismatches; cells here 214, statistics 428
+statistics 428; informative 82 (non-zero in K4 or >= 1 null); all-zero 346
+unique-max statistics U 68; expected strict wins under exchangeability U/13 = 5.23; observed K4 strict wins 7
+old reference 428/13 = 32.92 (case 228 "~33")
+K4 mean mid-rank p over informative 0.5432 (exchangeable expectation 0.5)
+K4 informative statistics with mid-rank p <= 0.05: 7; min mid-rank p 0.0385 (floor 0.5/13 = 0.0385)
+# role rotation (each text as "K4" vs the other 12)
+K4       W   7  inf 82  U 68  mean_mid 0.5432
+N209758  W   1  inf 82  U 68  mean_mid 0.5553
+N209759  W   5  inf 82  U 68  mean_mid 0.4798
+N209760  W   5  inf 82  U 68  mean_mid 0.5098
+N209761  W   8  inf 82  U 68  mean_mid 0.4587
+N209762  W   0  inf 82  U 68  mean_mid 0.6140
+N209763  W   4  inf 82  U 68  mean_mid 0.4967
+N209764  W   9  inf 82  U 68  mean_mid 0.4780
+N209765  W   4  inf 82  U 68  mean_mid 0.4583
+N209766  W   4  inf 82  U 68  mean_mid 0.4812
+N209767  W   5  inf 82  U 68  mean_mid 0.5019
+N209768  W  11  inf 82  U 68  mean_mid 0.4568
+N209769  W   5  inf 82  U 68  mean_mid 0.4662
+K4 rank p (strict wins, high) 0.308; K4 rank p (mean mid-rank p, low = K4 high) 0.846
+LABEL NO-SIGNAL confirmed
+# K4 strict wins (statistic, K4, null max)
+   PA 31 0 one 215790 213451
+   PA 47 1 one 3 2
+   PA 49 0 strict 12 9
+   PA 51 0 strict 6946 6882
+   PA 51 1 one 245222 222530
+   PA 52 0 strict 124456 123147
+   PA 52 1 strict 124456 109271

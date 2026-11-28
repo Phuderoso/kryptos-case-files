@@ -1729,16 +1729,31 @@ controls / null model · rough cost · dependencies · status (`queued`, `in pro
 - **Date / source:** 2026-11-27, case 229 blind spots. **Test:** exact: K1–K3 plaintexts with word spaces restored as keys (cell 26 = space) through g1 (Z27) and g0; heuristic: 27-symbol n-gram score of the 24 implied cells. **Controls:** plants from spaced English, ≥ 12 nulls. **Cost:** seconds (`rk243.c` with a 27-letter text alphabet). **Deps:** a sourced word split of K1–K3. **Priority:** P3. **Status:** queued.
 
 ### I-407 — Tie-aware ranks for heuristic gates
-- **Date / source:** 2026-11-27, case 229 gate H (plant 17). **Test:** group lines with identical implied key letters into classes; re-score gate H by class rank; list the (Y, form) equivalences behind the tie. **Cost:** seconds on `data/cycle243/`. **Priority:** P3. **Status:** queued (`[method]`, 244 audit).
+- **Date / source:** 2026-11-27, case 229 gate H (plant 17). **Test:** group lines with identical implied key letters into classes; re-score gate H by class rank; list the (Y, form) equivalences behind the tie. **Cost:** seconds on `data/cycle243/`. **Priority:** P3. **Status:** **tested 2026-11-28** ([case 230](case-file/230-audit-informative-counts-one-error-testability-class-ranks.md) T4, credit Voynich C133): the tie is an exact Z27 identity — (g1, V, Y^R, M1) ≡ (g1, B, Y, M1) with X fixed (0 of 1,497,652 triples differ) and (g1, V, Y^R, M2) ≡ (g1, R, Y, M2) in S1; gate H by class **10/10** (post hoc); class rule registered for later Part H gates. Follow-up I-412.
 
 ### I-408 — Part H margin
-- **Date / source:** 2026-11-27, case 229 (Δ 0.094 between the weakest English-key plant and the best null). **Test:** ≥ 24 fresh nulls for the Hmax distribution; English-key ladder (plain prose, names, lists, K1–K3 style); registered Part H bar. **Cost:** ≈ 1 min. **Priority:** P3. **Status:** queued (`[method]`).
+- **Date / source:** 2026-11-27, case 229 (Δ 0.094 between the weakest English-key plant and the best null). **Test:** ≥ 24 fresh nulls for the Hmax distribution; English-key ladder (plain prose, names, lists, K1–K3 style); registered Part H bar. **Cost:** ≈ 1 min. **Priority:** P3. **Status:** **tested 2026-11-28** ([case 230](case-file/230-audit-informative-counts-one-error-testability-class-ranks.md) T5): 24 fresh nulls 209783–209806, pooled 36 max −4.8841 (unchanged) → **PH36 = −4.88413** registered; K4 rank p 0.622 (`NO-SIGNAL`); weakest plant margin still +0.094. The ladder part moves to I-411.
 
 ### I-409 — Named running keys in 27-cell groups behind a transposition
 - **Date / source:** 2026-11-27, case 229 blind spots. **Test:** case 33 layer orders A / B over the cycle-22 bank, 28 texts, anchors as `rk243.c`. **Cost:** minutes in C. **Priority:** P4. **Status:** queued.
 
 ### I-410 — Pointer for cycles 244–246
-- **Date / source:** 2026-11-27, cycle 243 (free slot). **244 audit** (parametric p where rank p floors — Voynich's question; I-394, I-395, I-396, S18 blind; I-407 / I-408); **245 new family** (I-375, I-336, I-387, I-404); 246 free. **Status:** queued (P1).
+- **Date / source:** 2026-11-27, cycle 243 (free slot). **244 audit** (parametric p where rank p floors — Voynich's question; I-394, I-395, I-396, S18 blind; I-407 / I-408); **245 new family** (I-375, I-336, I-387, I-404); 246 free. **Status:** **244 done** (audit, [case 230](case-file/230-audit-informative-counts-one-error-testability-class-ranks.md)); continued by I-415 (P1).
+
+### I-411 — Matched-size Part H gate (English-poor key ladder)
+- **Date / source:** 2026-11-28, cycle 244 (case 230 T5); design offered by Voynich (C132 note, 2026-11-27), credit. **Hypothesis / test:** Part H's power for keys that are names, lists or broken English is unknown; build a ladder of degraded-English running keys (fraction f of English letters, as case 226) with f chosen so mean plant Hmax sits at PH36 + δ; require ≥ 80 % caught above PH36. **Controls:** the 10 case-229 plants; 36 nulls. **Cost:** ≈ 1 min. **Deps:** I-408 (done). **Priority:** P3. **Status:** queued (`[method]`; Voynich may draft blind from `rk243` / `check243`).
+
+### I-412 — Reflection twins in config counts
+- **Date / source:** 2026-11-28, case 230 T4. 57,602 of alpha.bin's 86,731 alphabets have their reverse listed; in g1 the forms pair up (V↔B with X fixed, V↔R with X = Y). **Test:** report de-duplicated config-map counts for cases 228 / 229 (and any later 27-cell or Z26 family with the same symmetry: check whether Z26 Vigenère / Beaufort with reversed alphabets has the analogous identity); print class counts beside raw counts. **Cost:** seconds. **Priority:** P4. **Status:** queued (`[method]`, descriptive).
+
+### I-413 — One-error gates stratified on testable layouts
+- **Date / source:** 2026-11-28, case 230 T2 (C130 rule, credit Voynich). The direct layout has no majority seat for p ≥ 13; behind bank / all.bin 34–98 % of layouts do. **Rule (adopted):** every later one-error gate prints per plant the stratum (PENDANT / TIE / MAJ) and layout testability, draws ≥ 1 PENDANT and ≥ 1 TIE on testable layouts, and reads rows on untestable layouts `NOT TESTABLE`. **Test:** census for the other one-error families (gn217 model Q: all loops, C130; Gromark; columnar). **Priority:** P3. **Status:** rule adopted; census for other families queued.
+
+### I-414 — Boustrophedon grid with a 180° fold at position 48 (news)
+- **Date / source:** 2026-11-28 news check: S. Best, "Kryptos K4: The Raytracing Revision", Zenodo 24517833 v2 (2026-11-24): a grid described as "147" (presumably 14 × 7 = 98 cells; not checked), serpentine path and a half-turn fold at position 48, claimed to generate the first ciphertext letters from the plaintext, with one unlocated null. Related: glthr's W-rectangle half-turn (rows of 19, 2026-11-15). `[external claim]`, not verified. **Test:** check whether the stated route (with each single null position 0–96) is inside the bank / all.bin transpositions already searched; if not, run it as a transposition layer under the house substitution families (exact crib test). **Controls:** plants on the route. **Cost:** minutes. **Priority:** P4. **Status:** queued.
+
+### I-415 — Pointer for cycles 245–247
+- **Date / source:** 2026-11-28, cycle 244 (audit). **245 must be a new family** (I-375, I-336, I-387, I-404 keyed trifid); 246 free (I-393, I-400, I-406, I-411, I-414); 247 audit (I-394, I-395, I-396, S18 blind, I-412, I-413 census). **Status:** queued (P1).
 
 ### I-339 — High-period plant ladder for the w 11 chunks
 - **Date / source:** 2026-11-21, case 214 gate P (`[repo]`): 19 of 20 plants sat at p ≤ 16, so NC 20/20 says little about p 18, the only period the w 11 chunks cannot discriminate. **Test:** ≥ 10 plants at p 17–18 (half one-error), NC under tie = '?'; report found rate and NC pass rate with Wilson intervals. **Controls:** the case 214 plants. **Cost:** seconds per plant (one sub-slice each). **Status:** queued `[method]` (P3).

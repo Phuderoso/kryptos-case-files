@@ -1,0 +1,90 @@
+## case 215 (cycle 229) one-error plants: pid scope row dir p bad-seat | stratum n_c | layout (max n_c, #MAJ seats) | recovered, gate
+   1 bank 134048 1 p 22 seat  7 | PENDANT 1 | TESTABLE     (3, 9) | rec True, gate pass
+   3 all   29035 0 p 22 seat 17 | PENDANT 1 | TESTABLE     (3, 3) | rec True, gate pass
+   5 bank 124468 0 p 20 seat 19 | TIE     2 | TESTABLE     (3, 3) | rec True, gate pass
+   7 all   19856 0 p 21 seat 16 | PENDANT 1 | NOT TESTABLE (2, 0) | rec True, gate pass
+   9 bank  78338 1 p 19 seat  5 | TIE     2 | TESTABLE     (3, 3) | rec True, gate pass
+  11 all   35903 0 p 23 seat  1 | PENDANT 1 | NOT TESTABLE (2, 0) | rec True, gate pass
+  13 bank 120104 0 p 21 seat 13 | MAJ     3 | TESTABLE     (3, 3) | rec True, gate pass
+  15 all   36045 0 p 20 seat 16 | MAJ     3 | TESTABLE     (3, 9) | rec True, gate pass
+  17 bank 150207 1 p 21 seat  0 | PENDANT 1 | TESTABLE     (3, 9) | rec True, gate pass
+  19 all  153190 1 p 19 seat  5 | MAJ     3 | TESTABLE     (3, 12) | rec True, gate pass
+  21 bank 124801 1 p 22 seat  2 | TIE     2 | NOT TESTABLE (2, 0) | rec True, gate pass
+  23 all   68756 0 p 24 seat  7 | TIE     2 | NOT TESTABLE (2, 0) | rec True, gate pass
+  stratum MAJ     layout TESTABLE    : 3/3
+  stratum PENDANT layout NOT TESTABLE: 2/2
+  stratum PENDANT layout TESTABLE    : 3/3
+  stratum TIE     layout NOT TESTABLE: 2/2
+  stratum TIE     layout TESTABLE    : 2/2
+  pooled one-error 12/12; on TESTABLE layouts 8/8
+## case 218 (cycle 232) one-error plants: pid scope row dir p bad-seat | stratum n_c | layout (max n_c, #MAJ seats) | recovered, gate
+   1 bank 146886 0 p 23 seat  4 | TIE     2 | NOT TESTABLE (2, 0) | rec True, gate pass
+   3 all   16122 1 p 21 seat  4 | TIE     2 | TESTABLE     (3, 3) | rec True, gate pass
+   5 bank  92712 1 p 14 seat 19 | TIE     2 | TESTABLE     (4, 7) | rec True, gate pass
+   7 all   74180 1 p 21 seat 21 | TIE     2 | NOT TESTABLE (2, 0) | rec True, gate pass
+   9 bank 143788 1 p 21 seat  4 | PENDANT 1 | TESTABLE     (3, 3) | rec True, gate MISS
+  11 all   73962 1 p 23 seat 23 | TIE     2 | NOT TESTABLE (2, 0) | rec True, gate pass
+  13 bank 106659 1 p 16 seat  0 | PENDANT 1 | TESTABLE     (3, 3) | rec True, gate pass
+  15 all  119860 0 p 14 seat 11 | MAJ     3 | TESTABLE     (4, 13) | rec True, gate pass
+  17 bank  77931 0 p 17 seat  5 | TIE     2 | TESTABLE     (3, 3) | rec True, gate pass
+  19 all  141424 1 p 22 seat  2 | PENDANT 1 | NOT TESTABLE (2, 0) | rec True, gate pass
+  21 bank  16565 1 p 14 seat 16 | PENDANT 1 | TESTABLE     (4, 10) | rec True, gate pass
+  23 all   80185 0 p 11 seat 16 | MAJ     3 | TESTABLE     (3, 9) | rec True, gate pass
+  stratum MAJ     layout TESTABLE    : 2/2
+  stratum PENDANT layout NOT TESTABLE: 1/1
+  stratum PENDANT layout TESTABLE    : 2/3
+  stratum TIE     layout NOT TESTABLE: 3/3
+  stratum TIE     layout TESTABLE    : 3/3
+  pooled one-error 11/12; on TESTABLE layouts 7/8
+## census: fraction of layouts with >= 1 MAJ seat (n_c >= 3); mean #seats in classes of size 1 / 2 / >=3
+  direct layouts       1 p  8: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.00 /  6.00 / 18.00
+  direct layouts       1 p  9: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.00 /  6.00 / 18.00
+  direct layouts       1 p 10: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.00 / 14.00 / 10.00
+  direct layouts       1 p 11: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.00 / 18.00 /  6.00
+  direct layouts       1 p 12: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  1.00 / 20.00 /  3.00
+  direct layouts       1 p 13: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  2.00 / 22.00 /  0.00
+  direct layouts       1 p 14: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  2.00 / 22.00 /  0.00
+  direct layouts       1 p 15: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  6.00 / 18.00 /  0.00
+  direct layouts       1 p 16: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  8.00 / 16.00 /  0.00
+  direct layouts       1 p 17: MAJ-available 0.0000; seats in classes 1 / 2 / >=3: 10.00 / 14.00 /  0.00
+  direct layouts       1 p 18: MAJ-available 0.0000; seats in classes 1 / 2 / >=3: 10.00 / 14.00 /  0.00
+  direct layouts       1 p 19: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  6.00 / 18.00 /  0.00
+  direct layouts       1 p 20: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  2.00 / 22.00 /  0.00
+  direct layouts       1 p 21: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  2.00 / 22.00 /  0.00
+  direct layouts       1 p 22: MAJ-available 0.0000; seats in classes 1 / 2 / >=3:  6.00 / 18.00 /  0.00
+  direct layouts       1 p 23: MAJ-available 0.0000; seats in classes 1 / 2 / >=3: 10.00 / 14.00 /  0.00
+  direct layouts       1 p 24: MAJ-available 0.0000; seats in classes 1 / 2 / >=3: 14.00 / 10.00 /  0.00
+  bank   layouts  330130 p  8: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.87 /  2.59 / 20.54
+  bank   layouts  330130 p  9: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.91 /  5.62 / 17.48
+  bank   layouts  330130 p 10: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  1.43 /  7.11 / 15.46
+  bank   layouts  330130 p 11: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  2.01 /  9.58 / 12.41
+  bank   layouts  330130 p 12: MAJ-available 0.9978; seats in classes 1 / 2 / >=3:  2.38 /  4.84 / 16.78
+  bank   layouts  330130 p 13: MAJ-available 0.9799; seats in classes 1 / 2 / >=3:  3.88 / 10.68 /  9.44
+  bank   layouts  330130 p 14: MAJ-available 0.9104; seats in classes 1 / 2 / >=3:  4.14 / 10.66 /  9.20
+  bank   layouts  330130 p 15: MAJ-available 0.9226; seats in classes 1 / 2 / >=3:  5.22 / 10.96 /  7.82
+  bank   layouts  330130 p 16: MAJ-available 0.9072; seats in classes 1 / 2 / >=3:  4.51 /  8.98 / 10.51
+  bank   layouts  330130 p 17: MAJ-available 0.8407; seats in classes 1 / 2 / >=3:  6.21 / 12.01 /  5.78
+  bank   layouts  330130 p 18: MAJ-available 0.7969; seats in classes 1 / 2 / >=3:  6.12 /  9.31 /  8.57
+  bank   layouts  330130 p 19: MAJ-available 0.6258; seats in classes 1 / 2 / >=3:  7.99 / 12.04 /  3.97
+  bank   layouts  330130 p 20: MAJ-available 0.7370; seats in classes 1 / 2 / >=3:  6.88 / 11.80 /  5.33
+  bank   layouts  330130 p 21: MAJ-available 0.5971; seats in classes 1 / 2 / >=3:  9.10 / 11.17 /  3.73
+  bank   layouts  330130 p 22: MAJ-available 0.3849; seats in classes 1 / 2 / >=3:  9.97 / 11.72 /  2.31
+  bank   layouts  330130 p 23: MAJ-available 0.4318; seats in classes 1 / 2 / >=3: 11.55 / 10.00 /  2.45
+  bank   layouts  330130 p 24: MAJ-available 0.7598; seats in classes 1 / 2 / >=3:  6.86 /  6.51 / 10.63
+  all    layouts  331564 p  8: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.48 /  3.54 / 19.98
+  all    layouts  331564 p  9: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  0.90 /  5.25 / 17.86
+  all    layouts  331564 p 10: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  1.27 /  7.04 / 15.70
+  all    layouts  331564 p 11: MAJ-available 1.0000; seats in classes 1 / 2 / >=3:  1.77 /  8.58 / 13.65
+  all    layouts  331564 p 12: MAJ-available 0.9963; seats in classes 1 / 2 / >=3:  2.51 /  9.92 / 11.58
+  all    layouts  331564 p 13: MAJ-available 0.9526; seats in classes 1 / 2 / >=3:  3.12 / 10.23 / 10.65
+  all    layouts  331564 p 14: MAJ-available 0.8405; seats in classes 1 / 2 / >=3:  3.86 / 11.88 /  8.26
+  all    layouts  331564 p 15: MAJ-available 0.8466; seats in classes 1 / 2 / >=3:  4.45 / 11.31 /  8.24
+  all    layouts  331564 p 16: MAJ-available 0.7477; seats in classes 1 / 2 / >=3:  5.52 / 11.76 /  6.72
+  all    layouts  331564 p 17: MAJ-available 0.7306; seats in classes 1 / 2 / >=3:  5.87 / 11.49 /  6.64
+  all    layouts  331564 p 18: MAJ-available 0.6679; seats in classes 1 / 2 / >=3:  6.71 / 11.56 /  5.73
+  all    layouts  331564 p 19: MAJ-available 0.6118; seats in classes 1 / 2 / >=3:  7.27 / 11.55 /  5.18
+  all    layouts  331564 p 20: MAJ-available 0.5304; seats in classes 1 / 2 / >=3:  7.92 / 11.61 /  4.47
+  all    layouts  331564 p 21: MAJ-available 0.5143; seats in classes 1 / 2 / >=3:  8.47 / 11.46 /  4.06
+  all    layouts  331564 p 22: MAJ-available 0.4711; seats in classes 1 / 2 / >=3:  9.31 / 10.97 /  3.72
+  all    layouts  331564 p 23: MAJ-available 0.4554; seats in classes 1 / 2 / >=3:  9.67 / 10.57 /  3.76
+  all    layouts  331564 p 24: MAJ-available 0.3443; seats in classes 1 / 2 / >=3: 10.88 / 10.29 /  2.83

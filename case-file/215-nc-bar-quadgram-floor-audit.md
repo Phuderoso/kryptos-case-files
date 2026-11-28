@@ -120,3 +120,6 @@ level) is still a choice, not a law.
 No solution. Raising the floor would not have fixed the bar: the nulls that pass do so at 12–19 quadgrams, through sheer search
 volume. The bar stays as it is, and its weakness is now measured: about one null text in four in a large family. **K4 still
 standing.**
+
+## Addendum (cycle 244, [case 230](230-audit-informative-counts-one-error-testability-class-ranks.md) T2; credit Voynich C130)
+One-error plants by the class of their wrong crib seat (key class S[POS[j]] mod p on the plant's own layout): 5 PENDANT (1, 3, 7, 11, 17), 4 TIE (5, 9, 21, 23), 3 MAJ (13, 15, 19). Plants **7, 11, 21, 23** sit on layouts with no class of size ≥ 3 at their period, so their rows read **`NOT TESTABLE`** for one-error correction (an error there is invisible or blanks a class; it cannot be outvoted). Pooled one-error 12/12; on testable layouts 8/8. Gate P0's verdict does not rest on those rows (20/20 without them). `data/cycle244/seat244.txt`.

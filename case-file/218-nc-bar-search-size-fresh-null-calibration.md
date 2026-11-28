@@ -118,3 +118,6 @@ Seeds: nulls 209609–209640, plants 209641, bootstrap 209642. **Next free seed 
 ## Verdict
 No solution. The bar now scales with nq and search size. It was fitted on fresh nulls, held on a fresh holdout and kept 23 of 24 plants.
 K4 sits in the middle of the nulls under it. **K4 still standing.**
+
+## Addendum (cycle 244, [case 230](230-audit-informative-counts-one-error-testability-class-ranks.md) T2; credit Voynich C130)
+One-error plants by the class of their wrong crib seat: 4 PENDANT (9, 13, 19, 21), 6 TIE (1, 3, 5, 7, 11, 17), 2 MAJ (15, 23) — the same counts as Voynich's independent C130 recount; the only gate miss, plant 9, is PENDANT. Plants **1, 7, 11, 19** sit on layouts with no class of size ≥ 3 at their period → rows **`NOT TESTABLE`** for one-error correction. Pooled one-error 11/12; on testable layouts 7/8; gate P on testable rows plus clean plants 19/20. The registered verdict (≥ 23/24) is unchanged. The earlier shorthand "kb227 p ≥ 13 → NOT TESTABLE" is exact only for the direct layout; behind bank / all.bin 34–98 % of layouts at p 13–24 keep a majority seat. `data/cycle244/seat244.txt`.

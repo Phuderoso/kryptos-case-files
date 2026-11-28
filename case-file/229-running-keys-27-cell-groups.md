@@ -41,3 +41,7 @@ Plain alphabet X, cipher alphabet Y, cell = index (0–25), cell 26 = the extra 
 
 ## Labels
 Part E `EXACT-EXCL` (within the stated model). Part H `NO-SIGNAL` (powered 9/10, narrow margin). Anchor depth: descriptive, chance. Compute: 19 s wall for all 33 texts × 4 scopes (setsid, timeout 480).
+
+## Addendum (cycle 244, [case 230](230-audit-informative-counts-one-error-testability-class-ranks.md) T4 / T5; credit Voynich C132 / C133)
+- **The plant-17 tie is an identity.** In Z27 with key letters read through Y and X fixed, (g1, V, Y^R, M1) ≡ (g1, B, Y, M1), where Y^R is the reversed alphabet (alpha.bin row Y + 2 for 21,985 pairs). Brute force: 0 of 1,497,652 (text, X, Y) triples differ. A second identity, (g1, V, Y^R, M2) ≡ (g1, R, Y, M2) in S1, explains plant 13's top-class twin. **By equivalence class (identical 24 implied letters), gate H is 10/10** (post hoc here; the class rule is registered for later Part H gates). Part E survivors would come in the same twins; K4 had none.
+- **I-408:** 24 fresh nulls (209783–209806) do not raise the null maximum: pooled 36 max −4.8841 (fresh max −4.9139). K4 rank p 0.622 among 36 (z −0.33). The weakest English-key plant still clears the pooled max by only +0.094; PH36 = −4.88413 is the registered Part H bar.

@@ -1,0 +1,22 @@
+(a) alpha.bin: 86731 rows, 57602 rows whose reverse is listed (43970 of them at distance 2: 21985 with the reverse at +2, 21985 at -2; palindromes impossible); themed144: 0 rows whose reverse is listed
+(b) g1 V(Y^R) vs B(Y), M1 [identity]: 0 of 1497652 (text, X, Y) triples differ
+(b) g1 B(Y^R) vs V(Y), M1 [identity]: 0 of 1497652 (text, X, Y) triples differ
+(b) g0 V(Y^R) vs B(Y), M1: 1497652 of 1497652 (text, X, Y) triples differ
+(b) g1 V(Y^R) vs B(Y), M0: 1497652 of 1497652 (text, X, Y) triples differ
+(b) g1 R(Y^R) vs R(Y), M1: 1497652 of 1497652 (text, X, Y) triples differ
+(b) S1 g1 V(Y^R) vs R(Y), M2 [identity] (every 12th pair): 0 of 62413 differ
+(b) S1 g1 R(Y^R) vs V(Y), M2 [identity] (every 12th pair): 0 of 62413 differ
+(b) S1 g1 V(Y^R) vs R(Y), M1 (every 12th pair): 62413 of 62413 differ
+(b) S1 g0 V(Y^R) vs R(Y), M2 (every 12th pair): 62413 of 62413 differ
+(b) S1 g1 V(Y^R) vs B(Y), M1 (every 12th pair): 62413 of 62413 differ
+(c) plant 10: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 11: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 12: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 13: line rank 1, class rank 1, top class size 2 PASS  members [('S1', 1, 1, 7343, 7343, 2), ('S1', 1, 0, 7345, 7345, 2)]
+(c) plant 14: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 15: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 16: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 17: line rank 2, class rank 1, top class size 2 PASS  members [('S3b', 1, 2, 0, 53155, 1), ('S3b', 1, 0, 0, 53157, 1)]
+(c) plant 18: line rank 1, class rank 1, top class size 1 PASS
+(c) plant 19: line rank 1, class rank 1, top class size 1 PASS
+(c) gate H by class: 10/10 (post hoc for case 229; registered for later Part H gates)
